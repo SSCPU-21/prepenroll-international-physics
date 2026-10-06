@@ -12,10 +12,12 @@
       "5.02 A",
       "2.51 A",
       "10.05 A",
-      "6.28 A"
+      "6.28 A",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "I=V/R."
+    "explanation": "I=V/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-002",
@@ -30,10 +32,12 @@
       "0.6112 Ω",
       "2.44 Ω",
       "1.53 Ω",
-      "1.22 Ω"
+      "1.22 Ω",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Req=R1R2/(R1+R2)."
+    "explanation": "Req=R1R2/(R1+R2).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-003",
@@ -48,10 +52,12 @@
       "37.33 W",
       "23.33 W",
       "18.67 W",
-      "9.33 W"
+      "9.33 W",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "P=VI."
+    "explanation": "P=VI.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-004",
@@ -66,10 +72,12 @@
       "6.31 A",
       "5.05 A",
       "2.52 A",
-      "10.1 A"
+      "10.1 A",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "I=V/R."
+    "explanation": "I=V/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-005",
@@ -84,10 +92,12 @@
       "1.24 Ω",
       "0.6224 Ω",
       "2.49 Ω",
-      "1.56 Ω"
+      "1.56 Ω",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Req=R1R2/(R1+R2)."
+    "explanation": "Req=R1R2/(R1+R2).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-006",
@@ -102,10 +112,12 @@
       "9.67 W",
       "38.69 W",
       "24.18 W",
-      "19.34 W"
+      "19.34 W",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "P=VI."
+    "explanation": "P=VI.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-007",
@@ -120,10 +132,12 @@
       "10.14 A",
       "6.34 A",
       "5.07 A",
-      "2.53 A"
+      "2.53 A",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "I=V/R."
+    "explanation": "I=V/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-008",
@@ -138,10 +152,12 @@
       "1.58 Ω",
       "1.27 Ω",
       "0.6336 Ω",
-      "2.53 Ω"
+      "2.53 Ω",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Req=R1R2/(R1+R2)."
+    "explanation": "Req=R1R2/(R1+R2).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-009",
@@ -156,10 +172,12 @@
       "20.03 W",
       "10.02 W",
       "40.07 W",
-      "25.04 W"
+      "25.04 W",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "P=VI."
+    "explanation": "P=VI.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-010",
@@ -174,10 +192,12 @@
       "2.55 A",
       "10.18 A",
       "6.36 A",
-      "5.09 A"
+      "5.09 A",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "I=V/R."
+    "explanation": "I=V/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-011",
@@ -192,10 +212,12 @@
       "2.58 Ω",
       "1.61 Ω",
       "1.29 Ω",
-      "0.6448 Ω"
+      "0.6448 Ω",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Req=R1R2/(R1+R2)."
+    "explanation": "Req=R1R2/(R1+R2).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-012",
@@ -210,10 +232,12 @@
       "25.92 W",
       "20.74 W",
       "10.37 W",
-      "41.47 W"
+      "41.47 W",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "P=VI."
+    "explanation": "P=VI.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-013",
@@ -228,10 +252,12 @@
       "5.11 A",
       "2.56 A",
       "10.22 A",
-      "6.39 A"
+      "6.39 A",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "I=V/R."
+    "explanation": "I=V/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-014",
@@ -246,10 +272,12 @@
       "0.656 Ω",
       "2.62 Ω",
       "1.64 Ω",
-      "1.31 Ω"
+      "1.31 Ω",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Req=R1R2/(R1+R2)."
+    "explanation": "Req=R1R2/(R1+R2).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-015",
@@ -264,10 +292,12 @@
       "42.9 W",
       "26.81 W",
       "21.45 W",
-      "10.72 W"
+      "10.72 W",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "P=VI."
+    "explanation": "P=VI.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-016",
@@ -282,10 +312,12 @@
       "6.41 A",
       "5.13 A",
       "2.57 A",
-      "10.26 A"
+      "10.26 A",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "I=V/R."
+    "explanation": "I=V/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-017",
@@ -300,10 +332,12 @@
       "1.33 Ω",
       "0.6671 Ω",
       "2.67 Ω",
-      "1.67 Ω"
+      "1.67 Ω",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Req=R1R2/(R1+R2)."
+    "explanation": "Req=R1R2/(R1+R2).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-018",
@@ -318,10 +352,12 @@
       "11.09 W",
       "44.35 W",
       "27.72 W",
-      "22.18 W"
+      "22.18 W",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "P=VI."
+    "explanation": "P=VI.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-019",
@@ -336,10 +372,12 @@
       "10.3 A",
       "6.44 A",
       "5.15 A",
-      "2.57 A"
+      "2.57 A",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "I=V/R."
+    "explanation": "I=V/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-020",
@@ -354,10 +392,12 @@
       "1.7 Ω",
       "1.36 Ω",
       "0.6783 Ω",
-      "2.71 Ω"
+      "2.71 Ω",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Req=R1R2/(R1+R2)."
+    "explanation": "Req=R1R2/(R1+R2).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-021",
@@ -372,10 +412,12 @@
       "22.91 W",
       "11.46 W",
       "45.83 W",
-      "28.64 W"
+      "28.64 W",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "P=VI."
+    "explanation": "P=VI.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-022",
@@ -390,10 +432,12 @@
       "2.58 A",
       "10.33 A",
       "6.46 A",
-      "5.17 A"
+      "5.17 A",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "I=V/R."
+    "explanation": "I=V/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-023",
@@ -408,10 +452,12 @@
       "2.76 Ω",
       "1.72 Ω",
       "1.38 Ω",
-      "0.6895 Ω"
+      "0.6895 Ω",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Req=R1R2/(R1+R2)."
+    "explanation": "Req=R1R2/(R1+R2).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-024",
@@ -426,10 +472,12 @@
       "29.58 W",
       "23.66 W",
       "11.83 W",
-      "47.33 W"
+      "47.33 W",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "P=VI."
+    "explanation": "P=VI.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-025",
@@ -444,10 +492,12 @@
       "5.18 A",
       "2.59 A",
       "10.37 A",
-      "6.48 A"
+      "6.48 A",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "I=V/R."
+    "explanation": "I=V/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-026",
@@ -462,10 +512,12 @@
       "0.7007 Ω",
       "2.8 Ω",
       "1.75 Ω",
-      "1.4 Ω"
+      "1.4 Ω",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Req=R1R2/(R1+R2)."
+    "explanation": "Req=R1R2/(R1+R2).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-027",
@@ -480,10 +532,12 @@
       "48.85 W",
       "30.53 W",
       "24.43 W",
-      "12.21 W"
+      "12.21 W",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "P=VI."
+    "explanation": "P=VI.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-028",
@@ -498,10 +552,12 @@
       "6.5 A",
       "5.2 A",
       "2.6 A",
-      "10.4 A"
+      "10.4 A",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "I=V/R."
+    "explanation": "I=V/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-029",
@@ -516,10 +572,12 @@
       "1.42 Ω",
       "0.7119 Ω",
       "2.85 Ω",
-      "1.78 Ω"
+      "1.78 Ω",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Req=R1R2/(R1+R2)."
+    "explanation": "Req=R1R2/(R1+R2).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-030",
@@ -534,10 +592,12 @@
       "12.6 W",
       "50.4 W",
       "31.5 W",
-      "25.2 W"
+      "25.2 W",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "P=VI."
+    "explanation": "P=VI.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-031",
@@ -552,10 +612,12 @@
       "10.43 A",
       "6.52 A",
       "5.22 A",
-      "2.61 A"
+      "2.61 A",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "I=V/R."
+    "explanation": "I=V/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-032",
@@ -570,10 +632,12 @@
       "1.81 Ω",
       "1.45 Ω",
       "0.723 Ω",
-      "2.89 Ω"
+      "2.89 Ω",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Req=R1R2/(R1+R2)."
+    "explanation": "Req=R1R2/(R1+R2).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-033",
@@ -588,10 +652,12 @@
       "25.99 W",
       "12.99 W",
       "51.97 W",
-      "32.48 W"
+      "32.48 W",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "P=VI."
+    "explanation": "P=VI.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-034",
@@ -606,10 +672,12 @@
       "2.62 A",
       "10.46 A",
       "6.54 A",
-      "5.23 A"
+      "5.23 A",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "I=V/R."
+    "explanation": "I=V/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-035",
@@ -624,10 +692,12 @@
       "2.94 Ω",
       "1.84 Ω",
       "1.47 Ω",
-      "0.7342 Ω"
+      "0.7342 Ω",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Req=R1R2/(R1+R2)."
+    "explanation": "Req=R1R2/(R1+R2).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-036",
@@ -642,10 +712,12 @@
       "33.48 W",
       "26.78 W",
       "13.39 W",
-      "53.57 W"
+      "53.57 W",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "P=VI."
+    "explanation": "P=VI.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-037",
@@ -660,10 +732,12 @@
       "5.25 A",
       "2.62 A",
       "10.49 A",
-      "6.56 A"
+      "6.56 A",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "I=V/R."
+    "explanation": "I=V/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-038",
@@ -678,10 +752,12 @@
       "0.7454 Ω",
       "2.98 Ω",
       "1.86 Ω",
-      "1.49 Ω"
+      "1.49 Ω",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Req=R1R2/(R1+R2)."
+    "explanation": "Req=R1R2/(R1+R2).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-039",
@@ -696,10 +772,12 @@
       "55.19 W",
       "34.49 W",
       "27.59 W",
-      "13.8 W"
+      "13.8 W",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "P=VI."
+    "explanation": "P=VI.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-040",
@@ -714,10 +792,12 @@
       "6.57 A",
       "5.26 A",
       "2.63 A",
-      "10.52 A"
+      "10.52 A",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "I=V/R."
+    "explanation": "I=V/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-041",
@@ -732,10 +812,12 @@
       "1.51 Ω",
       "0.7565 Ω",
       "3.03 Ω",
-      "1.89 Ω"
+      "1.89 Ω",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Req=R1R2/(R1+R2)."
+    "explanation": "Req=R1R2/(R1+R2).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-042",
@@ -750,10 +832,12 @@
       "14.21 W",
       "56.83 W",
       "35.52 W",
-      "28.42 W"
+      "28.42 W",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "P=VI."
+    "explanation": "P=VI.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-043",
@@ -768,10 +852,12 @@
       "10.55 A",
       "6.59 A",
       "5.27 A",
-      "2.64 A"
+      "2.64 A",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "I=V/R."
+    "explanation": "I=V/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-044",
@@ -786,10 +872,12 @@
       "1.92 Ω",
       "1.54 Ω",
       "0.7677 Ω",
-      "3.07 Ω"
+      "3.07 Ω",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Req=R1R2/(R1+R2)."
+    "explanation": "Req=R1R2/(R1+R2).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-045",
@@ -804,10 +892,12 @@
       "29.25 W",
       "14.63 W",
       "58.5 W",
-      "36.56 W"
+      "36.56 W",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "P=VI."
+    "explanation": "P=VI.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-046",
@@ -822,10 +912,12 @@
       "2.64 A",
       "10.57 A",
       "6.61 A",
-      "5.29 A"
+      "5.29 A",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "I=V/R."
+    "explanation": "I=V/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-047",
@@ -840,10 +932,12 @@
       "3.12 Ω",
       "1.95 Ω",
       "1.56 Ω",
-      "0.7789 Ω"
+      "0.7789 Ω",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Req=R1R2/(R1+R2)."
+    "explanation": "Req=R1R2/(R1+R2).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-048",
@@ -858,10 +952,12 @@
       "37.62 W",
       "30.1 W",
       "15.05 W",
-      "60.19 W"
+      "60.19 W",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "P=VI."
+    "explanation": "P=VI.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-049",
@@ -876,10 +972,12 @@
       "5.3 A",
       "2.65 A",
       "10.6 A",
-      "6.62 A"
+      "6.62 A",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "I=V/R."
+    "explanation": "I=V/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-050",
@@ -894,10 +992,12 @@
       "0.79 Ω",
       "3.16 Ω",
       "1.98 Ω",
-      "1.58 Ω"
+      "1.58 Ω",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Req=R1R2/(R1+R2)."
+    "explanation": "Req=R1R2/(R1+R2).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-051",
@@ -912,10 +1012,12 @@
       "61.91 W",
       "38.69 W",
       "30.95 W",
-      "15.48 W"
+      "15.48 W",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "P=VI."
+    "explanation": "P=VI.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-052",
@@ -930,10 +1032,12 @@
       "6.64 A",
       "5.31 A",
       "2.66 A",
-      "10.62 A"
+      "10.62 A",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "I=V/R."
+    "explanation": "I=V/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-053",
@@ -948,10 +1052,12 @@
       "1.6 Ω",
       "0.8012 Ω",
       "3.2 Ω",
-      "2 Ω"
+      "2 Ω",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Req=R1R2/(R1+R2)."
+    "explanation": "Req=R1R2/(R1+R2).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-054",
@@ -966,10 +1072,12 @@
       "15.91 W",
       "63.65 W",
       "39.78 W",
-      "31.82 W"
+      "31.82 W",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "P=VI."
+    "explanation": "P=VI.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-055",
@@ -984,10 +1092,12 @@
       "10.64 A",
       "6.65 A",
       "5.32 A",
-      "2.66 A"
+      "2.66 A",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "I=V/R."
+    "explanation": "I=V/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-056",
@@ -1002,10 +1112,12 @@
       "2.03 Ω",
       "1.62 Ω",
       "0.8124 Ω",
-      "3.25 Ω"
+      "3.25 Ω",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Req=R1R2/(R1+R2)."
+    "explanation": "Req=R1R2/(R1+R2).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-057",
@@ -1020,10 +1132,12 @@
       "32.71 W",
       "16.35 W",
       "65.41 W",
-      "40.88 W"
+      "40.88 W",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "P=VI."
+    "explanation": "P=VI.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-058",
@@ -1038,10 +1152,12 @@
       "2.67 A",
       "10.67 A",
       "6.67 A",
-      "5.33 A"
+      "5.33 A",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "I=V/R."
+    "explanation": "I=V/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-059",
@@ -1056,10 +1172,12 @@
       "3.29 Ω",
       "2.06 Ω",
       "1.65 Ω",
-      "0.8235 Ω"
+      "0.8235 Ω",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Req=R1R2/(R1+R2)."
+    "explanation": "Req=R1R2/(R1+R2).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-060",
@@ -1074,10 +1192,12 @@
       "42 W",
       "33.6 W",
       "16.8 W",
-      "67.2 W"
+      "67.2 W",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "P=VI."
+    "explanation": "P=VI.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-061",
@@ -1092,10 +1212,12 @@
       "5.34 A",
       "2.67 A",
       "10.69 A",
-      "6.68 A"
+      "6.68 A",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "I=V/R."
+    "explanation": "I=V/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-062",
@@ -1110,10 +1232,12 @@
       "0.8347 Ω",
       "3.34 Ω",
       "2.09 Ω",
-      "1.67 Ω"
+      "1.67 Ω",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Req=R1R2/(R1+R2)."
+    "explanation": "Req=R1R2/(R1+R2).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-063",
@@ -1128,10 +1252,12 @@
       "69.01 W",
       "43.13 W",
       "34.51 W",
-      "17.25 W"
+      "17.25 W",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "P=VI."
+    "explanation": "P=VI.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-064",
@@ -1146,10 +1272,12 @@
       "6.69 A",
       "5.35 A",
       "2.68 A",
-      "10.71 A"
+      "10.71 A",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "I=V/R."
+    "explanation": "I=V/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-065",
@@ -1164,10 +1292,12 @@
       "1.69 Ω",
       "0.8458 Ω",
       "3.38 Ω",
-      "2.11 Ω"
+      "2.11 Ω",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Req=R1R2/(R1+R2)."
+    "explanation": "Req=R1R2/(R1+R2).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-066",
@@ -1182,10 +1312,12 @@
       "17.71 W",
       "70.85 W",
       "44.28 W",
-      "35.42 W"
+      "35.42 W",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "P=VI."
+    "explanation": "P=VI.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-067",
@@ -1200,10 +1332,12 @@
       "10.73 A",
       "6.71 A",
       "5.37 A",
-      "2.68 A"
+      "2.68 A",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "I=V/R."
+    "explanation": "I=V/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-068",
@@ -1218,10 +1352,12 @@
       "2.14 Ω",
       "1.71 Ω",
       "0.857 Ω",
-      "3.43 Ω"
+      "3.43 Ω",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Req=R1R2/(R1+R2)."
+    "explanation": "Req=R1R2/(R1+R2).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-069",
@@ -1236,10 +1372,12 @@
       "36.35 W",
       "18.18 W",
       "72.71 W",
-      "45.44 W"
+      "45.44 W",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "P=VI."
+    "explanation": "P=VI.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-070",
@@ -1254,10 +1392,12 @@
       "2.69 A",
       "10.75 A",
       "6.72 A",
-      "5.37 A"
+      "5.37 A",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "I=V/R."
+    "explanation": "I=V/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-071",
@@ -1272,10 +1412,12 @@
       "3.47 Ω",
       "2.17 Ω",
       "1.74 Ω",
-      "0.8682 Ω"
+      "0.8682 Ω",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Req=R1R2/(R1+R2)."
+    "explanation": "Req=R1R2/(R1+R2).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-072",
@@ -1290,10 +1432,12 @@
       "46.62 W",
       "37.3 W",
       "18.65 W",
-      "74.59 W"
+      "74.59 W",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "P=VI."
+    "explanation": "P=VI.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-073",
@@ -1308,10 +1452,12 @@
       "5.38 A",
       "2.69 A",
       "10.77 A",
-      "6.73 A"
+      "6.73 A",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "I=V/R."
+    "explanation": "I=V/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-074",
@@ -1326,10 +1472,12 @@
       "0.8793 Ω",
       "3.52 Ω",
       "2.2 Ω",
-      "1.76 Ω"
+      "1.76 Ω",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Req=R1R2/(R1+R2)."
+    "explanation": "Req=R1R2/(R1+R2).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-075",
@@ -1344,10 +1492,12 @@
       "76.5 W",
       "47.81 W",
       "38.25 W",
-      "19.13 W"
+      "19.13 W",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "P=VI."
+    "explanation": "P=VI.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-076",
@@ -1362,10 +1512,12 @@
       "6.74 A",
       "5.39 A",
       "2.7 A",
-      "10.79 A"
+      "10.79 A",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "I=V/R."
+    "explanation": "I=V/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-077",
@@ -1380,10 +1532,12 @@
       "1.78 Ω",
       "0.8905 Ω",
       "3.56 Ω",
-      "2.23 Ω"
+      "2.23 Ω",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Req=R1R2/(R1+R2)."
+    "explanation": "Req=R1R2/(R1+R2).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-078",
@@ -1398,10 +1552,12 @@
       "19.61 W",
       "78.43 W",
       "49.02 W",
-      "39.22 W"
+      "39.22 W",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "P=VI."
+    "explanation": "P=VI.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-079",
@@ -1416,10 +1572,12 @@
       "10.81 A",
       "6.75 A",
       "5.4 A",
-      "2.7 A"
+      "2.7 A",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "I=V/R."
+    "explanation": "I=V/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-080",
@@ -1434,10 +1592,12 @@
       "2.25 Ω",
       "1.8 Ω",
       "0.9016 Ω",
-      "3.61 Ω"
+      "3.61 Ω",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Req=R1R2/(R1+R2)."
+    "explanation": "Req=R1R2/(R1+R2).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-081",
@@ -1452,10 +1612,12 @@
       "40.19 W",
       "20.1 W",
       "80.39 W",
-      "50.24 W"
+      "50.24 W",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "P=VI."
+    "explanation": "P=VI.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-082",
@@ -1470,10 +1632,12 @@
       "2.71 A",
       "10.82 A",
       "6.76 A",
-      "5.41 A"
+      "5.41 A",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "I=V/R."
+    "explanation": "I=V/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-083",
@@ -1488,10 +1652,12 @@
       "3.65 Ω",
       "2.28 Ω",
       "1.83 Ω",
-      "0.9128 Ω"
+      "0.9128 Ω",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Req=R1R2/(R1+R2)."
+    "explanation": "Req=R1R2/(R1+R2).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-084",
@@ -1506,10 +1672,12 @@
       "51.48 W",
       "41.18 W",
       "20.59 W",
-      "82.37 W"
+      "82.37 W",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "P=VI."
+    "explanation": "P=VI.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-085",
@@ -1524,10 +1692,12 @@
       "5.42 A",
       "2.71 A",
       "10.84 A",
-      "6.78 A"
+      "6.78 A",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "I=V/R."
+    "explanation": "I=V/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-086",
@@ -1542,10 +1712,12 @@
       "0.9239 Ω",
       "3.7 Ω",
       "2.31 Ω",
-      "1.85 Ω"
+      "1.85 Ω",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Req=R1R2/(R1+R2)."
+    "explanation": "Req=R1R2/(R1+R2).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-087",
@@ -1560,10 +1732,12 @@
       "84.37 W",
       "52.73 W",
       "42.19 W",
-      "21.09 W"
+      "21.09 W",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "P=VI."
+    "explanation": "P=VI.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-088",
@@ -1578,10 +1752,12 @@
       "6.79 A",
       "5.43 A",
       "2.71 A",
-      "10.86 A"
+      "10.86 A",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "I=V/R."
+    "explanation": "I=V/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-089",
@@ -1596,10 +1772,12 @@
       "1.87 Ω",
       "0.9351 Ω",
       "3.74 Ω",
-      "2.34 Ω"
+      "2.34 Ω",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Req=R1R2/(R1+R2)."
+    "explanation": "Req=R1R2/(R1+R2).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-090",
@@ -1614,10 +1792,12 @@
       "21.6 W",
       "86.4 W",
       "54 W",
-      "43.2 W"
+      "43.2 W",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "P=VI."
+    "explanation": "P=VI.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-091",
@@ -1632,10 +1812,12 @@
       "10.87 A",
       "6.8 A",
       "5.44 A",
-      "2.72 A"
+      "2.72 A",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "I=V/R."
+    "explanation": "I=V/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-092",
@@ -1650,10 +1832,12 @@
       "2.37 Ω",
       "1.89 Ω",
       "0.9462 Ω",
-      "3.78 Ω"
+      "3.78 Ω",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Req=R1R2/(R1+R2)."
+    "explanation": "Req=R1R2/(R1+R2).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-093",
@@ -1668,10 +1852,12 @@
       "44.23 W",
       "22.11 W",
       "88.45 W",
-      "55.28 W"
+      "55.28 W",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "P=VI."
+    "explanation": "P=VI.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-094",
@@ -1686,10 +1872,12 @@
       "2.72 A",
       "10.89 A",
       "6.81 A",
-      "5.44 A"
+      "5.44 A",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "I=V/R."
+    "explanation": "I=V/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-095",
@@ -1704,10 +1892,12 @@
       "3.83 Ω",
       "2.39 Ω",
       "1.91 Ω",
-      "0.9574 Ω"
+      "0.9574 Ω",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Req=R1R2/(R1+R2)."
+    "explanation": "Req=R1R2/(R1+R2).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-096",
@@ -1722,10 +1912,12 @@
       "56.58 W",
       "45.26 W",
       "22.63 W",
-      "90.53 W"
+      "90.53 W",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "P=VI."
+    "explanation": "P=VI.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-097",
@@ -1740,10 +1932,12 @@
       "5.45 A",
       "2.73 A",
       "10.9 A",
-      "6.82 A"
+      "6.82 A",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "I=V/R."
+    "explanation": "I=V/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-098",
@@ -1758,10 +1952,12 @@
       "0.9685 Ω",
       "3.87 Ω",
       "2.42 Ω",
-      "1.94 Ω"
+      "1.94 Ω",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Req=R1R2/(R1+R2)."
+    "explanation": "Req=R1R2/(R1+R2).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-099",
@@ -1776,10 +1972,12 @@
       "92.63 W",
       "57.89 W",
       "46.31 W",
-      "23.16 W"
+      "23.16 W",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "P=VI."
+    "explanation": "P=VI.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-100",
@@ -1794,10 +1992,12 @@
       "6.82 A",
       "5.46 A",
       "2.73 A",
-      "10.92 A"
+      "10.92 A",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "I=V/R."
+    "explanation": "I=V/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-101",
@@ -1812,10 +2012,12 @@
       "1.96 Ω",
       "0.9797 Ω",
       "3.92 Ω",
-      "2.45 Ω"
+      "2.45 Ω",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Req=R1R2/(R1+R2)."
+    "explanation": "Req=R1R2/(R1+R2).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-102",
@@ -1830,10 +2032,12 @@
       "23.69 W",
       "94.75 W",
       "59.22 W",
-      "47.38 W"
+      "47.38 W",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "P=VI."
+    "explanation": "P=VI.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-103",
@@ -1848,10 +2052,12 @@
       "10.93 A",
       "6.83 A",
       "5.47 A",
-      "2.73 A"
+      "2.73 A",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "I=V/R."
+    "explanation": "I=V/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-104",
@@ -1866,10 +2072,12 @@
       "2.48 Ω",
       "1.98 Ω",
       "0.9908 Ω",
-      "3.96 Ω"
+      "3.96 Ω",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Req=R1R2/(R1+R2)."
+    "explanation": "Req=R1R2/(R1+R2).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-105",
@@ -1884,10 +2092,12 @@
       "48.45 W",
       "24.22 W",
       "96.9 W",
-      "60.56 W"
+      "60.56 W",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "P=VI."
+    "explanation": "P=VI.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-106",
@@ -1902,10 +2112,12 @@
       "2.74 A",
       "10.95 A",
       "6.84 A",
-      "5.47 A"
+      "5.47 A",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "I=V/R."
+    "explanation": "I=V/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-107",
@@ -1920,10 +2132,12 @@
       "4.01 Ω",
       "2.5 Ω",
       "2 Ω",
-      "1 Ω"
+      "1 Ω",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Req=R1R2/(R1+R2)."
+    "explanation": "Req=R1R2/(R1+R2).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-108",
@@ -1938,10 +2152,12 @@
       "61.92 W",
       "49.54 W",
       "24.77 W",
-      "99.07 W"
+      "99.07 W",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "P=VI."
+    "explanation": "P=VI.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-109",
@@ -1956,10 +2172,12 @@
       "5.48 A",
       "2.74 A",
       "10.96 A",
-      "6.85 A"
+      "6.85 A",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "I=V/R."
+    "explanation": "I=V/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-110",
@@ -1974,10 +2192,12 @@
       "1.01 Ω",
       "4.05 Ω",
       "2.53 Ω",
-      "2.03 Ω"
+      "2.03 Ω",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Req=R1R2/(R1+R2)."
+    "explanation": "Req=R1R2/(R1+R2).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-111",
@@ -1992,10 +2212,12 @@
       "101.27 W",
       "63.29 W",
       "50.63 W",
-      "25.32 W"
+      "25.32 W",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "P=VI."
+    "explanation": "P=VI.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-112",
@@ -2010,10 +2232,12 @@
       "6.86 A",
       "5.49 A",
       "2.74 A",
-      "10.97 A"
+      "10.97 A",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "I=V/R."
+    "explanation": "I=V/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-113",
@@ -2028,10 +2252,12 @@
       "2.05 Ω",
       "1.02 Ω",
       "4.1 Ω",
-      "2.56 Ω"
+      "2.56 Ω",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Req=R1R2/(R1+R2)."
+    "explanation": "Req=R1R2/(R1+R2).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-114",
@@ -2046,10 +2272,12 @@
       "25.87 W",
       "103.49 W",
       "64.68 W",
-      "51.74 W"
+      "51.74 W",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "P=VI."
+    "explanation": "P=VI.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-115",
@@ -2064,10 +2292,12 @@
       "10.99 A",
       "6.87 A",
       "5.49 A",
-      "2.75 A"
+      "2.75 A",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "I=V/R."
+    "explanation": "I=V/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-116",
@@ -2082,10 +2312,12 @@
       "2.59 Ω",
       "2.07 Ω",
       "1.04 Ω",
-      "4.14 Ω"
+      "4.14 Ω",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Req=R1R2/(R1+R2)."
+    "explanation": "Req=R1R2/(R1+R2).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-117",
@@ -2100,10 +2332,12 @@
       "52.87 W",
       "26.43 W",
       "105.73 W",
-      "66.08 W"
+      "66.08 W",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "P=VI."
+    "explanation": "P=VI.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-118",
@@ -2118,10 +2352,12 @@
       "2.75 A",
       "11 A",
       "6.88 A",
-      "5.5 A"
+      "5.5 A",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "I=V/R."
+    "explanation": "I=V/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-119",
@@ -2136,10 +2372,12 @@
       "4.19 Ω",
       "2.62 Ω",
       "2.09 Ω",
-      "1.05 Ω"
+      "1.05 Ω",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Req=R1R2/(R1+R2)."
+    "explanation": "Req=R1R2/(R1+R2).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-120",
@@ -2154,10 +2392,12 @@
       "67.5 W",
       "54 W",
       "27 W",
-      "108 W"
+      "108 W",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "P=VI."
+    "explanation": "P=VI.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-121",
@@ -2172,10 +2412,12 @@
       "5.51 A",
       "2.75 A",
       "11.01 A",
-      "6.88 A"
+      "6.88 A",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "I=V/R."
+    "explanation": "I=V/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-122",
@@ -2190,10 +2432,12 @@
       "1.06 Ω",
       "4.23 Ω",
       "2.64 Ω",
-      "2.12 Ω"
+      "2.12 Ω",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Req=R1R2/(R1+R2)."
+    "explanation": "Req=R1R2/(R1+R2).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-123",
@@ -2208,10 +2452,12 @@
       "110.29 W",
       "68.93 W",
       "55.15 W",
-      "27.57 W"
+      "27.57 W",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "P=VI."
+    "explanation": "P=VI.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-124",
@@ -2226,10 +2472,12 @@
       "6.89 A",
       "5.51 A",
       "2.76 A",
-      "11.02 A"
+      "11.02 A",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "I=V/R."
+    "explanation": "I=V/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-125",
@@ -2244,10 +2492,12 @@
       "2.14 Ω",
       "1.07 Ω",
       "4.28 Ω",
-      "2.67 Ω"
+      "2.67 Ω",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Req=R1R2/(R1+R2)."
+    "explanation": "Req=R1R2/(R1+R2).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-126",
@@ -2262,10 +2512,12 @@
       "28.15 W",
       "112.61 W",
       "70.38 W",
-      "56.3 W"
+      "56.3 W",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "P=VI."
+    "explanation": "P=VI.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-127",
@@ -2280,10 +2532,12 @@
       "11.04 A",
       "6.9 A",
       "5.52 A",
-      "2.76 A"
+      "2.76 A",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "I=V/R."
+    "explanation": "I=V/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-128",
@@ -2298,10 +2552,12 @@
       "2.7 Ω",
       "2.16 Ω",
       "1.08 Ω",
-      "4.32 Ω"
+      "4.32 Ω",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Req=R1R2/(R1+R2)."
+    "explanation": "Req=R1R2/(R1+R2).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-129",
@@ -2316,10 +2572,12 @@
       "57.47 W",
       "28.74 W",
       "114.95 W",
-      "71.84 W"
+      "71.84 W",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "P=VI."
+    "explanation": "P=VI.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-130",
@@ -2334,10 +2592,12 @@
       "2.76 A",
       "11.05 A",
       "6.9 A",
-      "5.52 A"
+      "5.52 A",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "I=V/R."
+    "explanation": "I=V/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-131",
@@ -2352,10 +2612,12 @@
       "4.36 Ω",
       "2.73 Ω",
       "2.18 Ω",
-      "1.09 Ω"
+      "1.09 Ω",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Req=R1R2/(R1+R2)."
+    "explanation": "Req=R1R2/(R1+R2).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-132",
@@ -2370,10 +2632,12 @@
       "73.32 W",
       "58.66 W",
       "29.33 W",
-      "117.31 W"
+      "117.31 W",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "P=VI."
+    "explanation": "P=VI.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-133",
@@ -2388,10 +2652,12 @@
       "5.53 A",
       "2.76 A",
       "11.06 A",
-      "6.91 A"
+      "6.91 A",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "I=V/R."
+    "explanation": "I=V/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-134",
@@ -2406,10 +2672,12 @@
       "1.1 Ω",
       "4.41 Ω",
       "2.76 Ω",
-      "2.2 Ω"
+      "2.2 Ω",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Req=R1R2/(R1+R2)."
+    "explanation": "Req=R1R2/(R1+R2).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-135",
@@ -2424,10 +2692,12 @@
       "119.7 W",
       "74.81 W",
       "59.85 W",
-      "29.92 W"
+      "29.92 W",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "P=VI."
+    "explanation": "P=VI.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-136",
@@ -2442,10 +2712,12 @@
       "6.92 A",
       "5.53 A",
       "2.77 A",
-      "11.07 A"
+      "11.07 A",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "I=V/R."
+    "explanation": "I=V/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-137",
@@ -2460,10 +2732,12 @@
       "2.23 Ω",
       "1.11 Ω",
       "4.45 Ω",
-      "2.78 Ω"
+      "2.78 Ω",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Req=R1R2/(R1+R2)."
+    "explanation": "Req=R1R2/(R1+R2).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-138",
@@ -2478,10 +2752,12 @@
       "30.53 W",
       "122.11 W",
       "76.32 W",
-      "61.06 W"
+      "61.06 W",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "P=VI."
+    "explanation": "P=VI.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-139",
@@ -2496,10 +2772,12 @@
       "11.08 A",
       "6.93 A",
       "5.54 A",
-      "2.77 A"
+      "2.77 A",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "I=V/R."
+    "explanation": "I=V/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-140",
@@ -2514,10 +2792,12 @@
       "2.81 Ω",
       "2.25 Ω",
       "1.12 Ω",
-      "4.5 Ω"
+      "4.5 Ω",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Req=R1R2/(R1+R2)."
+    "explanation": "Req=R1R2/(R1+R2).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-141",
@@ -2532,10 +2812,12 @@
       "62.27 W",
       "31.14 W",
       "124.55 W",
-      "77.84 W"
+      "77.84 W",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "P=VI."
+    "explanation": "P=VI.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-142",
@@ -2550,10 +2832,12 @@
       "2.77 A",
       "11.09 A",
       "6.93 A",
-      "5.55 A"
+      "5.55 A",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "I=V/R."
+    "explanation": "I=V/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-143",
@@ -2568,10 +2852,12 @@
       "4.54 Ω",
       "2.84 Ω",
       "2.27 Ω",
-      "1.14 Ω"
+      "1.14 Ω",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Req=R1R2/(R1+R2)."
+    "explanation": "Req=R1R2/(R1+R2).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-144",
@@ -2586,10 +2872,12 @@
       "79.38 W",
       "63.5 W",
       "31.75 W",
-      "127.01 W"
+      "127.01 W",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "P=VI."
+    "explanation": "P=VI.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-145",
@@ -2604,10 +2892,12 @@
       "5.55 A",
       "2.78 A",
       "11.1 A",
-      "6.94 A"
+      "6.94 A",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "I=V/R."
+    "explanation": "I=V/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-146",
@@ -2622,10 +2912,12 @@
       "1.15 Ω",
       "4.59 Ω",
       "2.87 Ω",
-      "2.29 Ω"
+      "2.29 Ω",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Req=R1R2/(R1+R2)."
+    "explanation": "Req=R1R2/(R1+R2).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-147",
@@ -2640,10 +2932,12 @@
       "129.49 W",
       "80.93 W",
       "64.75 W",
-      "32.37 W"
+      "32.37 W",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "P=VI."
+    "explanation": "P=VI.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-148",
@@ -2658,10 +2952,12 @@
       "6.94 A",
       "5.56 A",
       "2.78 A",
-      "11.11 A"
+      "11.11 A",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "I=V/R."
+    "explanation": "I=V/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-149",
@@ -2676,10 +2972,12 @@
       "2.32 Ω",
       "1.16 Ω",
       "4.63 Ω",
-      "2.89 Ω"
+      "2.89 Ω",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Req=R1R2/(R1+R2)."
+    "explanation": "Req=R1R2/(R1+R2).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CURRENT-CIRCUITS-150",
@@ -2694,9 +2992,11 @@
       "33 W",
       "132 W",
       "82.5 W",
-      "66 W"
+      "66 W",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "P=VI."
+    "explanation": "P=VI.",
+    "format": "single-best-answer-5"
   }
 ]
