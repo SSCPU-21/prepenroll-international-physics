@@ -1,0 +1,3002 @@
+[
+  {
+    "id": "IMAT-PHY-RELATIVE-001",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Car A moves east at 20.2 m/s while car B moves east at 5.1 m/s. What is A's velocity relative to B?",
+    "options": [
+      "15.13 m/s",
+      "25.27 m/s",
+      "5.07 m/s",
+      "20.20 m/s",
+      "0 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "For motion along the same line in the same direction, relative velocity is the difference of the velocities."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-002",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Observer B moves with constant velocity 8.2 m/s relative to observer A. Which statement is required for the standard Galilean transformation between their frames?",
+    "options": [
+      "The relative motion is uniform and rectilinear",
+      "B must have constant acceleration",
+      "The frames must rotate relative to each other",
+      "The relative speed must equal the speed of light",
+      "Both observers must be at rest"
+    ],
+    "answer_index": 0,
+    "explanation": "Galilean transformations connect inertial frames in uniform rectilinear relative motion."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-003",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "A passenger walks forward inside a train at 3.15 m/s relative to the train. The train moves forward at 12.27 m/s relative to the ground. What is the passenger's ground speed?",
+    "options": [
+      "15.42 m/s",
+      "9.12 m/s",
+      "3.15 m/s",
+      "12.27 m/s",
+      "38.65 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "In Galilean kinematics, collinear velocities add when the motions are in the same direction."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-004",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Car A moves east at 20.8 m/s while car B moves east at 5.3 m/s. What is A's velocity relative to B?",
+    "options": [
+      "15.52 m/s",
+      "26.08 m/s",
+      "5.28 m/s",
+      "20.80 m/s",
+      "0 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "For motion along the same line in the same direction, relative velocity is the difference of the velocities."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-005",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Observer B moves with constant velocity 8.5 m/s relative to observer A. Which statement is required for the standard Galilean transformation between their frames?",
+    "options": [
+      "The relative motion is uniform and rectilinear",
+      "B must have constant acceleration",
+      "The frames must rotate relative to each other",
+      "The relative speed must equal the speed of light",
+      "Both observers must be at rest"
+    ],
+    "answer_index": 0,
+    "explanation": "Galilean transformations connect inertial frames in uniform rectilinear relative motion."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-006",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "A passenger walks forward inside a train at 3.30 m/s relative to the train. The train moves forward at 12.54 m/s relative to the ground. What is the passenger's ground speed?",
+    "options": [
+      "15.84 m/s",
+      "9.24 m/s",
+      "3.30 m/s",
+      "12.54 m/s",
+      "41.38 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "In Galilean kinematics, collinear velocities add when the motions are in the same direction."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-007",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Car A moves east at 21.4 m/s while car B moves east at 5.5 m/s. What is A's velocity relative to B?",
+    "options": [
+      "15.91 m/s",
+      "26.89 m/s",
+      "5.49 m/s",
+      "21.40 m/s",
+      "0 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "For motion along the same line in the same direction, relative velocity is the difference of the velocities."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-008",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Observer B moves with constant velocity 8.8 m/s relative to observer A. Which statement is required for the standard Galilean transformation between their frames?",
+    "options": [
+      "The relative motion is uniform and rectilinear",
+      "B must have constant acceleration",
+      "The frames must rotate relative to each other",
+      "The relative speed must equal the speed of light",
+      "Both observers must be at rest"
+    ],
+    "answer_index": 0,
+    "explanation": "Galilean transformations connect inertial frames in uniform rectilinear relative motion."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-009",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "A passenger walks forward inside a train at 3.45 m/s relative to the train. The train moves forward at 12.81 m/s relative to the ground. What is the passenger's ground speed?",
+    "options": [
+      "16.26 m/s",
+      "9.36 m/s",
+      "3.45 m/s",
+      "12.81 m/s",
+      "44.19 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "In Galilean kinematics, collinear velocities add when the motions are in the same direction."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-010",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Car A moves east at 22.0 m/s while car B moves east at 5.7 m/s. What is A's velocity relative to B?",
+    "options": [
+      "16.3 m/s",
+      "27.70 m/s",
+      "5.70 m/s",
+      "22.00 m/s",
+      "0 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "For motion along the same line in the same direction, relative velocity is the difference of the velocities."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-011",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Observer B moves with constant velocity 9.1 m/s relative to observer A. Which statement is required for the standard Galilean transformation between their frames?",
+    "options": [
+      "The relative motion is uniform and rectilinear",
+      "B must have constant acceleration",
+      "The frames must rotate relative to each other",
+      "The relative speed must equal the speed of light",
+      "Both observers must be at rest"
+    ],
+    "answer_index": 0,
+    "explanation": "Galilean transformations connect inertial frames in uniform rectilinear relative motion."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-012",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "A passenger walks forward inside a train at 3.60 m/s relative to the train. The train moves forward at 13.08 m/s relative to the ground. What is the passenger's ground speed?",
+    "options": [
+      "16.68 m/s",
+      "9.48 m/s",
+      "3.60 m/s",
+      "13.08 m/s",
+      "47.09 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "In Galilean kinematics, collinear velocities add when the motions are in the same direction."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-013",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Car A moves east at 22.6 m/s while car B moves east at 5.9 m/s. What is A's velocity relative to B?",
+    "options": [
+      "16.69 m/s",
+      "28.51 m/s",
+      "5.91 m/s",
+      "22.60 m/s",
+      "0 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "For motion along the same line in the same direction, relative velocity is the difference of the velocities."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-014",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Observer B moves with constant velocity 9.4 m/s relative to observer A. Which statement is required for the standard Galilean transformation between their frames?",
+    "options": [
+      "The relative motion is uniform and rectilinear",
+      "B must have constant acceleration",
+      "The frames must rotate relative to each other",
+      "The relative speed must equal the speed of light",
+      "Both observers must be at rest"
+    ],
+    "answer_index": 0,
+    "explanation": "Galilean transformations connect inertial frames in uniform rectilinear relative motion."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-015",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "A passenger walks forward inside a train at 3.75 m/s relative to the train. The train moves forward at 13.35 m/s relative to the ground. What is the passenger's ground speed?",
+    "options": [
+      "17.1 m/s",
+      "9.60 m/s",
+      "3.75 m/s",
+      "13.35 m/s",
+      "50.06 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "In Galilean kinematics, collinear velocities add when the motions are in the same direction."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-016",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Car A moves east at 23.2 m/s while car B moves east at 6.1 m/s. What is A's velocity relative to B?",
+    "options": [
+      "17.08 m/s",
+      "29.32 m/s",
+      "6.12 m/s",
+      "23.20 m/s",
+      "0 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "For motion along the same line in the same direction, relative velocity is the difference of the velocities."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-017",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Observer B moves with constant velocity 9.7 m/s relative to observer A. Which statement is required for the standard Galilean transformation between their frames?",
+    "options": [
+      "The relative motion is uniform and rectilinear",
+      "B must have constant acceleration",
+      "The frames must rotate relative to each other",
+      "The relative speed must equal the speed of light",
+      "Both observers must be at rest"
+    ],
+    "answer_index": 0,
+    "explanation": "Galilean transformations connect inertial frames in uniform rectilinear relative motion."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-018",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "A passenger walks forward inside a train at 3.90 m/s relative to the train. The train moves forward at 13.62 m/s relative to the ground. What is the passenger's ground speed?",
+    "options": [
+      "17.52 m/s",
+      "9.72 m/s",
+      "3.90 m/s",
+      "13.62 m/s",
+      "53.12 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "In Galilean kinematics, collinear velocities add when the motions are in the same direction."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-019",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Car A moves east at 23.8 m/s while car B moves east at 6.3 m/s. What is A's velocity relative to B?",
+    "options": [
+      "17.47 m/s",
+      "30.13 m/s",
+      "6.33 m/s",
+      "23.80 m/s",
+      "0 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "For motion along the same line in the same direction, relative velocity is the difference of the velocities."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-020",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Observer B moves with constant velocity 10.0 m/s relative to observer A. Which statement is required for the standard Galilean transformation between their frames?",
+    "options": [
+      "The relative motion is uniform and rectilinear",
+      "B must have constant acceleration",
+      "The frames must rotate relative to each other",
+      "The relative speed must equal the speed of light",
+      "Both observers must be at rest"
+    ],
+    "answer_index": 0,
+    "explanation": "Galilean transformations connect inertial frames in uniform rectilinear relative motion."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-021",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "A passenger walks forward inside a train at 4.05 m/s relative to the train. The train moves forward at 13.89 m/s relative to the ground. What is the passenger's ground speed?",
+    "options": [
+      "17.94 m/s",
+      "9.84 m/s",
+      "4.05 m/s",
+      "13.89 m/s",
+      "56.25 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "In Galilean kinematics, collinear velocities add when the motions are in the same direction."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-022",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Car A moves east at 24.4 m/s while car B moves east at 6.5 m/s. What is A's velocity relative to B?",
+    "options": [
+      "17.86 m/s",
+      "30.94 m/s",
+      "6.54 m/s",
+      "24.40 m/s",
+      "0 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "For motion along the same line in the same direction, relative velocity is the difference of the velocities."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-023",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Observer B moves with constant velocity 10.3 m/s relative to observer A. Which statement is required for the standard Galilean transformation between their frames?",
+    "options": [
+      "The relative motion is uniform and rectilinear",
+      "B must have constant acceleration",
+      "The frames must rotate relative to each other",
+      "The relative speed must equal the speed of light",
+      "Both observers must be at rest"
+    ],
+    "answer_index": 0,
+    "explanation": "Galilean transformations connect inertial frames in uniform rectilinear relative motion."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-024",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "A passenger walks forward inside a train at 4.20 m/s relative to the train. The train moves forward at 14.16 m/s relative to the ground. What is the passenger's ground speed?",
+    "options": [
+      "18.36 m/s",
+      "9.96 m/s",
+      "4.20 m/s",
+      "14.16 m/s",
+      "59.47 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "In Galilean kinematics, collinear velocities add when the motions are in the same direction."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-025",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Car A moves east at 25.0 m/s while car B moves east at 6.8 m/s. What is A's velocity relative to B?",
+    "options": [
+      "18.25 m/s",
+      "31.75 m/s",
+      "6.75 m/s",
+      "25.00 m/s",
+      "0 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "For motion along the same line in the same direction, relative velocity is the difference of the velocities."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-026",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Observer B moves with constant velocity 10.6 m/s relative to observer A. Which statement is required for the standard Galilean transformation between their frames?",
+    "options": [
+      "The relative motion is uniform and rectilinear",
+      "B must have constant acceleration",
+      "The frames must rotate relative to each other",
+      "The relative speed must equal the speed of light",
+      "Both observers must be at rest"
+    ],
+    "answer_index": 0,
+    "explanation": "Galilean transformations connect inertial frames in uniform rectilinear relative motion."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-027",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "A passenger walks forward inside a train at 4.35 m/s relative to the train. The train moves forward at 14.43 m/s relative to the ground. What is the passenger's ground speed?",
+    "options": [
+      "18.78 m/s",
+      "10.08 m/s",
+      "4.35 m/s",
+      "14.43 m/s",
+      "62.77 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "In Galilean kinematics, collinear velocities add when the motions are in the same direction."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-028",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Car A moves east at 25.6 m/s while car B moves east at 7.0 m/s. What is A's velocity relative to B?",
+    "options": [
+      "18.64 m/s",
+      "32.56 m/s",
+      "6.96 m/s",
+      "25.60 m/s",
+      "0 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "For motion along the same line in the same direction, relative velocity is the difference of the velocities."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-029",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Observer B moves with constant velocity 10.9 m/s relative to observer A. Which statement is required for the standard Galilean transformation between their frames?",
+    "options": [
+      "The relative motion is uniform and rectilinear",
+      "B must have constant acceleration",
+      "The frames must rotate relative to each other",
+      "The relative speed must equal the speed of light",
+      "Both observers must be at rest"
+    ],
+    "answer_index": 0,
+    "explanation": "Galilean transformations connect inertial frames in uniform rectilinear relative motion."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-030",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "A passenger walks forward inside a train at 4.50 m/s relative to the train. The train moves forward at 14.70 m/s relative to the ground. What is the passenger's ground speed?",
+    "options": [
+      "19.2 m/s",
+      "10.20 m/s",
+      "4.50 m/s",
+      "14.70 m/s",
+      "66.15 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "In Galilean kinematics, collinear velocities add when the motions are in the same direction."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-031",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Car A moves east at 26.2 m/s while car B moves east at 7.2 m/s. What is A's velocity relative to B?",
+    "options": [
+      "19.03 m/s",
+      "33.37 m/s",
+      "7.17 m/s",
+      "26.20 m/s",
+      "0 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "For motion along the same line in the same direction, relative velocity is the difference of the velocities."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-032",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Observer B moves with constant velocity 11.2 m/s relative to observer A. Which statement is required for the standard Galilean transformation between their frames?",
+    "options": [
+      "The relative motion is uniform and rectilinear",
+      "B must have constant acceleration",
+      "The frames must rotate relative to each other",
+      "The relative speed must equal the speed of light",
+      "Both observers must be at rest"
+    ],
+    "answer_index": 0,
+    "explanation": "Galilean transformations connect inertial frames in uniform rectilinear relative motion."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-033",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "A passenger walks forward inside a train at 4.65 m/s relative to the train. The train moves forward at 14.97 m/s relative to the ground. What is the passenger's ground speed?",
+    "options": [
+      "19.62 m/s",
+      "10.32 m/s",
+      "4.65 m/s",
+      "14.97 m/s",
+      "69.61 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "In Galilean kinematics, collinear velocities add when the motions are in the same direction."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-034",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Car A moves east at 26.8 m/s while car B moves east at 7.4 m/s. What is A's velocity relative to B?",
+    "options": [
+      "19.42 m/s",
+      "34.18 m/s",
+      "7.38 m/s",
+      "26.80 m/s",
+      "0 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "For motion along the same line in the same direction, relative velocity is the difference of the velocities."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-035",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Observer B moves with constant velocity 11.5 m/s relative to observer A. Which statement is required for the standard Galilean transformation between their frames?",
+    "options": [
+      "The relative motion is uniform and rectilinear",
+      "B must have constant acceleration",
+      "The frames must rotate relative to each other",
+      "The relative speed must equal the speed of light",
+      "Both observers must be at rest"
+    ],
+    "answer_index": 0,
+    "explanation": "Galilean transformations connect inertial frames in uniform rectilinear relative motion."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-036",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "A passenger walks forward inside a train at 4.80 m/s relative to the train. The train moves forward at 15.24 m/s relative to the ground. What is the passenger's ground speed?",
+    "options": [
+      "20.04 m/s",
+      "10.44 m/s",
+      "4.80 m/s",
+      "15.24 m/s",
+      "73.15 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "In Galilean kinematics, collinear velocities add when the motions are in the same direction."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-037",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Car A moves east at 27.4 m/s while car B moves east at 7.6 m/s. What is A's velocity relative to B?",
+    "options": [
+      "19.81 m/s",
+      "34.99 m/s",
+      "7.59 m/s",
+      "27.40 m/s",
+      "0 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "For motion along the same line in the same direction, relative velocity is the difference of the velocities."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-038",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Observer B moves with constant velocity 11.8 m/s relative to observer A. Which statement is required for the standard Galilean transformation between their frames?",
+    "options": [
+      "The relative motion is uniform and rectilinear",
+      "B must have constant acceleration",
+      "The frames must rotate relative to each other",
+      "The relative speed must equal the speed of light",
+      "Both observers must be at rest"
+    ],
+    "answer_index": 0,
+    "explanation": "Galilean transformations connect inertial frames in uniform rectilinear relative motion."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-039",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "A passenger walks forward inside a train at 4.95 m/s relative to the train. The train moves forward at 15.51 m/s relative to the ground. What is the passenger's ground speed?",
+    "options": [
+      "20.46 m/s",
+      "10.56 m/s",
+      "4.95 m/s",
+      "15.51 m/s",
+      "76.77 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "In Galilean kinematics, collinear velocities add when the motions are in the same direction."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-040",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Car A moves east at 28.0 m/s while car B moves east at 7.8 m/s. What is A's velocity relative to B?",
+    "options": [
+      "20.2 m/s",
+      "35.80 m/s",
+      "7.80 m/s",
+      "28.00 m/s",
+      "0 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "For motion along the same line in the same direction, relative velocity is the difference of the velocities."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-041",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Observer B moves with constant velocity 12.1 m/s relative to observer A. Which statement is required for the standard Galilean transformation between their frames?",
+    "options": [
+      "The relative motion is uniform and rectilinear",
+      "B must have constant acceleration",
+      "The frames must rotate relative to each other",
+      "The relative speed must equal the speed of light",
+      "Both observers must be at rest"
+    ],
+    "answer_index": 0,
+    "explanation": "Galilean transformations connect inertial frames in uniform rectilinear relative motion."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-042",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "A passenger walks forward inside a train at 5.10 m/s relative to the train. The train moves forward at 15.78 m/s relative to the ground. What is the passenger's ground speed?",
+    "options": [
+      "20.88 m/s",
+      "10.68 m/s",
+      "5.10 m/s",
+      "15.78 m/s",
+      "80.48 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "In Galilean kinematics, collinear velocities add when the motions are in the same direction."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-043",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Car A moves east at 28.6 m/s while car B moves east at 8.0 m/s. What is A's velocity relative to B?",
+    "options": [
+      "20.59 m/s",
+      "36.61 m/s",
+      "8.01 m/s",
+      "28.60 m/s",
+      "0 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "For motion along the same line in the same direction, relative velocity is the difference of the velocities."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-044",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Observer B moves with constant velocity 12.4 m/s relative to observer A. Which statement is required for the standard Galilean transformation between their frames?",
+    "options": [
+      "The relative motion is uniform and rectilinear",
+      "B must have constant acceleration",
+      "The frames must rotate relative to each other",
+      "The relative speed must equal the speed of light",
+      "Both observers must be at rest"
+    ],
+    "answer_index": 0,
+    "explanation": "Galilean transformations connect inertial frames in uniform rectilinear relative motion."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-045",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "A passenger walks forward inside a train at 5.25 m/s relative to the train. The train moves forward at 16.05 m/s relative to the ground. What is the passenger's ground speed?",
+    "options": [
+      "21.3 m/s",
+      "10.80 m/s",
+      "5.25 m/s",
+      "16.05 m/s",
+      "84.26 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "In Galilean kinematics, collinear velocities add when the motions are in the same direction."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-046",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Car A moves east at 29.2 m/s while car B moves east at 8.2 m/s. What is A's velocity relative to B?",
+    "options": [
+      "20.98 m/s",
+      "37.42 m/s",
+      "8.22 m/s",
+      "29.20 m/s",
+      "0 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "For motion along the same line in the same direction, relative velocity is the difference of the velocities."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-047",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Observer B moves with constant velocity 12.7 m/s relative to observer A. Which statement is required for the standard Galilean transformation between their frames?",
+    "options": [
+      "The relative motion is uniform and rectilinear",
+      "B must have constant acceleration",
+      "The frames must rotate relative to each other",
+      "The relative speed must equal the speed of light",
+      "Both observers must be at rest"
+    ],
+    "answer_index": 0,
+    "explanation": "Galilean transformations connect inertial frames in uniform rectilinear relative motion."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-048",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "A passenger walks forward inside a train at 5.40 m/s relative to the train. The train moves forward at 16.32 m/s relative to the ground. What is the passenger's ground speed?",
+    "options": [
+      "21.72 m/s",
+      "10.92 m/s",
+      "5.40 m/s",
+      "16.32 m/s",
+      "88.13 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "In Galilean kinematics, collinear velocities add when the motions are in the same direction."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-049",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Car A moves east at 29.8 m/s while car B moves east at 8.4 m/s. What is A's velocity relative to B?",
+    "options": [
+      "21.37 m/s",
+      "38.23 m/s",
+      "8.43 m/s",
+      "29.80 m/s",
+      "0 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "For motion along the same line in the same direction, relative velocity is the difference of the velocities."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-050",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Observer B moves with constant velocity 13.0 m/s relative to observer A. Which statement is required for the standard Galilean transformation between their frames?",
+    "options": [
+      "The relative motion is uniform and rectilinear",
+      "B must have constant acceleration",
+      "The frames must rotate relative to each other",
+      "The relative speed must equal the speed of light",
+      "Both observers must be at rest"
+    ],
+    "answer_index": 0,
+    "explanation": "Galilean transformations connect inertial frames in uniform rectilinear relative motion."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-051",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "A passenger walks forward inside a train at 5.55 m/s relative to the train. The train moves forward at 16.59 m/s relative to the ground. What is the passenger's ground speed?",
+    "options": [
+      "22.14 m/s",
+      "11.04 m/s",
+      "5.55 m/s",
+      "16.59 m/s",
+      "92.07 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "In Galilean kinematics, collinear velocities add when the motions are in the same direction."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-052",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Car A moves east at 30.4 m/s while car B moves east at 8.6 m/s. What is A's velocity relative to B?",
+    "options": [
+      "21.76 m/s",
+      "39.04 m/s",
+      "8.64 m/s",
+      "30.40 m/s",
+      "0 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "For motion along the same line in the same direction, relative velocity is the difference of the velocities."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-053",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Observer B moves with constant velocity 13.3 m/s relative to observer A. Which statement is required for the standard Galilean transformation between their frames?",
+    "options": [
+      "The relative motion is uniform and rectilinear",
+      "B must have constant acceleration",
+      "The frames must rotate relative to each other",
+      "The relative speed must equal the speed of light",
+      "Both observers must be at rest"
+    ],
+    "answer_index": 0,
+    "explanation": "Galilean transformations connect inertial frames in uniform rectilinear relative motion."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-054",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "A passenger walks forward inside a train at 5.70 m/s relative to the train. The train moves forward at 16.86 m/s relative to the ground. What is the passenger's ground speed?",
+    "options": [
+      "22.56 m/s",
+      "11.16 m/s",
+      "5.70 m/s",
+      "16.86 m/s",
+      "96.10 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "In Galilean kinematics, collinear velocities add when the motions are in the same direction."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-055",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Car A moves east at 31.0 m/s while car B moves east at 8.9 m/s. What is A's velocity relative to B?",
+    "options": [
+      "22.15 m/s",
+      "39.85 m/s",
+      "8.85 m/s",
+      "31.00 m/s",
+      "0 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "For motion along the same line in the same direction, relative velocity is the difference of the velocities."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-056",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Observer B moves with constant velocity 13.6 m/s relative to observer A. Which statement is required for the standard Galilean transformation between their frames?",
+    "options": [
+      "The relative motion is uniform and rectilinear",
+      "B must have constant acceleration",
+      "The frames must rotate relative to each other",
+      "The relative speed must equal the speed of light",
+      "Both observers must be at rest"
+    ],
+    "answer_index": 0,
+    "explanation": "Galilean transformations connect inertial frames in uniform rectilinear relative motion."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-057",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "A passenger walks forward inside a train at 5.85 m/s relative to the train. The train moves forward at 17.13 m/s relative to the ground. What is the passenger's ground speed?",
+    "options": [
+      "22.98 m/s",
+      "11.28 m/s",
+      "5.85 m/s",
+      "17.13 m/s",
+      "100.21 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "In Galilean kinematics, collinear velocities add when the motions are in the same direction."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-058",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Car A moves east at 31.6 m/s while car B moves east at 9.1 m/s. What is A's velocity relative to B?",
+    "options": [
+      "22.54 m/s",
+      "40.66 m/s",
+      "9.06 m/s",
+      "31.60 m/s",
+      "0 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "For motion along the same line in the same direction, relative velocity is the difference of the velocities."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-059",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Observer B moves with constant velocity 13.9 m/s relative to observer A. Which statement is required for the standard Galilean transformation between their frames?",
+    "options": [
+      "The relative motion is uniform and rectilinear",
+      "B must have constant acceleration",
+      "The frames must rotate relative to each other",
+      "The relative speed must equal the speed of light",
+      "Both observers must be at rest"
+    ],
+    "answer_index": 0,
+    "explanation": "Galilean transformations connect inertial frames in uniform rectilinear relative motion."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-060",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "A passenger walks forward inside a train at 6.00 m/s relative to the train. The train moves forward at 17.40 m/s relative to the ground. What is the passenger's ground speed?",
+    "options": [
+      "23.4 m/s",
+      "11.40 m/s",
+      "6.00 m/s",
+      "17.40 m/s",
+      "104.40 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "In Galilean kinematics, collinear velocities add when the motions are in the same direction."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-061",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Car A moves east at 32.2 m/s while car B moves east at 9.3 m/s. What is A's velocity relative to B?",
+    "options": [
+      "22.93 m/s",
+      "41.47 m/s",
+      "9.27 m/s",
+      "32.20 m/s",
+      "0 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "For motion along the same line in the same direction, relative velocity is the difference of the velocities."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-062",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Observer B moves with constant velocity 14.2 m/s relative to observer A. Which statement is required for the standard Galilean transformation between their frames?",
+    "options": [
+      "The relative motion is uniform and rectilinear",
+      "B must have constant acceleration",
+      "The frames must rotate relative to each other",
+      "The relative speed must equal the speed of light",
+      "Both observers must be at rest"
+    ],
+    "answer_index": 0,
+    "explanation": "Galilean transformations connect inertial frames in uniform rectilinear relative motion."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-063",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "A passenger walks forward inside a train at 6.15 m/s relative to the train. The train moves forward at 17.67 m/s relative to the ground. What is the passenger's ground speed?",
+    "options": [
+      "23.82 m/s",
+      "11.52 m/s",
+      "6.15 m/s",
+      "17.67 m/s",
+      "108.67 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "In Galilean kinematics, collinear velocities add when the motions are in the same direction."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-064",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Car A moves east at 32.8 m/s while car B moves east at 9.5 m/s. What is A's velocity relative to B?",
+    "options": [
+      "23.32 m/s",
+      "42.28 m/s",
+      "9.48 m/s",
+      "32.80 m/s",
+      "0 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "For motion along the same line in the same direction, relative velocity is the difference of the velocities."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-065",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Observer B moves with constant velocity 14.5 m/s relative to observer A. Which statement is required for the standard Galilean transformation between their frames?",
+    "options": [
+      "The relative motion is uniform and rectilinear",
+      "B must have constant acceleration",
+      "The frames must rotate relative to each other",
+      "The relative speed must equal the speed of light",
+      "Both observers must be at rest"
+    ],
+    "answer_index": 0,
+    "explanation": "Galilean transformations connect inertial frames in uniform rectilinear relative motion."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-066",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "A passenger walks forward inside a train at 6.30 m/s relative to the train. The train moves forward at 17.94 m/s relative to the ground. What is the passenger's ground speed?",
+    "options": [
+      "24.24 m/s",
+      "11.64 m/s",
+      "6.30 m/s",
+      "17.94 m/s",
+      "113.02 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "In Galilean kinematics, collinear velocities add when the motions are in the same direction."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-067",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Car A moves east at 33.4 m/s while car B moves east at 9.7 m/s. What is A's velocity relative to B?",
+    "options": [
+      "23.71 m/s",
+      "43.09 m/s",
+      "9.69 m/s",
+      "33.40 m/s",
+      "0 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "For motion along the same line in the same direction, relative velocity is the difference of the velocities."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-068",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Observer B moves with constant velocity 14.8 m/s relative to observer A. Which statement is required for the standard Galilean transformation between their frames?",
+    "options": [
+      "The relative motion is uniform and rectilinear",
+      "B must have constant acceleration",
+      "The frames must rotate relative to each other",
+      "The relative speed must equal the speed of light",
+      "Both observers must be at rest"
+    ],
+    "answer_index": 0,
+    "explanation": "Galilean transformations connect inertial frames in uniform rectilinear relative motion."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-069",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "A passenger walks forward inside a train at 6.45 m/s relative to the train. The train moves forward at 18.21 m/s relative to the ground. What is the passenger's ground speed?",
+    "options": [
+      "24.66 m/s",
+      "11.76 m/s",
+      "6.45 m/s",
+      "18.21 m/s",
+      "117.45 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "In Galilean kinematics, collinear velocities add when the motions are in the same direction."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-070",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Car A moves east at 34.0 m/s while car B moves east at 9.9 m/s. What is A's velocity relative to B?",
+    "options": [
+      "24.1 m/s",
+      "43.90 m/s",
+      "9.90 m/s",
+      "34.00 m/s",
+      "0 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "For motion along the same line in the same direction, relative velocity is the difference of the velocities."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-071",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Observer B moves with constant velocity 15.1 m/s relative to observer A. Which statement is required for the standard Galilean transformation between their frames?",
+    "options": [
+      "The relative motion is uniform and rectilinear",
+      "B must have constant acceleration",
+      "The frames must rotate relative to each other",
+      "The relative speed must equal the speed of light",
+      "Both observers must be at rest"
+    ],
+    "answer_index": 0,
+    "explanation": "Galilean transformations connect inertial frames in uniform rectilinear relative motion."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-072",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "A passenger walks forward inside a train at 6.60 m/s relative to the train. The train moves forward at 18.48 m/s relative to the ground. What is the passenger's ground speed?",
+    "options": [
+      "25.08 m/s",
+      "11.88 m/s",
+      "6.60 m/s",
+      "18.48 m/s",
+      "121.97 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "In Galilean kinematics, collinear velocities add when the motions are in the same direction."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-073",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Car A moves east at 34.6 m/s while car B moves east at 10.1 m/s. What is A's velocity relative to B?",
+    "options": [
+      "24.49 m/s",
+      "44.71 m/s",
+      "10.11 m/s",
+      "34.60 m/s",
+      "0 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "For motion along the same line in the same direction, relative velocity is the difference of the velocities."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-074",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Observer B moves with constant velocity 15.4 m/s relative to observer A. Which statement is required for the standard Galilean transformation between their frames?",
+    "options": [
+      "The relative motion is uniform and rectilinear",
+      "B must have constant acceleration",
+      "The frames must rotate relative to each other",
+      "The relative speed must equal the speed of light",
+      "Both observers must be at rest"
+    ],
+    "answer_index": 0,
+    "explanation": "Galilean transformations connect inertial frames in uniform rectilinear relative motion."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-075",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "A passenger walks forward inside a train at 6.75 m/s relative to the train. The train moves forward at 18.75 m/s relative to the ground. What is the passenger's ground speed?",
+    "options": [
+      "25.5 m/s",
+      "12.00 m/s",
+      "6.75 m/s",
+      "18.75 m/s",
+      "126.56 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "In Galilean kinematics, collinear velocities add when the motions are in the same direction."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-076",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Car A moves east at 35.2 m/s while car B moves east at 10.3 m/s. What is A's velocity relative to B?",
+    "options": [
+      "24.88 m/s",
+      "45.52 m/s",
+      "10.32 m/s",
+      "35.20 m/s",
+      "0 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "For motion along the same line in the same direction, relative velocity is the difference of the velocities."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-077",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Observer B moves with constant velocity 15.7 m/s relative to observer A. Which statement is required for the standard Galilean transformation between their frames?",
+    "options": [
+      "The relative motion is uniform and rectilinear",
+      "B must have constant acceleration",
+      "The frames must rotate relative to each other",
+      "The relative speed must equal the speed of light",
+      "Both observers must be at rest"
+    ],
+    "answer_index": 0,
+    "explanation": "Galilean transformations connect inertial frames in uniform rectilinear relative motion."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-078",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "A passenger walks forward inside a train at 6.90 m/s relative to the train. The train moves forward at 19.02 m/s relative to the ground. What is the passenger's ground speed?",
+    "options": [
+      "25.92 m/s",
+      "12.12 m/s",
+      "6.90 m/s",
+      "19.02 m/s",
+      "131.24 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "In Galilean kinematics, collinear velocities add when the motions are in the same direction."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-079",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Car A moves east at 35.8 m/s while car B moves east at 10.5 m/s. What is A's velocity relative to B?",
+    "options": [
+      "25.27 m/s",
+      "46.33 m/s",
+      "10.53 m/s",
+      "35.80 m/s",
+      "0 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "For motion along the same line in the same direction, relative velocity is the difference of the velocities."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-080",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Observer B moves with constant velocity 16.0 m/s relative to observer A. Which statement is required for the standard Galilean transformation between their frames?",
+    "options": [
+      "The relative motion is uniform and rectilinear",
+      "B must have constant acceleration",
+      "The frames must rotate relative to each other",
+      "The relative speed must equal the speed of light",
+      "Both observers must be at rest"
+    ],
+    "answer_index": 0,
+    "explanation": "Galilean transformations connect inertial frames in uniform rectilinear relative motion."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-081",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "A passenger walks forward inside a train at 7.05 m/s relative to the train. The train moves forward at 19.29 m/s relative to the ground. What is the passenger's ground speed?",
+    "options": [
+      "26.34 m/s",
+      "12.24 m/s",
+      "7.05 m/s",
+      "19.29 m/s",
+      "135.99 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "In Galilean kinematics, collinear velocities add when the motions are in the same direction."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-082",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Car A moves east at 36.4 m/s while car B moves east at 10.7 m/s. What is A's velocity relative to B?",
+    "options": [
+      "25.66 m/s",
+      "47.14 m/s",
+      "10.74 m/s",
+      "36.40 m/s",
+      "0 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "For motion along the same line in the same direction, relative velocity is the difference of the velocities."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-083",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Observer B moves with constant velocity 16.3 m/s relative to observer A. Which statement is required for the standard Galilean transformation between their frames?",
+    "options": [
+      "The relative motion is uniform and rectilinear",
+      "B must have constant acceleration",
+      "The frames must rotate relative to each other",
+      "The relative speed must equal the speed of light",
+      "Both observers must be at rest"
+    ],
+    "answer_index": 0,
+    "explanation": "Galilean transformations connect inertial frames in uniform rectilinear relative motion."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-084",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "A passenger walks forward inside a train at 7.20 m/s relative to the train. The train moves forward at 19.56 m/s relative to the ground. What is the passenger's ground speed?",
+    "options": [
+      "26.76 m/s",
+      "12.36 m/s",
+      "7.20 m/s",
+      "19.56 m/s",
+      "140.83 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "In Galilean kinematics, collinear velocities add when the motions are in the same direction."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-085",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Car A moves east at 37.0 m/s while car B moves east at 10.9 m/s. What is A's velocity relative to B?",
+    "options": [
+      "26.05 m/s",
+      "47.95 m/s",
+      "10.95 m/s",
+      "37.00 m/s",
+      "0 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "For motion along the same line in the same direction, relative velocity is the difference of the velocities."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-086",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Observer B moves with constant velocity 16.6 m/s relative to observer A. Which statement is required for the standard Galilean transformation between their frames?",
+    "options": [
+      "The relative motion is uniform and rectilinear",
+      "B must have constant acceleration",
+      "The frames must rotate relative to each other",
+      "The relative speed must equal the speed of light",
+      "Both observers must be at rest"
+    ],
+    "answer_index": 0,
+    "explanation": "Galilean transformations connect inertial frames in uniform rectilinear relative motion."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-087",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "A passenger walks forward inside a train at 7.35 m/s relative to the train. The train moves forward at 19.83 m/s relative to the ground. What is the passenger's ground speed?",
+    "options": [
+      "27.18 m/s",
+      "12.48 m/s",
+      "7.35 m/s",
+      "19.83 m/s",
+      "145.75 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "In Galilean kinematics, collinear velocities add when the motions are in the same direction."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-088",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Car A moves east at 37.6 m/s while car B moves east at 11.2 m/s. What is A's velocity relative to B?",
+    "options": [
+      "26.44 m/s",
+      "48.76 m/s",
+      "11.16 m/s",
+      "37.60 m/s",
+      "0 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "For motion along the same line in the same direction, relative velocity is the difference of the velocities."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-089",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Observer B moves with constant velocity 16.9 m/s relative to observer A. Which statement is required for the standard Galilean transformation between their frames?",
+    "options": [
+      "The relative motion is uniform and rectilinear",
+      "B must have constant acceleration",
+      "The frames must rotate relative to each other",
+      "The relative speed must equal the speed of light",
+      "Both observers must be at rest"
+    ],
+    "answer_index": 0,
+    "explanation": "Galilean transformations connect inertial frames in uniform rectilinear relative motion."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-090",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "A passenger walks forward inside a train at 7.50 m/s relative to the train. The train moves forward at 20.10 m/s relative to the ground. What is the passenger's ground speed?",
+    "options": [
+      "27.6 m/s",
+      "12.60 m/s",
+      "7.50 m/s",
+      "20.10 m/s",
+      "150.75 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "In Galilean kinematics, collinear velocities add when the motions are in the same direction."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-091",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Car A moves east at 38.2 m/s while car B moves east at 11.4 m/s. What is A's velocity relative to B?",
+    "options": [
+      "26.83 m/s",
+      "49.57 m/s",
+      "11.37 m/s",
+      "38.20 m/s",
+      "0 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "For motion along the same line in the same direction, relative velocity is the difference of the velocities."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-092",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Observer B moves with constant velocity 17.2 m/s relative to observer A. Which statement is required for the standard Galilean transformation between their frames?",
+    "options": [
+      "The relative motion is uniform and rectilinear",
+      "B must have constant acceleration",
+      "The frames must rotate relative to each other",
+      "The relative speed must equal the speed of light",
+      "Both observers must be at rest"
+    ],
+    "answer_index": 0,
+    "explanation": "Galilean transformations connect inertial frames in uniform rectilinear relative motion."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-093",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "A passenger walks forward inside a train at 7.65 m/s relative to the train. The train moves forward at 20.37 m/s relative to the ground. What is the passenger's ground speed?",
+    "options": [
+      "28.02 m/s",
+      "12.72 m/s",
+      "7.65 m/s",
+      "20.37 m/s",
+      "155.83 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "In Galilean kinematics, collinear velocities add when the motions are in the same direction."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-094",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Car A moves east at 38.8 m/s while car B moves east at 11.6 m/s. What is A's velocity relative to B?",
+    "options": [
+      "27.22 m/s",
+      "50.38 m/s",
+      "11.58 m/s",
+      "38.80 m/s",
+      "0 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "For motion along the same line in the same direction, relative velocity is the difference of the velocities."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-095",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Observer B moves with constant velocity 17.5 m/s relative to observer A. Which statement is required for the standard Galilean transformation between their frames?",
+    "options": [
+      "The relative motion is uniform and rectilinear",
+      "B must have constant acceleration",
+      "The frames must rotate relative to each other",
+      "The relative speed must equal the speed of light",
+      "Both observers must be at rest"
+    ],
+    "answer_index": 0,
+    "explanation": "Galilean transformations connect inertial frames in uniform rectilinear relative motion."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-096",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "A passenger walks forward inside a train at 7.80 m/s relative to the train. The train moves forward at 20.64 m/s relative to the ground. What is the passenger's ground speed?",
+    "options": [
+      "28.44 m/s",
+      "12.84 m/s",
+      "7.80 m/s",
+      "20.64 m/s",
+      "160.99 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "In Galilean kinematics, collinear velocities add when the motions are in the same direction."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-097",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Car A moves east at 39.4 m/s while car B moves east at 11.8 m/s. What is A's velocity relative to B?",
+    "options": [
+      "27.61 m/s",
+      "51.19 m/s",
+      "11.79 m/s",
+      "39.40 m/s",
+      "0 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "For motion along the same line in the same direction, relative velocity is the difference of the velocities."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-098",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Observer B moves with constant velocity 17.8 m/s relative to observer A. Which statement is required for the standard Galilean transformation between their frames?",
+    "options": [
+      "The relative motion is uniform and rectilinear",
+      "B must have constant acceleration",
+      "The frames must rotate relative to each other",
+      "The relative speed must equal the speed of light",
+      "Both observers must be at rest"
+    ],
+    "answer_index": 0,
+    "explanation": "Galilean transformations connect inertial frames in uniform rectilinear relative motion."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-099",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "A passenger walks forward inside a train at 7.95 m/s relative to the train. The train moves forward at 20.91 m/s relative to the ground. What is the passenger's ground speed?",
+    "options": [
+      "28.86 m/s",
+      "12.96 m/s",
+      "7.95 m/s",
+      "20.91 m/s",
+      "166.23 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "In Galilean kinematics, collinear velocities add when the motions are in the same direction."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-100",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Car A moves east at 40.0 m/s while car B moves east at 12.0 m/s. What is A's velocity relative to B?",
+    "options": [
+      "28 m/s",
+      "52.00 m/s",
+      "12.00 m/s",
+      "40.00 m/s",
+      "0 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "For motion along the same line in the same direction, relative velocity is the difference of the velocities."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-101",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Observer B moves with constant velocity 18.1 m/s relative to observer A. Which statement is required for the standard Galilean transformation between their frames?",
+    "options": [
+      "The relative motion is uniform and rectilinear",
+      "B must have constant acceleration",
+      "The frames must rotate relative to each other",
+      "The relative speed must equal the speed of light",
+      "Both observers must be at rest"
+    ],
+    "answer_index": 0,
+    "explanation": "Galilean transformations connect inertial frames in uniform rectilinear relative motion."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-102",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "A passenger walks forward inside a train at 8.10 m/s relative to the train. The train moves forward at 21.18 m/s relative to the ground. What is the passenger's ground speed?",
+    "options": [
+      "29.28 m/s",
+      "13.08 m/s",
+      "8.10 m/s",
+      "21.18 m/s",
+      "171.56 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "In Galilean kinematics, collinear velocities add when the motions are in the same direction."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-103",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Car A moves east at 40.6 m/s while car B moves east at 12.2 m/s. What is A's velocity relative to B?",
+    "options": [
+      "28.39 m/s",
+      "52.81 m/s",
+      "12.21 m/s",
+      "40.60 m/s",
+      "0 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "For motion along the same line in the same direction, relative velocity is the difference of the velocities."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-104",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Observer B moves with constant velocity 18.4 m/s relative to observer A. Which statement is required for the standard Galilean transformation between their frames?",
+    "options": [
+      "The relative motion is uniform and rectilinear",
+      "B must have constant acceleration",
+      "The frames must rotate relative to each other",
+      "The relative speed must equal the speed of light",
+      "Both observers must be at rest"
+    ],
+    "answer_index": 0,
+    "explanation": "Galilean transformations connect inertial frames in uniform rectilinear relative motion."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-105",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "A passenger walks forward inside a train at 8.25 m/s relative to the train. The train moves forward at 21.45 m/s relative to the ground. What is the passenger's ground speed?",
+    "options": [
+      "29.7 m/s",
+      "13.20 m/s",
+      "8.25 m/s",
+      "21.45 m/s",
+      "176.96 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "In Galilean kinematics, collinear velocities add when the motions are in the same direction."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-106",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Car A moves east at 41.2 m/s while car B moves east at 12.4 m/s. What is A's velocity relative to B?",
+    "options": [
+      "28.78 m/s",
+      "53.62 m/s",
+      "12.42 m/s",
+      "41.20 m/s",
+      "0 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "For motion along the same line in the same direction, relative velocity is the difference of the velocities."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-107",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Observer B moves with constant velocity 18.7 m/s relative to observer A. Which statement is required for the standard Galilean transformation between their frames?",
+    "options": [
+      "The relative motion is uniform and rectilinear",
+      "B must have constant acceleration",
+      "The frames must rotate relative to each other",
+      "The relative speed must equal the speed of light",
+      "Both observers must be at rest"
+    ],
+    "answer_index": 0,
+    "explanation": "Galilean transformations connect inertial frames in uniform rectilinear relative motion."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-108",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "A passenger walks forward inside a train at 8.40 m/s relative to the train. The train moves forward at 21.72 m/s relative to the ground. What is the passenger's ground speed?",
+    "options": [
+      "30.12 m/s",
+      "13.32 m/s",
+      "8.40 m/s",
+      "21.72 m/s",
+      "182.45 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "In Galilean kinematics, collinear velocities add when the motions are in the same direction."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-109",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Car A moves east at 41.8 m/s while car B moves east at 12.6 m/s. What is A's velocity relative to B?",
+    "options": [
+      "29.17 m/s",
+      "54.43 m/s",
+      "12.63 m/s",
+      "41.80 m/s",
+      "0 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "For motion along the same line in the same direction, relative velocity is the difference of the velocities."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-110",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Observer B moves with constant velocity 19.0 m/s relative to observer A. Which statement is required for the standard Galilean transformation between their frames?",
+    "options": [
+      "The relative motion is uniform and rectilinear",
+      "B must have constant acceleration",
+      "The frames must rotate relative to each other",
+      "The relative speed must equal the speed of light",
+      "Both observers must be at rest"
+    ],
+    "answer_index": 0,
+    "explanation": "Galilean transformations connect inertial frames in uniform rectilinear relative motion."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-111",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "A passenger walks forward inside a train at 8.55 m/s relative to the train. The train moves forward at 21.99 m/s relative to the ground. What is the passenger's ground speed?",
+    "options": [
+      "30.54 m/s",
+      "13.44 m/s",
+      "8.55 m/s",
+      "21.99 m/s",
+      "188.01 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "In Galilean kinematics, collinear velocities add when the motions are in the same direction."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-112",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Car A moves east at 42.4 m/s while car B moves east at 12.8 m/s. What is A's velocity relative to B?",
+    "options": [
+      "29.56 m/s",
+      "55.24 m/s",
+      "12.84 m/s",
+      "42.40 m/s",
+      "0 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "For motion along the same line in the same direction, relative velocity is the difference of the velocities."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-113",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Observer B moves with constant velocity 19.3 m/s relative to observer A. Which statement is required for the standard Galilean transformation between their frames?",
+    "options": [
+      "The relative motion is uniform and rectilinear",
+      "B must have constant acceleration",
+      "The frames must rotate relative to each other",
+      "The relative speed must equal the speed of light",
+      "Both observers must be at rest"
+    ],
+    "answer_index": 0,
+    "explanation": "Galilean transformations connect inertial frames in uniform rectilinear relative motion."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-114",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "A passenger walks forward inside a train at 8.70 m/s relative to the train. The train moves forward at 22.26 m/s relative to the ground. What is the passenger's ground speed?",
+    "options": [
+      "30.96 m/s",
+      "13.56 m/s",
+      "8.70 m/s",
+      "22.26 m/s",
+      "193.66 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "In Galilean kinematics, collinear velocities add when the motions are in the same direction."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-115",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Car A moves east at 43.0 m/s while car B moves east at 13.1 m/s. What is A's velocity relative to B?",
+    "options": [
+      "29.95 m/s",
+      "56.05 m/s",
+      "13.05 m/s",
+      "43.00 m/s",
+      "0 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "For motion along the same line in the same direction, relative velocity is the difference of the velocities."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-116",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Observer B moves with constant velocity 19.6 m/s relative to observer A. Which statement is required for the standard Galilean transformation between their frames?",
+    "options": [
+      "The relative motion is uniform and rectilinear",
+      "B must have constant acceleration",
+      "The frames must rotate relative to each other",
+      "The relative speed must equal the speed of light",
+      "Both observers must be at rest"
+    ],
+    "answer_index": 0,
+    "explanation": "Galilean transformations connect inertial frames in uniform rectilinear relative motion."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-117",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "A passenger walks forward inside a train at 8.85 m/s relative to the train. The train moves forward at 22.53 m/s relative to the ground. What is the passenger's ground speed?",
+    "options": [
+      "31.38 m/s",
+      "13.68 m/s",
+      "8.85 m/s",
+      "22.53 m/s",
+      "199.39 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "In Galilean kinematics, collinear velocities add when the motions are in the same direction."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-118",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Car A moves east at 43.6 m/s while car B moves east at 13.3 m/s. What is A's velocity relative to B?",
+    "options": [
+      "30.34 m/s",
+      "56.86 m/s",
+      "13.26 m/s",
+      "43.60 m/s",
+      "0 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "For motion along the same line in the same direction, relative velocity is the difference of the velocities."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-119",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Observer B moves with constant velocity 19.9 m/s relative to observer A. Which statement is required for the standard Galilean transformation between their frames?",
+    "options": [
+      "The relative motion is uniform and rectilinear",
+      "B must have constant acceleration",
+      "The frames must rotate relative to each other",
+      "The relative speed must equal the speed of light",
+      "Both observers must be at rest"
+    ],
+    "answer_index": 0,
+    "explanation": "Galilean transformations connect inertial frames in uniform rectilinear relative motion."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-120",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "A passenger walks forward inside a train at 9.00 m/s relative to the train. The train moves forward at 22.80 m/s relative to the ground. What is the passenger's ground speed?",
+    "options": [
+      "31.8 m/s",
+      "13.80 m/s",
+      "9.00 m/s",
+      "22.80 m/s",
+      "205.20 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "In Galilean kinematics, collinear velocities add when the motions are in the same direction."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-121",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Car A moves east at 44.2 m/s while car B moves east at 13.5 m/s. What is A's velocity relative to B?",
+    "options": [
+      "30.73 m/s",
+      "57.67 m/s",
+      "13.47 m/s",
+      "44.20 m/s",
+      "0 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "For motion along the same line in the same direction, relative velocity is the difference of the velocities."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-122",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Observer B moves with constant velocity 20.2 m/s relative to observer A. Which statement is required for the standard Galilean transformation between their frames?",
+    "options": [
+      "The relative motion is uniform and rectilinear",
+      "B must have constant acceleration",
+      "The frames must rotate relative to each other",
+      "The relative speed must equal the speed of light",
+      "Both observers must be at rest"
+    ],
+    "answer_index": 0,
+    "explanation": "Galilean transformations connect inertial frames in uniform rectilinear relative motion."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-123",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "A passenger walks forward inside a train at 9.15 m/s relative to the train. The train moves forward at 23.07 m/s relative to the ground. What is the passenger's ground speed?",
+    "options": [
+      "32.22 m/s",
+      "13.92 m/s",
+      "9.15 m/s",
+      "23.07 m/s",
+      "211.09 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "In Galilean kinematics, collinear velocities add when the motions are in the same direction."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-124",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Car A moves east at 44.8 m/s while car B moves east at 13.7 m/s. What is A's velocity relative to B?",
+    "options": [
+      "31.12 m/s",
+      "58.48 m/s",
+      "13.68 m/s",
+      "44.80 m/s",
+      "0 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "For motion along the same line in the same direction, relative velocity is the difference of the velocities."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-125",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Observer B moves with constant velocity 20.5 m/s relative to observer A. Which statement is required for the standard Galilean transformation between their frames?",
+    "options": [
+      "The relative motion is uniform and rectilinear",
+      "B must have constant acceleration",
+      "The frames must rotate relative to each other",
+      "The relative speed must equal the speed of light",
+      "Both observers must be at rest"
+    ],
+    "answer_index": 0,
+    "explanation": "Galilean transformations connect inertial frames in uniform rectilinear relative motion."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-126",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "A passenger walks forward inside a train at 9.30 m/s relative to the train. The train moves forward at 23.34 m/s relative to the ground. What is the passenger's ground speed?",
+    "options": [
+      "32.64 m/s",
+      "14.04 m/s",
+      "9.30 m/s",
+      "23.34 m/s",
+      "217.06 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "In Galilean kinematics, collinear velocities add when the motions are in the same direction."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-127",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Car A moves east at 45.4 m/s while car B moves east at 13.9 m/s. What is A's velocity relative to B?",
+    "options": [
+      "31.51 m/s",
+      "59.29 m/s",
+      "13.89 m/s",
+      "45.40 m/s",
+      "0 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "For motion along the same line in the same direction, relative velocity is the difference of the velocities."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-128",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Observer B moves with constant velocity 20.8 m/s relative to observer A. Which statement is required for the standard Galilean transformation between their frames?",
+    "options": [
+      "The relative motion is uniform and rectilinear",
+      "B must have constant acceleration",
+      "The frames must rotate relative to each other",
+      "The relative speed must equal the speed of light",
+      "Both observers must be at rest"
+    ],
+    "answer_index": 0,
+    "explanation": "Galilean transformations connect inertial frames in uniform rectilinear relative motion."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-129",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "A passenger walks forward inside a train at 9.45 m/s relative to the train. The train moves forward at 23.61 m/s relative to the ground. What is the passenger's ground speed?",
+    "options": [
+      "33.06 m/s",
+      "14.16 m/s",
+      "9.45 m/s",
+      "23.61 m/s",
+      "223.11 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "In Galilean kinematics, collinear velocities add when the motions are in the same direction."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-130",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Car A moves east at 46.0 m/s while car B moves east at 14.1 m/s. What is A's velocity relative to B?",
+    "options": [
+      "31.9 m/s",
+      "60.10 m/s",
+      "14.10 m/s",
+      "46.00 m/s",
+      "0 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "For motion along the same line in the same direction, relative velocity is the difference of the velocities."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-131",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Observer B moves with constant velocity 21.1 m/s relative to observer A. Which statement is required for the standard Galilean transformation between their frames?",
+    "options": [
+      "The relative motion is uniform and rectilinear",
+      "B must have constant acceleration",
+      "The frames must rotate relative to each other",
+      "The relative speed must equal the speed of light",
+      "Both observers must be at rest"
+    ],
+    "answer_index": 0,
+    "explanation": "Galilean transformations connect inertial frames in uniform rectilinear relative motion."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-132",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "A passenger walks forward inside a train at 9.60 m/s relative to the train. The train moves forward at 23.88 m/s relative to the ground. What is the passenger's ground speed?",
+    "options": [
+      "33.48 m/s",
+      "14.28 m/s",
+      "9.60 m/s",
+      "23.88 m/s",
+      "229.25 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "In Galilean kinematics, collinear velocities add when the motions are in the same direction."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-133",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Car A moves east at 46.6 m/s while car B moves east at 14.3 m/s. What is A's velocity relative to B?",
+    "options": [
+      "32.29 m/s",
+      "60.91 m/s",
+      "14.31 m/s",
+      "46.60 m/s",
+      "0 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "For motion along the same line in the same direction, relative velocity is the difference of the velocities."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-134",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Observer B moves with constant velocity 21.4 m/s relative to observer A. Which statement is required for the standard Galilean transformation between their frames?",
+    "options": [
+      "The relative motion is uniform and rectilinear",
+      "B must have constant acceleration",
+      "The frames must rotate relative to each other",
+      "The relative speed must equal the speed of light",
+      "Both observers must be at rest"
+    ],
+    "answer_index": 0,
+    "explanation": "Galilean transformations connect inertial frames in uniform rectilinear relative motion."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-135",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "A passenger walks forward inside a train at 9.75 m/s relative to the train. The train moves forward at 24.15 m/s relative to the ground. What is the passenger's ground speed?",
+    "options": [
+      "33.9 m/s",
+      "14.40 m/s",
+      "9.75 m/s",
+      "24.15 m/s",
+      "235.46 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "In Galilean kinematics, collinear velocities add when the motions are in the same direction."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-136",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Car A moves east at 47.2 m/s while car B moves east at 14.5 m/s. What is A's velocity relative to B?",
+    "options": [
+      "32.68 m/s",
+      "61.72 m/s",
+      "14.52 m/s",
+      "47.20 m/s",
+      "0 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "For motion along the same line in the same direction, relative velocity is the difference of the velocities."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-137",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Observer B moves with constant velocity 21.7 m/s relative to observer A. Which statement is required for the standard Galilean transformation between their frames?",
+    "options": [
+      "The relative motion is uniform and rectilinear",
+      "B must have constant acceleration",
+      "The frames must rotate relative to each other",
+      "The relative speed must equal the speed of light",
+      "Both observers must be at rest"
+    ],
+    "answer_index": 0,
+    "explanation": "Galilean transformations connect inertial frames in uniform rectilinear relative motion."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-138",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "A passenger walks forward inside a train at 9.90 m/s relative to the train. The train moves forward at 24.42 m/s relative to the ground. What is the passenger's ground speed?",
+    "options": [
+      "34.32 m/s",
+      "14.52 m/s",
+      "9.90 m/s",
+      "24.42 m/s",
+      "241.76 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "In Galilean kinematics, collinear velocities add when the motions are in the same direction."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-139",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Car A moves east at 47.8 m/s while car B moves east at 14.7 m/s. What is A's velocity relative to B?",
+    "options": [
+      "33.07 m/s",
+      "62.53 m/s",
+      "14.73 m/s",
+      "47.80 m/s",
+      "0 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "For motion along the same line in the same direction, relative velocity is the difference of the velocities."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-140",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Observer B moves with constant velocity 22.0 m/s relative to observer A. Which statement is required for the standard Galilean transformation between their frames?",
+    "options": [
+      "The relative motion is uniform and rectilinear",
+      "B must have constant acceleration",
+      "The frames must rotate relative to each other",
+      "The relative speed must equal the speed of light",
+      "Both observers must be at rest"
+    ],
+    "answer_index": 0,
+    "explanation": "Galilean transformations connect inertial frames in uniform rectilinear relative motion."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-141",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "A passenger walks forward inside a train at 10.05 m/s relative to the train. The train moves forward at 24.69 m/s relative to the ground. What is the passenger's ground speed?",
+    "options": [
+      "34.74 m/s",
+      "14.64 m/s",
+      "10.05 m/s",
+      "24.69 m/s",
+      "248.13 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "In Galilean kinematics, collinear velocities add when the motions are in the same direction."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-142",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Car A moves east at 48.4 m/s while car B moves east at 14.9 m/s. What is A's velocity relative to B?",
+    "options": [
+      "33.46 m/s",
+      "63.34 m/s",
+      "14.94 m/s",
+      "48.40 m/s",
+      "0 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "For motion along the same line in the same direction, relative velocity is the difference of the velocities."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-143",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Observer B moves with constant velocity 22.3 m/s relative to observer A. Which statement is required for the standard Galilean transformation between their frames?",
+    "options": [
+      "The relative motion is uniform and rectilinear",
+      "B must have constant acceleration",
+      "The frames must rotate relative to each other",
+      "The relative speed must equal the speed of light",
+      "Both observers must be at rest"
+    ],
+    "answer_index": 0,
+    "explanation": "Galilean transformations connect inertial frames in uniform rectilinear relative motion."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-144",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "A passenger walks forward inside a train at 10.20 m/s relative to the train. The train moves forward at 24.96 m/s relative to the ground. What is the passenger's ground speed?",
+    "options": [
+      "35.16 m/s",
+      "14.76 m/s",
+      "10.20 m/s",
+      "24.96 m/s",
+      "254.59 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "In Galilean kinematics, collinear velocities add when the motions are in the same direction."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-145",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Car A moves east at 49.0 m/s while car B moves east at 15.2 m/s. What is A's velocity relative to B?",
+    "options": [
+      "33.85 m/s",
+      "64.15 m/s",
+      "15.15 m/s",
+      "49.00 m/s",
+      "0 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "For motion along the same line in the same direction, relative velocity is the difference of the velocities."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-146",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Observer B moves with constant velocity 22.6 m/s relative to observer A. Which statement is required for the standard Galilean transformation between their frames?",
+    "options": [
+      "The relative motion is uniform and rectilinear",
+      "B must have constant acceleration",
+      "The frames must rotate relative to each other",
+      "The relative speed must equal the speed of light",
+      "Both observers must be at rest"
+    ],
+    "answer_index": 0,
+    "explanation": "Galilean transformations connect inertial frames in uniform rectilinear relative motion."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-147",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "A passenger walks forward inside a train at 10.35 m/s relative to the train. The train moves forward at 25.23 m/s relative to the ground. What is the passenger's ground speed?",
+    "options": [
+      "35.58 m/s",
+      "14.88 m/s",
+      "10.35 m/s",
+      "25.23 m/s",
+      "261.13 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "In Galilean kinematics, collinear velocities add when the motions are in the same direction."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-148",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Car A moves east at 49.6 m/s while car B moves east at 15.4 m/s. What is A's velocity relative to B?",
+    "options": [
+      "34.24 m/s",
+      "64.96 m/s",
+      "15.36 m/s",
+      "49.60 m/s",
+      "0 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "For motion along the same line in the same direction, relative velocity is the difference of the velocities."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-149",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "Observer B moves with constant velocity 22.9 m/s relative to observer A. Which statement is required for the standard Galilean transformation between their frames?",
+    "options": [
+      "The relative motion is uniform and rectilinear",
+      "B must have constant acceleration",
+      "The frames must rotate relative to each other",
+      "The relative speed must equal the speed of light",
+      "Both observers must be at rest"
+    ],
+    "answer_index": 0,
+    "explanation": "Galilean transformations connect inertial frames in uniform rectilinear relative motion."
+  },
+  {
+    "id": "IMAT-PHY-RELATIVE-150",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Relative Motion & Frames",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "format": "single-best-answer-5",
+    "stem": "A passenger walks forward inside a train at 10.50 m/s relative to the train. The train moves forward at 25.50 m/s relative to the ground. What is the passenger's ground speed?",
+    "options": [
+      "36 m/s",
+      "15.00 m/s",
+      "10.50 m/s",
+      "25.50 m/s",
+      "267.75 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "In Galilean kinematics, collinear velocities add when the motions are in the same direction."
+  }
+]
