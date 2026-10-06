@@ -88,9 +88,10 @@ h1 .grad{
   height:620px;
   overflow:hidden;
   border:0;
-  border-radius:0;
+  border-radius:28px;
   box-shadow:none;
   background:#fff;
+  position:relative;
 }
 .hero-photo img{
   width:100%;
@@ -98,7 +99,9 @@ h1 .grad{
   display:block;
   object-fit:cover;
   object-position:center;
-  filter:saturate(.96) contrast(.99) brightness(1.02);
+  filter:saturate(.96) contrast(.99) brightness(1.03);
+  -webkit-mask-image:linear-gradient(to right,transparent 0%,#000 8%,#000 92%,transparent 100%);
+  mask-image:linear-gradient(to right,transparent 0%,#000 8%,#000 92%,transparent 100%);
 }
 .ticker-wrap{
   overflow:hidden;border-top:1px solid rgba(16,36,61,.08);border-bottom:1px solid rgba(16,36,61,.08);
@@ -239,7 +242,7 @@ h1 .grad{
       </div>
     </div>
     <figure class="hero-photo">
-      <img src="https://images.pexels.com/photos/6684514/pexels-photo-6684514.jpeg?auto=compress&dpr=1&h=750&w=1260" alt="International students studying together in a bright academic space">
+      <img src="/prepenroll-international-physics/assets/confident-student.jpg" alt="Confident student studying with a laptop in a bright academic space">
     </figure>
   </section>
 
