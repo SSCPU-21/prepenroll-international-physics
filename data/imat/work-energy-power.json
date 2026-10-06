@@ -12,10 +12,12 @@
       "22.57 J",
       "11.29 J",
       "45.14 J",
-      "28.21 J"
+      "28.21 J",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "W=Fs."
+    "explanation": "W=Fs.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-002",
@@ -30,10 +32,12 @@
       "1.33 J",
       "5.32 J",
       "3.33 J",
-      "2.66 J"
+      "2.66 J",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "K=½mv²."
+    "explanation": "K=½mv².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-003",
@@ -48,10 +52,12 @@
       "51.1 W",
       "31.94 W",
       "25.55 W",
-      "12.78 W"
+      "12.78 W",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "P=W/t."
+    "explanation": "P=W/t.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-004",
@@ -66,10 +72,12 @@
       "31.61 J",
       "25.29 J",
       "12.64 J",
-      "50.58 J"
+      "50.58 J",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "W=Fs."
+    "explanation": "W=Fs.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-005",
@@ -84,10 +92,12 @@
       "3.45 J",
       "1.73 J",
       "6.9 J",
-      "4.31 J"
+      "4.31 J",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "K=½mv²."
+    "explanation": "K=½mv².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-006",
@@ -102,10 +112,12 @@
       "13.04 W",
       "52.18 W",
       "32.61 W",
-      "26.09 W"
+      "26.09 W",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "P=W/t."
+    "explanation": "P=W/t.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-007",
@@ -120,10 +132,12 @@
       "56.3 J",
       "35.19 J",
       "28.15 J",
-      "14.07 J"
+      "14.07 J",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "W=Fs."
+    "explanation": "W=Fs.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-008",
@@ -138,10 +152,12 @@
       "5.49 J",
       "4.39 J",
       "2.19 J",
-      "8.78 J"
+      "8.78 J",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "K=½mv²."
+    "explanation": "K=½mv².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-009",
@@ -156,10 +172,12 @@
       "26.6 W",
       "13.3 W",
       "53.2 W",
-      "33.25 W"
+      "33.25 W",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "P=W/t."
+    "explanation": "P=W/t.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-010",
@@ -174,10 +192,12 @@
       "15.57 J",
       "62.3 J",
       "38.94 J",
-      "31.15 J"
+      "31.15 J",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "W=Fs."
+    "explanation": "W=Fs.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-011",
@@ -192,10 +212,12 @@
       "10.94 J",
       "6.84 J",
       "5.47 J",
-      "2.73 J"
+      "2.73 J",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "K=½mv²."
+    "explanation": "K=½mv².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-012",
@@ -210,10 +232,12 @@
       "33.88 W",
       "27.1 W",
       "13.55 W",
-      "54.2 W"
+      "54.2 W",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "P=W/t."
+    "explanation": "P=W/t.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-013",
@@ -228,10 +252,12 @@
       "34.3 J",
       "17.15 J",
       "68.6 J",
-      "42.88 J"
+      "42.88 J",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "W=Fs."
+    "explanation": "W=Fs.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-014",
@@ -246,10 +272,12 @@
       "3.37 J",
       "13.46 J",
       "8.41 J",
-      "6.73 J"
+      "6.73 J",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "K=½mv²."
+    "explanation": "K=½mv².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-015",
@@ -264,10 +292,12 @@
       "55.18 W",
       "34.49 W",
       "27.59 W",
-      "13.79 W"
+      "13.79 W",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "P=W/t."
+    "explanation": "P=W/t.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-016",
@@ -282,10 +312,12 @@
       "46.99 J",
       "37.59 J",
       "18.8 J",
-      "75.18 J"
+      "75.18 J",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "W=Fs."
+    "explanation": "W=Fs.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-017",
@@ -300,10 +332,12 @@
       "8.16 J",
       "4.08 J",
       "16.32 J",
-      "10.2 J"
+      "10.2 J",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "K=½mv²."
+    "explanation": "K=½mv².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-018",
@@ -318,10 +352,12 @@
       "14.03 W",
       "56.1 W",
       "35.06 W",
-      "28.05 W"
+      "28.05 W",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "P=W/t."
+    "explanation": "P=W/t.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-019",
@@ -336,10 +372,12 @@
       "82.06 J",
       "51.29 J",
       "41.03 J",
-      "20.52 J"
+      "20.52 J",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "W=Fs."
+    "explanation": "W=Fs.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-020",
@@ -354,10 +392,12 @@
       "12.22 J",
       "9.78 J",
       "4.89 J",
-      "19.56 J"
+      "19.56 J",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "K=½mv²."
+    "explanation": "K=½mv².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-021",
@@ -372,10 +412,12 @@
       "28.51 W",
       "14.26 W",
       "57.02 W",
-      "35.64 W"
+      "35.64 W",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "P=W/t."
+    "explanation": "P=W/t.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-022",
@@ -390,10 +432,12 @@
       "22.3 J",
       "89.22 J",
       "55.76 J",
-      "44.61 J"
+      "44.61 J",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "W=Fs."
+    "explanation": "W=Fs.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-023",
@@ -408,10 +452,12 @@
       "23.2 J",
       "14.5 J",
       "11.6 J",
-      "5.8 J"
+      "5.8 J",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "K=½mv²."
+    "explanation": "K=½mv².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-024",
@@ -426,10 +472,12 @@
       "36.19 W",
       "28.95 W",
       "14.47 W",
-      "57.9 W"
+      "57.9 W",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "P=W/t."
+    "explanation": "P=W/t.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-025",
@@ -444,10 +492,12 @@
       "48.33 J",
       "24.16 J",
       "96.66 J",
-      "60.41 J"
+      "60.41 J",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "W=Fs."
+    "explanation": "W=Fs.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-026",
@@ -462,10 +512,12 @@
       "6.82 J",
       "27.26 J",
       "17.04 J",
-      "13.63 J"
+      "13.63 J",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "K=½mv²."
+    "explanation": "K=½mv².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-027",
@@ -480,10 +532,12 @@
       "58.74 W",
       "36.71 W",
       "29.37 W",
-      "14.69 W"
+      "14.69 W",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "P=W/t."
+    "explanation": "P=W/t.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-028",
@@ -498,10 +552,12 @@
       "65.25 J",
       "52.2 J",
       "26.1 J",
-      "104.4 J"
+      "104.4 J",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "W=Fs."
+    "explanation": "W=Fs.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-029",
@@ -516,10 +572,12 @@
       "15.88 J",
       "7.94 J",
       "31.76 J",
-      "19.85 J"
+      "19.85 J",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "K=½mv²."
+    "explanation": "K=½mv².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-030",
@@ -534,10 +592,12 @@
       "14.89 W",
       "59.58 W",
       "37.24 W",
-      "29.79 W"
+      "29.79 W",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "P=W/t."
+    "explanation": "P=W/t.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-031",
@@ -552,10 +612,12 @@
       "112.42 J",
       "70.26 J",
       "56.21 J",
-      "28.11 J"
+      "28.11 J",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "W=Fs."
+    "explanation": "W=Fs.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-032",
@@ -570,10 +632,12 @@
       "22.96 J",
       "18.37 J",
       "9.19 J",
-      "36.74 J"
+      "36.74 J",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "K=½mv²."
+    "explanation": "K=½mv².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-033",
@@ -588,10 +652,12 @@
       "30.19 W",
       "15.1 W",
       "60.38 W",
-      "37.74 W"
+      "37.74 W",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "P=W/t."
+    "explanation": "P=W/t.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-034",
@@ -606,10 +672,12 @@
       "30.18 J",
       "120.74 J",
       "75.46 J",
-      "60.37 J"
+      "60.37 J",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "W=Fs."
+    "explanation": "W=Fs.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-035",
@@ -624,10 +692,12 @@
       "42.22 J",
       "26.39 J",
       "21.11 J",
-      "10.55 J"
+      "10.55 J",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "K=½mv²."
+    "explanation": "K=½mv².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-036",
@@ -642,10 +712,12 @@
       "38.22 W",
       "30.58 W",
       "15.29 W",
-      "61.16 W"
+      "61.16 W",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "P=W/t."
+    "explanation": "P=W/t.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-037",
@@ -660,10 +732,12 @@
       "64.67 J",
       "32.34 J",
       "129.34 J",
-      "80.84 J"
+      "80.84 J",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "W=Fs."
+    "explanation": "W=Fs.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-038",
@@ -678,10 +752,12 @@
       "12.05 J",
       "48.22 J",
       "30.14 J",
-      "24.11 J"
+      "24.11 J",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "K=½mv²."
+    "explanation": "K=½mv².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-039",
@@ -696,10 +772,12 @@
       "61.92 W",
       "38.7 W",
       "30.96 W",
-      "15.48 W"
+      "15.48 W",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "P=W/t."
+    "explanation": "P=W/t.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-040",
@@ -714,10 +792,12 @@
       "86.39 J",
       "69.11 J",
       "34.55 J",
-      "138.22 J"
+      "138.22 J",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "W=Fs."
+    "explanation": "W=Fs.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-041",
@@ -732,10 +812,12 @@
       "27.38 J",
       "13.69 J",
       "54.76 J",
-      "34.23 J"
+      "34.23 J",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "K=½mv²."
+    "explanation": "K=½mv².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-042",
@@ -750,10 +832,12 @@
       "15.66 W",
       "62.66 W",
       "39.16 W",
-      "31.33 W"
+      "31.33 W",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "P=W/t."
+    "explanation": "P=W/t.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-043",
@@ -768,10 +852,12 @@
       "147.4 J",
       "92.13 J",
       "73.7 J",
-      "36.85 J"
+      "36.85 J",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "W=Fs."
+    "explanation": "W=Fs.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-044",
@@ -786,10 +872,12 @@
       "38.66 J",
       "30.93 J",
       "15.46 J",
-      "61.86 J"
+      "61.86 J",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "K=½mv²."
+    "explanation": "K=½mv².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-045",
@@ -804,10 +892,12 @@
       "31.68 W",
       "15.84 W",
       "63.36 W",
-      "39.6 W"
+      "39.6 W",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "P=W/t."
+    "explanation": "P=W/t.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-046",
@@ -822,10 +912,12 @@
       "39.22 J",
       "156.86 J",
       "98.04 J",
-      "78.43 J"
+      "78.43 J",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "W=Fs."
+    "explanation": "W=Fs.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-047",
@@ -840,10 +932,12 @@
       "69.54 J",
       "43.46 J",
       "34.77 J",
-      "17.39 J"
+      "17.39 J",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "K=½mv²."
+    "explanation": "K=½mv².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-048",
@@ -858,10 +952,12 @@
       "40.04 W",
       "32.03 W",
       "16.02 W",
-      "64.06 W"
+      "64.06 W",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "P=W/t."
+    "explanation": "P=W/t.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-049",
@@ -876,10 +972,12 @@
       "83.31 J",
       "41.66 J",
       "166.62 J",
-      "104.14 J"
+      "104.14 J",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "W=Fs."
+    "explanation": "W=Fs.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-050",
@@ -894,10 +992,12 @@
       "19.46 J",
       "77.84 J",
       "48.65 J",
-      "38.92 J"
+      "38.92 J",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "K=½mv²."
+    "explanation": "K=½mv².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-051",
@@ -912,10 +1012,12 @@
       "64.74 W",
       "40.46 W",
       "32.37 W",
-      "16.18 W"
+      "16.18 W",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "P=W/t."
+    "explanation": "P=W/t.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-052",
@@ -930,10 +1032,12 @@
       "110.41 J",
       "88.33 J",
       "44.16 J",
-      "176.66 J"
+      "176.66 J",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "W=Fs."
+    "explanation": "W=Fs.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-053",
@@ -948,10 +1052,12 @@
       "43.38 J",
       "21.69 J",
       "86.76 J",
-      "54.23 J"
+      "54.23 J",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "K=½mv²."
+    "explanation": "K=½mv².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-054",
@@ -966,10 +1072,12 @@
       "16.35 W",
       "65.4 W",
       "40.88 W",
-      "32.7 W"
+      "32.7 W",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "P=W/t."
+    "explanation": "P=W/t.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-055",
@@ -984,10 +1092,12 @@
       "186.98 J",
       "116.86 J",
       "93.49 J",
-      "46.74 J"
+      "46.74 J",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "W=Fs."
+    "explanation": "W=Fs.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-056",
@@ -1002,10 +1112,12 @@
       "60.23 J",
       "48.18 J",
       "24.09 J",
-      "96.36 J"
+      "96.36 J",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "K=½mv²."
+    "explanation": "K=½mv².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-057",
@@ -1020,10 +1132,12 @@
       "33.02 W",
       "16.51 W",
       "66.04 W",
-      "41.28 W"
+      "41.28 W",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "P=W/t."
+    "explanation": "P=W/t.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-058",
@@ -1038,10 +1152,12 @@
       "49.4 J",
       "197.6 J",
       "123.5 J",
-      "98.8 J"
+      "98.8 J",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "W=Fs."
+    "explanation": "W=Fs.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-059",
@@ -1056,10 +1172,12 @@
       "106.62 J",
       "66.64 J",
       "53.31 J",
-      "26.66 J"
+      "26.66 J",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "K=½mv²."
+    "explanation": "K=½mv².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-060",
@@ -1074,10 +1192,12 @@
       "41.66 W",
       "33.33 W",
       "16.66 W",
-      "66.66 W"
+      "66.66 W",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "P=W/t."
+    "explanation": "P=W/t.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-061",
@@ -1092,10 +1212,12 @@
       "104.25 J",
       "52.13 J",
       "208.5 J",
-      "130.31 J"
+      "130.31 J",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "W=Fs."
+    "explanation": "W=Fs.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-062",
@@ -1110,10 +1232,12 @@
       "29.4 J",
       "117.6 J",
       "73.5 J",
-      "58.8 J"
+      "58.8 J",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "K=½mv²."
+    "explanation": "K=½mv².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-063",
@@ -1128,10 +1252,12 @@
       "67.28 W",
       "42.05 W",
       "33.64 W",
-      "16.82 W"
+      "16.82 W",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "P=W/t."
+    "explanation": "P=W/t.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-064",
@@ -1146,10 +1272,12 @@
       "137.31 J",
       "109.85 J",
       "54.92 J",
-      "219.7 J"
+      "219.7 J",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "W=Fs."
+    "explanation": "W=Fs.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-065",
@@ -1164,10 +1292,12 @@
       "64.65 J",
       "32.33 J",
       "129.3 J",
-      "80.81 J"
+      "80.81 J",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "K=½mv²."
+    "explanation": "K=½mv².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-066",
@@ -1182,10 +1312,12 @@
       "16.97 W",
       "67.88 W",
       "42.42 W",
-      "33.94 W"
+      "33.94 W",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "P=W/t."
+    "explanation": "P=W/t.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-067",
@@ -1200,10 +1332,12 @@
       "231.18 J",
       "144.49 J",
       "115.59 J",
-      "57.8 J"
+      "57.8 J",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "W=Fs."
+    "explanation": "W=Fs.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-068",
@@ -1218,10 +1352,12 @@
       "88.6 J",
       "70.88 J",
       "35.44 J",
-      "141.76 J"
+      "141.76 J",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "K=½mv²."
+    "explanation": "K=½mv².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-069",
@@ -1236,10 +1372,12 @@
       "34.22 W",
       "17.11 W",
       "68.44 W",
-      "42.77 W"
+      "42.77 W",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "P=W/t."
+    "explanation": "P=W/t.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-070",
@@ -1254,10 +1392,12 @@
       "60.73 J",
       "242.94 J",
       "151.84 J",
-      "121.47 J"
+      "121.47 J",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "W=Fs."
+    "explanation": "W=Fs.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-071",
@@ -1272,10 +1412,12 @@
       "154.98 J",
       "96.86 J",
       "77.49 J",
-      "38.74 J"
+      "38.74 J",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "K=½mv²."
+    "explanation": "K=½mv².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-072",
@@ -1290,10 +1432,12 @@
       "43.14 W",
       "34.51 W",
       "17.25 W",
-      "69.02 W"
+      "69.02 W",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "P=W/t."
+    "explanation": "P=W/t.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-073",
@@ -1308,10 +1452,12 @@
       "127.5 J",
       "63.75 J",
       "255 J",
-      "159.38 J"
+      "159.38 J",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "W=Fs."
+    "explanation": "W=Fs.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-074",
@@ -1326,10 +1472,12 @@
       "42.25 J",
       "169 J",
       "105.63 J",
-      "84.5 J"
+      "84.5 J",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "K=½mv²."
+    "explanation": "K=½mv².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-075",
@@ -1344,10 +1492,12 @@
       "69.56 W",
       "43.48 W",
       "34.78 W",
-      "17.39 W"
+      "17.39 W",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "P=W/t."
+    "explanation": "P=W/t.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-076",
@@ -1362,10 +1512,12 @@
       "167.09 J",
       "133.67 J",
       "66.83 J",
-      "267.34 J"
+      "267.34 J",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "W=Fs."
+    "explanation": "W=Fs.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-077",
@@ -1380,10 +1532,12 @@
       "91.92 J",
       "45.96 J",
       "183.84 J",
-      "114.9 J"
+      "114.9 J",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "K=½mv²."
+    "explanation": "K=½mv².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-078",
@@ -1398,10 +1552,12 @@
       "17.52 W",
       "70.1 W",
       "43.81 W",
-      "35.05 W"
+      "35.05 W",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "P=W/t."
+    "explanation": "P=W/t.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-079",
@@ -1416,10 +1572,12 @@
       "279.98 J",
       "174.99 J",
       "139.99 J",
-      "70 J"
+      "70 J",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "W=Fs."
+    "explanation": "W=Fs.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-080",
@@ -1434,10 +1592,12 @@
       "124.71 J",
       "99.77 J",
       "49.88 J",
-      "199.54 J"
+      "199.54 J",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "K=½mv²."
+    "explanation": "K=½mv².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-081",
@@ -1452,10 +1612,12 @@
       "35.31 W",
       "17.66 W",
       "70.62 W",
-      "44.14 W"
+      "44.14 W",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "P=W/t."
+    "explanation": "P=W/t.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-082",
@@ -1470,10 +1632,12 @@
       "73.22 J",
       "292.9 J",
       "183.06 J",
-      "146.45 J"
+      "146.45 J",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "W=Fs."
+    "explanation": "W=Fs.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-083",
@@ -1488,10 +1652,12 @@
       "216.08 J",
       "135.05 J",
       "108.04 J",
-      "54.02 J"
+      "54.02 J",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "K=½mv²."
+    "explanation": "K=½mv².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-084",
@@ -1506,10 +1672,12 @@
       "44.46 W",
       "35.57 W",
       "17.79 W",
-      "71.14 W"
+      "71.14 W",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "P=W/t."
+    "explanation": "P=W/t.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-085",
@@ -1524,10 +1692,12 @@
       "153.05 J",
       "76.53 J",
       "306.1 J",
-      "191.31 J"
+      "191.31 J",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "W=Fs."
+    "explanation": "W=Fs.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-086",
@@ -1542,10 +1712,12 @@
       "58.38 J",
       "233.54 J",
       "145.96 J",
-      "116.77 J"
+      "116.77 J",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "K=½mv²."
+    "explanation": "K=½mv².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-087",
@@ -1560,10 +1732,12 @@
       "71.64 W",
       "44.77 W",
       "35.82 W",
-      "17.91 W"
+      "17.91 W",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "P=W/t."
+    "explanation": "P=W/t.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-088",
@@ -1578,10 +1752,12 @@
       "199.75 J",
       "159.8 J",
       "79.9 J",
-      "319.6 J"
+      "319.6 J",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "W=Fs."
+    "explanation": "W=Fs.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-089",
@@ -1596,10 +1772,12 @@
       "125.95 J",
       "62.98 J",
       "251.9 J",
-      "157.44 J"
+      "157.44 J",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "K=½mv²."
+    "explanation": "K=½mv².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-090",
@@ -1614,10 +1792,12 @@
       "18.04 W",
       "72.14 W",
       "45.09 W",
-      "36.07 W"
+      "36.07 W",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "P=W/t."
+    "explanation": "P=W/t.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-091",
@@ -1632,10 +1812,12 @@
       "333.38 J",
       "208.36 J",
       "166.69 J",
-      "83.34 J"
+      "83.34 J",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "W=Fs."
+    "explanation": "W=Fs.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-092",
@@ -1650,10 +1832,12 @@
       "169.5 J",
       "135.6 J",
       "67.8 J",
-      "271.2 J"
+      "271.2 J",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "K=½mv²."
+    "explanation": "K=½mv².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-093",
@@ -1668,10 +1852,12 @@
       "36.3 W",
       "18.15 W",
       "72.6 W",
-      "45.38 W"
+      "45.38 W",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "P=W/t."
+    "explanation": "P=W/t.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-094",
@@ -1686,10 +1872,12 @@
       "86.86 J",
       "347.46 J",
       "217.16 J",
-      "173.73 J"
+      "173.73 J",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "W=Fs."
+    "explanation": "W=Fs.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-095",
@@ -1704,10 +1892,12 @@
       "291.46 J",
       "182.16 J",
       "145.73 J",
-      "72.86 J"
+      "72.86 J",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "K=½mv²."
+    "explanation": "K=½mv².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-096",
@@ -1722,10 +1912,12 @@
       "45.67 W",
       "36.54 W",
       "18.27 W",
-      "73.08 W"
+      "73.08 W",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "P=W/t."
+    "explanation": "P=W/t.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-097",
@@ -1740,10 +1932,12 @@
       "180.91 J",
       "90.45 J",
       "361.82 J",
-      "226.14 J"
+      "226.14 J",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "W=Fs."
+    "explanation": "W=Fs.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-098",
@@ -1758,10 +1952,12 @@
       "78.17 J",
       "312.7 J",
       "195.44 J",
-      "156.35 J"
+      "156.35 J",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "K=½mv²."
+    "explanation": "K=½mv².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-099",
@@ -1776,10 +1972,12 @@
       "73.54 W",
       "45.96 W",
       "36.77 W",
-      "18.39 W"
+      "18.39 W",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "P=W/t."
+    "explanation": "P=W/t.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-100",
@@ -1794,10 +1992,12 @@
       "235.29 J",
       "188.23 J",
       "94.11 J",
-      "376.46 J"
+      "376.46 J",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "W=Fs."
+    "explanation": "W=Fs.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-101",
@@ -1812,10 +2012,12 @@
       "167.47 J",
       "83.73 J",
       "334.94 J",
-      "209.34 J"
+      "209.34 J",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "K=½mv²."
+    "explanation": "K=½mv².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-102",
@@ -1830,10 +2032,12 @@
       "18.5 W",
       "73.98 W",
       "46.24 W",
-      "36.99 W"
+      "36.99 W",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "P=W/t."
+    "explanation": "P=W/t.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-103",
@@ -1848,10 +2052,12 @@
       "391.4 J",
       "244.63 J",
       "195.7 J",
-      "97.85 J"
+      "97.85 J",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "W=Fs."
+    "explanation": "W=Fs.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-104",
@@ -1866,10 +2072,12 @@
       "223.89 J",
       "179.11 J",
       "89.56 J",
-      "358.22 J"
+      "358.22 J",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "K=½mv²."
+    "explanation": "K=½mv².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-105",
@@ -1884,10 +2092,12 @@
       "37.21 W",
       "18.61 W",
       "74.42 W",
-      "46.51 W"
+      "46.51 W",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "P=W/t."
+    "explanation": "P=W/t.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-106",
@@ -1902,10 +2112,12 @@
       "101.66 J",
       "406.62 J",
       "254.14 J",
-      "203.31 J"
+      "203.31 J",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "W=Fs."
+    "explanation": "W=Fs.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-107",
@@ -1920,10 +2132,12 @@
       "382.56 J",
       "239.1 J",
       "191.28 J",
-      "95.64 J"
+      "95.64 J",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "K=½mv²."
+    "explanation": "K=½mv².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-108",
@@ -1938,10 +2152,12 @@
       "46.78 W",
       "37.42 W",
       "18.71 W",
-      "74.84 W"
+      "74.84 W",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "P=W/t."
+    "explanation": "P=W/t.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-109",
@@ -1956,10 +2172,12 @@
       "211.07 J",
       "105.53 J",
       "422.14 J",
-      "263.84 J"
+      "263.84 J",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "W=Fs."
+    "explanation": "W=Fs.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-110",
@@ -1974,10 +2192,12 @@
       "102 J",
       "407.98 J",
       "254.99 J",
-      "203.99 J"
+      "203.99 J",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "K=½mv²."
+    "explanation": "K=½mv².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-111",
@@ -1992,10 +2212,12 @@
       "75.26 W",
       "47.04 W",
       "37.63 W",
-      "18.82 W"
+      "18.82 W",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "P=W/t."
+    "explanation": "P=W/t.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-112",
@@ -2010,10 +2232,12 @@
       "273.71 J",
       "218.97 J",
       "109.48 J",
-      "437.94 J"
+      "437.94 J",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "W=Fs."
+    "explanation": "W=Fs.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-113",
@@ -2028,10 +2252,12 @@
       "217.24 J",
       "108.62 J",
       "434.48 J",
-      "271.55 J"
+      "271.55 J",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "K=½mv²."
+    "explanation": "K=½mv².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-114",
@@ -2046,10 +2272,12 @@
       "18.92 W",
       "75.68 W",
       "47.3 W",
-      "37.84 W"
+      "37.84 W",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "P=W/t."
+    "explanation": "P=W/t.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-115",
@@ -2064,10 +2292,12 @@
       "454.02 J",
       "283.76 J",
       "227.01 J",
-      "113.5 J"
+      "113.5 J",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "W=Fs."
+    "explanation": "W=Fs.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-116",
@@ -2082,10 +2312,12 @@
       "288.82 J",
       "231.06 J",
       "115.53 J",
-      "462.12 J"
+      "462.12 J",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "K=½mv²."
+    "explanation": "K=½mv².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-117",
@@ -2100,10 +2332,12 @@
       "38.04 W",
       "19.02 W",
       "76.08 W",
-      "47.55 W"
+      "47.55 W",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "P=W/t."
+    "explanation": "P=W/t.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-118",
@@ -2118,10 +2352,12 @@
       "117.6 J",
       "470.4 J",
       "294 J",
-      "235.2 J"
+      "235.2 J",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "W=Fs."
+    "explanation": "W=Fs.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-119",
@@ -2136,10 +2372,12 @@
       "490.92 J",
       "306.82 J",
       "245.46 J",
-      "122.73 J"
+      "122.73 J",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "K=½mv²."
+    "explanation": "K=½mv².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-120",
@@ -2154,10 +2392,12 @@
       "47.8 W",
       "38.24 W",
       "19.12 W",
-      "76.48 W"
+      "76.48 W",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "P=W/t."
+    "explanation": "P=W/t.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-121",
@@ -2172,10 +2412,12 @@
       "243.53 J",
       "121.77 J",
       "487.06 J",
-      "304.41 J"
+      "304.41 J",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "W=Fs."
+    "explanation": "W=Fs.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-122",
@@ -2190,10 +2432,12 @@
       "130.22 J",
       "520.86 J",
       "325.54 J",
-      "260.43 J"
+      "260.43 J",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "K=½mv²."
+    "explanation": "K=½mv².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-123",
@@ -2208,10 +2452,12 @@
       "76.86 W",
       "48.04 W",
       "38.43 W",
-      "19.21 W"
+      "19.21 W",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "P=W/t."
+    "explanation": "P=W/t.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-124",
@@ -2226,10 +2472,12 @@
       "315.01 J",
       "252.01 J",
       "126 J",
-      "504.02 J"
+      "504.02 J",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "W=Fs."
+    "explanation": "W=Fs.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-125",
@@ -2244,10 +2492,12 @@
       "276.01 J",
       "138 J",
       "552.02 J",
-      "345.01 J"
+      "345.01 J",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "K=½mv²."
+    "explanation": "K=½mv².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-126",
@@ -2262,10 +2512,12 @@
       "19.31 W",
       "77.24 W",
       "48.27 W",
-      "38.62 W"
+      "38.62 W",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "P=W/t."
+    "explanation": "P=W/t.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-127",
@@ -2280,10 +2532,12 @@
       "521.26 J",
       "325.79 J",
       "260.63 J",
-      "130.31 J"
+      "130.31 J",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "W=Fs."
+    "explanation": "W=Fs.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-128",
@@ -2298,10 +2552,12 @@
       "365.24 J",
       "292.19 J",
       "146.09 J",
-      "584.38 J"
+      "584.38 J",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "K=½mv²."
+    "explanation": "K=½mv².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-129",
@@ -2316,10 +2572,12 @@
       "38.8 W",
       "19.4 W",
       "77.6 W",
-      "48.5 W"
+      "48.5 W",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "P=W/t."
+    "explanation": "P=W/t.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-130",
@@ -2334,10 +2592,12 @@
       "134.69 J",
       "538.78 J",
       "336.74 J",
-      "269.39 J"
+      "269.39 J",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "W=Fs."
+    "explanation": "W=Fs.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-131",
@@ -2352,10 +2612,12 @@
       "618 J",
       "386.25 J",
       "309 J",
-      "154.5 J"
+      "154.5 J",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "K=½mv²."
+    "explanation": "K=½mv².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-132",
@@ -2370,10 +2632,12 @@
       "48.72 W",
       "38.98 W",
       "19.49 W",
-      "77.96 W"
+      "77.96 W",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "P=W/t."
+    "explanation": "P=W/t.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-133",
@@ -2388,10 +2652,12 @@
       "278.3 J",
       "139.15 J",
       "556.6 J",
-      "347.88 J"
+      "347.88 J",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "W=Fs."
+    "explanation": "W=Fs.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-134",
@@ -2406,10 +2672,12 @@
       "163.22 J",
       "652.86 J",
       "408.04 J",
-      "326.43 J"
+      "326.43 J",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "K=½mv²."
+    "explanation": "K=½mv².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-135",
@@ -2424,10 +2692,12 @@
       "78.32 W",
       "48.95 W",
       "39.16 W",
-      "19.58 W"
+      "19.58 W",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "P=W/t."
+    "explanation": "P=W/t.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-136",
@@ -2442,10 +2712,12 @@
       "359.19 J",
       "287.35 J",
       "143.68 J",
-      "574.7 J"
+      "574.7 J",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "W=Fs."
+    "explanation": "W=Fs.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-137",
@@ -2460,10 +2732,12 @@
       "344.51 J",
       "172.25 J",
       "689.02 J",
-      "430.64 J"
+      "430.64 J",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "K=½mv²."
+    "explanation": "K=½mv².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-138",
@@ -2478,10 +2752,12 @@
       "19.67 W",
       "78.68 W",
       "49.18 W",
-      "39.34 W"
+      "39.34 W",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "P=W/t."
+    "explanation": "P=W/t.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-139",
@@ -2496,10 +2772,12 @@
       "593.1 J",
       "370.69 J",
       "296.55 J",
-      "148.28 J"
+      "148.28 J",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "W=Fs."
+    "explanation": "W=Fs.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-140",
@@ -2514,10 +2792,12 @@
       "454.06 J",
       "363.25 J",
       "181.63 J",
-      "726.5 J"
+      "726.5 J",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "K=½mv²."
+    "explanation": "K=½mv².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-141",
@@ -2532,10 +2812,12 @@
       "39.51 W",
       "19.75 W",
       "79.02 W",
-      "49.39 W"
+      "49.39 W",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "P=W/t."
+    "explanation": "P=W/t.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-142",
@@ -2550,10 +2832,12 @@
       "152.94 J",
       "611.78 J",
       "382.36 J",
-      "305.89 J"
+      "305.89 J",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "W=Fs."
+    "explanation": "W=Fs.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-143",
@@ -2568,10 +2852,12 @@
       "765.3 J",
       "478.31 J",
       "382.65 J",
-      "191.32 J"
+      "191.32 J",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "K=½mv²."
+    "explanation": "K=½mv².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-144",
@@ -2586,10 +2872,12 @@
       "49.59 W",
       "39.67 W",
       "19.84 W",
-      "79.34 W"
+      "79.34 W",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "P=W/t."
+    "explanation": "P=W/t.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-145",
@@ -2604,10 +2892,12 @@
       "315.37 J",
       "157.69 J",
       "630.74 J",
-      "394.21 J"
+      "394.21 J",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "W=Fs."
+    "explanation": "W=Fs.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-146",
@@ -2622,10 +2912,12 @@
       "201.37 J",
       "805.46 J",
       "503.41 J",
-      "402.73 J"
+      "402.73 J",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "K=½mv²."
+    "explanation": "K=½mv².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-147",
@@ -2640,10 +2932,12 @@
       "79.68 W",
       "49.8 W",
       "39.84 W",
-      "19.92 W"
+      "19.92 W",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "P=W/t."
+    "explanation": "P=W/t.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-148",
@@ -2658,10 +2952,12 @@
       "406.25 J",
       "325 J",
       "162.5 J",
-      "650 J"
+      "650 J",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "W=Fs."
+    "explanation": "W=Fs.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-149",
@@ -2676,10 +2972,12 @@
       "423.5 J",
       "211.75 J",
       "847 J",
-      "529.38 J"
+      "529.38 J",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "K=½mv²."
+    "explanation": "K=½mv².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-WORK-ENERGY-POWER-150",
@@ -2694,9 +2992,11 @@
       "20 W",
       "80 W",
       "50 W",
-      "40 W"
+      "40 W",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "P=W/t."
+    "explanation": "P=W/t.",
+    "format": "single-best-answer-5"
   }
 ]
