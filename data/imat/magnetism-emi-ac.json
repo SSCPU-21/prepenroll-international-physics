@@ -1,0 +1,2702 @@
+[
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-001",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A wire 0.81 m long carries 2.04 A perpendicular to a 0.51 T field. Magnetic force?",
+    "options": [
+      "0.8427 N",
+      "0.4214 N",
+      "1.69 N",
+      "1.05 N"
+    ],
+    "answer_index": 0,
+    "explanation": "F=BIL."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-002",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 21-turn coil changes flux by 0.0205 Wb per turn in 0.102 s. Induced emf magnitude?",
+    "options": [
+      "2.11 V",
+      "8.44 V",
+      "5.28 V",
+      "4.22 V"
+    ],
+    "answer_index": 3,
+    "explanation": "|ε|=N|ΔΦ|/Δt."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-003",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An AC source has frequency 40.5 Hz. Find its period.",
+    "options": [
+      "0.0494 s",
+      "0.0309 s",
+      "0.0247 s",
+      "0.0123 s"
+    ],
+    "answer_index": 2,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-004",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A wire 0.82 m long carries 2.08 A perpendicular to a 0.52 T field. Magnetic force?",
+    "options": [
+      "1.11 N",
+      "0.8869 N",
+      "0.4435 N",
+      "1.77 N"
+    ],
+    "answer_index": 1,
+    "explanation": "F=BIL."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-005",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 22-turn coil changes flux by 0.021 Wb per turn in 0.104 s. Induced emf magnitude?",
+    "options": [
+      "4.44 V",
+      "2.22 V",
+      "8.88 V",
+      "5.55 V"
+    ],
+    "answer_index": 0,
+    "explanation": "|ε|=N|ΔΦ|/Δt."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-006",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An AC source has frequency 41 Hz. Find its period.",
+    "options": [
+      "0.0122 s",
+      "0.0488 s",
+      "0.0305 s",
+      "0.0244 s"
+    ],
+    "answer_index": 3,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-007",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A wire 0.83 m long carries 2.12 A perpendicular to a 0.53 T field. Magnetic force?",
+    "options": [
+      "1.87 N",
+      "1.17 N",
+      "0.9326 N",
+      "0.4663 N"
+    ],
+    "answer_index": 2,
+    "explanation": "F=BIL."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-008",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 23-turn coil changes flux by 0.0215 Wb per turn in 0.106 s. Induced emf magnitude?",
+    "options": [
+      "5.83 V",
+      "4.67 V",
+      "2.33 V",
+      "9.33 V"
+    ],
+    "answer_index": 1,
+    "explanation": "|ε|=N|ΔΦ|/Δt."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-009",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An AC source has frequency 41.5 Hz. Find its period.",
+    "options": [
+      "0.0241 s",
+      "0.012 s",
+      "0.0482 s",
+      "0.0301 s"
+    ],
+    "answer_index": 0,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-010",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A wire 0.84 m long carries 2.16 A perpendicular to a 0.54 T field. Magnetic force?",
+    "options": [
+      "0.4899 N",
+      "1.96 N",
+      "1.22 N",
+      "0.9798 N"
+    ],
+    "answer_index": 3,
+    "explanation": "F=BIL."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-011",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 24-turn coil changes flux by 0.022 Wb per turn in 0.108 s. Induced emf magnitude?",
+    "options": [
+      "9.78 V",
+      "6.11 V",
+      "4.89 V",
+      "2.44 V"
+    ],
+    "answer_index": 2,
+    "explanation": "|ε|=N|ΔΦ|/Δt."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-012",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An AC source has frequency 42 Hz. Find its period.",
+    "options": [
+      "0.0298 s",
+      "0.0238 s",
+      "0.0119 s",
+      "0.0476 s"
+    ],
+    "answer_index": 1,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-013",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A wire 0.85 m long carries 2.2 A perpendicular to a 0.55 T field. Magnetic force?",
+    "options": [
+      "1.03 N",
+      "0.5143 N",
+      "2.06 N",
+      "1.29 N"
+    ],
+    "answer_index": 0,
+    "explanation": "F=BIL."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-014",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 25-turn coil changes flux by 0.0225 Wb per turn in 0.11 s. Induced emf magnitude?",
+    "options": [
+      "2.56 V",
+      "10.23 V",
+      "6.39 V",
+      "5.11 V"
+    ],
+    "answer_index": 3,
+    "explanation": "|ε|=N|ΔΦ|/Δt."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-015",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An AC source has frequency 42.5 Hz. Find its period.",
+    "options": [
+      "0.0471 s",
+      "0.0294 s",
+      "0.0235 s",
+      "0.0118 s"
+    ],
+    "answer_index": 2,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-016",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A wire 0.86 m long carries 2.24 A perpendicular to a 0.56 T field. Magnetic force?",
+    "options": [
+      "1.35 N",
+      "1.08 N",
+      "0.5394 N",
+      "2.16 N"
+    ],
+    "answer_index": 1,
+    "explanation": "F=BIL."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-017",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 26-turn coil changes flux by 0.023 Wb per turn in 0.112 s. Induced emf magnitude?",
+    "options": [
+      "5.34 V",
+      "2.67 V",
+      "10.68 V",
+      "6.67 V"
+    ],
+    "answer_index": 0,
+    "explanation": "|ε|=N|ΔΦ|/Δt."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-018",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An AC source has frequency 43 Hz. Find its period.",
+    "options": [
+      "0.0116 s",
+      "0.0465 s",
+      "0.0291 s",
+      "0.0233 s"
+    ],
+    "answer_index": 3,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-019",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A wire 0.87 m long carries 2.28 A perpendicular to a 0.57 T field. Magnetic force?",
+    "options": [
+      "2.26 N",
+      "1.41 N",
+      "1.13 N",
+      "0.5653 N"
+    ],
+    "answer_index": 2,
+    "explanation": "F=BIL."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-020",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 27-turn coil changes flux by 0.0235 Wb per turn in 0.114 s. Induced emf magnitude?",
+    "options": [
+      "6.96 V",
+      "5.57 V",
+      "2.78 V",
+      "11.13 V"
+    ],
+    "answer_index": 1,
+    "explanation": "|ε|=N|ΔΦ|/Δt."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-021",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An AC source has frequency 43.5 Hz. Find its period.",
+    "options": [
+      "0.023 s",
+      "0.0115 s",
+      "0.046 s",
+      "0.0287 s"
+    ],
+    "answer_index": 0,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-022",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A wire 0.88 m long carries 2.32 A perpendicular to a 0.58 T field. Magnetic force?",
+    "options": [
+      "0.5921 N",
+      "2.37 N",
+      "1.48 N",
+      "1.18 N"
+    ],
+    "answer_index": 3,
+    "explanation": "F=BIL."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-023",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 28-turn coil changes flux by 0.024 Wb per turn in 0.116 s. Induced emf magnitude?",
+    "options": [
+      "11.59 V",
+      "7.24 V",
+      "5.79 V",
+      "2.9 V"
+    ],
+    "answer_index": 2,
+    "explanation": "|ε|=N|ΔΦ|/Δt."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-024",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An AC source has frequency 44 Hz. Find its period.",
+    "options": [
+      "0.0284 s",
+      "0.0227 s",
+      "0.0114 s",
+      "0.0455 s"
+    ],
+    "answer_index": 1,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-025",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A wire 0.89 m long carries 2.36 A perpendicular to a 0.59 T field. Magnetic force?",
+    "options": [
+      "1.24 N",
+      "0.6196 N",
+      "2.48 N",
+      "1.55 N"
+    ],
+    "answer_index": 0,
+    "explanation": "F=BIL."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-026",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 29-turn coil changes flux by 0.0245 Wb per turn in 0.118 s. Induced emf magnitude?",
+    "options": [
+      "3.01 V",
+      "12.04 V",
+      "7.53 V",
+      "6.02 V"
+    ],
+    "answer_index": 3,
+    "explanation": "|ε|=N|ΔΦ|/Δt."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-027",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An AC source has frequency 44.5 Hz. Find its period.",
+    "options": [
+      "0.0449 s",
+      "0.0281 s",
+      "0.0225 s",
+      "0.0112 s"
+    ],
+    "answer_index": 2,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-028",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A wire 0.9 m long carries 2.4 A perpendicular to a 0.6 T field. Magnetic force?",
+    "options": [
+      "1.62 N",
+      "1.3 N",
+      "0.648 N",
+      "2.59 N"
+    ],
+    "answer_index": 1,
+    "explanation": "F=BIL."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-029",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 30-turn coil changes flux by 0.025 Wb per turn in 0.12 s. Induced emf magnitude?",
+    "options": [
+      "6.25 V",
+      "3.12 V",
+      "12.5 V",
+      "7.81 V"
+    ],
+    "answer_index": 0,
+    "explanation": "|ε|=N|ΔΦ|/Δt."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-030",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An AC source has frequency 45 Hz. Find its period.",
+    "options": [
+      "0.0111 s",
+      "0.0444 s",
+      "0.0278 s",
+      "0.0222 s"
+    ],
+    "answer_index": 3,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-031",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A wire 0.91 m long carries 2.44 A perpendicular to a 0.61 T field. Magnetic force?",
+    "options": [
+      "2.71 N",
+      "1.69 N",
+      "1.35 N",
+      "0.6772 N"
+    ],
+    "answer_index": 2,
+    "explanation": "F=BIL."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-032",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 31-turn coil changes flux by 0.0255 Wb per turn in 0.122 s. Induced emf magnitude?",
+    "options": [
+      "8.1 V",
+      "6.48 V",
+      "3.24 V",
+      "12.96 V"
+    ],
+    "answer_index": 1,
+    "explanation": "|ε|=N|ΔΦ|/Δt."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-033",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An AC source has frequency 45.5 Hz. Find its period.",
+    "options": [
+      "0.022 s",
+      "0.011 s",
+      "0.044 s",
+      "0.0275 s"
+    ],
+    "answer_index": 0,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-034",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A wire 0.92 m long carries 2.48 A perpendicular to a 0.62 T field. Magnetic force?",
+    "options": [
+      "0.7073 N",
+      "2.83 N",
+      "1.77 N",
+      "1.41 N"
+    ],
+    "answer_index": 3,
+    "explanation": "F=BIL."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-035",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 32-turn coil changes flux by 0.026 Wb per turn in 0.124 s. Induced emf magnitude?",
+    "options": [
+      "13.42 V",
+      "8.39 V",
+      "6.71 V",
+      "3.35 V"
+    ],
+    "answer_index": 2,
+    "explanation": "|ε|=N|ΔΦ|/Δt."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-036",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An AC source has frequency 46 Hz. Find its period.",
+    "options": [
+      "0.0272 s",
+      "0.0217 s",
+      "0.0109 s",
+      "0.0435 s"
+    ],
+    "answer_index": 1,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-037",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A wire 0.93 m long carries 2.52 A perpendicular to a 0.63 T field. Magnetic force?",
+    "options": [
+      "1.48 N",
+      "0.7382 N",
+      "2.95 N",
+      "1.85 N"
+    ],
+    "answer_index": 0,
+    "explanation": "F=BIL."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-038",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 33-turn coil changes flux by 0.0265 Wb per turn in 0.126 s. Induced emf magnitude?",
+    "options": [
+      "3.47 V",
+      "13.88 V",
+      "8.68 V",
+      "6.94 V"
+    ],
+    "answer_index": 3,
+    "explanation": "|ε|=N|ΔΦ|/Δt."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-039",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An AC source has frequency 46.5 Hz. Find its period.",
+    "options": [
+      "0.043 s",
+      "0.0269 s",
+      "0.0215 s",
+      "0.0108 s"
+    ],
+    "answer_index": 2,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-040",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A wire 0.94 m long carries 2.56 A perpendicular to a 0.64 T field. Magnetic force?",
+    "options": [
+      "1.93 N",
+      "1.54 N",
+      "0.77 N",
+      "3.08 N"
+    ],
+    "answer_index": 1,
+    "explanation": "F=BIL."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-041",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 34-turn coil changes flux by 0.027 Wb per turn in 0.128 s. Induced emf magnitude?",
+    "options": [
+      "7.17 V",
+      "3.59 V",
+      "14.34 V",
+      "8.96 V"
+    ],
+    "answer_index": 0,
+    "explanation": "|ε|=N|ΔΦ|/Δt."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-042",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An AC source has frequency 47 Hz. Find its period.",
+    "options": [
+      "0.0106 s",
+      "0.0426 s",
+      "0.0266 s",
+      "0.0213 s"
+    ],
+    "answer_index": 3,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-043",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A wire 0.95 m long carries 2.6 A perpendicular to a 0.65 T field. Magnetic force?",
+    "options": [
+      "3.21 N",
+      "2.01 N",
+      "1.61 N",
+      "0.8028 N"
+    ],
+    "answer_index": 2,
+    "explanation": "F=BIL."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-044",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 35-turn coil changes flux by 0.0275 Wb per turn in 0.13 s. Induced emf magnitude?",
+    "options": [
+      "9.25 V",
+      "7.4 V",
+      "3.7 V",
+      "14.81 V"
+    ],
+    "answer_index": 1,
+    "explanation": "|ε|=N|ΔΦ|/Δt."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-045",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An AC source has frequency 47.5 Hz. Find its period.",
+    "options": [
+      "0.0211 s",
+      "0.0105 s",
+      "0.0421 s",
+      "0.0263 s"
+    ],
+    "answer_index": 0,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-046",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A wire 0.96 m long carries 2.64 A perpendicular to a 0.66 T field. Magnetic force?",
+    "options": [
+      "0.8364 N",
+      "3.35 N",
+      "2.09 N",
+      "1.67 N"
+    ],
+    "answer_index": 3,
+    "explanation": "F=BIL."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-047",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 36-turn coil changes flux by 0.028 Wb per turn in 0.132 s. Induced emf magnitude?",
+    "options": [
+      "15.27 V",
+      "9.55 V",
+      "7.64 V",
+      "3.82 V"
+    ],
+    "answer_index": 2,
+    "explanation": "|ε|=N|ΔΦ|/Δt."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-048",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An AC source has frequency 48 Hz. Find its period.",
+    "options": [
+      "0.026 s",
+      "0.0208 s",
+      "0.0104 s",
+      "0.0417 s"
+    ],
+    "answer_index": 1,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-049",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A wire 0.97 m long carries 2.68 A perpendicular to a 0.67 T field. Magnetic force?",
+    "options": [
+      "1.74 N",
+      "0.8709 N",
+      "3.48 N",
+      "2.18 N"
+    ],
+    "answer_index": 0,
+    "explanation": "F=BIL."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-050",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 37-turn coil changes flux by 0.0285 Wb per turn in 0.134 s. Induced emf magnitude?",
+    "options": [
+      "3.93 V",
+      "15.74 V",
+      "9.84 V",
+      "7.87 V"
+    ],
+    "answer_index": 3,
+    "explanation": "|ε|=N|ΔΦ|/Δt."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-051",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An AC source has frequency 48.5 Hz. Find its period.",
+    "options": [
+      "0.0412 s",
+      "0.0258 s",
+      "0.0206 s",
+      "0.0103 s"
+    ],
+    "answer_index": 2,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-052",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A wire 0.98 m long carries 2.72 A perpendicular to a 0.68 T field. Magnetic force?",
+    "options": [
+      "2.27 N",
+      "1.81 N",
+      "0.9063 N",
+      "3.63 N"
+    ],
+    "answer_index": 1,
+    "explanation": "F=BIL."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-053",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 38-turn coil changes flux by 0.029 Wb per turn in 0.136 s. Induced emf magnitude?",
+    "options": [
+      "8.1 V",
+      "4.05 V",
+      "16.21 V",
+      "10.13 V"
+    ],
+    "answer_index": 0,
+    "explanation": "|ε|=N|ΔΦ|/Δt."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-054",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An AC source has frequency 49 Hz. Find its period.",
+    "options": [
+      "0.0102 s",
+      "0.0408 s",
+      "0.0255 s",
+      "0.0204 s"
+    ],
+    "answer_index": 3,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-055",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A wire 0.99 m long carries 2.76 A perpendicular to a 0.69 T field. Magnetic force?",
+    "options": [
+      "3.77 N",
+      "2.36 N",
+      "1.89 N",
+      "0.9427 N"
+    ],
+    "answer_index": 2,
+    "explanation": "F=BIL."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-056",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 39-turn coil changes flux by 0.0295 Wb per turn in 0.138 s. Induced emf magnitude?",
+    "options": [
+      "10.42 V",
+      "8.34 V",
+      "4.17 V",
+      "16.67 V"
+    ],
+    "answer_index": 1,
+    "explanation": "|ε|=N|ΔΦ|/Δt."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-057",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An AC source has frequency 49.5 Hz. Find its period.",
+    "options": [
+      "0.0202 s",
+      "0.0101 s",
+      "0.0404 s",
+      "0.0253 s"
+    ],
+    "answer_index": 0,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-058",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A wire 1 m long carries 2.8 A perpendicular to a 0.7 T field. Magnetic force?",
+    "options": [
+      "0.98 N",
+      "3.92 N",
+      "2.45 N",
+      "1.96 N"
+    ],
+    "answer_index": 3,
+    "explanation": "F=BIL."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-059",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 40-turn coil changes flux by 0.03 Wb per turn in 0.14 s. Induced emf magnitude?",
+    "options": [
+      "17.14 V",
+      "10.71 V",
+      "8.57 V",
+      "4.29 V"
+    ],
+    "answer_index": 2,
+    "explanation": "|ε|=N|ΔΦ|/Δt."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-060",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An AC source has frequency 50 Hz. Find its period.",
+    "options": [
+      "0.025 s",
+      "0.02 s",
+      "0.01 s",
+      "0.04 s"
+    ],
+    "answer_index": 1,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-061",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A wire 1.01 m long carries 2.84 A perpendicular to a 0.71 T field. Magnetic force?",
+    "options": [
+      "2.04 N",
+      "1.02 N",
+      "4.07 N",
+      "2.55 N"
+    ],
+    "answer_index": 0,
+    "explanation": "F=BIL."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-062",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 41-turn coil changes flux by 0.0305 Wb per turn in 0.142 s. Induced emf magnitude?",
+    "options": [
+      "4.4 V",
+      "17.61 V",
+      "11.01 V",
+      "8.81 V"
+    ],
+    "answer_index": 3,
+    "explanation": "|ε|=N|ΔΦ|/Δt."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-063",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An AC source has frequency 50.5 Hz. Find its period.",
+    "options": [
+      "0.0396 s",
+      "0.0248 s",
+      "0.0198 s",
+      "0.0099 s"
+    ],
+    "answer_index": 2,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-064",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A wire 1.02 m long carries 2.88 A perpendicular to a 0.72 T field. Magnetic force?",
+    "options": [
+      "2.64 N",
+      "2.12 N",
+      "1.06 N",
+      "4.23 N"
+    ],
+    "answer_index": 1,
+    "explanation": "F=BIL."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-065",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 42-turn coil changes flux by 0.031 Wb per turn in 0.144 s. Induced emf magnitude?",
+    "options": [
+      "9.04 V",
+      "4.52 V",
+      "18.08 V",
+      "11.3 V"
+    ],
+    "answer_index": 0,
+    "explanation": "|ε|=N|ΔΦ|/Δt."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-066",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An AC source has frequency 51 Hz. Find its period.",
+    "options": [
+      "0.0098 s",
+      "0.0392 s",
+      "0.0245 s",
+      "0.0196 s"
+    ],
+    "answer_index": 3,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-067",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A wire 1.03 m long carries 2.92 A perpendicular to a 0.73 T field. Magnetic force?",
+    "options": [
+      "4.39 N",
+      "2.74 N",
+      "2.2 N",
+      "1.1 N"
+    ],
+    "answer_index": 2,
+    "explanation": "F=BIL."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-068",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 43-turn coil changes flux by 0.0315 Wb per turn in 0.146 s. Induced emf magnitude?",
+    "options": [
+      "11.6 V",
+      "9.28 V",
+      "4.64 V",
+      "18.55 V"
+    ],
+    "answer_index": 1,
+    "explanation": "|ε|=N|ΔΦ|/Δt."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-069",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An AC source has frequency 51.5 Hz. Find its period.",
+    "options": [
+      "0.0194 s",
+      "0.0097 s",
+      "0.0388 s",
+      "0.0243 s"
+    ],
+    "answer_index": 0,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-070",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A wire 1.04 m long carries 2.96 A perpendicular to a 0.74 T field. Magnetic force?",
+    "options": [
+      "1.14 N",
+      "4.56 N",
+      "2.85 N",
+      "2.28 N"
+    ],
+    "answer_index": 3,
+    "explanation": "F=BIL."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-071",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 44-turn coil changes flux by 0.032 Wb per turn in 0.148 s. Induced emf magnitude?",
+    "options": [
+      "19.03 V",
+      "11.89 V",
+      "9.51 V",
+      "4.76 V"
+    ],
+    "answer_index": 2,
+    "explanation": "|ε|=N|ΔΦ|/Δt."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-072",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An AC source has frequency 52 Hz. Find its period.",
+    "options": [
+      "0.024 s",
+      "0.0192 s",
+      "0.0096 s",
+      "0.0385 s"
+    ],
+    "answer_index": 1,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-073",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A wire 1.05 m long carries 3 A perpendicular to a 0.75 T field. Magnetic force?",
+    "options": [
+      "2.36 N",
+      "1.18 N",
+      "4.73 N",
+      "2.95 N"
+    ],
+    "answer_index": 0,
+    "explanation": "F=BIL."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-074",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 45-turn coil changes flux by 0.0325 Wb per turn in 0.15 s. Induced emf magnitude?",
+    "options": [
+      "4.88 V",
+      "19.5 V",
+      "12.19 V",
+      "9.75 V"
+    ],
+    "answer_index": 3,
+    "explanation": "|ε|=N|ΔΦ|/Δt."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-075",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An AC source has frequency 52.5 Hz. Find its period.",
+    "options": [
+      "0.0381 s",
+      "0.0238 s",
+      "0.019 s",
+      "0.0095 s"
+    ],
+    "answer_index": 2,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-076",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A wire 1.06 m long carries 3.04 A perpendicular to a 0.76 T field. Magnetic force?",
+    "options": [
+      "3.06 N",
+      "2.45 N",
+      "1.22 N",
+      "4.9 N"
+    ],
+    "answer_index": 1,
+    "explanation": "F=BIL."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-077",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 46-turn coil changes flux by 0.033 Wb per turn in 0.152 s. Induced emf magnitude?",
+    "options": [
+      "9.99 V",
+      "4.99 V",
+      "19.97 V",
+      "12.48 V"
+    ],
+    "answer_index": 0,
+    "explanation": "|ε|=N|ΔΦ|/Δt."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-078",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An AC source has frequency 53 Hz. Find its period.",
+    "options": [
+      "0.0094 s",
+      "0.0377 s",
+      "0.0236 s",
+      "0.0189 s"
+    ],
+    "answer_index": 3,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-079",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A wire 1.07 m long carries 3.08 A perpendicular to a 0.77 T field. Magnetic force?",
+    "options": [
+      "5.08 N",
+      "3.17 N",
+      "2.54 N",
+      "1.27 N"
+    ],
+    "answer_index": 2,
+    "explanation": "F=BIL."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-080",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 47-turn coil changes flux by 0.0335 Wb per turn in 0.154 s. Induced emf magnitude?",
+    "options": [
+      "12.78 V",
+      "10.22 V",
+      "5.11 V",
+      "20.45 V"
+    ],
+    "answer_index": 1,
+    "explanation": "|ε|=N|ΔΦ|/Δt."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-081",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An AC source has frequency 53.5 Hz. Find its period.",
+    "options": [
+      "0.0187 s",
+      "0.0093 s",
+      "0.0374 s",
+      "0.0234 s"
+    ],
+    "answer_index": 0,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-082",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A wire 1.08 m long carries 3.12 A perpendicular to a 0.78 T field. Magnetic force?",
+    "options": [
+      "1.31 N",
+      "5.26 N",
+      "3.29 N",
+      "2.63 N"
+    ],
+    "answer_index": 3,
+    "explanation": "F=BIL."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-083",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 48-turn coil changes flux by 0.034 Wb per turn in 0.156 s. Induced emf magnitude?",
+    "options": [
+      "20.92 V",
+      "13.08 V",
+      "10.46 V",
+      "5.23 V"
+    ],
+    "answer_index": 2,
+    "explanation": "|ε|=N|ΔΦ|/Δt."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-084",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An AC source has frequency 54 Hz. Find its period.",
+    "options": [
+      "0.0231 s",
+      "0.0185 s",
+      "0.0093 s",
+      "0.037 s"
+    ],
+    "answer_index": 1,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-085",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A wire 1.09 m long carries 3.16 A perpendicular to a 0.79 T field. Magnetic force?",
+    "options": [
+      "2.72 N",
+      "1.36 N",
+      "5.44 N",
+      "3.4 N"
+    ],
+    "answer_index": 0,
+    "explanation": "F=BIL."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-086",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 49-turn coil changes flux by 0.0345 Wb per turn in 0.158 s. Induced emf magnitude?",
+    "options": [
+      "5.35 V",
+      "21.4 V",
+      "13.37 V",
+      "10.7 V"
+    ],
+    "answer_index": 3,
+    "explanation": "|ε|=N|ΔΦ|/Δt."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-087",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An AC source has frequency 54.5 Hz. Find its period.",
+    "options": [
+      "0.0367 s",
+      "0.0229 s",
+      "0.0183 s",
+      "0.0092 s"
+    ],
+    "answer_index": 2,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-088",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A wire 1.1 m long carries 3.2 A perpendicular to a 0.8 T field. Magnetic force?",
+    "options": [
+      "3.52 N",
+      "2.82 N",
+      "1.41 N",
+      "5.63 N"
+    ],
+    "answer_index": 1,
+    "explanation": "F=BIL."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-089",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 50-turn coil changes flux by 0.035 Wb per turn in 0.16 s. Induced emf magnitude?",
+    "options": [
+      "10.94 V",
+      "5.47 V",
+      "21.88 V",
+      "13.67 V"
+    ],
+    "answer_index": 0,
+    "explanation": "|ε|=N|ΔΦ|/Δt."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-090",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An AC source has frequency 55 Hz. Find its period.",
+    "options": [
+      "0.0091 s",
+      "0.0364 s",
+      "0.0227 s",
+      "0.0182 s"
+    ],
+    "answer_index": 3,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-091",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A wire 1.11 m long carries 3.24 A perpendicular to a 0.81 T field. Magnetic force?",
+    "options": [
+      "5.83 N",
+      "3.64 N",
+      "2.91 N",
+      "1.46 N"
+    ],
+    "answer_index": 2,
+    "explanation": "F=BIL."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-092",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 51-turn coil changes flux by 0.0355 Wb per turn in 0.162 s. Induced emf magnitude?",
+    "options": [
+      "13.97 V",
+      "11.18 V",
+      "5.59 V",
+      "22.35 V"
+    ],
+    "answer_index": 1,
+    "explanation": "|ε|=N|ΔΦ|/Δt."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-093",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An AC source has frequency 55.5 Hz. Find its period.",
+    "options": [
+      "0.018 s",
+      "0.009 s",
+      "0.036 s",
+      "0.0225 s"
+    ],
+    "answer_index": 0,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-094",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A wire 1.12 m long carries 3.28 A perpendicular to a 0.82 T field. Magnetic force?",
+    "options": [
+      "1.51 N",
+      "6.02 N",
+      "3.77 N",
+      "3.01 N"
+    ],
+    "answer_index": 3,
+    "explanation": "F=BIL."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-095",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 52-turn coil changes flux by 0.036 Wb per turn in 0.164 s. Induced emf magnitude?",
+    "options": [
+      "22.83 V",
+      "14.27 V",
+      "11.41 V",
+      "5.71 V"
+    ],
+    "answer_index": 2,
+    "explanation": "|ε|=N|ΔΦ|/Δt."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-096",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An AC source has frequency 56 Hz. Find its period.",
+    "options": [
+      "0.0223 s",
+      "0.0179 s",
+      "0.0089 s",
+      "0.0357 s"
+    ],
+    "answer_index": 1,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-097",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A wire 1.13 m long carries 3.32 A perpendicular to a 0.83 T field. Magnetic force?",
+    "options": [
+      "3.11 N",
+      "1.56 N",
+      "6.23 N",
+      "3.89 N"
+    ],
+    "answer_index": 0,
+    "explanation": "F=BIL."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-098",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 53-turn coil changes flux by 0.0365 Wb per turn in 0.166 s. Induced emf magnitude?",
+    "options": [
+      "5.83 V",
+      "23.31 V",
+      "14.57 V",
+      "11.65 V"
+    ],
+    "answer_index": 3,
+    "explanation": "|ε|=N|ΔΦ|/Δt."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-099",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An AC source has frequency 56.5 Hz. Find its period.",
+    "options": [
+      "0.0354 s",
+      "0.0221 s",
+      "0.0177 s",
+      "0.0088 s"
+    ],
+    "answer_index": 2,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-100",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A wire 1.14 m long carries 3.36 A perpendicular to a 0.84 T field. Magnetic force?",
+    "options": [
+      "4.02 N",
+      "3.22 N",
+      "1.61 N",
+      "6.44 N"
+    ],
+    "answer_index": 1,
+    "explanation": "F=BIL."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-101",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 54-turn coil changes flux by 0.037 Wb per turn in 0.168 s. Induced emf magnitude?",
+    "options": [
+      "11.89 V",
+      "5.95 V",
+      "23.79 V",
+      "14.87 V"
+    ],
+    "answer_index": 0,
+    "explanation": "|ε|=N|ΔΦ|/Δt."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-102",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An AC source has frequency 57 Hz. Find its period.",
+    "options": [
+      "0.0088 s",
+      "0.0351 s",
+      "0.0219 s",
+      "0.0175 s"
+    ],
+    "answer_index": 3,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-103",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A wire 1.15 m long carries 3.4 A perpendicular to a 0.85 T field. Magnetic force?",
+    "options": [
+      "6.65 N",
+      "4.15 N",
+      "3.32 N",
+      "1.66 N"
+    ],
+    "answer_index": 2,
+    "explanation": "F=BIL."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-104",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 55-turn coil changes flux by 0.0375 Wb per turn in 0.17 s. Induced emf magnitude?",
+    "options": [
+      "15.17 V",
+      "12.13 V",
+      "6.07 V",
+      "24.26 V"
+    ],
+    "answer_index": 1,
+    "explanation": "|ε|=N|ΔΦ|/Δt."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-105",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An AC source has frequency 57.5 Hz. Find its period.",
+    "options": [
+      "0.0174 s",
+      "0.0087 s",
+      "0.0348 s",
+      "0.0217 s"
+    ],
+    "answer_index": 0,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-106",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A wire 1.16 m long carries 3.44 A perpendicular to a 0.86 T field. Magnetic force?",
+    "options": [
+      "1.72 N",
+      "6.86 N",
+      "4.29 N",
+      "3.43 N"
+    ],
+    "answer_index": 3,
+    "explanation": "F=BIL."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-107",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 56-turn coil changes flux by 0.038 Wb per turn in 0.172 s. Induced emf magnitude?",
+    "options": [
+      "24.74 V",
+      "15.47 V",
+      "12.37 V",
+      "6.19 V"
+    ],
+    "answer_index": 2,
+    "explanation": "|ε|=N|ΔΦ|/Δt."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-108",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An AC source has frequency 58 Hz. Find its period.",
+    "options": [
+      "0.0216 s",
+      "0.0172 s",
+      "0.0086 s",
+      "0.0345 s"
+    ],
+    "answer_index": 1,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-109",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A wire 1.17 m long carries 3.48 A perpendicular to a 0.87 T field. Magnetic force?",
+    "options": [
+      "3.54 N",
+      "1.77 N",
+      "7.08 N",
+      "4.43 N"
+    ],
+    "answer_index": 0,
+    "explanation": "F=BIL."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-110",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 57-turn coil changes flux by 0.0385 Wb per turn in 0.174 s. Induced emf magnitude?",
+    "options": [
+      "6.31 V",
+      "25.22 V",
+      "15.77 V",
+      "12.61 V"
+    ],
+    "answer_index": 3,
+    "explanation": "|ε|=N|ΔΦ|/Δt."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-111",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An AC source has frequency 58.5 Hz. Find its period.",
+    "options": [
+      "0.0342 s",
+      "0.0214 s",
+      "0.0171 s",
+      "0.0085 s"
+    ],
+    "answer_index": 2,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-112",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A wire 1.18 m long carries 3.52 A perpendicular to a 0.88 T field. Magnetic force?",
+    "options": [
+      "4.57 N",
+      "3.66 N",
+      "1.83 N",
+      "7.31 N"
+    ],
+    "answer_index": 1,
+    "explanation": "F=BIL."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-113",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 58-turn coil changes flux by 0.039 Wb per turn in 0.176 s. Induced emf magnitude?",
+    "options": [
+      "12.85 V",
+      "6.43 V",
+      "25.7 V",
+      "16.07 V"
+    ],
+    "answer_index": 0,
+    "explanation": "|ε|=N|ΔΦ|/Δt."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-114",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An AC source has frequency 59 Hz. Find its period.",
+    "options": [
+      "0.0085 s",
+      "0.0339 s",
+      "0.0212 s",
+      "0.0169 s"
+    ],
+    "answer_index": 3,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-115",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A wire 1.19 m long carries 3.56 A perpendicular to a 0.89 T field. Magnetic force?",
+    "options": [
+      "7.54 N",
+      "4.71 N",
+      "3.77 N",
+      "1.89 N"
+    ],
+    "answer_index": 2,
+    "explanation": "F=BIL."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-116",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 59-turn coil changes flux by 0.0395 Wb per turn in 0.178 s. Induced emf magnitude?",
+    "options": [
+      "16.37 V",
+      "13.09 V",
+      "6.55 V",
+      "26.19 V"
+    ],
+    "answer_index": 1,
+    "explanation": "|ε|=N|ΔΦ|/Δt."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-117",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An AC source has frequency 59.5 Hz. Find its period.",
+    "options": [
+      "0.0168 s",
+      "0.0084 s",
+      "0.0336 s",
+      "0.021 s"
+    ],
+    "answer_index": 0,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-118",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A wire 1.2 m long carries 3.6 A perpendicular to a 0.9 T field. Magnetic force?",
+    "options": [
+      "1.94 N",
+      "7.78 N",
+      "4.86 N",
+      "3.89 N"
+    ],
+    "answer_index": 3,
+    "explanation": "F=BIL."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-119",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 60-turn coil changes flux by 0.04 Wb per turn in 0.18 s. Induced emf magnitude?",
+    "options": [
+      "26.67 V",
+      "16.67 V",
+      "13.33 V",
+      "6.67 V"
+    ],
+    "answer_index": 2,
+    "explanation": "|ε|=N|ΔΦ|/Δt."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-120",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An AC source has frequency 60 Hz. Find its period.",
+    "options": [
+      "0.0208 s",
+      "0.0167 s",
+      "0.0083 s",
+      "0.0333 s"
+    ],
+    "answer_index": 1,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-121",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A wire 1.21 m long carries 3.64 A perpendicular to a 0.91 T field. Magnetic force?",
+    "options": [
+      "4.01 N",
+      "2 N",
+      "8.02 N",
+      "5.01 N"
+    ],
+    "answer_index": 0,
+    "explanation": "F=BIL."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-122",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 61-turn coil changes flux by 0.0405 Wb per turn in 0.182 s. Induced emf magnitude?",
+    "options": [
+      "6.79 V",
+      "27.15 V",
+      "16.97 V",
+      "13.57 V"
+    ],
+    "answer_index": 3,
+    "explanation": "|ε|=N|ΔΦ|/Δt."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-123",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An AC source has frequency 60.5 Hz. Find its period.",
+    "options": [
+      "0.0331 s",
+      "0.0207 s",
+      "0.0165 s",
+      "0.0083 s"
+    ],
+    "answer_index": 2,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-124",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A wire 1.22 m long carries 3.68 A perpendicular to a 0.92 T field. Magnetic force?",
+    "options": [
+      "5.16 N",
+      "4.13 N",
+      "2.07 N",
+      "8.26 N"
+    ],
+    "answer_index": 1,
+    "explanation": "F=BIL."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-125",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 62-turn coil changes flux by 0.041 Wb per turn in 0.184 s. Induced emf magnitude?",
+    "options": [
+      "13.82 V",
+      "6.91 V",
+      "27.63 V",
+      "17.27 V"
+    ],
+    "answer_index": 0,
+    "explanation": "|ε|=N|ΔΦ|/Δt."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-126",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An AC source has frequency 61 Hz. Find its period.",
+    "options": [
+      "0.0082 s",
+      "0.0328 s",
+      "0.0205 s",
+      "0.0164 s"
+    ],
+    "answer_index": 3,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-127",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A wire 1.23 m long carries 3.72 A perpendicular to a 0.93 T field. Magnetic force?",
+    "options": [
+      "8.51 N",
+      "5.32 N",
+      "4.26 N",
+      "2.13 N"
+    ],
+    "answer_index": 2,
+    "explanation": "F=BIL."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-128",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 63-turn coil changes flux by 0.0415 Wb per turn in 0.186 s. Induced emf magnitude?",
+    "options": [
+      "17.57 V",
+      "14.06 V",
+      "7.03 V",
+      "28.11 V"
+    ],
+    "answer_index": 1,
+    "explanation": "|ε|=N|ΔΦ|/Δt."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-129",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An AC source has frequency 61.5 Hz. Find its period.",
+    "options": [
+      "0.0163 s",
+      "0.0081 s",
+      "0.0325 s",
+      "0.0203 s"
+    ],
+    "answer_index": 0,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-130",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A wire 1.24 m long carries 3.76 A perpendicular to a 0.94 T field. Magnetic force?",
+    "options": [
+      "2.19 N",
+      "8.77 N",
+      "5.48 N",
+      "4.38 N"
+    ],
+    "answer_index": 3,
+    "explanation": "F=BIL."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-131",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 64-turn coil changes flux by 0.042 Wb per turn in 0.188 s. Induced emf magnitude?",
+    "options": [
+      "28.6 V",
+      "17.87 V",
+      "14.3 V",
+      "7.15 V"
+    ],
+    "answer_index": 2,
+    "explanation": "|ε|=N|ΔΦ|/Δt."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-132",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An AC source has frequency 62 Hz. Find its period.",
+    "options": [
+      "0.0202 s",
+      "0.0161 s",
+      "0.0081 s",
+      "0.0323 s"
+    ],
+    "answer_index": 1,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-133",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A wire 1.25 m long carries 3.8 A perpendicular to a 0.95 T field. Magnetic force?",
+    "options": [
+      "4.51 N",
+      "2.26 N",
+      "9.03 N",
+      "5.64 N"
+    ],
+    "answer_index": 0,
+    "explanation": "F=BIL."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-134",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 65-turn coil changes flux by 0.0425 Wb per turn in 0.19 s. Induced emf magnitude?",
+    "options": [
+      "7.27 V",
+      "29.08 V",
+      "18.17 V",
+      "14.54 V"
+    ],
+    "answer_index": 3,
+    "explanation": "|ε|=N|ΔΦ|/Δt."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-135",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An AC source has frequency 62.5 Hz. Find its period.",
+    "options": [
+      "0.032 s",
+      "0.02 s",
+      "0.016 s",
+      "0.008 s"
+    ],
+    "answer_index": 2,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-136",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A wire 1.26 m long carries 3.84 A perpendicular to a 0.96 T field. Magnetic force?",
+    "options": [
+      "5.81 N",
+      "4.64 N",
+      "2.32 N",
+      "9.29 N"
+    ],
+    "answer_index": 1,
+    "explanation": "F=BIL."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-137",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 66-turn coil changes flux by 0.043 Wb per turn in 0.192 s. Induced emf magnitude?",
+    "options": [
+      "14.78 V",
+      "7.39 V",
+      "29.56 V",
+      "18.48 V"
+    ],
+    "answer_index": 0,
+    "explanation": "|ε|=N|ΔΦ|/Δt."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-138",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An AC source has frequency 63 Hz. Find its period.",
+    "options": [
+      "0.0079 s",
+      "0.0317 s",
+      "0.0198 s",
+      "0.0159 s"
+    ],
+    "answer_index": 3,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-139",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A wire 1.27 m long carries 3.88 A perpendicular to a 0.97 T field. Magnetic force?",
+    "options": [
+      "9.56 N",
+      "5.97 N",
+      "4.78 N",
+      "2.39 N"
+    ],
+    "answer_index": 2,
+    "explanation": "F=BIL."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-140",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 67-turn coil changes flux by 0.0435 Wb per turn in 0.194 s. Induced emf magnitude?",
+    "options": [
+      "18.78 V",
+      "15.02 V",
+      "7.51 V",
+      "30.05 V"
+    ],
+    "answer_index": 1,
+    "explanation": "|ε|=N|ΔΦ|/Δt."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-141",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An AC source has frequency 63.5 Hz. Find its period.",
+    "options": [
+      "0.0157 s",
+      "0.0079 s",
+      "0.0315 s",
+      "0.0197 s"
+    ],
+    "answer_index": 0,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-142",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A wire 1.28 m long carries 3.92 A perpendicular to a 0.98 T field. Magnetic force?",
+    "options": [
+      "2.46 N",
+      "9.83 N",
+      "6.15 N",
+      "4.92 N"
+    ],
+    "answer_index": 3,
+    "explanation": "F=BIL."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-143",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 68-turn coil changes flux by 0.044 Wb per turn in 0.196 s. Induced emf magnitude?",
+    "options": [
+      "30.53 V",
+      "19.08 V",
+      "15.27 V",
+      "7.63 V"
+    ],
+    "answer_index": 2,
+    "explanation": "|ε|=N|ΔΦ|/Δt."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-144",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An AC source has frequency 64 Hz. Find its period.",
+    "options": [
+      "0.0195 s",
+      "0.0156 s",
+      "0.0078 s",
+      "0.0313 s"
+    ],
+    "answer_index": 1,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-145",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A wire 1.29 m long carries 3.96 A perpendicular to a 0.99 T field. Magnetic force?",
+    "options": [
+      "5.06 N",
+      "2.53 N",
+      "10.11 N",
+      "6.32 N"
+    ],
+    "answer_index": 0,
+    "explanation": "F=BIL."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-146",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 69-turn coil changes flux by 0.0445 Wb per turn in 0.198 s. Induced emf magnitude?",
+    "options": [
+      "7.75 V",
+      "31.02 V",
+      "19.38 V",
+      "15.51 V"
+    ],
+    "answer_index": 3,
+    "explanation": "|ε|=N|ΔΦ|/Δt."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-147",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An AC source has frequency 64.5 Hz. Find its period.",
+    "options": [
+      "0.031 s",
+      "0.0194 s",
+      "0.0155 s",
+      "0.0078 s"
+    ],
+    "answer_index": 2,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-148",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A wire 1.3 m long carries 4 A perpendicular to a 1 T field. Magnetic force?",
+    "options": [
+      "6.5 N",
+      "5.2 N",
+      "2.6 N",
+      "10.4 N"
+    ],
+    "answer_index": 1,
+    "explanation": "F=BIL."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-149",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 70-turn coil changes flux by 0.045 Wb per turn in 0.2 s. Induced emf magnitude?",
+    "options": [
+      "15.75 V",
+      "7.87 V",
+      "31.5 V",
+      "19.69 V"
+    ],
+    "answer_index": 0,
+    "explanation": "|ε|=N|ΔΦ|/Δt."
+  },
+  {
+    "id": "IMAT-PHY-MAGNETISM-EMI-AC-150",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Magnetism, EMI & AC",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "An AC source has frequency 65 Hz. Find its period.",
+    "options": [
+      "0.0077 s",
+      "0.0308 s",
+      "0.0192 s",
+      "0.0154 s"
+    ],
+    "answer_index": 3,
+    "explanation": "T=1/f."
+  }
+]
