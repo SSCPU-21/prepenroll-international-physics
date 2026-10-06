@@ -12,10 +12,12 @@
       "1116.18 J",
       "558.09 J",
       "2232.36 J",
-      "1395.23 J"
+      "1395.23 J",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Q=mcΔT."
+    "explanation": "Q=mcΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-002",
@@ -30,10 +32,12 @@
       "111.76 J/K",
       "447.06 J/K",
       "279.41 J/K",
-      "223.53 J/K"
+      "223.53 J/K",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "C=Q/ΔT."
+    "explanation": "C=Q/ΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-003",
@@ -48,10 +52,12 @@
       "364.08 kJ",
       "227.55 kJ",
       "182.04 kJ",
-      "91.02 kJ"
+      "91.02 kJ",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Q=mL."
+    "explanation": "Q=mL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-004",
@@ -66,10 +72,12 @@
       "1549.8 J",
       "1239.84 J",
       "619.92 J",
-      "2479.68 J"
+      "2479.68 J",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Q=mcΔT."
+    "explanation": "Q=mcΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-005",
@@ -84,10 +92,12 @@
       "222.12 J/K",
       "111.06 J/K",
       "444.23 J/K",
-      "277.64 J/K"
+      "277.64 J/K",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "C=Q/ΔT."
+    "explanation": "C=Q/ΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-006",
@@ -102,10 +112,12 @@
       "94.08 kJ",
       "376.32 kJ",
       "235.2 kJ",
-      "188.16 kJ"
+      "188.16 kJ",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Q=mL."
+    "explanation": "Q=mL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-007",
@@ -120,10 +132,12 @@
       "2742.32 J",
       "1713.95 J",
       "1371.16 J",
-      "685.58 J"
+      "685.58 J",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Q=mcΔT."
+    "explanation": "Q=mcΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-008",
@@ -138,10 +152,12 @@
       "275.94 J/K",
       "220.75 J/K",
       "110.38 J/K",
-      "441.51 J/K"
+      "441.51 J/K",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "C=Q/ΔT."
+    "explanation": "C=Q/ΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-009",
@@ -156,10 +172,12 @@
       "194.36 kJ",
       "97.18 kJ",
       "388.72 kJ",
-      "242.95 kJ"
+      "242.95 kJ",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Q=mL."
+    "explanation": "Q=mL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-010",
@@ -174,10 +192,12 @@
       "755.16 J",
       "3020.64 J",
       "1887.9 J",
-      "1510.32 J"
+      "1510.32 J",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Q=mcΔT."
+    "explanation": "Q=mcΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-011",
@@ -192,10 +212,12 @@
       "438.89 J/K",
       "274.31 J/K",
       "219.44 J/K",
-      "109.72 J/K"
+      "109.72 J/K",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "C=Q/ΔT."
+    "explanation": "C=Q/ΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-012",
@@ -210,10 +232,12 @@
       "250.8 kJ",
       "200.64 kJ",
       "100.32 kJ",
-      "401.28 kJ"
+      "401.28 kJ",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Q=mL."
+    "explanation": "Q=mL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-013",
@@ -228,10 +252,12 @@
       "1657.5 J",
       "828.75 J",
       "3315 J",
-      "2071.88 J"
+      "2071.88 J",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Q=mcΔT."
+    "explanation": "Q=mcΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-014",
@@ -246,10 +272,12 @@
       "109.09 J/K",
       "436.36 J/K",
       "272.73 J/K",
-      "218.18 J/K"
+      "218.18 J/K",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "C=Q/ΔT."
+    "explanation": "C=Q/ΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-015",
@@ -264,10 +292,12 @@
       "414 kJ",
       "258.75 kJ",
       "207 kJ",
-      "103.5 kJ"
+      "103.5 kJ",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Q=mL."
+    "explanation": "Q=mL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-016",
@@ -282,10 +312,12 @@
       "2266.1 J",
       "1812.88 J",
       "906.44 J",
-      "3625.76 J"
+      "3625.76 J",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Q=mcΔT."
+    "explanation": "Q=mcΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-017",
@@ -300,10 +332,12 @@
       "216.96 J/K",
       "108.48 J/K",
       "433.93 J/K",
-      "271.21 J/K"
+      "271.21 J/K",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "C=Q/ΔT."
+    "explanation": "C=Q/ΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-018",
@@ -318,10 +352,12 @@
       "106.72 kJ",
       "426.88 kJ",
       "266.8 kJ",
-      "213.44 kJ"
+      "213.44 kJ",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Q=mL."
+    "explanation": "Q=mL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-019",
@@ -336,10 +372,12 @@
       "3953.28 J",
       "2470.8 J",
       "1976.64 J",
-      "988.32 J"
+      "988.32 J",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Q=mcΔT."
+    "explanation": "Q=mcΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-020",
@@ -354,10 +392,12 @@
       "269.74 J/K",
       "215.79 J/K",
       "107.89 J/K",
-      "431.58 J/K"
+      "431.58 J/K",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "C=Q/ΔT."
+    "explanation": "C=Q/ΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-021",
@@ -372,10 +412,12 @@
       "219.96 kJ",
       "109.98 kJ",
       "439.92 kJ",
-      "274.95 kJ"
+      "274.95 kJ",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Q=mL."
+    "explanation": "Q=mL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-022",
@@ -390,10 +432,12 @@
       "1074.48 J",
       "4297.92 J",
       "2686.2 J",
-      "2148.96 J"
+      "2148.96 J",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Q=mcΔT."
+    "explanation": "Q=mcΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-023",
@@ -408,10 +452,12 @@
       "429.31 J/K",
       "268.32 J/K",
       "214.66 J/K",
-      "107.33 J/K"
+      "107.33 J/K",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "C=Q/ΔT."
+    "explanation": "C=Q/ΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-024",
@@ -426,10 +472,12 @@
       "283.2 kJ",
       "226.56 kJ",
       "113.28 kJ",
-      "453.12 kJ"
+      "453.12 kJ",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Q=mL."
+    "explanation": "Q=mL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-025",
@@ -444,10 +492,12 @@
       "2330.02 J",
       "1165.01 J",
       "4660.04 J",
-      "2912.53 J"
+      "2912.53 J",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Q=mcΔT."
+    "explanation": "Q=mcΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-026",
@@ -462,10 +512,12 @@
       "106.78 J/K",
       "427.12 J/K",
       "266.95 J/K",
-      "213.56 J/K"
+      "213.56 J/K",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "C=Q/ΔT."
+    "explanation": "C=Q/ΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-027",
@@ -480,10 +532,12 @@
       "466.48 kJ",
       "291.55 kJ",
       "233.24 kJ",
-      "116.62 kJ"
+      "116.62 kJ",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Q=mL."
+    "explanation": "Q=mL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-028",
@@ -498,10 +552,12 @@
       "3150 J",
       "2520 J",
       "1260 J",
-      "5040 J"
+      "5040 J",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Q=mcΔT."
+    "explanation": "Q=mcΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-029",
@@ -516,10 +572,12 @@
       "212.5 J/K",
       "106.25 J/K",
       "425 J/K",
-      "265.63 J/K"
+      "265.63 J/K",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "C=Q/ΔT."
+    "explanation": "C=Q/ΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-030",
@@ -534,10 +592,12 @@
       "120 kJ",
       "480 kJ",
       "300 kJ",
-      "240 kJ"
+      "240 kJ",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Q=mL."
+    "explanation": "Q=mL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-031",
@@ -552,10 +612,12 @@
       "5438.16 J",
       "3398.85 J",
       "2719.08 J",
-      "1359.54 J"
+      "1359.54 J",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Q=mcΔT."
+    "explanation": "Q=mcΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-032",
@@ -570,10 +632,12 @@
       "264.34 J/K",
       "211.48 J/K",
       "105.74 J/K",
-      "422.95 J/K"
+      "422.95 J/K",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "C=Q/ΔT."
+    "explanation": "C=Q/ΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-033",
@@ -588,10 +652,12 @@
       "246.84 kJ",
       "123.42 kJ",
       "493.68 kJ",
-      "308.55 kJ"
+      "308.55 kJ",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Q=mL."
+    "explanation": "Q=mL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-034",
@@ -606,10 +672,12 @@
       "1463.72 J",
       "5854.88 J",
       "3659.3 J",
-      "2927.44 J"
+      "2927.44 J",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Q=mcΔT."
+    "explanation": "Q=mcΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-035",
@@ -624,10 +692,12 @@
       "420.97 J/K",
       "263.1 J/K",
       "210.48 J/K",
-      "105.24 J/K"
+      "105.24 J/K",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "C=Q/ΔT."
+    "explanation": "C=Q/ΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-036",
@@ -642,10 +712,12 @@
       "317.2 kJ",
       "253.76 kJ",
       "126.88 kJ",
-      "507.52 kJ"
+      "507.52 kJ",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Q=mL."
+    "explanation": "Q=mL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-037",
@@ -660,10 +732,12 @@
       "3145.26 J",
       "1572.63 J",
       "6290.52 J",
-      "3931.58 J"
+      "3931.58 J",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Q=mcΔT."
+    "explanation": "Q=mcΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-038",
@@ -678,10 +752,12 @@
       "104.76 J/K",
       "419.05 J/K",
       "261.9 J/K",
-      "209.52 J/K"
+      "209.52 J/K",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "C=Q/ΔT."
+    "explanation": "C=Q/ΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-039",
@@ -696,10 +772,12 @@
       "521.52 kJ",
       "325.95 kJ",
       "260.76 kJ",
-      "130.38 kJ"
+      "130.38 kJ",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Q=mL."
+    "explanation": "Q=mL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-040",
@@ -714,10 +792,12 @@
       "4215.9 J",
       "3372.72 J",
       "1686.36 J",
-      "6745.44 J"
+      "6745.44 J",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Q=mcΔT."
+    "explanation": "Q=mcΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-041",
@@ -732,10 +812,12 @@
       "208.59 J/K",
       "104.3 J/K",
       "417.19 J/K",
-      "260.74 J/K"
+      "260.74 J/K",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "C=Q/ΔT."
+    "explanation": "C=Q/ΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-042",
@@ -750,10 +832,12 @@
       "133.92 kJ",
       "535.68 kJ",
       "334.8 kJ",
-      "267.84 kJ"
+      "267.84 kJ",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Q=mL."
+    "explanation": "Q=mL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-043",
@@ -768,10 +852,12 @@
       "7220 J",
       "4512.5 J",
       "3610 J",
-      "1805 J"
+      "1805 J",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Q=mcΔT."
+    "explanation": "Q=mcΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-044",
@@ -786,10 +872,12 @@
       "259.62 J/K",
       "207.69 J/K",
       "103.85 J/K",
-      "415.38 J/K"
+      "415.38 J/K",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "C=Q/ΔT."
+    "explanation": "C=Q/ΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-045",
@@ -804,10 +892,12 @@
       "275 kJ",
       "137.5 kJ",
       "550 kJ",
-      "343.75 kJ"
+      "343.75 kJ",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Q=mL."
+    "explanation": "Q=mL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-046",
@@ -822,10 +912,12 @@
       "1928.64 J",
       "7714.56 J",
       "4821.6 J",
-      "3857.28 J"
+      "3857.28 J",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Q=mcΔT."
+    "explanation": "Q=mcΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-047",
@@ -840,10 +932,12 @@
       "413.64 J/K",
       "258.52 J/K",
       "206.82 J/K",
-      "103.41 J/K"
+      "103.41 J/K",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "C=Q/ΔT."
+    "explanation": "C=Q/ΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-048",
@@ -858,10 +952,12 @@
       "352.8 kJ",
       "282.24 kJ",
       "141.12 kJ",
-      "564.48 kJ"
+      "564.48 kJ",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Q=mL."
+    "explanation": "Q=mL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-049",
@@ -876,10 +972,12 @@
       "4114.74 J",
       "2057.37 J",
       "8229.48 J",
-      "5143.43 J"
+      "5143.43 J",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Q=mcΔT."
+    "explanation": "Q=mcΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-050",
@@ -894,10 +992,12 @@
       "102.99 J/K",
       "411.94 J/K",
       "257.46 J/K",
-      "205.97 J/K"
+      "205.97 J/K",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "C=Q/ΔT."
+    "explanation": "C=Q/ΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-051",
@@ -912,10 +1012,12 @@
       "579.12 kJ",
       "361.95 kJ",
       "289.56 kJ",
-      "144.78 kJ"
+      "144.78 kJ",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Q=mL."
+    "explanation": "Q=mL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-052",
@@ -930,10 +1032,12 @@
       "5478.2 J",
       "4382.56 J",
       "2191.28 J",
-      "8765.12 J"
+      "8765.12 J",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Q=mcΔT."
+    "explanation": "Q=mcΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-053",
@@ -948,10 +1052,12 @@
       "205.15 J/K",
       "102.57 J/K",
       "410.29 J/K",
-      "256.43 J/K"
+      "256.43 J/K",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "C=Q/ΔT."
+    "explanation": "C=Q/ΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-054",
@@ -966,10 +1072,12 @@
       "148.48 kJ",
       "593.92 kJ",
       "371.2 kJ",
-      "296.96 kJ"
+      "296.96 kJ",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Q=mL."
+    "explanation": "Q=mL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-055",
@@ -984,10 +1092,12 @@
       "9321.84 J",
       "5826.15 J",
       "4660.92 J",
-      "2330.46 J"
+      "2330.46 J",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Q=mcΔT."
+    "explanation": "Q=mcΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-056",
@@ -1002,10 +1112,12 @@
       "255.43 J/K",
       "204.35 J/K",
       "102.17 J/K",
-      "408.7 J/K"
+      "408.7 J/K",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "C=Q/ΔT."
+    "explanation": "C=Q/ΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-057",
@@ -1020,10 +1132,12 @@
       "304.44 kJ",
       "152.22 kJ",
       "608.88 kJ",
-      "380.55 kJ"
+      "380.55 kJ",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Q=mL."
+    "explanation": "Q=mL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-058",
@@ -1038,10 +1152,12 @@
       "2475 J",
       "9900 J",
       "6187.5 J",
-      "4950 J"
+      "4950 J",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Q=mcΔT."
+    "explanation": "Q=mcΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-059",
@@ -1056,10 +1172,12 @@
       "407.14 J/K",
       "254.46 J/K",
       "203.57 J/K",
-      "101.79 J/K"
+      "101.79 J/K",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "C=Q/ΔT."
+    "explanation": "C=Q/ΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-060",
@@ -1074,10 +1192,12 @@
       "390 kJ",
       "312 kJ",
       "156 kJ",
-      "624 kJ"
+      "624 kJ",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Q=mL."
+    "explanation": "Q=mL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-061",
@@ -1092,10 +1212,12 @@
       "5249.98 J",
       "2624.99 J",
       "10499.96 J",
-      "6562.47 J"
+      "6562.47 J",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Q=mcΔT."
+    "explanation": "Q=mcΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-062",
@@ -1110,10 +1232,12 @@
       "101.41 J/K",
       "405.63 J/K",
       "253.52 J/K",
-      "202.82 J/K"
+      "202.82 J/K",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "C=Q/ΔT."
+    "explanation": "C=Q/ΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-063",
@@ -1128,10 +1252,12 @@
       "639.28 kJ",
       "399.55 kJ",
       "319.64 kJ",
-      "159.82 kJ"
+      "159.82 kJ",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Q=mL."
+    "explanation": "Q=mL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-064",
@@ -1146,10 +1272,12 @@
       "6951.3 J",
       "5561.04 J",
       "2780.52 J",
-      "11122.08 J"
+      "11122.08 J",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Q=mcΔT."
+    "explanation": "Q=mcΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-065",
@@ -1164,10 +1292,12 @@
       "202.08 J/K",
       "101.04 J/K",
       "404.17 J/K",
-      "252.6 J/K"
+      "252.6 J/K",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "C=Q/ΔT."
+    "explanation": "C=Q/ΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-066",
@@ -1182,10 +1312,12 @@
       "163.68 kJ",
       "654.72 kJ",
       "409.2 kJ",
-      "327.36 kJ"
+      "327.36 kJ",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Q=mL."
+    "explanation": "Q=mL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-067",
@@ -1200,10 +1332,12 @@
       "11766.72 J",
       "7354.2 J",
       "5883.36 J",
-      "2941.68 J"
+      "2941.68 J",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Q=mcΔT."
+    "explanation": "Q=mcΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-068",
@@ -1218,10 +1352,12 @@
       "251.71 J/K",
       "201.37 J/K",
       "100.68 J/K",
-      "402.74 J/K"
+      "402.74 J/K",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "C=Q/ΔT."
+    "explanation": "C=Q/ΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-069",
@@ -1236,10 +1372,12 @@
       "335.16 kJ",
       "167.58 kJ",
       "670.32 kJ",
-      "418.95 kJ"
+      "418.95 kJ",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Q=mL."
+    "explanation": "Q=mL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-070",
@@ -1254,10 +1392,12 @@
       "3108.56 J",
       "12434.24 J",
       "7771.4 J",
-      "6217.12 J"
+      "6217.12 J",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Q=mcΔT."
+    "explanation": "Q=mcΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-071",
@@ -1272,10 +1412,12 @@
       "401.35 J/K",
       "250.84 J/K",
       "200.68 J/K",
-      "100.34 J/K"
+      "100.34 J/K",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "C=Q/ΔT."
+    "explanation": "C=Q/ΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-072",
@@ -1290,10 +1432,12 @@
       "428.8 kJ",
       "343.04 kJ",
       "171.52 kJ",
-      "686.08 kJ"
+      "686.08 kJ",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Q=mL."
+    "explanation": "Q=mL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-073",
@@ -1308,10 +1452,12 @@
       "6562.5 J",
       "3281.25 J",
       "13125 J",
-      "8203.13 J"
+      "8203.13 J",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Q=mcΔT."
+    "explanation": "Q=mcΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-074",
@@ -1326,10 +1472,12 @@
       "100 J/K",
       "400 J/K",
       "250 J/K",
-      "200 J/K"
+      "200 J/K",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "C=Q/ΔT."
+    "explanation": "C=Q/ΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-075",
@@ -1344,10 +1492,12 @@
       "702 kJ",
       "438.75 kJ",
       "351 kJ",
-      "175.5 kJ"
+      "175.5 kJ",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Q=mL."
+    "explanation": "Q=mL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-076",
@@ -1362,10 +1512,12 @@
       "8649.6 J",
       "6919.68 J",
       "3459.84 J",
-      "13839.36 J"
+      "13839.36 J",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Q=mcΔT."
+    "explanation": "Q=mcΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-077",
@@ -1380,10 +1532,12 @@
       "199.34 J/K",
       "99.67 J/K",
       "398.68 J/K",
-      "249.18 J/K"
+      "249.18 J/K",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "C=Q/ΔT."
+    "explanation": "C=Q/ΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-078",
@@ -1398,10 +1552,12 @@
       "179.52 kJ",
       "718.08 kJ",
       "448.8 kJ",
-      "359.04 kJ"
+      "359.04 kJ",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Q=mL."
+    "explanation": "Q=mL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-079",
@@ -1416,10 +1572,12 @@
       "14577.68 J",
       "9111.05 J",
       "7288.84 J",
-      "3644.42 J"
+      "3644.42 J",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Q=mcΔT."
+    "explanation": "Q=mcΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-080",
@@ -1434,10 +1592,12 @@
       "248.38 J/K",
       "198.7 J/K",
       "99.35 J/K",
-      "397.4 J/K"
+      "397.4 J/K",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "C=Q/ΔT."
+    "explanation": "C=Q/ΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-081",
@@ -1452,10 +1612,12 @@
       "367.16 kJ",
       "183.58 kJ",
       "734.32 kJ",
-      "458.95 kJ"
+      "458.95 kJ",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Q=mL."
+    "explanation": "Q=mL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-082",
@@ -1470,10 +1632,12 @@
       "3835.08 J",
       "15340.32 J",
       "9587.7 J",
-      "7670.16 J"
+      "7670.16 J",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Q=mcΔT."
+    "explanation": "Q=mcΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-083",
@@ -1488,10 +1652,12 @@
       "396.15 J/K",
       "247.6 J/K",
       "198.08 J/K",
-      "99.04 J/K"
+      "99.04 J/K",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "C=Q/ΔT."
+    "explanation": "C=Q/ΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-084",
@@ -1506,10 +1672,12 @@
       "469.2 kJ",
       "375.36 kJ",
       "187.68 kJ",
-      "750.72 kJ"
+      "750.72 kJ",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Q=mL."
+    "explanation": "Q=mL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-085",
@@ -1524,10 +1692,12 @@
       "8063.82 J",
       "4031.91 J",
       "16127.64 J",
-      "10079.78 J"
+      "10079.78 J",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Q=mcΔT."
+    "explanation": "Q=mcΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-086",
@@ -1542,10 +1712,12 @@
       "98.73 J/K",
       "394.94 J/K",
       "246.84 J/K",
-      "197.47 J/K"
+      "197.47 J/K",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "C=Q/ΔT."
+    "explanation": "C=Q/ΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-087",
@@ -1560,10 +1732,12 @@
       "767.28 kJ",
       "479.55 kJ",
       "383.64 kJ",
-      "191.82 kJ"
+      "191.82 kJ",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Q=mL."
+    "explanation": "Q=mL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-088",
@@ -1578,10 +1752,12 @@
       "10587.5 J",
       "8470 J",
       "4235 J",
-      "16940 J"
+      "16940 J",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Q=mcΔT."
+    "explanation": "Q=mcΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-089",
@@ -1596,10 +1772,12 @@
       "196.88 J/K",
       "98.44 J/K",
       "393.75 J/K",
-      "246.09 J/K"
+      "246.09 J/K",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "C=Q/ΔT."
+    "explanation": "C=Q/ΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-090",
@@ -1614,10 +1792,12 @@
       "196 kJ",
       "784 kJ",
       "490 kJ",
-      "392 kJ"
+      "392 kJ",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Q=mL."
+    "explanation": "Q=mL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-091",
@@ -1632,10 +1812,12 @@
       "17777.76 J",
       "11111.1 J",
       "8888.88 J",
-      "4444.44 J"
+      "4444.44 J",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Q=mcΔT."
+    "explanation": "Q=mcΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-092",
@@ -1650,10 +1832,12 @@
       "245.37 J/K",
       "196.3 J/K",
       "98.15 J/K",
-      "392.59 J/K"
+      "392.59 J/K",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "C=Q/ΔT."
+    "explanation": "C=Q/ΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-093",
@@ -1668,10 +1852,12 @@
       "400.44 kJ",
       "200.22 kJ",
       "800.88 kJ",
-      "500.55 kJ"
+      "500.55 kJ",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Q=mL."
+    "explanation": "Q=mL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-094",
@@ -1686,10 +1872,12 @@
       "4660.32 J",
       "18641.28 J",
       "11650.8 J",
-      "9320.64 J"
+      "9320.64 J",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Q=mcΔT."
+    "explanation": "Q=mcΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-095",
@@ -1704,10 +1892,12 @@
       "391.46 J/K",
       "244.66 J/K",
       "195.73 J/K",
-      "97.87 J/K"
+      "97.87 J/K",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "C=Q/ΔT."
+    "explanation": "C=Q/ΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-096",
@@ -1722,10 +1912,12 @@
       "511.2 kJ",
       "408.96 kJ",
       "204.48 kJ",
-      "817.92 kJ"
+      "817.92 kJ",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Q=mL."
+    "explanation": "Q=mL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-097",
@@ -1740,10 +1932,12 @@
       "9765.46 J",
       "4882.73 J",
       "19530.92 J",
-      "12206.83 J"
+      "12206.83 J",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Q=mcΔT."
+    "explanation": "Q=mcΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-098",
@@ -1758,10 +1952,12 @@
       "97.59 J/K",
       "390.36 J/K",
       "243.98 J/K",
-      "195.18 J/K"
+      "195.18 J/K",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "C=Q/ΔT."
+    "explanation": "C=Q/ΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-099",
@@ -1776,10 +1972,12 @@
       "835.12 kJ",
       "521.95 kJ",
       "417.56 kJ",
-      "208.78 kJ"
+      "208.78 kJ",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Q=mL."
+    "explanation": "Q=mL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-100",
@@ -1794,10 +1992,12 @@
       "12779.4 J",
       "10223.52 J",
       "5111.76 J",
-      "20447.04 J"
+      "20447.04 J",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Q=mcΔT."
+    "explanation": "Q=mcΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-101",
@@ -1812,10 +2012,12 @@
       "194.64 J/K",
       "97.32 J/K",
       "389.29 J/K",
-      "243.3 J/K"
+      "243.3 J/K",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "C=Q/ΔT."
+    "explanation": "C=Q/ΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-102",
@@ -1830,10 +2032,12 @@
       "213.12 kJ",
       "852.48 kJ",
       "532.8 kJ",
-      "426.24 kJ"
+      "426.24 kJ",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Q=mL."
+    "explanation": "Q=mL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-103",
@@ -1848,10 +2052,12 @@
       "21390 J",
       "13368.75 J",
       "10695 J",
-      "5347.5 J"
+      "5347.5 J",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Q=mcΔT."
+    "explanation": "Q=mcΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-104",
@@ -1866,10 +2072,12 @@
       "242.65 J/K",
       "194.12 J/K",
       "97.06 J/K",
-      "388.24 J/K"
+      "388.24 J/K",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "C=Q/ΔT."
+    "explanation": "C=Q/ΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-105",
@@ -1884,10 +2092,12 @@
       "435 kJ",
       "217.5 kJ",
       "870 kJ",
-      "543.75 kJ"
+      "543.75 kJ",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Q=mL."
+    "explanation": "Q=mL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-106",
@@ -1902,10 +2112,12 @@
       "5590.04 J",
       "22360.16 J",
       "13975.1 J",
-      "11180.08 J"
+      "11180.08 J",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Q=mcΔT."
+    "explanation": "Q=mcΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-107",
@@ -1920,10 +2132,12 @@
       "387.21 J/K",
       "242.01 J/K",
       "193.6 J/K",
-      "96.8 J/K"
+      "96.8 J/K",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "C=Q/ΔT."
+    "explanation": "C=Q/ΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-108",
@@ -1938,10 +2152,12 @@
       "554.8 kJ",
       "443.84 kJ",
       "221.92 kJ",
-      "887.68 kJ"
+      "887.68 kJ",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Q=mL."
+    "explanation": "Q=mL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-109",
@@ -1956,10 +2172,12 @@
       "11678.94 J",
       "5839.47 J",
       "23357.88 J",
-      "14598.67 J"
+      "14598.67 J",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Q=mcΔT."
+    "explanation": "Q=mcΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-110",
@@ -1974,10 +2192,12 @@
       "96.55 J/K",
       "386.21 J/K",
       "241.38 J/K",
-      "193.1 J/K"
+      "193.1 J/K",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "C=Q/ΔT."
+    "explanation": "C=Q/ΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-111",
@@ -1992,10 +2212,12 @@
       "905.52 kJ",
       "565.95 kJ",
       "452.76 kJ",
-      "226.38 kJ"
+      "226.38 kJ",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Q=mL."
+    "explanation": "Q=mL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-112",
@@ -2010,10 +2232,12 @@
       "15239.7 J",
       "12191.76 J",
       "6095.88 J",
-      "24383.52 J"
+      "24383.52 J",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Q=mcΔT."
+    "explanation": "Q=mcΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-113",
@@ -2028,10 +2252,12 @@
       "192.61 J/K",
       "96.31 J/K",
       "385.23 J/K",
-      "240.77 J/K"
+      "240.77 J/K",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "C=Q/ΔT."
+    "explanation": "C=Q/ΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-114",
@@ -2046,10 +2272,12 @@
       "230.88 kJ",
       "923.52 kJ",
       "577.2 kJ",
-      "461.76 kJ"
+      "461.76 kJ",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Q=mL."
+    "explanation": "Q=mL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-115",
@@ -2064,10 +2292,12 @@
       "25437.44 J",
       "15898.4 J",
       "12718.72 J",
-      "6359.36 J"
+      "6359.36 J",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Q=mcΔT."
+    "explanation": "Q=mcΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-116",
@@ -2082,10 +2312,12 @@
       "240.17 J/K",
       "192.13 J/K",
       "96.07 J/K",
-      "384.27 J/K"
+      "384.27 J/K",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "C=Q/ΔT."
+    "explanation": "C=Q/ΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-117",
@@ -2100,10 +2332,12 @@
       "470.84 kJ",
       "235.42 kJ",
       "941.68 kJ",
-      "588.55 kJ"
+      "588.55 kJ",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Q=mL."
+    "explanation": "Q=mL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-118",
@@ -2118,10 +2352,12 @@
       "6630 J",
       "26520 J",
       "16575 J",
-      "13260 J"
+      "13260 J",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Q=mcΔT."
+    "explanation": "Q=mcΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-119",
@@ -2136,10 +2372,12 @@
       "383.33 J/K",
       "239.58 J/K",
       "191.67 J/K",
-      "95.83 J/K"
+      "95.83 J/K",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "C=Q/ΔT."
+    "explanation": "C=Q/ΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-120",
@@ -2154,10 +2392,12 @@
       "600 kJ",
       "480 kJ",
       "240 kJ",
-      "960 kJ"
+      "960 kJ",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Q=mL."
+    "explanation": "Q=mL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-121",
@@ -2172,10 +2412,12 @@
       "13815.78 J",
       "6907.89 J",
       "27631.56 J",
-      "17269.73 J"
+      "17269.73 J",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Q=mcΔT."
+    "explanation": "Q=mcΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-122",
@@ -2190,10 +2432,12 @@
       "95.6 J/K",
       "382.42 J/K",
       "239.01 J/K",
-      "191.21 J/K"
+      "191.21 J/K",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "C=Q/ΔT."
+    "explanation": "C=Q/ΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-123",
@@ -2208,10 +2452,12 @@
       "978.48 kJ",
       "611.55 kJ",
       "489.24 kJ",
-      "244.62 kJ"
+      "244.62 kJ",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Q=mL."
+    "explanation": "Q=mL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-124",
@@ -2226,10 +2472,12 @@
       "17982.8 J",
       "14386.24 J",
       "7193.12 J",
-      "28772.48 J"
+      "28772.48 J",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Q=mcΔT."
+    "explanation": "Q=mcΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-125",
@@ -2244,10 +2492,12 @@
       "190.76 J/K",
       "95.38 J/K",
       "381.52 J/K",
-      "238.45 J/K"
+      "238.45 J/K",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "C=Q/ΔT."
+    "explanation": "C=Q/ΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-126",
@@ -2262,10 +2512,12 @@
       "249.28 kJ",
       "997.12 kJ",
       "623.2 kJ",
-      "498.56 kJ"
+      "498.56 kJ",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Q=mL."
+    "explanation": "Q=mL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-127",
@@ -2280,10 +2532,12 @@
       "29943.12 J",
       "18714.45 J",
       "14971.56 J",
-      "7485.78 J"
+      "7485.78 J",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Q=mcΔT."
+    "explanation": "Q=mcΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-128",
@@ -2298,10 +2552,12 @@
       "237.9 J/K",
       "190.32 J/K",
       "95.16 J/K",
-      "380.65 J/K"
+      "380.65 J/K",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "C=Q/ΔT."
+    "explanation": "C=Q/ΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-129",
@@ -2316,10 +2572,12 @@
       "507.96 kJ",
       "253.98 kJ",
       "1015.92 kJ",
-      "634.95 kJ"
+      "634.95 kJ",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Q=mL."
+    "explanation": "Q=mL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-130",
@@ -2334,10 +2592,12 @@
       "7785.96 J",
       "31143.84 J",
       "19464.9 J",
-      "15571.92 J"
+      "15571.92 J",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Q=mcΔT."
+    "explanation": "Q=mcΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-131",
@@ -2352,10 +2612,12 @@
       "379.79 J/K",
       "237.37 J/K",
       "189.89 J/K",
-      "94.95 J/K"
+      "94.95 J/K",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "C=Q/ΔT."
+    "explanation": "C=Q/ΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-132",
@@ -2370,10 +2632,12 @@
       "646.8 kJ",
       "517.44 kJ",
       "258.72 kJ",
-      "1034.88 kJ"
+      "1034.88 kJ",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Q=mL."
+    "explanation": "Q=mL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-133",
@@ -2388,10 +2652,12 @@
       "16187.5 J",
       "8093.75 J",
       "32375 J",
-      "20234.38 J"
+      "20234.38 J",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Q=mcΔT."
+    "explanation": "Q=mcΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-134",
@@ -2406,10 +2672,12 @@
       "94.74 J/K",
       "378.95 J/K",
       "236.84 J/K",
-      "189.47 J/K"
+      "189.47 J/K",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "C=Q/ΔT."
+    "explanation": "C=Q/ΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-135",
@@ -2424,10 +2692,12 @@
       "1054 kJ",
       "658.75 kJ",
       "527 kJ",
-      "263.5 kJ"
+      "263.5 kJ",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Q=mL."
+    "explanation": "Q=mL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-136",
@@ -2442,10 +2712,12 @@
       "21023.1 J",
       "16818.48 J",
       "8409.24 J",
-      "33636.96 J"
+      "33636.96 J",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Q=mcΔT."
+    "explanation": "Q=mcΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-137",
@@ -2460,10 +2732,12 @@
       "189.06 J/K",
       "94.53 J/K",
       "378.13 J/K",
-      "236.33 J/K"
+      "236.33 J/K",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "C=Q/ΔT."
+    "explanation": "C=Q/ΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-138",
@@ -2478,10 +2752,12 @@
       "268.32 kJ",
       "1073.28 kJ",
       "670.8 kJ",
-      "536.64 kJ"
+      "536.64 kJ",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Q=mL."
+    "explanation": "Q=mL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-139",
@@ -2496,10 +2772,12 @@
       "34930.08 J",
       "21831.3 J",
       "17465.04 J",
-      "8732.52 J"
+      "8732.52 J",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Q=mcΔT."
+    "explanation": "Q=mcΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-140",
@@ -2514,10 +2792,12 @@
       "235.82 J/K",
       "188.66 J/K",
       "94.33 J/K",
-      "377.32 J/K"
+      "377.32 J/K",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "C=Q/ΔT."
+    "explanation": "C=Q/ΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-141",
@@ -2532,10 +2812,12 @@
       "546.36 kJ",
       "273.18 kJ",
       "1092.72 kJ",
-      "682.95 kJ"
+      "682.95 kJ",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Q=mL."
+    "explanation": "Q=mL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-142",
@@ -2550,10 +2832,12 @@
       "9063.68 J",
       "36254.72 J",
       "22659.2 J",
-      "18127.36 J"
+      "18127.36 J",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Q=mcΔT."
+    "explanation": "Q=mcΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-143",
@@ -2568,10 +2852,12 @@
       "376.53 J/K",
       "235.33 J/K",
       "188.27 J/K",
-      "94.13 J/K"
+      "94.13 J/K",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "C=Q/ΔT."
+    "explanation": "C=Q/ΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-144",
@@ -2586,10 +2872,12 @@
       "695.2 kJ",
       "556.16 kJ",
       "278.08 kJ",
-      "1112.32 kJ"
+      "1112.32 kJ",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Q=mL."
+    "explanation": "Q=mL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-145",
@@ -2604,10 +2892,12 @@
       "18805.62 J",
       "9402.81 J",
       "37611.24 J",
-      "23507.03 J"
+      "23507.03 J",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Q=mcΔT."
+    "explanation": "Q=mcΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-146",
@@ -2622,10 +2912,12 @@
       "93.94 J/K",
       "375.76 J/K",
       "234.85 J/K",
-      "187.88 J/K"
+      "187.88 J/K",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "C=Q/ΔT."
+    "explanation": "C=Q/ΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-147",
@@ -2640,10 +2932,12 @@
       "1132.08 kJ",
       "707.55 kJ",
       "566.04 kJ",
-      "283.02 kJ"
+      "283.02 kJ",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Q=mL."
+    "explanation": "Q=mL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-148",
@@ -2658,10 +2952,12 @@
       "24375 J",
       "19500 J",
       "9750 J",
-      "39000 J"
+      "39000 J",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Q=mcΔT."
+    "explanation": "Q=mcΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-149",
@@ -2676,10 +2972,12 @@
       "187.5 J/K",
       "93.75 J/K",
       "375 J/K",
-      "234.38 J/K"
+      "234.38 J/K",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "C=Q/ΔT."
+    "explanation": "C=Q/ΔT.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-THERMAL-CALORIMETRY-150",
@@ -2694,9 +2992,11 @@
       "288 kJ",
       "1152 kJ",
       "720 kJ",
-      "576 kJ"
+      "576 kJ",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Q=mL."
+    "explanation": "Q=mL.",
+    "format": "single-best-answer-5"
   }
 ]
