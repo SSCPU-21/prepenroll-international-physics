@@ -189,16 +189,41 @@ h1 .grad{
   h1{font-size:52px}
   .pe-footer-inner{flex-direction:column}.pe-footer-links{justify-content:flex-start}
 }
+.icon-nav{display:flex;align-items:center;gap:8px}
+.nav-icon{
+  width:36px;height:36px;border-radius:10px;
+  display:grid;place-items:center;
+  border:1px solid var(--line);
+  background:#fff;color:var(--navy);
+  transition:.18s ease;
+}
+.nav-icon svg{
+  width:17px;height:17px;
+  fill:none;stroke:currentColor;stroke-width:1.8;
+  stroke-linecap:round;stroke-linejoin:round;
+}
+.nav-icon:hover{transform:translateY(-1px);border-color:#b8c6d2;box-shadow:0 8px 18px rgba(16,36,61,.08)}
+.nav-icon.active-hub{background:#f4f8fb;border-color:#c8d8e3;color:var(--green)}
+@media(max-width:640px){
+  .icon-nav{gap:6px}
+  .nav-icon{width:34px;height:34px;border-radius:9px}
+}
 </style>
 </head>
 <body>
 <header>
   <div class="nav">
     <a class="brand" href="/prepenroll-international-physics/">Prep<span>Enroll</span>™ International</a>
-    <div class="navlinks">
-      <a class="hide-sm" href="#live">Live Studios</a>
-      <a class="hide-sm" href="#coming">Upcoming Studios</a>
-      <a class="site" href="https://www.prepenroll.com" target="_blank" rel="noopener">PrepEnroll.com ↗</a>
+    <div class="navlinks icon-nav">
+      <a class="nav-icon" href="https://sscpu-21.github.io/prepenroll-practice/" aria-label="Physics Practice Hub" title="Physics Practice Hub">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 12h4l2-5 4 10 2-5h6"/><circle cx="12" cy="12" r="9"/></svg>
+      </a>
+      <a class="nav-icon active-hub" href="/prepenroll-international-physics/" aria-label="International Physics Practice Hub" title="International Physics Practice Hub">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c3 3 4.5 6 4.5 9S15 18 12 21c-3-3-4.5-6-4.5-9S9 6 12 3z"/></svg>
+      </a>
+      <a class="nav-icon" href="https://www.prepenroll.com" target="_blank" rel="noopener" aria-label="PrepEnroll website" title="PrepEnroll.com">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M14 4h6v6M20 4l-9 9"/><path d="M18 13v6a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h6"/></svg>
+      </a>
     </div>
   </div>
 </header>
