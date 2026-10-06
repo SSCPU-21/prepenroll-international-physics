@@ -1,0 +1,2702 @@
+[
+  {
+    "id": "IMAT-PHY-VECTORS-001",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A vector has perpendicular components 2.4 and 3.3. Find its magnitude.",
+    "options": [
+      "4.08",
+      "2.04",
+      "8.16",
+      "5.1"
+    ],
+    "answer_index": 0,
+    "explanation": "Use √(x²+y²)."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-002",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force of 8.7 N acts at 60° to +x. Find its x-component.",
+    "options": [
+      "2.17 N",
+      "8.7 N",
+      "5.44 N",
+      "4.35 N"
+    ],
+    "answer_index": 3,
+    "explanation": "Fx = F cos60° = F/2."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-003",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A student walks 3.25 m east then 4.2 m north. Find displacement magnitude.",
+    "options": [
+      "10.62 m",
+      "6.64 m",
+      "5.31 m",
+      "2.65 m"
+    ],
+    "answer_index": 2,
+    "explanation": "The displacements are perpendicular, so use Pythagoras."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-004",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A vector has perpendicular components 2.8 and 3.6. Find its magnitude.",
+    "options": [
+      "5.7",
+      "4.56",
+      "2.28",
+      "9.12"
+    ],
+    "answer_index": 1,
+    "explanation": "Use √(x²+y²)."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-005",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force of 9.4 N acts at 60° to +x. Find its x-component.",
+    "options": [
+      "4.7 N",
+      "2.35 N",
+      "9.4 N",
+      "5.88 N"
+    ],
+    "answer_index": 0,
+    "explanation": "Fx = F cos60° = F/2."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-006",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A student walks 3.5 m east then 4.4 m north. Find displacement magnitude.",
+    "options": [
+      "2.81 m",
+      "11.24 m",
+      "7.03 m",
+      "5.62 m"
+    ],
+    "answer_index": 3,
+    "explanation": "The displacements are perpendicular, so use Pythagoras."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-007",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A vector has perpendicular components 3.2 and 3.9. Find its magnitude.",
+    "options": [
+      "10.08",
+      "6.3",
+      "5.04",
+      "2.52"
+    ],
+    "answer_index": 2,
+    "explanation": "Use √(x²+y²)."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-008",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force of 10.1 N acts at 60° to +x. Find its x-component.",
+    "options": [
+      "6.31 N",
+      "5.05 N",
+      "2.52 N",
+      "10.1 N"
+    ],
+    "answer_index": 1,
+    "explanation": "Fx = F cos60° = F/2."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-009",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A student walks 3.75 m east then 4.6 m north. Find displacement magnitude.",
+    "options": [
+      "5.93 m",
+      "2.96 m",
+      "11.86 m",
+      "7.41 m"
+    ],
+    "answer_index": 0,
+    "explanation": "The displacements are perpendicular, so use Pythagoras."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-010",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A vector has perpendicular components 3.6 and 4.2. Find its magnitude.",
+    "options": [
+      "2.77",
+      "11.06",
+      "6.91",
+      "5.53"
+    ],
+    "answer_index": 3,
+    "explanation": "Use √(x²+y²)."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-011",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force of 10.8 N acts at 60° to +x. Find its x-component.",
+    "options": [
+      "10.8 N",
+      "6.75 N",
+      "5.4 N",
+      "2.7 N"
+    ],
+    "answer_index": 2,
+    "explanation": "Fx = F cos60° = F/2."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-012",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A student walks 4 m east then 4.8 m north. Find displacement magnitude.",
+    "options": [
+      "7.81 m",
+      "6.25 m",
+      "3.13 m",
+      "12.5 m"
+    ],
+    "answer_index": 1,
+    "explanation": "The displacements are perpendicular, so use Pythagoras."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-013",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A vector has perpendicular components 4 and 4.5. Find its magnitude.",
+    "options": [
+      "6.02",
+      "3.01",
+      "12.04",
+      "7.52"
+    ],
+    "answer_index": 0,
+    "explanation": "Use √(x²+y²)."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-014",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force of 11.5 N acts at 60° to +x. Find its x-component.",
+    "options": [
+      "2.88 N",
+      "11.5 N",
+      "7.19 N",
+      "5.75 N"
+    ],
+    "answer_index": 3,
+    "explanation": "Fx = F cos60° = F/2."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-015",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A student walks 4.25 m east then 5 m north. Find displacement magnitude.",
+    "options": [
+      "13.12 m",
+      "8.2 m",
+      "6.56 m",
+      "3.28 m"
+    ],
+    "answer_index": 2,
+    "explanation": "The displacements are perpendicular, so use Pythagoras."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-016",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A vector has perpendicular components 4.4 and 4.8. Find its magnitude.",
+    "options": [
+      "8.14",
+      "6.51",
+      "3.25",
+      "13.02"
+    ],
+    "answer_index": 1,
+    "explanation": "Use √(x²+y²)."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-017",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force of 12.2 N acts at 60° to +x. Find its x-component.",
+    "options": [
+      "6.1 N",
+      "3.05 N",
+      "12.2 N",
+      "7.63 N"
+    ],
+    "answer_index": 0,
+    "explanation": "Fx = F cos60° = F/2."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-018",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A student walks 4.5 m east then 5.2 m north. Find displacement magnitude.",
+    "options": [
+      "3.44 m",
+      "13.76 m",
+      "8.6 m",
+      "6.88 m"
+    ],
+    "answer_index": 3,
+    "explanation": "The displacements are perpendicular, so use Pythagoras."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-019",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A vector has perpendicular components 4.8 and 5.1. Find its magnitude.",
+    "options": [
+      "14",
+      "8.75",
+      "7",
+      "3.5"
+    ],
+    "answer_index": 2,
+    "explanation": "Use √(x²+y²)."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-020",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force of 12.9 N acts at 60° to +x. Find its x-component.",
+    "options": [
+      "8.06 N",
+      "6.45 N",
+      "3.23 N",
+      "12.9 N"
+    ],
+    "answer_index": 1,
+    "explanation": "Fx = F cos60° = F/2."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-021",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A student walks 4.75 m east then 5.4 m north. Find displacement magnitude.",
+    "options": [
+      "7.19 m",
+      "3.6 m",
+      "14.38 m",
+      "8.99 m"
+    ],
+    "answer_index": 0,
+    "explanation": "The displacements are perpendicular, so use Pythagoras."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-022",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A vector has perpendicular components 5.2 and 5.4. Find its magnitude.",
+    "options": [
+      "3.75",
+      "15",
+      "9.38",
+      "7.5"
+    ],
+    "answer_index": 3,
+    "explanation": "Use √(x²+y²)."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-023",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force of 13.6 N acts at 60° to +x. Find its x-component.",
+    "options": [
+      "13.6 N",
+      "8.5 N",
+      "6.8 N",
+      "3.4 N"
+    ],
+    "answer_index": 2,
+    "explanation": "Fx = F cos60° = F/2."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-024",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A student walks 5 m east then 5.6 m north. Find displacement magnitude.",
+    "options": [
+      "9.39 m",
+      "7.51 m",
+      "3.75 m",
+      "15.02 m"
+    ],
+    "answer_index": 1,
+    "explanation": "The displacements are perpendicular, so use Pythagoras."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-025",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A vector has perpendicular components 5.6 and 5.7. Find its magnitude.",
+    "options": [
+      "7.99",
+      "4",
+      "15.98",
+      "9.99"
+    ],
+    "answer_index": 0,
+    "explanation": "Use √(x²+y²)."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-026",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force of 14.3 N acts at 60° to +x. Find its x-component.",
+    "options": [
+      "3.58 N",
+      "14.3 N",
+      "8.94 N",
+      "7.15 N"
+    ],
+    "answer_index": 3,
+    "explanation": "Fx = F cos60° = F/2."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-027",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A student walks 5.25 m east then 5.8 m north. Find displacement magnitude.",
+    "options": [
+      "15.64 m",
+      "9.78 m",
+      "7.82 m",
+      "3.91 m"
+    ],
+    "answer_index": 2,
+    "explanation": "The displacements are perpendicular, so use Pythagoras."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-028",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A vector has perpendicular components 6 and 6. Find its magnitude.",
+    "options": [
+      "10.61",
+      "8.49",
+      "4.25",
+      "16.98"
+    ],
+    "answer_index": 1,
+    "explanation": "Use √(x²+y²)."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-029",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force of 15 N acts at 60° to +x. Find its x-component.",
+    "options": [
+      "7.5 N",
+      "3.75 N",
+      "15 N",
+      "9.38 N"
+    ],
+    "answer_index": 0,
+    "explanation": "Fx = F cos60° = F/2."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-030",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A student walks 5.5 m east then 6 m north. Find displacement magnitude.",
+    "options": [
+      "4.07 m",
+      "16.28 m",
+      "10.18 m",
+      "8.14 m"
+    ],
+    "answer_index": 3,
+    "explanation": "The displacements are perpendicular, so use Pythagoras."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-031",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A vector has perpendicular components 6.4 and 6.3. Find its magnitude.",
+    "options": [
+      "17.96",
+      "11.23",
+      "8.98",
+      "4.49"
+    ],
+    "answer_index": 2,
+    "explanation": "Use √(x²+y²)."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-032",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force of 15.7 N acts at 60° to +x. Find its x-component.",
+    "options": [
+      "9.81 N",
+      "7.85 N",
+      "3.92 N",
+      "15.7 N"
+    ],
+    "answer_index": 1,
+    "explanation": "Fx = F cos60° = F/2."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-033",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A student walks 5.75 m east then 6.2 m north. Find displacement magnitude.",
+    "options": [
+      "8.46 m",
+      "4.23 m",
+      "16.92 m",
+      "10.58 m"
+    ],
+    "answer_index": 0,
+    "explanation": "The displacements are perpendicular, so use Pythagoras."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-034",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A vector has perpendicular components 6.8 and 6.6. Find its magnitude.",
+    "options": [
+      "4.74",
+      "18.96",
+      "11.85",
+      "9.48"
+    ],
+    "answer_index": 3,
+    "explanation": "Use √(x²+y²)."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-035",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force of 16.4 N acts at 60° to +x. Find its x-component.",
+    "options": [
+      "16.4 N",
+      "10.25 N",
+      "8.2 N",
+      "4.1 N"
+    ],
+    "answer_index": 2,
+    "explanation": "Fx = F cos60° = F/2."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-036",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A student walks 6 m east then 6.4 m north. Find displacement magnitude.",
+    "options": [
+      "10.96 m",
+      "8.77 m",
+      "4.38 m",
+      "17.54 m"
+    ],
+    "answer_index": 1,
+    "explanation": "The displacements are perpendicular, so use Pythagoras."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-037",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A vector has perpendicular components 7.2 and 6.9. Find its magnitude.",
+    "options": [
+      "9.97",
+      "4.99",
+      "19.94",
+      "12.46"
+    ],
+    "answer_index": 0,
+    "explanation": "Use √(x²+y²)."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-038",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force of 17.1 N acts at 60° to +x. Find its x-component.",
+    "options": [
+      "4.28 N",
+      "17.1 N",
+      "10.69 N",
+      "8.55 N"
+    ],
+    "answer_index": 3,
+    "explanation": "Fx = F cos60° = F/2."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-039",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A student walks 6.25 m east then 6.6 m north. Find displacement magnitude.",
+    "options": [
+      "18.18 m",
+      "11.36 m",
+      "9.09 m",
+      "4.54 m"
+    ],
+    "answer_index": 2,
+    "explanation": "The displacements are perpendicular, so use Pythagoras."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-040",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A vector has perpendicular components 7.6 and 7.2. Find its magnitude.",
+    "options": [
+      "13.09",
+      "10.47",
+      "5.24",
+      "20.94"
+    ],
+    "answer_index": 1,
+    "explanation": "Use √(x²+y²)."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-041",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force of 17.8 N acts at 60° to +x. Find its x-component.",
+    "options": [
+      "8.9 N",
+      "4.45 N",
+      "17.8 N",
+      "11.13 N"
+    ],
+    "answer_index": 0,
+    "explanation": "Fx = F cos60° = F/2."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-042",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A student walks 6.5 m east then 6.8 m north. Find displacement magnitude.",
+    "options": [
+      "4.71 m",
+      "18.82 m",
+      "11.76 m",
+      "9.41 m"
+    ],
+    "answer_index": 3,
+    "explanation": "The displacements are perpendicular, so use Pythagoras."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-043",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A vector has perpendicular components 8 and 7.5. Find its magnitude.",
+    "options": [
+      "21.94",
+      "13.71",
+      "10.97",
+      "5.49"
+    ],
+    "answer_index": 2,
+    "explanation": "Use √(x²+y²)."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-044",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force of 18.5 N acts at 60° to +x. Find its x-component.",
+    "options": [
+      "11.56 N",
+      "9.25 N",
+      "4.63 N",
+      "18.5 N"
+    ],
+    "answer_index": 1,
+    "explanation": "Fx = F cos60° = F/2."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-045",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A student walks 6.75 m east then 7 m north. Find displacement magnitude.",
+    "options": [
+      "9.72 m",
+      "4.86 m",
+      "19.44 m",
+      "12.15 m"
+    ],
+    "answer_index": 0,
+    "explanation": "The displacements are perpendicular, so use Pythagoras."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-046",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A vector has perpendicular components 8.4 and 7.8. Find its magnitude.",
+    "options": [
+      "5.73",
+      "22.92",
+      "14.33",
+      "11.46"
+    ],
+    "answer_index": 3,
+    "explanation": "Use √(x²+y²)."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-047",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force of 19.2 N acts at 60° to +x. Find its x-component.",
+    "options": [
+      "19.2 N",
+      "12 N",
+      "9.6 N",
+      "4.8 N"
+    ],
+    "answer_index": 2,
+    "explanation": "Fx = F cos60° = F/2."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-048",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A student walks 7 m east then 7.2 m north. Find displacement magnitude.",
+    "options": [
+      "12.55 m",
+      "10.04 m",
+      "5.02 m",
+      "20.08 m"
+    ],
+    "answer_index": 1,
+    "explanation": "The displacements are perpendicular, so use Pythagoras."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-049",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A vector has perpendicular components 8.8 and 8.1. Find its magnitude.",
+    "options": [
+      "11.96",
+      "5.98",
+      "23.92",
+      "14.95"
+    ],
+    "answer_index": 0,
+    "explanation": "Use √(x²+y²)."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-050",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force of 19.9 N acts at 60° to +x. Find its x-component.",
+    "options": [
+      "4.97 N",
+      "19.9 N",
+      "12.44 N",
+      "9.95 N"
+    ],
+    "answer_index": 3,
+    "explanation": "Fx = F cos60° = F/2."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-051",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A student walks 7.25 m east then 7.4 m north. Find displacement magnitude.",
+    "options": [
+      "20.72 m",
+      "12.95 m",
+      "10.36 m",
+      "5.18 m"
+    ],
+    "answer_index": 2,
+    "explanation": "The displacements are perpendicular, so use Pythagoras."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-052",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A vector has perpendicular components 9.2 and 8.4. Find its magnitude.",
+    "options": [
+      "15.58",
+      "12.46",
+      "6.23",
+      "24.92"
+    ],
+    "answer_index": 1,
+    "explanation": "Use √(x²+y²)."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-053",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force of 20.6 N acts at 60° to +x. Find its x-component.",
+    "options": [
+      "10.3 N",
+      "5.15 N",
+      "20.6 N",
+      "12.88 N"
+    ],
+    "answer_index": 0,
+    "explanation": "Fx = F cos60° = F/2."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-054",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A student walks 7.5 m east then 7.6 m north. Find displacement magnitude.",
+    "options": [
+      "5.34 m",
+      "21.36 m",
+      "13.35 m",
+      "10.68 m"
+    ],
+    "answer_index": 3,
+    "explanation": "The displacements are perpendicular, so use Pythagoras."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-055",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A vector has perpendicular components 9.6 and 8.7. Find its magnitude.",
+    "options": [
+      "25.92",
+      "16.2",
+      "12.96",
+      "6.48"
+    ],
+    "answer_index": 2,
+    "explanation": "Use √(x²+y²)."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-056",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force of 21.3 N acts at 60° to +x. Find its x-component.",
+    "options": [
+      "13.31 N",
+      "10.65 N",
+      "5.33 N",
+      "21.3 N"
+    ],
+    "answer_index": 1,
+    "explanation": "Fx = F cos60° = F/2."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-057",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A student walks 7.75 m east then 7.8 m north. Find displacement magnitude.",
+    "options": [
+      "11 m",
+      "5.5 m",
+      "22 m",
+      "13.75 m"
+    ],
+    "answer_index": 0,
+    "explanation": "The displacements are perpendicular, so use Pythagoras."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-058",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A vector has perpendicular components 10 and 9. Find its magnitude.",
+    "options": [
+      "6.72",
+      "26.9",
+      "16.81",
+      "13.45"
+    ],
+    "answer_index": 3,
+    "explanation": "Use √(x²+y²)."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-059",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force of 22 N acts at 60° to +x. Find its x-component.",
+    "options": [
+      "22 N",
+      "13.75 N",
+      "11 N",
+      "5.5 N"
+    ],
+    "answer_index": 2,
+    "explanation": "Fx = F cos60° = F/2."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-060",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A student walks 8 m east then 8 m north. Find displacement magnitude.",
+    "options": [
+      "14.14 m",
+      "11.31 m",
+      "5.66 m",
+      "22.62 m"
+    ],
+    "answer_index": 1,
+    "explanation": "The displacements are perpendicular, so use Pythagoras."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-061",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A vector has perpendicular components 10.4 and 9.3. Find its magnitude.",
+    "options": [
+      "13.95",
+      "6.97",
+      "27.9",
+      "17.44"
+    ],
+    "answer_index": 0,
+    "explanation": "Use √(x²+y²)."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-062",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force of 22.7 N acts at 60° to +x. Find its x-component.",
+    "options": [
+      "5.67 N",
+      "22.7 N",
+      "14.19 N",
+      "11.35 N"
+    ],
+    "answer_index": 3,
+    "explanation": "Fx = F cos60° = F/2."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-063",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A student walks 8.25 m east then 8.2 m north. Find displacement magnitude.",
+    "options": [
+      "23.26 m",
+      "14.54 m",
+      "11.63 m",
+      "5.82 m"
+    ],
+    "answer_index": 2,
+    "explanation": "The displacements are perpendicular, so use Pythagoras."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-064",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A vector has perpendicular components 10.8 and 9.6. Find its magnitude.",
+    "options": [
+      "18.06",
+      "14.45",
+      "7.22",
+      "28.9"
+    ],
+    "answer_index": 1,
+    "explanation": "Use √(x²+y²)."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-065",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force of 23.4 N acts at 60° to +x. Find its x-component.",
+    "options": [
+      "11.7 N",
+      "5.85 N",
+      "23.4 N",
+      "14.63 N"
+    ],
+    "answer_index": 0,
+    "explanation": "Fx = F cos60° = F/2."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-066",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A student walks 8.5 m east then 8.4 m north. Find displacement magnitude.",
+    "options": [
+      "5.97 m",
+      "23.9 m",
+      "14.94 m",
+      "11.95 m"
+    ],
+    "answer_index": 3,
+    "explanation": "The displacements are perpendicular, so use Pythagoras."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-067",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A vector has perpendicular components 11.2 and 9.9. Find its magnitude.",
+    "options": [
+      "29.9",
+      "18.69",
+      "14.95",
+      "7.47"
+    ],
+    "answer_index": 2,
+    "explanation": "Use √(x²+y²)."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-068",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force of 24.1 N acts at 60° to +x. Find its x-component.",
+    "options": [
+      "15.06 N",
+      "12.05 N",
+      "6.03 N",
+      "24.1 N"
+    ],
+    "answer_index": 1,
+    "explanation": "Fx = F cos60° = F/2."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-069",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A student walks 8.75 m east then 8.6 m north. Find displacement magnitude.",
+    "options": [
+      "12.27 m",
+      "6.13 m",
+      "24.54 m",
+      "15.34 m"
+    ],
+    "answer_index": 0,
+    "explanation": "The displacements are perpendicular, so use Pythagoras."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-070",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A vector has perpendicular components 11.6 and 10.2. Find its magnitude.",
+    "options": [
+      "7.72",
+      "30.9",
+      "19.31",
+      "15.45"
+    ],
+    "answer_index": 3,
+    "explanation": "Use √(x²+y²)."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-071",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force of 24.8 N acts at 60° to +x. Find its x-component.",
+    "options": [
+      "24.8 N",
+      "15.5 N",
+      "12.4 N",
+      "6.2 N"
+    ],
+    "answer_index": 2,
+    "explanation": "Fx = F cos60° = F/2."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-072",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A student walks 9 m east then 8.8 m north. Find displacement magnitude.",
+    "options": [
+      "15.74 m",
+      "12.59 m",
+      "6.29 m",
+      "25.18 m"
+    ],
+    "answer_index": 1,
+    "explanation": "The displacements are perpendicular, so use Pythagoras."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-073",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A vector has perpendicular components 12 and 10.5. Find its magnitude.",
+    "options": [
+      "15.95",
+      "7.97",
+      "31.9",
+      "19.94"
+    ],
+    "answer_index": 0,
+    "explanation": "Use √(x²+y²)."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-074",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force of 25.5 N acts at 60° to +x. Find its x-component.",
+    "options": [
+      "6.38 N",
+      "25.5 N",
+      "15.94 N",
+      "12.75 N"
+    ],
+    "answer_index": 3,
+    "explanation": "Fx = F cos60° = F/2."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-075",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A student walks 9.25 m east then 9 m north. Find displacement magnitude.",
+    "options": [
+      "25.82 m",
+      "16.14 m",
+      "12.91 m",
+      "6.46 m"
+    ],
+    "answer_index": 2,
+    "explanation": "The displacements are perpendicular, so use Pythagoras."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-076",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A vector has perpendicular components 12.4 and 10.8. Find its magnitude.",
+    "options": [
+      "20.55",
+      "16.44",
+      "8.22",
+      "32.88"
+    ],
+    "answer_index": 1,
+    "explanation": "Use √(x²+y²)."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-077",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force of 26.2 N acts at 60° to +x. Find its x-component.",
+    "options": [
+      "13.1 N",
+      "6.55 N",
+      "26.2 N",
+      "16.38 N"
+    ],
+    "answer_index": 0,
+    "explanation": "Fx = F cos60° = F/2."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-078",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A student walks 9.5 m east then 9.2 m north. Find displacement magnitude.",
+    "options": [
+      "6.61 m",
+      "26.44 m",
+      "16.53 m",
+      "13.22 m"
+    ],
+    "answer_index": 3,
+    "explanation": "The displacements are perpendicular, so use Pythagoras."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-079",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A vector has perpendicular components 12.8 and 11.1. Find its magnitude.",
+    "options": [
+      "33.88",
+      "21.18",
+      "16.94",
+      "8.47"
+    ],
+    "answer_index": 2,
+    "explanation": "Use √(x²+y²)."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-080",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force of 26.9 N acts at 60° to +x. Find its x-component.",
+    "options": [
+      "16.81 N",
+      "13.45 N",
+      "6.72 N",
+      "26.9 N"
+    ],
+    "answer_index": 1,
+    "explanation": "Fx = F cos60° = F/2."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-081",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A student walks 9.75 m east then 9.4 m north. Find displacement magnitude.",
+    "options": [
+      "13.54 m",
+      "6.77 m",
+      "27.08 m",
+      "16.92 m"
+    ],
+    "answer_index": 0,
+    "explanation": "The displacements are perpendicular, so use Pythagoras."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-082",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A vector has perpendicular components 13.2 and 11.4. Find its magnitude.",
+    "options": [
+      "8.72",
+      "34.88",
+      "21.8",
+      "17.44"
+    ],
+    "answer_index": 3,
+    "explanation": "Use √(x²+y²)."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-083",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force of 27.6 N acts at 60° to +x. Find its x-component.",
+    "options": [
+      "27.6 N",
+      "17.25 N",
+      "13.8 N",
+      "6.9 N"
+    ],
+    "answer_index": 2,
+    "explanation": "Fx = F cos60° = F/2."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-084",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A student walks 10 m east then 9.6 m north. Find displacement magnitude.",
+    "options": [
+      "17.32 m",
+      "13.86 m",
+      "6.93 m",
+      "27.72 m"
+    ],
+    "answer_index": 1,
+    "explanation": "The displacements are perpendicular, so use Pythagoras."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-085",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A vector has perpendicular components 13.6 and 11.7. Find its magnitude.",
+    "options": [
+      "17.94",
+      "8.97",
+      "35.88",
+      "22.43"
+    ],
+    "answer_index": 0,
+    "explanation": "Use √(x²+y²)."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-086",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force of 28.3 N acts at 60° to +x. Find its x-component.",
+    "options": [
+      "7.08 N",
+      "28.3 N",
+      "17.69 N",
+      "14.15 N"
+    ],
+    "answer_index": 3,
+    "explanation": "Fx = F cos60° = F/2."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-087",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A student walks 10.25 m east then 9.8 m north. Find displacement magnitude.",
+    "options": [
+      "28.36 m",
+      "17.73 m",
+      "14.18 m",
+      "7.09 m"
+    ],
+    "answer_index": 2,
+    "explanation": "The displacements are perpendicular, so use Pythagoras."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-088",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A vector has perpendicular components 14 and 12. Find its magnitude.",
+    "options": [
+      "23.05",
+      "18.44",
+      "9.22",
+      "36.88"
+    ],
+    "answer_index": 1,
+    "explanation": "Use √(x²+y²)."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-089",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force of 29 N acts at 60° to +x. Find its x-component.",
+    "options": [
+      "14.5 N",
+      "7.25 N",
+      "29 N",
+      "18.13 N"
+    ],
+    "answer_index": 0,
+    "explanation": "Fx = F cos60° = F/2."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-090",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A student walks 10.5 m east then 10 m north. Find displacement magnitude.",
+    "options": [
+      "7.25 m",
+      "29 m",
+      "18.13 m",
+      "14.5 m"
+    ],
+    "answer_index": 3,
+    "explanation": "The displacements are perpendicular, so use Pythagoras."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-091",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A vector has perpendicular components 14.4 and 12.3. Find its magnitude.",
+    "options": [
+      "37.88",
+      "23.68",
+      "18.94",
+      "9.47"
+    ],
+    "answer_index": 2,
+    "explanation": "Use √(x²+y²)."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-092",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force of 29.7 N acts at 60° to +x. Find its x-component.",
+    "options": [
+      "18.56 N",
+      "14.85 N",
+      "7.42 N",
+      "29.7 N"
+    ],
+    "answer_index": 1,
+    "explanation": "Fx = F cos60° = F/2."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-093",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A student walks 10.75 m east then 10.2 m north. Find displacement magnitude.",
+    "options": [
+      "14.82 m",
+      "7.41 m",
+      "29.64 m",
+      "18.52 m"
+    ],
+    "answer_index": 0,
+    "explanation": "The displacements are perpendicular, so use Pythagoras."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-094",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A vector has perpendicular components 14.8 and 12.6. Find its magnitude.",
+    "options": [
+      "9.72",
+      "38.88",
+      "24.3",
+      "19.44"
+    ],
+    "answer_index": 3,
+    "explanation": "Use √(x²+y²)."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-095",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force of 30.4 N acts at 60° to +x. Find its x-component.",
+    "options": [
+      "30.4 N",
+      "19 N",
+      "15.2 N",
+      "7.6 N"
+    ],
+    "answer_index": 2,
+    "explanation": "Fx = F cos60° = F/2."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-096",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A student walks 11 m east then 10.4 m north. Find displacement magnitude.",
+    "options": [
+      "18.93 m",
+      "15.14 m",
+      "7.57 m",
+      "30.28 m"
+    ],
+    "answer_index": 1,
+    "explanation": "The displacements are perpendicular, so use Pythagoras."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-097",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A vector has perpendicular components 15.2 and 12.9. Find its magnitude.",
+    "options": [
+      "19.94",
+      "9.97",
+      "39.88",
+      "24.93"
+    ],
+    "answer_index": 0,
+    "explanation": "Use √(x²+y²)."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-098",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force of 31.1 N acts at 60° to +x. Find its x-component.",
+    "options": [
+      "7.78 N",
+      "31.1 N",
+      "19.44 N",
+      "15.55 N"
+    ],
+    "answer_index": 3,
+    "explanation": "Fx = F cos60° = F/2."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-099",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A student walks 11.25 m east then 10.6 m north. Find displacement magnitude.",
+    "options": [
+      "30.92 m",
+      "19.33 m",
+      "15.46 m",
+      "7.73 m"
+    ],
+    "answer_index": 2,
+    "explanation": "The displacements are perpendicular, so use Pythagoras."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-100",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A vector has perpendicular components 15.6 and 13.2. Find its magnitude.",
+    "options": [
+      "25.55",
+      "20.44",
+      "10.22",
+      "40.88"
+    ],
+    "answer_index": 1,
+    "explanation": "Use √(x²+y²)."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-101",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force of 31.8 N acts at 60° to +x. Find its x-component.",
+    "options": [
+      "15.9 N",
+      "7.95 N",
+      "31.8 N",
+      "19.88 N"
+    ],
+    "answer_index": 0,
+    "explanation": "Fx = F cos60° = F/2."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-102",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A student walks 11.5 m east then 10.8 m north. Find displacement magnitude.",
+    "options": [
+      "7.89 m",
+      "31.56 m",
+      "19.72 m",
+      "15.78 m"
+    ],
+    "answer_index": 3,
+    "explanation": "The displacements are perpendicular, so use Pythagoras."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-103",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A vector has perpendicular components 16 and 13.5. Find its magnitude.",
+    "options": [
+      "41.86",
+      "26.16",
+      "20.93",
+      "10.46"
+    ],
+    "answer_index": 2,
+    "explanation": "Use √(x²+y²)."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-104",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force of 32.5 N acts at 60° to +x. Find its x-component.",
+    "options": [
+      "20.31 N",
+      "16.25 N",
+      "8.13 N",
+      "32.5 N"
+    ],
+    "answer_index": 1,
+    "explanation": "Fx = F cos60° = F/2."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-105",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A student walks 11.75 m east then 11 m north. Find displacement magnitude.",
+    "options": [
+      "16.1 m",
+      "8.05 m",
+      "32.2 m",
+      "20.13 m"
+    ],
+    "answer_index": 0,
+    "explanation": "The displacements are perpendicular, so use Pythagoras."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-106",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A vector has perpendicular components 16.4 and 13.8. Find its magnitude.",
+    "options": [
+      "10.71",
+      "42.86",
+      "26.79",
+      "21.43"
+    ],
+    "answer_index": 3,
+    "explanation": "Use √(x²+y²)."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-107",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force of 33.2 N acts at 60° to +x. Find its x-component.",
+    "options": [
+      "33.2 N",
+      "20.75 N",
+      "16.6 N",
+      "8.3 N"
+    ],
+    "answer_index": 2,
+    "explanation": "Fx = F cos60° = F/2."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-108",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A student walks 12 m east then 11.2 m north. Find displacement magnitude.",
+    "options": [
+      "20.51 m",
+      "16.41 m",
+      "8.21 m",
+      "32.82 m"
+    ],
+    "answer_index": 1,
+    "explanation": "The displacements are perpendicular, so use Pythagoras."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-109",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A vector has perpendicular components 16.8 and 14.1. Find its magnitude.",
+    "options": [
+      "21.93",
+      "10.96",
+      "43.86",
+      "27.41"
+    ],
+    "answer_index": 0,
+    "explanation": "Use √(x²+y²)."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-110",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force of 33.9 N acts at 60° to +x. Find its x-component.",
+    "options": [
+      "8.47 N",
+      "33.9 N",
+      "21.19 N",
+      "16.95 N"
+    ],
+    "answer_index": 3,
+    "explanation": "Fx = F cos60° = F/2."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-111",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A student walks 12.25 m east then 11.4 m north. Find displacement magnitude.",
+    "options": [
+      "33.46 m",
+      "20.91 m",
+      "16.73 m",
+      "8.37 m"
+    ],
+    "answer_index": 2,
+    "explanation": "The displacements are perpendicular, so use Pythagoras."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-112",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A vector has perpendicular components 17.2 and 14.4. Find its magnitude.",
+    "options": [
+      "28.04",
+      "22.43",
+      "11.21",
+      "44.86"
+    ],
+    "answer_index": 1,
+    "explanation": "Use √(x²+y²)."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-113",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force of 34.6 N acts at 60° to +x. Find its x-component.",
+    "options": [
+      "17.3 N",
+      "8.65 N",
+      "34.6 N",
+      "21.63 N"
+    ],
+    "answer_index": 0,
+    "explanation": "Fx = F cos60° = F/2."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-114",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A student walks 12.5 m east then 11.6 m north. Find displacement magnitude.",
+    "options": [
+      "8.53 m",
+      "34.1 m",
+      "21.31 m",
+      "17.05 m"
+    ],
+    "answer_index": 3,
+    "explanation": "The displacements are perpendicular, so use Pythagoras."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-115",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A vector has perpendicular components 17.6 and 14.7. Find its magnitude.",
+    "options": [
+      "45.86",
+      "28.66",
+      "22.93",
+      "11.46"
+    ],
+    "answer_index": 2,
+    "explanation": "Use √(x²+y²)."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-116",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force of 35.3 N acts at 60° to +x. Find its x-component.",
+    "options": [
+      "22.06 N",
+      "17.65 N",
+      "8.82 N",
+      "35.3 N"
+    ],
+    "answer_index": 1,
+    "explanation": "Fx = F cos60° = F/2."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-117",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A student walks 12.75 m east then 11.8 m north. Find displacement magnitude.",
+    "options": [
+      "17.37 m",
+      "8.69 m",
+      "34.74 m",
+      "21.71 m"
+    ],
+    "answer_index": 0,
+    "explanation": "The displacements are perpendicular, so use Pythagoras."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-118",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A vector has perpendicular components 18 and 15. Find its magnitude.",
+    "options": [
+      "11.71",
+      "46.86",
+      "29.29",
+      "23.43"
+    ],
+    "answer_index": 3,
+    "explanation": "Use √(x²+y²)."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-119",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force of 36 N acts at 60° to +x. Find its x-component.",
+    "options": [
+      "36 N",
+      "22.5 N",
+      "18 N",
+      "9 N"
+    ],
+    "answer_index": 2,
+    "explanation": "Fx = F cos60° = F/2."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-120",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A student walks 13 m east then 12 m north. Find displacement magnitude.",
+    "options": [
+      "22.11 m",
+      "17.69 m",
+      "8.85 m",
+      "35.38 m"
+    ],
+    "answer_index": 1,
+    "explanation": "The displacements are perpendicular, so use Pythagoras."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-121",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A vector has perpendicular components 18.4 and 15.3. Find its magnitude.",
+    "options": [
+      "23.93",
+      "11.96",
+      "47.86",
+      "29.91"
+    ],
+    "answer_index": 0,
+    "explanation": "Use √(x²+y²)."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-122",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force of 36.7 N acts at 60° to +x. Find its x-component.",
+    "options": [
+      "9.18 N",
+      "36.7 N",
+      "22.94 N",
+      "18.35 N"
+    ],
+    "answer_index": 3,
+    "explanation": "Fx = F cos60° = F/2."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-123",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A student walks 13.25 m east then 12.2 m north. Find displacement magnitude.",
+    "options": [
+      "36.02 m",
+      "22.51 m",
+      "18.01 m",
+      "9.01 m"
+    ],
+    "answer_index": 2,
+    "explanation": "The displacements are perpendicular, so use Pythagoras."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-124",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A vector has perpendicular components 18.8 and 15.6. Find its magnitude.",
+    "options": [
+      "30.54",
+      "24.43",
+      "12.21",
+      "48.86"
+    ],
+    "answer_index": 1,
+    "explanation": "Use √(x²+y²)."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-125",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force of 37.4 N acts at 60° to +x. Find its x-component.",
+    "options": [
+      "18.7 N",
+      "9.35 N",
+      "37.4 N",
+      "23.38 N"
+    ],
+    "answer_index": 0,
+    "explanation": "Fx = F cos60° = F/2."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-126",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A student walks 13.5 m east then 12.4 m north. Find displacement magnitude.",
+    "options": [
+      "9.16 m",
+      "36.66 m",
+      "22.91 m",
+      "18.33 m"
+    ],
+    "answer_index": 3,
+    "explanation": "The displacements are perpendicular, so use Pythagoras."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-127",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A vector has perpendicular components 19.2 and 15.9. Find its magnitude.",
+    "options": [
+      "49.86",
+      "31.16",
+      "24.93",
+      "12.46"
+    ],
+    "answer_index": 2,
+    "explanation": "Use √(x²+y²)."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-128",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force of 38.1 N acts at 60° to +x. Find its x-component.",
+    "options": [
+      "23.81 N",
+      "19.05 N",
+      "9.53 N",
+      "38.1 N"
+    ],
+    "answer_index": 1,
+    "explanation": "Fx = F cos60° = F/2."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-129",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A student walks 13.75 m east then 12.6 m north. Find displacement magnitude.",
+    "options": [
+      "18.65 m",
+      "9.32 m",
+      "37.3 m",
+      "23.31 m"
+    ],
+    "answer_index": 0,
+    "explanation": "The displacements are perpendicular, so use Pythagoras."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-130",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A vector has perpendicular components 19.6 and 16.2. Find its magnitude.",
+    "options": [
+      "12.71",
+      "50.86",
+      "31.79",
+      "25.43"
+    ],
+    "answer_index": 3,
+    "explanation": "Use √(x²+y²)."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-131",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force of 38.8 N acts at 60° to +x. Find its x-component.",
+    "options": [
+      "38.8 N",
+      "24.25 N",
+      "19.4 N",
+      "9.7 N"
+    ],
+    "answer_index": 2,
+    "explanation": "Fx = F cos60° = F/2."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-132",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A student walks 14 m east then 12.8 m north. Find displacement magnitude.",
+    "options": [
+      "23.71 m",
+      "18.97 m",
+      "9.48 m",
+      "37.94 m"
+    ],
+    "answer_index": 1,
+    "explanation": "The displacements are perpendicular, so use Pythagoras."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-133",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A vector has perpendicular components 20 and 16.5. Find its magnitude.",
+    "options": [
+      "25.93",
+      "12.96",
+      "51.86",
+      "32.41"
+    ],
+    "answer_index": 0,
+    "explanation": "Use √(x²+y²)."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-134",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force of 39.5 N acts at 60° to +x. Find its x-component.",
+    "options": [
+      "9.88 N",
+      "39.5 N",
+      "24.69 N",
+      "19.75 N"
+    ],
+    "answer_index": 3,
+    "explanation": "Fx = F cos60° = F/2."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-135",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A student walks 14.25 m east then 13 m north. Find displacement magnitude.",
+    "options": [
+      "38.58 m",
+      "24.11 m",
+      "19.29 m",
+      "9.64 m"
+    ],
+    "answer_index": 2,
+    "explanation": "The displacements are perpendicular, so use Pythagoras."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-136",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A vector has perpendicular components 20.4 and 16.8. Find its magnitude.",
+    "options": [
+      "33.04",
+      "26.43",
+      "13.21",
+      "52.86"
+    ],
+    "answer_index": 1,
+    "explanation": "Use √(x²+y²)."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-137",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force of 40.2 N acts at 60° to +x. Find its x-component.",
+    "options": [
+      "20.1 N",
+      "10.05 N",
+      "40.2 N",
+      "25.13 N"
+    ],
+    "answer_index": 0,
+    "explanation": "Fx = F cos60° = F/2."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-138",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A student walks 14.5 m east then 13.2 m north. Find displacement magnitude.",
+    "options": [
+      "9.8 m",
+      "39.22 m",
+      "24.51 m",
+      "19.61 m"
+    ],
+    "answer_index": 3,
+    "explanation": "The displacements are perpendicular, so use Pythagoras."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-139",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A vector has perpendicular components 20.8 and 17.1. Find its magnitude.",
+    "options": [
+      "53.86",
+      "33.66",
+      "26.93",
+      "13.46"
+    ],
+    "answer_index": 2,
+    "explanation": "Use √(x²+y²)."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-140",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force of 40.9 N acts at 60° to +x. Find its x-component.",
+    "options": [
+      "25.56 N",
+      "20.45 N",
+      "10.22 N",
+      "40.9 N"
+    ],
+    "answer_index": 1,
+    "explanation": "Fx = F cos60° = F/2."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-141",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A student walks 14.75 m east then 13.4 m north. Find displacement magnitude.",
+    "options": [
+      "19.93 m",
+      "9.96 m",
+      "39.86 m",
+      "24.91 m"
+    ],
+    "answer_index": 0,
+    "explanation": "The displacements are perpendicular, so use Pythagoras."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-142",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A vector has perpendicular components 21.2 and 17.4. Find its magnitude.",
+    "options": [
+      "13.71",
+      "54.86",
+      "34.29",
+      "27.43"
+    ],
+    "answer_index": 3,
+    "explanation": "Use √(x²+y²)."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-143",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force of 41.6 N acts at 60° to +x. Find its x-component.",
+    "options": [
+      "41.6 N",
+      "26 N",
+      "20.8 N",
+      "10.4 N"
+    ],
+    "answer_index": 2,
+    "explanation": "Fx = F cos60° = F/2."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-144",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A student walks 15 m east then 13.6 m north. Find displacement magnitude.",
+    "options": [
+      "25.31 m",
+      "20.25 m",
+      "10.13 m",
+      "40.5 m"
+    ],
+    "answer_index": 1,
+    "explanation": "The displacements are perpendicular, so use Pythagoras."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-145",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A vector has perpendicular components 21.6 and 17.7. Find its magnitude.",
+    "options": [
+      "27.93",
+      "13.96",
+      "55.86",
+      "34.91"
+    ],
+    "answer_index": 0,
+    "explanation": "Use √(x²+y²)."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-146",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force of 42.3 N acts at 60° to +x. Find its x-component.",
+    "options": [
+      "10.57 N",
+      "42.3 N",
+      "26.44 N",
+      "21.15 N"
+    ],
+    "answer_index": 3,
+    "explanation": "Fx = F cos60° = F/2."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-147",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A student walks 15.25 m east then 13.8 m north. Find displacement magnitude.",
+    "options": [
+      "41.14 m",
+      "25.71 m",
+      "20.57 m",
+      "10.29 m"
+    ],
+    "answer_index": 2,
+    "explanation": "The displacements are perpendicular, so use Pythagoras."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-148",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A vector has perpendicular components 22 and 18. Find its magnitude.",
+    "options": [
+      "35.54",
+      "28.43",
+      "14.21",
+      "56.86"
+    ],
+    "answer_index": 1,
+    "explanation": "Use √(x²+y²)."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-149",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force of 43 N acts at 60° to +x. Find its x-component.",
+    "options": [
+      "21.5 N",
+      "10.75 N",
+      "43 N",
+      "26.88 N"
+    ],
+    "answer_index": 0,
+    "explanation": "Fx = F cos60° = F/2."
+  },
+  {
+    "id": "IMAT-PHY-VECTORS-150",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Scalars & Vectors",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A student walks 15.5 m east then 14 m north. Find displacement magnitude.",
+    "options": [
+      "10.45 m",
+      "41.78 m",
+      "26.11 m",
+      "20.89 m"
+    ],
+    "answer_index": 3,
+    "explanation": "The displacements are perpendicular, so use Pythagoras."
+  }
+]
