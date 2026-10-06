@@ -1,0 +1,2702 @@
+[
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-001",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Find momentum of a 1.2 kg body moving at 2.3 m/s.",
+    "options": [
+      "2.76 kg·m/s",
+      "1.38 kg·m/s",
+      "5.52 kg·m/s",
+      "3.45 kg·m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "p=mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-002",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 8.9 N acts for 0.53 s. Find impulse.",
+    "options": [
+      "2.36 N·s",
+      "9.44 N·s",
+      "5.9 N·s",
+      "4.72 N·s"
+    ],
+    "answer_index": 3,
+    "explanation": "J=FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-003",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 1.08 kg body at 3.12 m/s sticks to a stationary 0.85 kg body. Final speed?",
+    "options": [
+      "3.5 m/s",
+      "2.19 m/s",
+      "1.75 m/s",
+      "0.875 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)v."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-004",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Find momentum of a 1.4 kg body moving at 2.6 m/s.",
+    "options": [
+      "4.55 kg·m/s",
+      "3.64 kg·m/s",
+      "1.82 kg·m/s",
+      "7.28 kg·m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "p=mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-005",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 9.8 N acts for 0.56 s. Find impulse.",
+    "options": [
+      "5.49 N·s",
+      "2.75 N·s",
+      "10.98 N·s",
+      "6.86 N·s"
+    ],
+    "answer_index": 0,
+    "explanation": "J=FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-006",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 1.16 kg body at 3.24 m/s sticks to a stationary 0.9 kg body. Final speed?",
+    "options": [
+      "0.91 m/s",
+      "3.64 m/s",
+      "2.27 m/s",
+      "1.82 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)v."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-007",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Find momentum of a 1.6 kg body moving at 2.9 m/s.",
+    "options": [
+      "9.28 kg·m/s",
+      "5.8 kg·m/s",
+      "4.64 kg·m/s",
+      "2.32 kg·m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "p=mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-008",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 10.7 N acts for 0.59 s. Find impulse.",
+    "options": [
+      "7.89 N·s",
+      "6.31 N·s",
+      "3.15 N·s",
+      "12.62 N·s"
+    ],
+    "answer_index": 1,
+    "explanation": "J=FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-009",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 1.24 kg body at 3.36 m/s sticks to a stationary 0.95 kg body. Final speed?",
+    "options": [
+      "1.9 m/s",
+      "0.95 m/s",
+      "3.8 m/s",
+      "2.38 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)v."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-010",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Find momentum of a 1.8 kg body moving at 3.2 m/s.",
+    "options": [
+      "2.88 kg·m/s",
+      "11.52 kg·m/s",
+      "7.2 kg·m/s",
+      "5.76 kg·m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "p=mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-011",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 11.6 N acts for 0.62 s. Find impulse.",
+    "options": [
+      "14.38 N·s",
+      "8.99 N·s",
+      "7.19 N·s",
+      "3.6 N·s"
+    ],
+    "answer_index": 2,
+    "explanation": "J=FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-012",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 1.32 kg body at 3.48 m/s sticks to a stationary 1 kg body. Final speed?",
+    "options": [
+      "2.48 m/s",
+      "1.98 m/s",
+      "0.99 m/s",
+      "3.96 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)v."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-013",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Find momentum of a 2 kg body moving at 3.5 m/s.",
+    "options": [
+      "7 kg·m/s",
+      "3.5 kg·m/s",
+      "14 kg·m/s",
+      "8.75 kg·m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "p=mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-014",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 12.5 N acts for 0.65 s. Find impulse.",
+    "options": [
+      "4.07 N·s",
+      "16.26 N·s",
+      "10.16 N·s",
+      "8.13 N·s"
+    ],
+    "answer_index": 3,
+    "explanation": "J=FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-015",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 1.4 kg body at 3.6 m/s sticks to a stationary 1.05 kg body. Final speed?",
+    "options": [
+      "4.12 m/s",
+      "2.58 m/s",
+      "2.06 m/s",
+      "1.03 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)v."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-016",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Find momentum of a 2.2 kg body moving at 3.8 m/s.",
+    "options": [
+      "10.45 kg·m/s",
+      "8.36 kg·m/s",
+      "4.18 kg·m/s",
+      "16.72 kg·m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "p=mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-017",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 13.4 N acts for 0.68 s. Find impulse.",
+    "options": [
+      "9.11 N·s",
+      "4.55 N·s",
+      "18.22 N·s",
+      "11.39 N·s"
+    ],
+    "answer_index": 0,
+    "explanation": "J=FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-018",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 1.48 kg body at 3.72 m/s sticks to a stationary 1.1 kg body. Final speed?",
+    "options": [
+      "1.06 m/s",
+      "4.26 m/s",
+      "2.66 m/s",
+      "2.13 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)v."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-019",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Find momentum of a 2.4 kg body moving at 4.1 m/s.",
+    "options": [
+      "19.68 kg·m/s",
+      "12.3 kg·m/s",
+      "9.84 kg·m/s",
+      "4.92 kg·m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "p=mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-020",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 14.3 N acts for 0.71 s. Find impulse.",
+    "options": [
+      "12.69 N·s",
+      "10.15 N·s",
+      "5.08 N·s",
+      "20.3 N·s"
+    ],
+    "answer_index": 1,
+    "explanation": "J=FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-021",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 1.56 kg body at 3.84 m/s sticks to a stationary 1.15 kg body. Final speed?",
+    "options": [
+      "2.21 m/s",
+      "1.1 m/s",
+      "4.42 m/s",
+      "2.76 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)v."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-022",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Find momentum of a 2.6 kg body moving at 4.4 m/s.",
+    "options": [
+      "5.72 kg·m/s",
+      "22.88 kg·m/s",
+      "14.3 kg·m/s",
+      "11.44 kg·m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "p=mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-023",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 15.2 N acts for 0.74 s. Find impulse.",
+    "options": [
+      "22.5 N·s",
+      "14.06 N·s",
+      "11.25 N·s",
+      "5.63 N·s"
+    ],
+    "answer_index": 2,
+    "explanation": "J=FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-024",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 1.64 kg body at 3.96 m/s sticks to a stationary 1.2 kg body. Final speed?",
+    "options": [
+      "2.86 m/s",
+      "2.29 m/s",
+      "1.15 m/s",
+      "4.58 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)v."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-025",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Find momentum of a 2.8 kg body moving at 4.7 m/s.",
+    "options": [
+      "13.16 kg·m/s",
+      "6.58 kg·m/s",
+      "26.32 kg·m/s",
+      "16.45 kg·m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "p=mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-026",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 16.1 N acts for 0.77 s. Find impulse.",
+    "options": [
+      "6.2 N·s",
+      "24.8 N·s",
+      "15.5 N·s",
+      "12.4 N·s"
+    ],
+    "answer_index": 3,
+    "explanation": "J=FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-027",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 1.72 kg body at 4.08 m/s sticks to a stationary 1.25 kg body. Final speed?",
+    "options": [
+      "4.72 m/s",
+      "2.95 m/s",
+      "2.36 m/s",
+      "1.18 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)v."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-028",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Find momentum of a 3 kg body moving at 5 m/s.",
+    "options": [
+      "18.75 kg·m/s",
+      "15 kg·m/s",
+      "7.5 kg·m/s",
+      "30 kg·m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "p=mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-029",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 17 N acts for 0.8 s. Find impulse.",
+    "options": [
+      "13.6 N·s",
+      "6.8 N·s",
+      "27.2 N·s",
+      "17 N·s"
+    ],
+    "answer_index": 0,
+    "explanation": "J=FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-030",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 1.8 kg body at 4.2 m/s sticks to a stationary 1.3 kg body. Final speed?",
+    "options": [
+      "1.22 m/s",
+      "4.88 m/s",
+      "3.05 m/s",
+      "2.44 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)v."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-031",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Find momentum of a 3.2 kg body moving at 5.3 m/s.",
+    "options": [
+      "33.92 kg·m/s",
+      "21.2 kg·m/s",
+      "16.96 kg·m/s",
+      "8.48 kg·m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "p=mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-032",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 17.9 N acts for 0.83 s. Find impulse.",
+    "options": [
+      "18.57 N·s",
+      "14.86 N·s",
+      "7.43 N·s",
+      "29.72 N·s"
+    ],
+    "answer_index": 1,
+    "explanation": "J=FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-033",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 1.88 kg body at 4.32 m/s sticks to a stationary 1.35 kg body. Final speed?",
+    "options": [
+      "2.51 m/s",
+      "1.25 m/s",
+      "5.02 m/s",
+      "3.14 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)v."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-034",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Find momentum of a 3.4 kg body moving at 5.6 m/s.",
+    "options": [
+      "9.52 kg·m/s",
+      "38.08 kg·m/s",
+      "23.8 kg·m/s",
+      "19.04 kg·m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "p=mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-035",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 18.8 N acts for 0.86 s. Find impulse.",
+    "options": [
+      "32.34 N·s",
+      "20.21 N·s",
+      "16.17 N·s",
+      "8.09 N·s"
+    ],
+    "answer_index": 2,
+    "explanation": "J=FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-036",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 1.96 kg body at 4.44 m/s sticks to a stationary 1.4 kg body. Final speed?",
+    "options": [
+      "3.24 m/s",
+      "2.59 m/s",
+      "1.29 m/s",
+      "5.18 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)v."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-037",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Find momentum of a 3.6 kg body moving at 5.9 m/s.",
+    "options": [
+      "21.24 kg·m/s",
+      "10.62 kg·m/s",
+      "42.48 kg·m/s",
+      "26.55 kg·m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "p=mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-038",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 19.7 N acts for 0.89 s. Find impulse.",
+    "options": [
+      "8.77 N·s",
+      "35.06 N·s",
+      "21.91 N·s",
+      "17.53 N·s"
+    ],
+    "answer_index": 3,
+    "explanation": "J=FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-039",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 2.04 kg body at 4.56 m/s sticks to a stationary 1.45 kg body. Final speed?",
+    "options": [
+      "5.34 m/s",
+      "3.34 m/s",
+      "2.67 m/s",
+      "1.33 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)v."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-040",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Find momentum of a 3.8 kg body moving at 6.2 m/s.",
+    "options": [
+      "29.45 kg·m/s",
+      "23.56 kg·m/s",
+      "11.78 kg·m/s",
+      "47.12 kg·m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "p=mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-041",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 20.6 N acts for 0.92 s. Find impulse.",
+    "options": [
+      "18.95 N·s",
+      "9.47 N·s",
+      "37.9 N·s",
+      "23.69 N·s"
+    ],
+    "answer_index": 0,
+    "explanation": "J=FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-042",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 2.12 kg body at 4.68 m/s sticks to a stationary 1.5 kg body. Final speed?",
+    "options": [
+      "1.37 m/s",
+      "5.48 m/s",
+      "3.43 m/s",
+      "2.74 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)v."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-043",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Find momentum of a 4 kg body moving at 6.5 m/s.",
+    "options": [
+      "52 kg·m/s",
+      "32.5 kg·m/s",
+      "26 kg·m/s",
+      "13 kg·m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "p=mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-044",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 21.5 N acts for 0.95 s. Find impulse.",
+    "options": [
+      "25.54 N·s",
+      "20.43 N·s",
+      "10.21 N·s",
+      "40.86 N·s"
+    ],
+    "answer_index": 1,
+    "explanation": "J=FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-045",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 2.2 kg body at 4.8 m/s sticks to a stationary 1.55 kg body. Final speed?",
+    "options": [
+      "2.82 m/s",
+      "1.41 m/s",
+      "5.64 m/s",
+      "3.52 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)v."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-046",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Find momentum of a 4.2 kg body moving at 6.8 m/s.",
+    "options": [
+      "14.28 kg·m/s",
+      "57.12 kg·m/s",
+      "35.7 kg·m/s",
+      "28.56 kg·m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "p=mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-047",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 22.4 N acts for 0.98 s. Find impulse.",
+    "options": [
+      "43.9 N·s",
+      "27.44 N·s",
+      "21.95 N·s",
+      "10.97 N·s"
+    ],
+    "answer_index": 2,
+    "explanation": "J=FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-048",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 2.28 kg body at 4.92 m/s sticks to a stationary 1.6 kg body. Final speed?",
+    "options": [
+      "3.61 m/s",
+      "2.89 m/s",
+      "1.45 m/s",
+      "5.78 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)v."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-049",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Find momentum of a 4.4 kg body moving at 7.1 m/s.",
+    "options": [
+      "31.24 kg·m/s",
+      "15.62 kg·m/s",
+      "62.48 kg·m/s",
+      "39.05 kg·m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "p=mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-050",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 23.3 N acts for 1.01 s. Find impulse.",
+    "options": [
+      "11.77 N·s",
+      "47.06 N·s",
+      "29.41 N·s",
+      "23.53 N·s"
+    ],
+    "answer_index": 3,
+    "explanation": "J=FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-051",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 2.36 kg body at 5.04 m/s sticks to a stationary 1.65 kg body. Final speed?",
+    "options": [
+      "5.94 m/s",
+      "3.71 m/s",
+      "2.97 m/s",
+      "1.49 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)v."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-052",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Find momentum of a 4.6 kg body moving at 7.4 m/s.",
+    "options": [
+      "42.55 kg·m/s",
+      "34.04 kg·m/s",
+      "17.02 kg·m/s",
+      "68.08 kg·m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "p=mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-053",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 24.2 N acts for 1.04 s. Find impulse.",
+    "options": [
+      "25.17 N·s",
+      "12.59 N·s",
+      "50.34 N·s",
+      "31.46 N·s"
+    ],
+    "answer_index": 0,
+    "explanation": "J=FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-054",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 2.44 kg body at 5.16 m/s sticks to a stationary 1.7 kg body. Final speed?",
+    "options": [
+      "1.52 m/s",
+      "6.08 m/s",
+      "3.8 m/s",
+      "3.04 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)v."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-055",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Find momentum of a 4.8 kg body moving at 7.7 m/s.",
+    "options": [
+      "73.92 kg·m/s",
+      "46.2 kg·m/s",
+      "36.96 kg·m/s",
+      "18.48 kg·m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "p=mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-056",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 25.1 N acts for 1.07 s. Find impulse.",
+    "options": [
+      "33.58 N·s",
+      "26.86 N·s",
+      "13.43 N·s",
+      "53.72 N·s"
+    ],
+    "answer_index": 1,
+    "explanation": "J=FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-057",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 2.52 kg body at 5.28 m/s sticks to a stationary 1.75 kg body. Final speed?",
+    "options": [
+      "3.12 m/s",
+      "1.56 m/s",
+      "6.24 m/s",
+      "3.9 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)v."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-058",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Find momentum of a 5 kg body moving at 8 m/s.",
+    "options": [
+      "20 kg·m/s",
+      "80 kg·m/s",
+      "50 kg·m/s",
+      "40 kg·m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "p=mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-059",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 26 N acts for 1.1 s. Find impulse.",
+    "options": [
+      "57.2 N·s",
+      "35.75 N·s",
+      "28.6 N·s",
+      "14.3 N·s"
+    ],
+    "answer_index": 2,
+    "explanation": "J=FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-060",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 2.6 kg body at 5.4 m/s sticks to a stationary 1.8 kg body. Final speed?",
+    "options": [
+      "3.99 m/s",
+      "3.19 m/s",
+      "1.59 m/s",
+      "6.38 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)v."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-061",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Find momentum of a 5.2 kg body moving at 8.3 m/s.",
+    "options": [
+      "43.16 kg·m/s",
+      "21.58 kg·m/s",
+      "86.32 kg·m/s",
+      "53.95 kg·m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "p=mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-062",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 26.9 N acts for 1.13 s. Find impulse.",
+    "options": [
+      "15.2 N·s",
+      "60.8 N·s",
+      "38 N·s",
+      "30.4 N·s"
+    ],
+    "answer_index": 3,
+    "explanation": "J=FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-063",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 2.68 kg body at 5.52 m/s sticks to a stationary 1.85 kg body. Final speed?",
+    "options": [
+      "6.54 m/s",
+      "4.09 m/s",
+      "3.27 m/s",
+      "1.64 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)v."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-064",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Find momentum of a 5.4 kg body moving at 8.6 m/s.",
+    "options": [
+      "58.05 kg·m/s",
+      "46.44 kg·m/s",
+      "23.22 kg·m/s",
+      "92.88 kg·m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "p=mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-065",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 27.8 N acts for 1.16 s. Find impulse.",
+    "options": [
+      "32.25 N·s",
+      "16.13 N·s",
+      "64.5 N·s",
+      "40.31 N·s"
+    ],
+    "answer_index": 0,
+    "explanation": "J=FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-066",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 2.76 kg body at 5.64 m/s sticks to a stationary 1.9 kg body. Final speed?",
+    "options": [
+      "1.67 m/s",
+      "6.68 m/s",
+      "4.17 m/s",
+      "3.34 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)v."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-067",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Find momentum of a 5.6 kg body moving at 8.9 m/s.",
+    "options": [
+      "99.68 kg·m/s",
+      "62.3 kg·m/s",
+      "49.84 kg·m/s",
+      "24.92 kg·m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "p=mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-068",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 28.7 N acts for 1.19 s. Find impulse.",
+    "options": [
+      "42.69 N·s",
+      "34.15 N·s",
+      "17.07 N·s",
+      "68.3 N·s"
+    ],
+    "answer_index": 1,
+    "explanation": "J=FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-069",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 2.84 kg body at 5.76 m/s sticks to a stationary 1.95 kg body. Final speed?",
+    "options": [
+      "3.42 m/s",
+      "1.71 m/s",
+      "6.84 m/s",
+      "4.28 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)v."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-070",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Find momentum of a 5.8 kg body moving at 9.2 m/s.",
+    "options": [
+      "26.68 kg·m/s",
+      "106.72 kg·m/s",
+      "66.7 kg·m/s",
+      "53.36 kg·m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "p=mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-071",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 29.6 N acts for 1.22 s. Find impulse.",
+    "options": [
+      "72.22 N·s",
+      "45.14 N·s",
+      "36.11 N·s",
+      "18.05 N·s"
+    ],
+    "answer_index": 2,
+    "explanation": "J=FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-072",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 2.92 kg body at 5.88 m/s sticks to a stationary 2 kg body. Final speed?",
+    "options": [
+      "4.36 m/s",
+      "3.49 m/s",
+      "1.75 m/s",
+      "6.98 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)v."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-073",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Find momentum of a 6 kg body moving at 9.5 m/s.",
+    "options": [
+      "57 kg·m/s",
+      "28.5 kg·m/s",
+      "114 kg·m/s",
+      "71.25 kg·m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "p=mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-074",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 30.5 N acts for 1.25 s. Find impulse.",
+    "options": [
+      "19.07 N·s",
+      "76.26 N·s",
+      "47.66 N·s",
+      "38.13 N·s"
+    ],
+    "answer_index": 3,
+    "explanation": "J=FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-075",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 3 kg body at 6 m/s sticks to a stationary 2.05 kg body. Final speed?",
+    "options": [
+      "7.12 m/s",
+      "4.45 m/s",
+      "3.56 m/s",
+      "1.78 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)v."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-076",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Find momentum of a 6.2 kg body moving at 9.8 m/s.",
+    "options": [
+      "75.95 kg·m/s",
+      "60.76 kg·m/s",
+      "30.38 kg·m/s",
+      "121.52 kg·m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "p=mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-077",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 31.4 N acts for 1.28 s. Find impulse.",
+    "options": [
+      "40.19 N·s",
+      "20.09 N·s",
+      "80.38 N·s",
+      "50.24 N·s"
+    ],
+    "answer_index": 0,
+    "explanation": "J=FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-078",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 3.08 kg body at 6.12 m/s sticks to a stationary 2.1 kg body. Final speed?",
+    "options": [
+      "1.82 m/s",
+      "7.28 m/s",
+      "4.55 m/s",
+      "3.64 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)v."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-079",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Find momentum of a 6.4 kg body moving at 10.1 m/s.",
+    "options": [
+      "129.28 kg·m/s",
+      "80.8 kg·m/s",
+      "64.64 kg·m/s",
+      "32.32 kg·m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "p=mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-080",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 32.3 N acts for 1.31 s. Find impulse.",
+    "options": [
+      "52.89 N·s",
+      "42.31 N·s",
+      "21.16 N·s",
+      "84.62 N·s"
+    ],
+    "answer_index": 1,
+    "explanation": "J=FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-081",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 3.16 kg body at 6.24 m/s sticks to a stationary 2.15 kg body. Final speed?",
+    "options": [
+      "3.71 m/s",
+      "1.85 m/s",
+      "7.42 m/s",
+      "4.64 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)v."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-082",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Find momentum of a 6.6 kg body moving at 10.4 m/s.",
+    "options": [
+      "34.32 kg·m/s",
+      "137.28 kg·m/s",
+      "85.8 kg·m/s",
+      "68.64 kg·m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "p=mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-083",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 33.2 N acts for 1.34 s. Find impulse.",
+    "options": [
+      "88.98 N·s",
+      "55.61 N·s",
+      "44.49 N·s",
+      "22.25 N·s"
+    ],
+    "answer_index": 2,
+    "explanation": "J=FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-084",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 3.24 kg body at 6.36 m/s sticks to a stationary 2.2 kg body. Final speed?",
+    "options": [
+      "4.74 m/s",
+      "3.79 m/s",
+      "1.9 m/s",
+      "7.58 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)v."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-085",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Find momentum of a 6.8 kg body moving at 10.7 m/s.",
+    "options": [
+      "72.76 kg·m/s",
+      "36.38 kg·m/s",
+      "145.52 kg·m/s",
+      "90.95 kg·m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "p=mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-086",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 34.1 N acts for 1.37 s. Find impulse.",
+    "options": [
+      "23.36 N·s",
+      "93.44 N·s",
+      "58.4 N·s",
+      "46.72 N·s"
+    ],
+    "answer_index": 3,
+    "explanation": "J=FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-087",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 3.32 kg body at 6.48 m/s sticks to a stationary 2.25 kg body. Final speed?",
+    "options": [
+      "7.72 m/s",
+      "4.83 m/s",
+      "3.86 m/s",
+      "1.93 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)v."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-088",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Find momentum of a 7 kg body moving at 11 m/s.",
+    "options": [
+      "96.25 kg·m/s",
+      "77 kg·m/s",
+      "38.5 kg·m/s",
+      "154 kg·m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "p=mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-089",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 35 N acts for 1.4 s. Find impulse.",
+    "options": [
+      "49 N·s",
+      "24.5 N·s",
+      "98 N·s",
+      "61.25 N·s"
+    ],
+    "answer_index": 0,
+    "explanation": "J=FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-090",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 3.4 kg body at 6.6 m/s sticks to a stationary 2.3 kg body. Final speed?",
+    "options": [
+      "1.97 m/s",
+      "7.88 m/s",
+      "4.92 m/s",
+      "3.94 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)v."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-091",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Find momentum of a 7.2 kg body moving at 11.3 m/s.",
+    "options": [
+      "162.72 kg·m/s",
+      "101.7 kg·m/s",
+      "81.36 kg·m/s",
+      "40.68 kg·m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "p=mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-092",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 35.9 N acts for 1.43 s. Find impulse.",
+    "options": [
+      "64.18 N·s",
+      "51.34 N·s",
+      "25.67 N·s",
+      "102.68 N·s"
+    ],
+    "answer_index": 1,
+    "explanation": "J=FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-093",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 3.48 kg body at 6.72 m/s sticks to a stationary 2.35 kg body. Final speed?",
+    "options": [
+      "4.01 m/s",
+      "2 m/s",
+      "8.02 m/s",
+      "5.01 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)v."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-094",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Find momentum of a 7.4 kg body moving at 11.6 m/s.",
+    "options": [
+      "42.92 kg·m/s",
+      "171.68 kg·m/s",
+      "107.3 kg·m/s",
+      "85.84 kg·m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "p=mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-095",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 36.8 N acts for 1.46 s. Find impulse.",
+    "options": [
+      "107.46 N·s",
+      "67.16 N·s",
+      "53.73 N·s",
+      "26.86 N·s"
+    ],
+    "answer_index": 2,
+    "explanation": "J=FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-096",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 3.56 kg body at 6.84 m/s sticks to a stationary 2.4 kg body. Final speed?",
+    "options": [
+      "5.11 m/s",
+      "4.09 m/s",
+      "2.04 m/s",
+      "8.18 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)v."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-097",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Find momentum of a 7.6 kg body moving at 11.9 m/s.",
+    "options": [
+      "90.44 kg·m/s",
+      "45.22 kg·m/s",
+      "180.88 kg·m/s",
+      "113.05 kg·m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "p=mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-098",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 37.7 N acts for 1.49 s. Find impulse.",
+    "options": [
+      "28.09 N·s",
+      "112.34 N·s",
+      "70.21 N·s",
+      "56.17 N·s"
+    ],
+    "answer_index": 3,
+    "explanation": "J=FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-099",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 3.64 kg body at 6.96 m/s sticks to a stationary 2.45 kg body. Final speed?",
+    "options": [
+      "8.32 m/s",
+      "5.2 m/s",
+      "4.16 m/s",
+      "2.08 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)v."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-100",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Find momentum of a 7.8 kg body moving at 12.2 m/s.",
+    "options": [
+      "118.95 kg·m/s",
+      "95.16 kg·m/s",
+      "47.58 kg·m/s",
+      "190.32 kg·m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "p=mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-101",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 38.6 N acts for 1.52 s. Find impulse.",
+    "options": [
+      "58.67 N·s",
+      "29.34 N·s",
+      "117.34 N·s",
+      "73.34 N·s"
+    ],
+    "answer_index": 0,
+    "explanation": "J=FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-102",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 3.72 kg body at 7.08 m/s sticks to a stationary 2.5 kg body. Final speed?",
+    "options": [
+      "2.12 m/s",
+      "8.46 m/s",
+      "5.29 m/s",
+      "4.23 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)v."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-103",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Find momentum of a 8 kg body moving at 12.5 m/s.",
+    "options": [
+      "200 kg·m/s",
+      "125 kg·m/s",
+      "100 kg·m/s",
+      "50 kg·m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "p=mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-104",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 39.5 N acts for 1.55 s. Find impulse.",
+    "options": [
+      "76.54 N·s",
+      "61.23 N·s",
+      "30.61 N·s",
+      "122.46 N·s"
+    ],
+    "answer_index": 1,
+    "explanation": "J=FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-105",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 3.8 kg body at 7.2 m/s sticks to a stationary 2.55 kg body. Final speed?",
+    "options": [
+      "4.31 m/s",
+      "2.15 m/s",
+      "8.62 m/s",
+      "5.39 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)v."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-106",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Find momentum of a 8.2 kg body moving at 12.8 m/s.",
+    "options": [
+      "52.48 kg·m/s",
+      "209.92 kg·m/s",
+      "131.2 kg·m/s",
+      "104.96 kg·m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "p=mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-107",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 40.4 N acts for 1.58 s. Find impulse.",
+    "options": [
+      "127.66 N·s",
+      "79.79 N·s",
+      "63.83 N·s",
+      "31.91 N·s"
+    ],
+    "answer_index": 2,
+    "explanation": "J=FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-108",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 3.88 kg body at 7.32 m/s sticks to a stationary 2.6 kg body. Final speed?",
+    "options": [
+      "5.47 m/s",
+      "4.38 m/s",
+      "2.19 m/s",
+      "8.76 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)v."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-109",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Find momentum of a 8.4 kg body moving at 13.1 m/s.",
+    "options": [
+      "110.04 kg·m/s",
+      "55.02 kg·m/s",
+      "220.08 kg·m/s",
+      "137.55 kg·m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "p=mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-110",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 41.3 N acts for 1.61 s. Find impulse.",
+    "options": [
+      "33.24 N·s",
+      "132.98 N·s",
+      "83.11 N·s",
+      "66.49 N·s"
+    ],
+    "answer_index": 3,
+    "explanation": "J=FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-111",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 3.96 kg body at 7.44 m/s sticks to a stationary 2.65 kg body. Final speed?",
+    "options": [
+      "8.92 m/s",
+      "5.58 m/s",
+      "4.46 m/s",
+      "2.23 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)v."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-112",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Find momentum of a 8.6 kg body moving at 13.4 m/s.",
+    "options": [
+      "144.05 kg·m/s",
+      "115.24 kg·m/s",
+      "57.62 kg·m/s",
+      "230.48 kg·m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "p=mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-113",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 42.2 N acts for 1.64 s. Find impulse.",
+    "options": [
+      "69.21 N·s",
+      "34.6 N·s",
+      "138.42 N·s",
+      "86.51 N·s"
+    ],
+    "answer_index": 0,
+    "explanation": "J=FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-114",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4.04 kg body at 7.56 m/s sticks to a stationary 2.7 kg body. Final speed?",
+    "options": [
+      "2.27 m/s",
+      "9.06 m/s",
+      "5.66 m/s",
+      "4.53 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)v."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-115",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Find momentum of a 8.8 kg body moving at 13.7 m/s.",
+    "options": [
+      "241.12 kg·m/s",
+      "150.7 kg·m/s",
+      "120.56 kg·m/s",
+      "60.28 kg·m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "p=mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-116",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 43.1 N acts for 1.67 s. Find impulse.",
+    "options": [
+      "89.98 N·s",
+      "71.98 N·s",
+      "35.99 N·s",
+      "143.96 N·s"
+    ],
+    "answer_index": 1,
+    "explanation": "J=FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-117",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4.12 kg body at 7.68 m/s sticks to a stationary 2.75 kg body. Final speed?",
+    "options": [
+      "4.61 m/s",
+      "2.31 m/s",
+      "9.22 m/s",
+      "5.76 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)v."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-118",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Find momentum of a 9 kg body moving at 14 m/s.",
+    "options": [
+      "63 kg·m/s",
+      "252 kg·m/s",
+      "157.5 kg·m/s",
+      "126 kg·m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "p=mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-119",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 44 N acts for 1.7 s. Find impulse.",
+    "options": [
+      "149.6 N·s",
+      "93.5 N·s",
+      "74.8 N·s",
+      "37.4 N·s"
+    ],
+    "answer_index": 2,
+    "explanation": "J=FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-120",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4.2 kg body at 7.8 m/s sticks to a stationary 2.8 kg body. Final speed?",
+    "options": [
+      "5.85 m/s",
+      "4.68 m/s",
+      "2.34 m/s",
+      "9.36 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)v."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-121",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Find momentum of a 9.2 kg body moving at 14.3 m/s.",
+    "options": [
+      "131.56 kg·m/s",
+      "65.78 kg·m/s",
+      "263.12 kg·m/s",
+      "164.45 kg·m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "p=mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-122",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 44.9 N acts for 1.73 s. Find impulse.",
+    "options": [
+      "38.84 N·s",
+      "155.36 N·s",
+      "97.1 N·s",
+      "77.68 N·s"
+    ],
+    "answer_index": 3,
+    "explanation": "J=FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-123",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4.28 kg body at 7.92 m/s sticks to a stationary 2.85 kg body. Final speed?",
+    "options": [
+      "9.5 m/s",
+      "5.94 m/s",
+      "4.75 m/s",
+      "2.38 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)v."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-124",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Find momentum of a 9.4 kg body moving at 14.6 m/s.",
+    "options": [
+      "171.55 kg·m/s",
+      "137.24 kg·m/s",
+      "68.62 kg·m/s",
+      "274.48 kg·m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "p=mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-125",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 45.8 N acts for 1.76 s. Find impulse.",
+    "options": [
+      "80.61 N·s",
+      "40.3 N·s",
+      "161.22 N·s",
+      "100.76 N·s"
+    ],
+    "answer_index": 0,
+    "explanation": "J=FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-126",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4.36 kg body at 8.04 m/s sticks to a stationary 2.9 kg body. Final speed?",
+    "options": [
+      "2.42 m/s",
+      "9.66 m/s",
+      "6.04 m/s",
+      "4.83 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)v."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-127",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Find momentum of a 9.6 kg body moving at 14.9 m/s.",
+    "options": [
+      "286.08 kg·m/s",
+      "178.8 kg·m/s",
+      "143.04 kg·m/s",
+      "71.52 kg·m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "p=mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-128",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 46.7 N acts for 1.79 s. Find impulse.",
+    "options": [
+      "104.49 N·s",
+      "83.59 N·s",
+      "41.8 N·s",
+      "167.18 N·s"
+    ],
+    "answer_index": 1,
+    "explanation": "J=FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-129",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4.44 kg body at 8.16 m/s sticks to a stationary 2.95 kg body. Final speed?",
+    "options": [
+      "4.9 m/s",
+      "2.45 m/s",
+      "9.8 m/s",
+      "6.13 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)v."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-130",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Find momentum of a 9.8 kg body moving at 15.2 m/s.",
+    "options": [
+      "74.48 kg·m/s",
+      "297.92 kg·m/s",
+      "186.2 kg·m/s",
+      "148.96 kg·m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "p=mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-131",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 47.6 N acts for 1.82 s. Find impulse.",
+    "options": [
+      "173.26 N·s",
+      "108.29 N·s",
+      "86.63 N·s",
+      "43.31 N·s"
+    ],
+    "answer_index": 2,
+    "explanation": "J=FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-132",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4.52 kg body at 8.28 m/s sticks to a stationary 3 kg body. Final speed?",
+    "options": [
+      "6.23 m/s",
+      "4.98 m/s",
+      "2.49 m/s",
+      "9.96 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)v."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-133",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Find momentum of a 10 kg body moving at 15.5 m/s.",
+    "options": [
+      "155 kg·m/s",
+      "77.5 kg·m/s",
+      "310 kg·m/s",
+      "193.75 kg·m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "p=mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-134",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 48.5 N acts for 1.85 s. Find impulse.",
+    "options": [
+      "44.86 N·s",
+      "179.44 N·s",
+      "112.15 N·s",
+      "89.72 N·s"
+    ],
+    "answer_index": 3,
+    "explanation": "J=FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-135",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4.6 kg body at 8.4 m/s sticks to a stationary 3.05 kg body. Final speed?",
+    "options": [
+      "10.1 m/s",
+      "6.31 m/s",
+      "5.05 m/s",
+      "2.52 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)v."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-136",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Find momentum of a 10.2 kg body moving at 15.8 m/s.",
+    "options": [
+      "201.45 kg·m/s",
+      "161.16 kg·m/s",
+      "80.58 kg·m/s",
+      "322.32 kg·m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "p=mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-137",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 49.4 N acts for 1.88 s. Find impulse.",
+    "options": [
+      "92.87 N·s",
+      "46.44 N·s",
+      "185.74 N·s",
+      "116.09 N·s"
+    ],
+    "answer_index": 0,
+    "explanation": "J=FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-138",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4.68 kg body at 8.52 m/s sticks to a stationary 3.1 kg body. Final speed?",
+    "options": [
+      "2.56 m/s",
+      "10.26 m/s",
+      "6.41 m/s",
+      "5.13 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)v."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-139",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Find momentum of a 10.4 kg body moving at 16.1 m/s.",
+    "options": [
+      "334.88 kg·m/s",
+      "209.3 kg·m/s",
+      "167.44 kg·m/s",
+      "83.72 kg·m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "p=mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-140",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 50.3 N acts for 1.91 s. Find impulse.",
+    "options": [
+      "120.09 N·s",
+      "96.07 N·s",
+      "48.03 N·s",
+      "192.14 N·s"
+    ],
+    "answer_index": 1,
+    "explanation": "J=FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-141",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4.76 kg body at 8.64 m/s sticks to a stationary 3.15 kg body. Final speed?",
+    "options": [
+      "5.2 m/s",
+      "2.6 m/s",
+      "10.4 m/s",
+      "6.5 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)v."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-142",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Find momentum of a 10.6 kg body moving at 16.4 m/s.",
+    "options": [
+      "86.92 kg·m/s",
+      "347.68 kg·m/s",
+      "217.3 kg·m/s",
+      "173.84 kg·m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "p=mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-143",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 51.2 N acts for 1.94 s. Find impulse.",
+    "options": [
+      "198.66 N·s",
+      "124.16 N·s",
+      "99.33 N·s",
+      "49.66 N·s"
+    ],
+    "answer_index": 2,
+    "explanation": "J=FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-144",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4.84 kg body at 8.76 m/s sticks to a stationary 3.2 kg body. Final speed?",
+    "options": [
+      "6.59 m/s",
+      "5.27 m/s",
+      "2.63 m/s",
+      "10.54 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)v."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-145",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Find momentum of a 10.8 kg body moving at 16.7 m/s.",
+    "options": [
+      "180.36 kg·m/s",
+      "90.18 kg·m/s",
+      "360.72 kg·m/s",
+      "225.45 kg·m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "p=mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-146",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 52.1 N acts for 1.97 s. Find impulse.",
+    "options": [
+      "51.32 N·s",
+      "205.28 N·s",
+      "128.3 N·s",
+      "102.64 N·s"
+    ],
+    "answer_index": 3,
+    "explanation": "J=FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-147",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4.92 kg body at 8.88 m/s sticks to a stationary 3.25 kg body. Final speed?",
+    "options": [
+      "10.7 m/s",
+      "6.69 m/s",
+      "5.35 m/s",
+      "2.67 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)v."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-148",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Find momentum of a 11 kg body moving at 17 m/s.",
+    "options": [
+      "233.75 kg·m/s",
+      "187 kg·m/s",
+      "93.5 kg·m/s",
+      "374 kg·m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "p=mv."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-149",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A force 53 N acts for 2 s. Find impulse.",
+    "options": [
+      "106 N·s",
+      "53 N·s",
+      "212 N·s",
+      "132.5 N·s"
+    ],
+    "answer_index": 0,
+    "explanation": "J=FΔt."
+  },
+  {
+    "id": "IMAT-PHY-MOMENTUM-IMPULSE-150",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Momentum & Impulse",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A 5 kg body at 9 m/s sticks to a stationary 3.3 kg body. Final speed?",
+    "options": [
+      "2.71 m/s",
+      "10.84 m/s",
+      "6.78 m/s",
+      "5.42 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Conserve momentum: m1v1=(m1+m2)v."
+  }
+]
