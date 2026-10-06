@@ -6,7 +6,7 @@ function showScreen(id){screens.forEach(s=>$(s).classList.toggle('active',s===id
 function shuffle(a){const x=[...a];for(let i=x.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[x[i],x[j]]=[x[j],x[i]];}return x;}
 
 async function init(){
-  state.topics=await (await fetch('data/imat/topics.json')).json();
+  state.topics=await (await fetch('../data/imat/topics.json')).json();
   renderTopics();
   document.querySelectorAll('.chip.diff').forEach(btn=>btn.onclick=()=>{
     document.querySelectorAll('.chip.diff').forEach(b=>b.classList.remove('active'));
@@ -44,7 +44,7 @@ async function generatePractice(){
   if(!state.selected.size){alert('Please select at least one topic.');return;}
   const banks=[];
   for(const slug of state.selected){
-    const r=await fetch(`data/imat/${slug}.json`);
+    const r=await fetch(`../data/imat/${slug}.json`);
     const arr=await r.json();
     banks.push(...arr);
   }
