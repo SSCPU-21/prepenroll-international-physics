@@ -3,130 +3,151 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Prepenroll International Physics Practice</title>
-<meta name="description" content="International entrance physics practice by Prepenroll. IMAT Physics is live with five-option exam-style practice; SAT and UCAT expansion is built into the platform.">
+<title>IMAT Physics Practice Studio | PrepEnroll™</title>
+<meta name="description" content="PrepEnroll IMAT Physics Practice Studio with topic filters, generated practice sets, scoring, topic breakdown and full review.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-<header>
-  <div class="wrap nav">
-    <a class="brand" href="#">Prep<span>enroll</span>™</a>
-    <nav class="navlinks">
-      <a href="#exams">Exams</a>
-      <a href="#topics">IMAT Topics</a>
-      <a href="#practice">Practice</a>
-    </nav>
-    <a class="pill compact" href="#practice">Start practice</a>
+<header class="top">
+  <div>
+    <div class="brand">Prep<span>Enroll</span>™</div>
+    <span class="tagline">PREP · LEARN · GO</span>
+  </div>
+  <div class="top-right">
+    <span class="exam-chip">IMAT Physics</span>
+    <a class="hub-link" href="https://sscpu-21.github.io/prepenroll-practice/practice/">Practice Hub ↗</a>
   </div>
 </header>
 
-<main>
-<section class="hero">
-  <div class="wrap hero-grid">
-    <div class="hero-copy">
-      <span class="eyebrow">International Physics Practice</span>
-      <h1>Prepare for the <em>question style</em>, not just the chapter.</h1>
-      <p>Focused international entrance-exam physics practice with clean one-question-at-a-time solving, immediate explanations and exam-aware difficulty.</p>
-      <div class="ctas">
-        <a class="pill" href="#practice">Practice IMAT Physics</a>
-        <a class="pill ghost" href="#topics">Browse IMAT topics</a>
-      </div>
-      <div class="trust-row">
-        <span>✓ Five-option IMAT format</span>
-        <span>✓ Topic-wise practice</span>
-        <span>✓ Original questions</span>
-      </div>
+<div class="shell">
+  <aside class="sidebar">
+    <div class="side-title">Select topics</div>
+    <div class="select-actions">
+      <button id="selectAll" class="text-btn">Select all</button>
+      <button id="clearAll" class="text-btn">Clear</button>
     </div>
+    <div id="topicList"></div>
+  </aside>
 
-    <aside class="hero-card">
-      <div class="hero-card-top">
-        <span class="live-dot"></span>
-        <small>LIVE NOW</small>
+  <main class="main">
+    <div class="controls">
+      <div class="control-group">
+        <span class="lbl">Difficulty</span>
+        <button class="chip diff active" data-diff="all">Mixed</button>
+        <button class="chip diff" data-diff="Foundation">Foundation</button>
+        <button class="chip diff" data-diff="Standard">Standard</button>
+        <button class="chip diff" data-diff="Challenge">Challenge</button>
       </div>
-      <h3>IMAT Physics</h3>
-      <p>Built around the current official paper style: direct concepts, unit conversion, multi-step numericals and short reasoning.</p>
-      <div class="pattern-list">
-        <div><span>01</span><b>Concept check</b><small>Fast definition or principle</small></div>
-        <div><span>02</span><b>Apply</b><small>Formula + unit awareness</small></div>
-        <div><span>03</span><b>Reason</b><small>Short multi-step decision</small></div>
-      </div>
-      <a href="#practice" class="inline-link">Open practice →</a>
-    </aside>
-  </div>
-</section>
-
-<section id="exams">
-  <div class="wrap">
-    <div class="section-head">
-      <div><span class="eyebrow">Exam pathways</span><h2>Built to expand without rebuilding.</h2></div>
-      <p>IMAT Physics is live first. The shared practice engine is structured so SAT and UCAT modules can be added without changing the core experience.</p>
-    </div>
-    <div class="exam-grid">
-      <article class="exam active"><span class="tag">Live</span><h3>IMAT Physics</h3><p>Five-option single-best-answer practice with explanations and difficulty filters.</p><a href="#practice">Practice now →</a></article>
-      <article class="exam soon"><span class="tag">Next</span><h3>SAT</h3><p>Quantitative practice modules will plug into the same platform architecture.</p></article>
-      <article class="exam soon"><span class="tag">Planned</span><h3>UCAT</h3><p>Timed quantitative reasoning can run as a dedicated mode on the same engine.</p></article>
-    </div>
-  </div>
-</section>
-
-<section id="topics" class="soft-section">
-  <div class="wrap">
-    <div class="section-head">
-      <div><span class="eyebrow">IMAT Physics</span><h2>Choose the idea you want to strengthen.</h2></div>
-      <p>Topics are grouped for practical study rather than forcing students through one long mixed bank.</p>
-    </div>
-    <div class="topic-grid" id="topicGrid"></div>
-  </div>
-</section>
-
-<section class="practice" id="practice">
-  <div class="wrap">
-    <div class="section-head">
-      <div><span class="eyebrow">Practice engine</span><h2>One question. One decision.</h2></div>
-      <p>Pick a subtopic and difficulty. Solve without unnecessary dashboard clutter, then check the explanation.</p>
-    </div>
-    <div class="practice-shell">
-      <div class="panel filters">
-        <div class="filter-title">Build your set</div>
-        <label for="topicSelect">Subtopic</label>
-        <select id="topicSelect"></select>
-        <label for="difficulty">Difficulty</label>
-        <select id="difficulty">
-          <option value="all">Mixed</option>
-          <option value="Foundation">Foundation</option>
-          <option value="Standard">Standard</option>
-          <option value="Challenge">Challenge</option>
+      <div class="control-group">
+        <label class="lbl" for="setSize">Questions</label>
+        <select id="setSize">
+          <option value="10">10</option>
+          <option value="15" selected>15</option>
+          <option value="20">20</option>
+          <option value="30">30</option>
         </select>
-        <button id="loadBtn">New question</button>
-        <p class="microcopy">Questions are original practice content and do not reproduce copyrighted past-paper text.</p>
       </div>
-      <div class="panel qcard">
-        <div class="question-top"><small id="meta">IMAT • Physics</small><span class="format-chip">5 options</span></div>
-        <h3 id="stem">Select a subtopic to begin.</h3>
-        <div class="options" id="options"></div>
-        <div class="feedback" id="feedback"></div>
-        <button class="next-btn" id="nextBtn" type="button">Next question</button>
-      </div>
+      <button id="generateBtn" class="gen-btn">Generate Practice</button>
+    </div>
+
+    <div class="content">
+      <section id="welcomeScreen" class="screen active">
+        <div class="welcome">
+          <span class="eyebrow">IMAT Physics Studio</span>
+          <h1>Choose topics.<br><span>Build your practice.</span></h1>
+          <p>Select one or more IMAT Physics topics from the left. Choose difficulty and set length, then generate a focused practice test. Questions appear one at a time and your scorecard is created after submission.</p>
+          <div class="feature-grid">
+            <div><b>Topic-wise</b><span>Choose exactly what you want to practise.</span></div>
+            <div><b>5-option MCQ</b><span>Aligned to the current IMAT single-best-answer format.</span></div>
+            <div><b>Scorecard</b><span>See total score and topic-wise performance.</span></div>
+            <div><b>Full review</b><span>Revisit every answer with explanations.</span></div>
+          </div>
+          <button id="welcomeStart" class="primary big">Start with selected topics</button>
+        </div>
+      </section>
+
+      <section id="practiceScreen" class="screen">
+        <div class="practice-head">
+          <div>
+            <span class="eyebrow">Practice set</span>
+            <h2 id="practiceTitle">IMAT Physics Practice</h2>
+          </div>
+          <div class="progress-box"><b id="progressText">1 / 15</b><span id="answeredText">0 answered</span></div>
+        </div>
+
+        <div class="qcard">
+          <div class="qmeta" id="qMeta"></div>
+          <h3 id="qStem"></h3>
+          <div id="qOptions" class="options"></div>
+          <div class="navrow">
+            <button id="prevBtn" class="secondary">← Previous</button>
+            <div class="navbtns">
+              <button id="flagBtn" class="secondary">Flag</button>
+              <button id="nextBtn" class="primary">Next →</button>
+              <button id="submitBtn" class="submit">Submit Practice</button>
+            </div>
+          </div>
+          <div id="qNav" class="qnav"></div>
+        </div>
+      </section>
+
+      <section id="resultsScreen" class="screen">
+        <div class="results-header">
+          <span class="eyebrow">Practice complete</span>
+          <h2>Your IMAT Physics Scorecard</h2>
+          <p class="results-meta" id="resultsMeta"></p>
+        </div>
+
+        <div class="score-card">
+          <div class="score-pct" id="scorePct">0%</div>
+          <div class="score-sub" id="scoreSub"></div>
+          <div class="score-note">Calculated from the selected practice set.</div>
+        </div>
+
+        <div class="breakdown">
+          <h3>Topic-wise performance</h3>
+          <div id="breakdownRows"></div>
+        </div>
+
+        <div class="results-btns">
+          <button id="reviewBtn" class="primary">Review answers</button>
+          <button id="newSetBtn" class="secondary">Create new practice</button>
+        </div>
+      </section>
+
+      <section id="reviewScreen" class="screen">
+        <div class="review-head">
+          <div><span class="eyebrow">Answer review</span><h2>Review your practice</h2></div>
+          <button id="backResults" class="secondary">← Scorecard</button>
+        </div>
+        <div id="reviewList"></div>
+      </section>
+    </div>
+  </main>
+</div>
+
+<button class="pe-calc-toggle" id="calcToggle">Calculator</button>
+<div class="pe-calc" id="calc">
+  <div class="pe-calc-head"><span>Mini calculator</span><button class="pe-calc-close" id="calcClose">×</button></div>
+  <input class="pe-calc-screen" id="calcScreen" value="" readonly>
+  <div class="pe-calc-grid" id="calcGrid"></div>
+</div>
+
+<footer class="pe-global-footer">
+  <div class="pe-footer-inner">
+    <div>
+      <div class="pe-footer-brand">Prep<span>Enroll</span>™</div>
+      <p>Focused international exam practice designed for deliberate, topic-wise preparation.</p>
+    </div>
+    <div class="pe-footer-links">
+      <a href="https://www.prepenroll.com" target="_blank" rel="noopener">PrepEnroll.com</a>
+      <a href="mailto:info@prepenroll.com">Contact</a>
     </div>
   </div>
-</section>
-
-<section class="source-strip">
-  <div class="wrap source-inner">
-    <div><span class="eyebrow">Pattern reference</span><h3>Calibrated against the current official IMAT paper structure.</h3></div>
-    <a class="pill ghost" href="https://accessoprogrammato.mur.gov.it/2026/index.php?pag=IMT" target="_blank" rel="noopener">Official IMAT source ↗</a>
-  </div>
-</section>
-</main>
-
-<footer>
-  <div class="wrap footer-inner">
-    <div><b>Prepenroll™</b><span>International Physics Practice</span></div>
-    <span>Prep. Learn. Go.</span>
-  </div>
+  <div class="pe-footer-legal">© 2026 PrepEnroll™. All Rights Reserved. Original practice content. Official exam names belong to their respective owners.</div>
 </footer>
 <script src="app.js"></script>
 </body>
