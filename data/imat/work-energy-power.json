@@ -1,0 +1,2702 @@
+[
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-001",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 10.8 N force acts parallel to motion through 2.09 m. Work done?",
+    "options": [
+      "22.57 J",
+      "11.29 J",
+      "45.14 J",
+      "28.21 J"
+    ],
+    "answer_index": 0,
+    "explanation": "W=Fs."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-002",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Find kinetic energy of 1.12 kg moving at 2.18 m/s.",
+    "options": [
+      "1.33 J",
+      "5.32 J",
+      "3.33 J",
+      "2.66 J"
+    ],
+    "answer_index": 3,
+    "explanation": "K=½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-003",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "104 J of work is done in 4.07 s. Average power?",
+    "options": [
+      "51.1 W",
+      "31.94 W",
+      "25.55 W",
+      "12.78 W"
+    ],
+    "answer_index": 2,
+    "explanation": "P=W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-004",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 11.6 N force acts parallel to motion through 2.18 m. Work done?",
+    "options": [
+      "31.61 J",
+      "25.29 J",
+      "12.64 J",
+      "50.58 J"
+    ],
+    "answer_index": 1,
+    "explanation": "W=Fs."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-005",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Find kinetic energy of 1.24 kg moving at 2.36 m/s.",
+    "options": [
+      "3.45 J",
+      "1.73 J",
+      "6.9 J",
+      "4.31 J"
+    ],
+    "answer_index": 0,
+    "explanation": "K=½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-006",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "108 J of work is done in 4.14 s. Average power?",
+    "options": [
+      "13.04 W",
+      "52.18 W",
+      "32.61 W",
+      "26.09 W"
+    ],
+    "answer_index": 3,
+    "explanation": "P=W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-007",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 12.4 N force acts parallel to motion through 2.27 m. Work done?",
+    "options": [
+      "56.3 J",
+      "35.19 J",
+      "28.15 J",
+      "14.07 J"
+    ],
+    "answer_index": 2,
+    "explanation": "W=Fs."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-008",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Find kinetic energy of 1.36 kg moving at 2.54 m/s.",
+    "options": [
+      "5.49 J",
+      "4.39 J",
+      "2.19 J",
+      "8.78 J"
+    ],
+    "answer_index": 1,
+    "explanation": "K=½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-009",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "112 J of work is done in 4.21 s. Average power?",
+    "options": [
+      "26.6 W",
+      "13.3 W",
+      "53.2 W",
+      "33.25 W"
+    ],
+    "answer_index": 0,
+    "explanation": "P=W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-010",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 13.2 N force acts parallel to motion through 2.36 m. Work done?",
+    "options": [
+      "15.57 J",
+      "62.3 J",
+      "38.94 J",
+      "31.15 J"
+    ],
+    "answer_index": 3,
+    "explanation": "W=Fs."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-011",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Find kinetic energy of 1.48 kg moving at 2.72 m/s.",
+    "options": [
+      "10.94 J",
+      "6.84 J",
+      "5.47 J",
+      "2.73 J"
+    ],
+    "answer_index": 2,
+    "explanation": "K=½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-012",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "116 J of work is done in 4.28 s. Average power?",
+    "options": [
+      "33.88 W",
+      "27.1 W",
+      "13.55 W",
+      "54.2 W"
+    ],
+    "answer_index": 1,
+    "explanation": "P=W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-013",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 14 N force acts parallel to motion through 2.45 m. Work done?",
+    "options": [
+      "34.3 J",
+      "17.15 J",
+      "68.6 J",
+      "42.88 J"
+    ],
+    "answer_index": 0,
+    "explanation": "W=Fs."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-014",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Find kinetic energy of 1.6 kg moving at 2.9 m/s.",
+    "options": [
+      "3.37 J",
+      "13.46 J",
+      "8.41 J",
+      "6.73 J"
+    ],
+    "answer_index": 3,
+    "explanation": "K=½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-015",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "120 J of work is done in 4.35 s. Average power?",
+    "options": [
+      "55.18 W",
+      "34.49 W",
+      "27.59 W",
+      "13.79 W"
+    ],
+    "answer_index": 2,
+    "explanation": "P=W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-016",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 14.8 N force acts parallel to motion through 2.54 m. Work done?",
+    "options": [
+      "46.99 J",
+      "37.59 J",
+      "18.8 J",
+      "75.18 J"
+    ],
+    "answer_index": 1,
+    "explanation": "W=Fs."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-017",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Find kinetic energy of 1.72 kg moving at 3.08 m/s.",
+    "options": [
+      "8.16 J",
+      "4.08 J",
+      "16.32 J",
+      "10.2 J"
+    ],
+    "answer_index": 0,
+    "explanation": "K=½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-018",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "124 J of work is done in 4.42 s. Average power?",
+    "options": [
+      "14.03 W",
+      "56.1 W",
+      "35.06 W",
+      "28.05 W"
+    ],
+    "answer_index": 3,
+    "explanation": "P=W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-019",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 15.6 N force acts parallel to motion through 2.63 m. Work done?",
+    "options": [
+      "82.06 J",
+      "51.29 J",
+      "41.03 J",
+      "20.52 J"
+    ],
+    "answer_index": 2,
+    "explanation": "W=Fs."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-020",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Find kinetic energy of 1.84 kg moving at 3.26 m/s.",
+    "options": [
+      "12.22 J",
+      "9.78 J",
+      "4.89 J",
+      "19.56 J"
+    ],
+    "answer_index": 1,
+    "explanation": "K=½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-021",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "128 J of work is done in 4.49 s. Average power?",
+    "options": [
+      "28.51 W",
+      "14.26 W",
+      "57.02 W",
+      "35.64 W"
+    ],
+    "answer_index": 0,
+    "explanation": "P=W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-022",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 16.4 N force acts parallel to motion through 2.72 m. Work done?",
+    "options": [
+      "22.3 J",
+      "89.22 J",
+      "55.76 J",
+      "44.61 J"
+    ],
+    "answer_index": 3,
+    "explanation": "W=Fs."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-023",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Find kinetic energy of 1.96 kg moving at 3.44 m/s.",
+    "options": [
+      "23.2 J",
+      "14.5 J",
+      "11.6 J",
+      "5.8 J"
+    ],
+    "answer_index": 2,
+    "explanation": "K=½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-024",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "132 J of work is done in 4.56 s. Average power?",
+    "options": [
+      "36.19 W",
+      "28.95 W",
+      "14.47 W",
+      "57.9 W"
+    ],
+    "answer_index": 1,
+    "explanation": "P=W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-025",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 17.2 N force acts parallel to motion through 2.81 m. Work done?",
+    "options": [
+      "48.33 J",
+      "24.16 J",
+      "96.66 J",
+      "60.41 J"
+    ],
+    "answer_index": 0,
+    "explanation": "W=Fs."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-026",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Find kinetic energy of 2.08 kg moving at 3.62 m/s.",
+    "options": [
+      "6.82 J",
+      "27.26 J",
+      "17.04 J",
+      "13.63 J"
+    ],
+    "answer_index": 3,
+    "explanation": "K=½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-027",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "136 J of work is done in 4.63 s. Average power?",
+    "options": [
+      "58.74 W",
+      "36.71 W",
+      "29.37 W",
+      "14.69 W"
+    ],
+    "answer_index": 2,
+    "explanation": "P=W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-028",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 18 N force acts parallel to motion through 2.9 m. Work done?",
+    "options": [
+      "65.25 J",
+      "52.2 J",
+      "26.1 J",
+      "104.4 J"
+    ],
+    "answer_index": 1,
+    "explanation": "W=Fs."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-029",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Find kinetic energy of 2.2 kg moving at 3.8 m/s.",
+    "options": [
+      "15.88 J",
+      "7.94 J",
+      "31.76 J",
+      "19.85 J"
+    ],
+    "answer_index": 0,
+    "explanation": "K=½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-030",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "140 J of work is done in 4.7 s. Average power?",
+    "options": [
+      "14.89 W",
+      "59.58 W",
+      "37.24 W",
+      "29.79 W"
+    ],
+    "answer_index": 3,
+    "explanation": "P=W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-031",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 18.8 N force acts parallel to motion through 2.99 m. Work done?",
+    "options": [
+      "112.42 J",
+      "70.26 J",
+      "56.21 J",
+      "28.11 J"
+    ],
+    "answer_index": 2,
+    "explanation": "W=Fs."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-032",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Find kinetic energy of 2.32 kg moving at 3.98 m/s.",
+    "options": [
+      "22.96 J",
+      "18.37 J",
+      "9.19 J",
+      "36.74 J"
+    ],
+    "answer_index": 1,
+    "explanation": "K=½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-033",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "144 J of work is done in 4.77 s. Average power?",
+    "options": [
+      "30.19 W",
+      "15.1 W",
+      "60.38 W",
+      "37.74 W"
+    ],
+    "answer_index": 0,
+    "explanation": "P=W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-034",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 19.6 N force acts parallel to motion through 3.08 m. Work done?",
+    "options": [
+      "30.18 J",
+      "120.74 J",
+      "75.46 J",
+      "60.37 J"
+    ],
+    "answer_index": 3,
+    "explanation": "W=Fs."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-035",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Find kinetic energy of 2.44 kg moving at 4.16 m/s.",
+    "options": [
+      "42.22 J",
+      "26.39 J",
+      "21.11 J",
+      "10.55 J"
+    ],
+    "answer_index": 2,
+    "explanation": "K=½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-036",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "148 J of work is done in 4.84 s. Average power?",
+    "options": [
+      "38.22 W",
+      "30.58 W",
+      "15.29 W",
+      "61.16 W"
+    ],
+    "answer_index": 1,
+    "explanation": "P=W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-037",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 20.4 N force acts parallel to motion through 3.17 m. Work done?",
+    "options": [
+      "64.67 J",
+      "32.34 J",
+      "129.34 J",
+      "80.84 J"
+    ],
+    "answer_index": 0,
+    "explanation": "W=Fs."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-038",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Find kinetic energy of 2.56 kg moving at 4.34 m/s.",
+    "options": [
+      "12.05 J",
+      "48.22 J",
+      "30.14 J",
+      "24.11 J"
+    ],
+    "answer_index": 3,
+    "explanation": "K=½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-039",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "152 J of work is done in 4.91 s. Average power?",
+    "options": [
+      "61.92 W",
+      "38.7 W",
+      "30.96 W",
+      "15.48 W"
+    ],
+    "answer_index": 2,
+    "explanation": "P=W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-040",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 21.2 N force acts parallel to motion through 3.26 m. Work done?",
+    "options": [
+      "86.39 J",
+      "69.11 J",
+      "34.55 J",
+      "138.22 J"
+    ],
+    "answer_index": 1,
+    "explanation": "W=Fs."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-041",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Find kinetic energy of 2.68 kg moving at 4.52 m/s.",
+    "options": [
+      "27.38 J",
+      "13.69 J",
+      "54.76 J",
+      "34.23 J"
+    ],
+    "answer_index": 0,
+    "explanation": "K=½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-042",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "156 J of work is done in 4.98 s. Average power?",
+    "options": [
+      "15.66 W",
+      "62.66 W",
+      "39.16 W",
+      "31.33 W"
+    ],
+    "answer_index": 3,
+    "explanation": "P=W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-043",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 22 N force acts parallel to motion through 3.35 m. Work done?",
+    "options": [
+      "147.4 J",
+      "92.13 J",
+      "73.7 J",
+      "36.85 J"
+    ],
+    "answer_index": 2,
+    "explanation": "W=Fs."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-044",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Find kinetic energy of 2.8 kg moving at 4.7 m/s.",
+    "options": [
+      "38.66 J",
+      "30.93 J",
+      "15.46 J",
+      "61.86 J"
+    ],
+    "answer_index": 1,
+    "explanation": "K=½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-045",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "160 J of work is done in 5.05 s. Average power?",
+    "options": [
+      "31.68 W",
+      "15.84 W",
+      "63.36 W",
+      "39.6 W"
+    ],
+    "answer_index": 0,
+    "explanation": "P=W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-046",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 22.8 N force acts parallel to motion through 3.44 m. Work done?",
+    "options": [
+      "39.22 J",
+      "156.86 J",
+      "98.04 J",
+      "78.43 J"
+    ],
+    "answer_index": 3,
+    "explanation": "W=Fs."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-047",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Find kinetic energy of 2.92 kg moving at 4.88 m/s.",
+    "options": [
+      "69.54 J",
+      "43.46 J",
+      "34.77 J",
+      "17.39 J"
+    ],
+    "answer_index": 2,
+    "explanation": "K=½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-048",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "164 J of work is done in 5.12 s. Average power?",
+    "options": [
+      "40.04 W",
+      "32.03 W",
+      "16.02 W",
+      "64.06 W"
+    ],
+    "answer_index": 1,
+    "explanation": "P=W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-049",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 23.6 N force acts parallel to motion through 3.53 m. Work done?",
+    "options": [
+      "83.31 J",
+      "41.66 J",
+      "166.62 J",
+      "104.14 J"
+    ],
+    "answer_index": 0,
+    "explanation": "W=Fs."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-050",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Find kinetic energy of 3.04 kg moving at 5.06 m/s.",
+    "options": [
+      "19.46 J",
+      "77.84 J",
+      "48.65 J",
+      "38.92 J"
+    ],
+    "answer_index": 3,
+    "explanation": "K=½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-051",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "168 J of work is done in 5.19 s. Average power?",
+    "options": [
+      "64.74 W",
+      "40.46 W",
+      "32.37 W",
+      "16.18 W"
+    ],
+    "answer_index": 2,
+    "explanation": "P=W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-052",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 24.4 N force acts parallel to motion through 3.62 m. Work done?",
+    "options": [
+      "110.41 J",
+      "88.33 J",
+      "44.16 J",
+      "176.66 J"
+    ],
+    "answer_index": 1,
+    "explanation": "W=Fs."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-053",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Find kinetic energy of 3.16 kg moving at 5.24 m/s.",
+    "options": [
+      "43.38 J",
+      "21.69 J",
+      "86.76 J",
+      "54.23 J"
+    ],
+    "answer_index": 0,
+    "explanation": "K=½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-054",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "172 J of work is done in 5.26 s. Average power?",
+    "options": [
+      "16.35 W",
+      "65.4 W",
+      "40.88 W",
+      "32.7 W"
+    ],
+    "answer_index": 3,
+    "explanation": "P=W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-055",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 25.2 N force acts parallel to motion through 3.71 m. Work done?",
+    "options": [
+      "186.98 J",
+      "116.86 J",
+      "93.49 J",
+      "46.74 J"
+    ],
+    "answer_index": 2,
+    "explanation": "W=Fs."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-056",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Find kinetic energy of 3.28 kg moving at 5.42 m/s.",
+    "options": [
+      "60.23 J",
+      "48.18 J",
+      "24.09 J",
+      "96.36 J"
+    ],
+    "answer_index": 1,
+    "explanation": "K=½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-057",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "176 J of work is done in 5.33 s. Average power?",
+    "options": [
+      "33.02 W",
+      "16.51 W",
+      "66.04 W",
+      "41.28 W"
+    ],
+    "answer_index": 0,
+    "explanation": "P=W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-058",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 26 N force acts parallel to motion through 3.8 m. Work done?",
+    "options": [
+      "49.4 J",
+      "197.6 J",
+      "123.5 J",
+      "98.8 J"
+    ],
+    "answer_index": 3,
+    "explanation": "W=Fs."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-059",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Find kinetic energy of 3.4 kg moving at 5.6 m/s.",
+    "options": [
+      "106.62 J",
+      "66.64 J",
+      "53.31 J",
+      "26.66 J"
+    ],
+    "answer_index": 2,
+    "explanation": "K=½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-060",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "180 J of work is done in 5.4 s. Average power?",
+    "options": [
+      "41.66 W",
+      "33.33 W",
+      "16.66 W",
+      "66.66 W"
+    ],
+    "answer_index": 1,
+    "explanation": "P=W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-061",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 26.8 N force acts parallel to motion through 3.89 m. Work done?",
+    "options": [
+      "104.25 J",
+      "52.13 J",
+      "208.5 J",
+      "130.31 J"
+    ],
+    "answer_index": 0,
+    "explanation": "W=Fs."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-062",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Find kinetic energy of 3.52 kg moving at 5.78 m/s.",
+    "options": [
+      "29.4 J",
+      "117.6 J",
+      "73.5 J",
+      "58.8 J"
+    ],
+    "answer_index": 3,
+    "explanation": "K=½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-063",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "184 J of work is done in 5.47 s. Average power?",
+    "options": [
+      "67.28 W",
+      "42.05 W",
+      "33.64 W",
+      "16.82 W"
+    ],
+    "answer_index": 2,
+    "explanation": "P=W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-064",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 27.6 N force acts parallel to motion through 3.98 m. Work done?",
+    "options": [
+      "137.31 J",
+      "109.85 J",
+      "54.92 J",
+      "219.7 J"
+    ],
+    "answer_index": 1,
+    "explanation": "W=Fs."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-065",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Find kinetic energy of 3.64 kg moving at 5.96 m/s.",
+    "options": [
+      "64.65 J",
+      "32.33 J",
+      "129.3 J",
+      "80.81 J"
+    ],
+    "answer_index": 0,
+    "explanation": "K=½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-066",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "188 J of work is done in 5.54 s. Average power?",
+    "options": [
+      "16.97 W",
+      "67.88 W",
+      "42.42 W",
+      "33.94 W"
+    ],
+    "answer_index": 3,
+    "explanation": "P=W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-067",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 28.4 N force acts parallel to motion through 4.07 m. Work done?",
+    "options": [
+      "231.18 J",
+      "144.49 J",
+      "115.59 J",
+      "57.8 J"
+    ],
+    "answer_index": 2,
+    "explanation": "W=Fs."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-068",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Find kinetic energy of 3.76 kg moving at 6.14 m/s.",
+    "options": [
+      "88.6 J",
+      "70.88 J",
+      "35.44 J",
+      "141.76 J"
+    ],
+    "answer_index": 1,
+    "explanation": "K=½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-069",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "192 J of work is done in 5.61 s. Average power?",
+    "options": [
+      "34.22 W",
+      "17.11 W",
+      "68.44 W",
+      "42.77 W"
+    ],
+    "answer_index": 0,
+    "explanation": "P=W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-070",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 29.2 N force acts parallel to motion through 4.16 m. Work done?",
+    "options": [
+      "60.73 J",
+      "242.94 J",
+      "151.84 J",
+      "121.47 J"
+    ],
+    "answer_index": 3,
+    "explanation": "W=Fs."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-071",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Find kinetic energy of 3.88 kg moving at 6.32 m/s.",
+    "options": [
+      "154.98 J",
+      "96.86 J",
+      "77.49 J",
+      "38.74 J"
+    ],
+    "answer_index": 2,
+    "explanation": "K=½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-072",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "196 J of work is done in 5.68 s. Average power?",
+    "options": [
+      "43.14 W",
+      "34.51 W",
+      "17.25 W",
+      "69.02 W"
+    ],
+    "answer_index": 1,
+    "explanation": "P=W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-073",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 30 N force acts parallel to motion through 4.25 m. Work done?",
+    "options": [
+      "127.5 J",
+      "63.75 J",
+      "255 J",
+      "159.38 J"
+    ],
+    "answer_index": 0,
+    "explanation": "W=Fs."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-074",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Find kinetic energy of 4 kg moving at 6.5 m/s.",
+    "options": [
+      "42.25 J",
+      "169 J",
+      "105.63 J",
+      "84.5 J"
+    ],
+    "answer_index": 3,
+    "explanation": "K=½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-075",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "200 J of work is done in 5.75 s. Average power?",
+    "options": [
+      "69.56 W",
+      "43.48 W",
+      "34.78 W",
+      "17.39 W"
+    ],
+    "answer_index": 2,
+    "explanation": "P=W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-076",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 30.8 N force acts parallel to motion through 4.34 m. Work done?",
+    "options": [
+      "167.09 J",
+      "133.67 J",
+      "66.83 J",
+      "267.34 J"
+    ],
+    "answer_index": 1,
+    "explanation": "W=Fs."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-077",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Find kinetic energy of 4.12 kg moving at 6.68 m/s.",
+    "options": [
+      "91.92 J",
+      "45.96 J",
+      "183.84 J",
+      "114.9 J"
+    ],
+    "answer_index": 0,
+    "explanation": "K=½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-078",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "204 J of work is done in 5.82 s. Average power?",
+    "options": [
+      "17.52 W",
+      "70.1 W",
+      "43.81 W",
+      "35.05 W"
+    ],
+    "answer_index": 3,
+    "explanation": "P=W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-079",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 31.6 N force acts parallel to motion through 4.43 m. Work done?",
+    "options": [
+      "279.98 J",
+      "174.99 J",
+      "139.99 J",
+      "70 J"
+    ],
+    "answer_index": 2,
+    "explanation": "W=Fs."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-080",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Find kinetic energy of 4.24 kg moving at 6.86 m/s.",
+    "options": [
+      "124.71 J",
+      "99.77 J",
+      "49.88 J",
+      "199.54 J"
+    ],
+    "answer_index": 1,
+    "explanation": "K=½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-081",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "208 J of work is done in 5.89 s. Average power?",
+    "options": [
+      "35.31 W",
+      "17.66 W",
+      "70.62 W",
+      "44.14 W"
+    ],
+    "answer_index": 0,
+    "explanation": "P=W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-082",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 32.4 N force acts parallel to motion through 4.52 m. Work done?",
+    "options": [
+      "73.22 J",
+      "292.9 J",
+      "183.06 J",
+      "146.45 J"
+    ],
+    "answer_index": 3,
+    "explanation": "W=Fs."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-083",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Find kinetic energy of 4.36 kg moving at 7.04 m/s.",
+    "options": [
+      "216.08 J",
+      "135.05 J",
+      "108.04 J",
+      "54.02 J"
+    ],
+    "answer_index": 2,
+    "explanation": "K=½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-084",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "212 J of work is done in 5.96 s. Average power?",
+    "options": [
+      "44.46 W",
+      "35.57 W",
+      "17.79 W",
+      "71.14 W"
+    ],
+    "answer_index": 1,
+    "explanation": "P=W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-085",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 33.2 N force acts parallel to motion through 4.61 m. Work done?",
+    "options": [
+      "153.05 J",
+      "76.53 J",
+      "306.1 J",
+      "191.31 J"
+    ],
+    "answer_index": 0,
+    "explanation": "W=Fs."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-086",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Find kinetic energy of 4.48 kg moving at 7.22 m/s.",
+    "options": [
+      "58.38 J",
+      "233.54 J",
+      "145.96 J",
+      "116.77 J"
+    ],
+    "answer_index": 3,
+    "explanation": "K=½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-087",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "216 J of work is done in 6.03 s. Average power?",
+    "options": [
+      "71.64 W",
+      "44.77 W",
+      "35.82 W",
+      "17.91 W"
+    ],
+    "answer_index": 2,
+    "explanation": "P=W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-088",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 34 N force acts parallel to motion through 4.7 m. Work done?",
+    "options": [
+      "199.75 J",
+      "159.8 J",
+      "79.9 J",
+      "319.6 J"
+    ],
+    "answer_index": 1,
+    "explanation": "W=Fs."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-089",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Find kinetic energy of 4.6 kg moving at 7.4 m/s.",
+    "options": [
+      "125.95 J",
+      "62.98 J",
+      "251.9 J",
+      "157.44 J"
+    ],
+    "answer_index": 0,
+    "explanation": "K=½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-090",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "220 J of work is done in 6.1 s. Average power?",
+    "options": [
+      "18.04 W",
+      "72.14 W",
+      "45.09 W",
+      "36.07 W"
+    ],
+    "answer_index": 3,
+    "explanation": "P=W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-091",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 34.8 N force acts parallel to motion through 4.79 m. Work done?",
+    "options": [
+      "333.38 J",
+      "208.36 J",
+      "166.69 J",
+      "83.34 J"
+    ],
+    "answer_index": 2,
+    "explanation": "W=Fs."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-092",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Find kinetic energy of 4.72 kg moving at 7.58 m/s.",
+    "options": [
+      "169.5 J",
+      "135.6 J",
+      "67.8 J",
+      "271.2 J"
+    ],
+    "answer_index": 1,
+    "explanation": "K=½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-093",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "224 J of work is done in 6.17 s. Average power?",
+    "options": [
+      "36.3 W",
+      "18.15 W",
+      "72.6 W",
+      "45.38 W"
+    ],
+    "answer_index": 0,
+    "explanation": "P=W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-094",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 35.6 N force acts parallel to motion through 4.88 m. Work done?",
+    "options": [
+      "86.86 J",
+      "347.46 J",
+      "217.16 J",
+      "173.73 J"
+    ],
+    "answer_index": 3,
+    "explanation": "W=Fs."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-095",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Find kinetic energy of 4.84 kg moving at 7.76 m/s.",
+    "options": [
+      "291.46 J",
+      "182.16 J",
+      "145.73 J",
+      "72.86 J"
+    ],
+    "answer_index": 2,
+    "explanation": "K=½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-096",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "228 J of work is done in 6.24 s. Average power?",
+    "options": [
+      "45.67 W",
+      "36.54 W",
+      "18.27 W",
+      "73.08 W"
+    ],
+    "answer_index": 1,
+    "explanation": "P=W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-097",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 36.4 N force acts parallel to motion through 4.97 m. Work done?",
+    "options": [
+      "180.91 J",
+      "90.45 J",
+      "361.82 J",
+      "226.14 J"
+    ],
+    "answer_index": 0,
+    "explanation": "W=Fs."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-098",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Find kinetic energy of 4.96 kg moving at 7.94 m/s.",
+    "options": [
+      "78.17 J",
+      "312.7 J",
+      "195.44 J",
+      "156.35 J"
+    ],
+    "answer_index": 3,
+    "explanation": "K=½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-099",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "232 J of work is done in 6.31 s. Average power?",
+    "options": [
+      "73.54 W",
+      "45.96 W",
+      "36.77 W",
+      "18.39 W"
+    ],
+    "answer_index": 2,
+    "explanation": "P=W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-100",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 37.2 N force acts parallel to motion through 5.06 m. Work done?",
+    "options": [
+      "235.29 J",
+      "188.23 J",
+      "94.11 J",
+      "376.46 J"
+    ],
+    "answer_index": 1,
+    "explanation": "W=Fs."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-101",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Find kinetic energy of 5.08 kg moving at 8.12 m/s.",
+    "options": [
+      "167.47 J",
+      "83.73 J",
+      "334.94 J",
+      "209.34 J"
+    ],
+    "answer_index": 0,
+    "explanation": "K=½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-102",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "236 J of work is done in 6.38 s. Average power?",
+    "options": [
+      "18.5 W",
+      "73.98 W",
+      "46.24 W",
+      "36.99 W"
+    ],
+    "answer_index": 3,
+    "explanation": "P=W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-103",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 38 N force acts parallel to motion through 5.15 m. Work done?",
+    "options": [
+      "391.4 J",
+      "244.63 J",
+      "195.7 J",
+      "97.85 J"
+    ],
+    "answer_index": 2,
+    "explanation": "W=Fs."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-104",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Find kinetic energy of 5.2 kg moving at 8.3 m/s.",
+    "options": [
+      "223.89 J",
+      "179.11 J",
+      "89.56 J",
+      "358.22 J"
+    ],
+    "answer_index": 1,
+    "explanation": "K=½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-105",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "240 J of work is done in 6.45 s. Average power?",
+    "options": [
+      "37.21 W",
+      "18.61 W",
+      "74.42 W",
+      "46.51 W"
+    ],
+    "answer_index": 0,
+    "explanation": "P=W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-106",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 38.8 N force acts parallel to motion through 5.24 m. Work done?",
+    "options": [
+      "101.66 J",
+      "406.62 J",
+      "254.14 J",
+      "203.31 J"
+    ],
+    "answer_index": 3,
+    "explanation": "W=Fs."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-107",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Find kinetic energy of 5.32 kg moving at 8.48 m/s.",
+    "options": [
+      "382.56 J",
+      "239.1 J",
+      "191.28 J",
+      "95.64 J"
+    ],
+    "answer_index": 2,
+    "explanation": "K=½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-108",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "244 J of work is done in 6.52 s. Average power?",
+    "options": [
+      "46.78 W",
+      "37.42 W",
+      "18.71 W",
+      "74.84 W"
+    ],
+    "answer_index": 1,
+    "explanation": "P=W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-109",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 39.6 N force acts parallel to motion through 5.33 m. Work done?",
+    "options": [
+      "211.07 J",
+      "105.53 J",
+      "422.14 J",
+      "263.84 J"
+    ],
+    "answer_index": 0,
+    "explanation": "W=Fs."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-110",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Find kinetic energy of 5.44 kg moving at 8.66 m/s.",
+    "options": [
+      "102 J",
+      "407.98 J",
+      "254.99 J",
+      "203.99 J"
+    ],
+    "answer_index": 3,
+    "explanation": "K=½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-111",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "248 J of work is done in 6.59 s. Average power?",
+    "options": [
+      "75.26 W",
+      "47.04 W",
+      "37.63 W",
+      "18.82 W"
+    ],
+    "answer_index": 2,
+    "explanation": "P=W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-112",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 40.4 N force acts parallel to motion through 5.42 m. Work done?",
+    "options": [
+      "273.71 J",
+      "218.97 J",
+      "109.48 J",
+      "437.94 J"
+    ],
+    "answer_index": 1,
+    "explanation": "W=Fs."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-113",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Find kinetic energy of 5.56 kg moving at 8.84 m/s.",
+    "options": [
+      "217.24 J",
+      "108.62 J",
+      "434.48 J",
+      "271.55 J"
+    ],
+    "answer_index": 0,
+    "explanation": "K=½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-114",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "252 J of work is done in 6.66 s. Average power?",
+    "options": [
+      "18.92 W",
+      "75.68 W",
+      "47.3 W",
+      "37.84 W"
+    ],
+    "answer_index": 3,
+    "explanation": "P=W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-115",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 41.2 N force acts parallel to motion through 5.51 m. Work done?",
+    "options": [
+      "454.02 J",
+      "283.76 J",
+      "227.01 J",
+      "113.5 J"
+    ],
+    "answer_index": 2,
+    "explanation": "W=Fs."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-116",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Find kinetic energy of 5.68 kg moving at 9.02 m/s.",
+    "options": [
+      "288.82 J",
+      "231.06 J",
+      "115.53 J",
+      "462.12 J"
+    ],
+    "answer_index": 1,
+    "explanation": "K=½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-117",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "256 J of work is done in 6.73 s. Average power?",
+    "options": [
+      "38.04 W",
+      "19.02 W",
+      "76.08 W",
+      "47.55 W"
+    ],
+    "answer_index": 0,
+    "explanation": "P=W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-118",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 42 N force acts parallel to motion through 5.6 m. Work done?",
+    "options": [
+      "117.6 J",
+      "470.4 J",
+      "294 J",
+      "235.2 J"
+    ],
+    "answer_index": 3,
+    "explanation": "W=Fs."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-119",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Find kinetic energy of 5.8 kg moving at 9.2 m/s.",
+    "options": [
+      "490.92 J",
+      "306.82 J",
+      "245.46 J",
+      "122.73 J"
+    ],
+    "answer_index": 2,
+    "explanation": "K=½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-120",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "260 J of work is done in 6.8 s. Average power?",
+    "options": [
+      "47.8 W",
+      "38.24 W",
+      "19.12 W",
+      "76.48 W"
+    ],
+    "answer_index": 1,
+    "explanation": "P=W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-121",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 42.8 N force acts parallel to motion through 5.69 m. Work done?",
+    "options": [
+      "243.53 J",
+      "121.77 J",
+      "487.06 J",
+      "304.41 J"
+    ],
+    "answer_index": 0,
+    "explanation": "W=Fs."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-122",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Find kinetic energy of 5.92 kg moving at 9.38 m/s.",
+    "options": [
+      "130.22 J",
+      "520.86 J",
+      "325.54 J",
+      "260.43 J"
+    ],
+    "answer_index": 3,
+    "explanation": "K=½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-123",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "264 J of work is done in 6.87 s. Average power?",
+    "options": [
+      "76.86 W",
+      "48.04 W",
+      "38.43 W",
+      "19.21 W"
+    ],
+    "answer_index": 2,
+    "explanation": "P=W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-124",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 43.6 N force acts parallel to motion through 5.78 m. Work done?",
+    "options": [
+      "315.01 J",
+      "252.01 J",
+      "126 J",
+      "504.02 J"
+    ],
+    "answer_index": 1,
+    "explanation": "W=Fs."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-125",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Find kinetic energy of 6.04 kg moving at 9.56 m/s.",
+    "options": [
+      "276.01 J",
+      "138 J",
+      "552.02 J",
+      "345.01 J"
+    ],
+    "answer_index": 0,
+    "explanation": "K=½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-126",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "268 J of work is done in 6.94 s. Average power?",
+    "options": [
+      "19.31 W",
+      "77.24 W",
+      "48.27 W",
+      "38.62 W"
+    ],
+    "answer_index": 3,
+    "explanation": "P=W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-127",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 44.4 N force acts parallel to motion through 5.87 m. Work done?",
+    "options": [
+      "521.26 J",
+      "325.79 J",
+      "260.63 J",
+      "130.31 J"
+    ],
+    "answer_index": 2,
+    "explanation": "W=Fs."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-128",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Find kinetic energy of 6.16 kg moving at 9.74 m/s.",
+    "options": [
+      "365.24 J",
+      "292.19 J",
+      "146.09 J",
+      "584.38 J"
+    ],
+    "answer_index": 1,
+    "explanation": "K=½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-129",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "272 J of work is done in 7.01 s. Average power?",
+    "options": [
+      "38.8 W",
+      "19.4 W",
+      "77.6 W",
+      "48.5 W"
+    ],
+    "answer_index": 0,
+    "explanation": "P=W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-130",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 45.2 N force acts parallel to motion through 5.96 m. Work done?",
+    "options": [
+      "134.69 J",
+      "538.78 J",
+      "336.74 J",
+      "269.39 J"
+    ],
+    "answer_index": 3,
+    "explanation": "W=Fs."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-131",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Find kinetic energy of 6.28 kg moving at 9.92 m/s.",
+    "options": [
+      "618 J",
+      "386.25 J",
+      "309 J",
+      "154.5 J"
+    ],
+    "answer_index": 2,
+    "explanation": "K=½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-132",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "276 J of work is done in 7.08 s. Average power?",
+    "options": [
+      "48.72 W",
+      "38.98 W",
+      "19.49 W",
+      "77.96 W"
+    ],
+    "answer_index": 1,
+    "explanation": "P=W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-133",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 46 N force acts parallel to motion through 6.05 m. Work done?",
+    "options": [
+      "278.3 J",
+      "139.15 J",
+      "556.6 J",
+      "347.88 J"
+    ],
+    "answer_index": 0,
+    "explanation": "W=Fs."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-134",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Find kinetic energy of 6.4 kg moving at 10.1 m/s.",
+    "options": [
+      "163.22 J",
+      "652.86 J",
+      "408.04 J",
+      "326.43 J"
+    ],
+    "answer_index": 3,
+    "explanation": "K=½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-135",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "280 J of work is done in 7.15 s. Average power?",
+    "options": [
+      "78.32 W",
+      "48.95 W",
+      "39.16 W",
+      "19.58 W"
+    ],
+    "answer_index": 2,
+    "explanation": "P=W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-136",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 46.8 N force acts parallel to motion through 6.14 m. Work done?",
+    "options": [
+      "359.19 J",
+      "287.35 J",
+      "143.68 J",
+      "574.7 J"
+    ],
+    "answer_index": 1,
+    "explanation": "W=Fs."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-137",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Find kinetic energy of 6.52 kg moving at 10.28 m/s.",
+    "options": [
+      "344.51 J",
+      "172.25 J",
+      "689.02 J",
+      "430.64 J"
+    ],
+    "answer_index": 0,
+    "explanation": "K=½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-138",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "284 J of work is done in 7.22 s. Average power?",
+    "options": [
+      "19.67 W",
+      "78.68 W",
+      "49.18 W",
+      "39.34 W"
+    ],
+    "answer_index": 3,
+    "explanation": "P=W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-139",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 47.6 N force acts parallel to motion through 6.23 m. Work done?",
+    "options": [
+      "593.1 J",
+      "370.69 J",
+      "296.55 J",
+      "148.28 J"
+    ],
+    "answer_index": 2,
+    "explanation": "W=Fs."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-140",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Find kinetic energy of 6.64 kg moving at 10.46 m/s.",
+    "options": [
+      "454.06 J",
+      "363.25 J",
+      "181.63 J",
+      "726.5 J"
+    ],
+    "answer_index": 1,
+    "explanation": "K=½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-141",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "288 J of work is done in 7.29 s. Average power?",
+    "options": [
+      "39.51 W",
+      "19.75 W",
+      "79.02 W",
+      "49.39 W"
+    ],
+    "answer_index": 0,
+    "explanation": "P=W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-142",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 48.4 N force acts parallel to motion through 6.32 m. Work done?",
+    "options": [
+      "152.94 J",
+      "611.78 J",
+      "382.36 J",
+      "305.89 J"
+    ],
+    "answer_index": 3,
+    "explanation": "W=Fs."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-143",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Find kinetic energy of 6.76 kg moving at 10.64 m/s.",
+    "options": [
+      "765.3 J",
+      "478.31 J",
+      "382.65 J",
+      "191.32 J"
+    ],
+    "answer_index": 2,
+    "explanation": "K=½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-144",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "292 J of work is done in 7.36 s. Average power?",
+    "options": [
+      "49.59 W",
+      "39.67 W",
+      "19.84 W",
+      "79.34 W"
+    ],
+    "answer_index": 1,
+    "explanation": "P=W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-145",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 49.2 N force acts parallel to motion through 6.41 m. Work done?",
+    "options": [
+      "315.37 J",
+      "157.69 J",
+      "630.74 J",
+      "394.21 J"
+    ],
+    "answer_index": 0,
+    "explanation": "W=Fs."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-146",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Find kinetic energy of 6.88 kg moving at 10.82 m/s.",
+    "options": [
+      "201.37 J",
+      "805.46 J",
+      "503.41 J",
+      "402.73 J"
+    ],
+    "answer_index": 3,
+    "explanation": "K=½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-147",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "296 J of work is done in 7.43 s. Average power?",
+    "options": [
+      "79.68 W",
+      "49.8 W",
+      "39.84 W",
+      "19.92 W"
+    ],
+    "answer_index": 2,
+    "explanation": "P=W/t."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-148",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 50 N force acts parallel to motion through 6.5 m. Work done?",
+    "options": [
+      "406.25 J",
+      "325 J",
+      "162.5 J",
+      "650 J"
+    ],
+    "answer_index": 1,
+    "explanation": "W=Fs."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-149",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Find kinetic energy of 7 kg moving at 11 m/s.",
+    "options": [
+      "423.5 J",
+      "211.75 J",
+      "847 J",
+      "529.38 J"
+    ],
+    "answer_index": 0,
+    "explanation": "K=½mv²."
+  },
+  {
+    "id": "IMAT-PHY-WORK-ENERGY-POWER-150",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Work, Energy & Power",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "300 J of work is done in 7.5 s. Average power?",
+    "options": [
+      "20 W",
+      "80 W",
+      "50 W",
+      "40 W"
+    ],
+    "answer_index": 3,
+    "explanation": "P=W/t."
+  }
+]
