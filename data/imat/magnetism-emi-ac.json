@@ -12,10 +12,12 @@
       "0.8427 N",
       "0.4214 N",
       "1.69 N",
-      "1.05 N"
+      "1.05 N",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "F=BIL."
+    "explanation": "F=BIL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-002",
@@ -30,10 +32,12 @@
       "2.11 V",
       "8.44 V",
       "5.28 V",
-      "4.22 V"
+      "4.22 V",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "|ε|=N|ΔΦ|/Δt."
+    "explanation": "|ε|=N|ΔΦ|/Δt.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-003",
@@ -48,10 +52,12 @@
       "0.0494 s",
       "0.0309 s",
       "0.0247 s",
-      "0.0123 s"
+      "0.0123 s",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-004",
@@ -66,10 +72,12 @@
       "1.11 N",
       "0.8869 N",
       "0.4435 N",
-      "1.77 N"
+      "1.77 N",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "F=BIL."
+    "explanation": "F=BIL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-005",
@@ -84,10 +92,12 @@
       "4.44 V",
       "2.22 V",
       "8.88 V",
-      "5.55 V"
+      "5.55 V",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "|ε|=N|ΔΦ|/Δt."
+    "explanation": "|ε|=N|ΔΦ|/Δt.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-006",
@@ -102,10 +112,12 @@
       "0.0122 s",
       "0.0488 s",
       "0.0305 s",
-      "0.0244 s"
+      "0.0244 s",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-007",
@@ -120,10 +132,12 @@
       "1.87 N",
       "1.17 N",
       "0.9326 N",
-      "0.4663 N"
+      "0.4663 N",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "F=BIL."
+    "explanation": "F=BIL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-008",
@@ -138,10 +152,12 @@
       "5.83 V",
       "4.67 V",
       "2.33 V",
-      "9.33 V"
+      "9.33 V",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "|ε|=N|ΔΦ|/Δt."
+    "explanation": "|ε|=N|ΔΦ|/Δt.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-009",
@@ -156,10 +172,12 @@
       "0.0241 s",
       "0.012 s",
       "0.0482 s",
-      "0.0301 s"
+      "0.0301 s",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-010",
@@ -174,10 +192,12 @@
       "0.4899 N",
       "1.96 N",
       "1.22 N",
-      "0.9798 N"
+      "0.9798 N",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "F=BIL."
+    "explanation": "F=BIL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-011",
@@ -192,10 +212,12 @@
       "9.78 V",
       "6.11 V",
       "4.89 V",
-      "2.44 V"
+      "2.44 V",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "|ε|=N|ΔΦ|/Δt."
+    "explanation": "|ε|=N|ΔΦ|/Δt.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-012",
@@ -210,10 +232,12 @@
       "0.0298 s",
       "0.0238 s",
       "0.0119 s",
-      "0.0476 s"
+      "0.0476 s",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-013",
@@ -228,10 +252,12 @@
       "1.03 N",
       "0.5143 N",
       "2.06 N",
-      "1.29 N"
+      "1.29 N",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "F=BIL."
+    "explanation": "F=BIL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-014",
@@ -246,10 +272,12 @@
       "2.56 V",
       "10.23 V",
       "6.39 V",
-      "5.11 V"
+      "5.11 V",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "|ε|=N|ΔΦ|/Δt."
+    "explanation": "|ε|=N|ΔΦ|/Δt.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-015",
@@ -264,10 +292,12 @@
       "0.0471 s",
       "0.0294 s",
       "0.0235 s",
-      "0.0118 s"
+      "0.0118 s",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-016",
@@ -282,10 +312,12 @@
       "1.35 N",
       "1.08 N",
       "0.5394 N",
-      "2.16 N"
+      "2.16 N",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "F=BIL."
+    "explanation": "F=BIL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-017",
@@ -300,10 +332,12 @@
       "5.34 V",
       "2.67 V",
       "10.68 V",
-      "6.67 V"
+      "6.67 V",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "|ε|=N|ΔΦ|/Δt."
+    "explanation": "|ε|=N|ΔΦ|/Δt.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-018",
@@ -318,10 +352,12 @@
       "0.0116 s",
       "0.0465 s",
       "0.0291 s",
-      "0.0233 s"
+      "0.0233 s",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-019",
@@ -336,10 +372,12 @@
       "2.26 N",
       "1.41 N",
       "1.13 N",
-      "0.5653 N"
+      "0.5653 N",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "F=BIL."
+    "explanation": "F=BIL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-020",
@@ -354,10 +392,12 @@
       "6.96 V",
       "5.57 V",
       "2.78 V",
-      "11.13 V"
+      "11.13 V",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "|ε|=N|ΔΦ|/Δt."
+    "explanation": "|ε|=N|ΔΦ|/Δt.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-021",
@@ -372,10 +412,12 @@
       "0.023 s",
       "0.0115 s",
       "0.046 s",
-      "0.0287 s"
+      "0.0287 s",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-022",
@@ -390,10 +432,12 @@
       "0.5921 N",
       "2.37 N",
       "1.48 N",
-      "1.18 N"
+      "1.18 N",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "F=BIL."
+    "explanation": "F=BIL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-023",
@@ -408,10 +452,12 @@
       "11.59 V",
       "7.24 V",
       "5.79 V",
-      "2.9 V"
+      "2.9 V",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "|ε|=N|ΔΦ|/Δt."
+    "explanation": "|ε|=N|ΔΦ|/Δt.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-024",
@@ -426,10 +472,12 @@
       "0.0284 s",
       "0.0227 s",
       "0.0114 s",
-      "0.0455 s"
+      "0.0455 s",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-025",
@@ -444,10 +492,12 @@
       "1.24 N",
       "0.6196 N",
       "2.48 N",
-      "1.55 N"
+      "1.55 N",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "F=BIL."
+    "explanation": "F=BIL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-026",
@@ -462,10 +512,12 @@
       "3.01 V",
       "12.04 V",
       "7.53 V",
-      "6.02 V"
+      "6.02 V",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "|ε|=N|ΔΦ|/Δt."
+    "explanation": "|ε|=N|ΔΦ|/Δt.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-027",
@@ -480,10 +532,12 @@
       "0.0449 s",
       "0.0281 s",
       "0.0225 s",
-      "0.0112 s"
+      "0.0112 s",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-028",
@@ -498,10 +552,12 @@
       "1.62 N",
       "1.3 N",
       "0.648 N",
-      "2.59 N"
+      "2.59 N",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "F=BIL."
+    "explanation": "F=BIL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-029",
@@ -516,10 +572,12 @@
       "6.25 V",
       "3.12 V",
       "12.5 V",
-      "7.81 V"
+      "7.81 V",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "|ε|=N|ΔΦ|/Δt."
+    "explanation": "|ε|=N|ΔΦ|/Δt.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-030",
@@ -534,10 +592,12 @@
       "0.0111 s",
       "0.0444 s",
       "0.0278 s",
-      "0.0222 s"
+      "0.0222 s",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-031",
@@ -552,10 +612,12 @@
       "2.71 N",
       "1.69 N",
       "1.35 N",
-      "0.6772 N"
+      "0.6772 N",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "F=BIL."
+    "explanation": "F=BIL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-032",
@@ -570,10 +632,12 @@
       "8.1 V",
       "6.48 V",
       "3.24 V",
-      "12.96 V"
+      "12.96 V",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "|ε|=N|ΔΦ|/Δt."
+    "explanation": "|ε|=N|ΔΦ|/Δt.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-033",
@@ -588,10 +652,12 @@
       "0.022 s",
       "0.011 s",
       "0.044 s",
-      "0.0275 s"
+      "0.0275 s",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-034",
@@ -606,10 +672,12 @@
       "0.7073 N",
       "2.83 N",
       "1.77 N",
-      "1.41 N"
+      "1.41 N",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "F=BIL."
+    "explanation": "F=BIL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-035",
@@ -624,10 +692,12 @@
       "13.42 V",
       "8.39 V",
       "6.71 V",
-      "3.35 V"
+      "3.35 V",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "|ε|=N|ΔΦ|/Δt."
+    "explanation": "|ε|=N|ΔΦ|/Δt.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-036",
@@ -642,10 +712,12 @@
       "0.0272 s",
       "0.0217 s",
       "0.0109 s",
-      "0.0435 s"
+      "0.0435 s",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-037",
@@ -660,10 +732,12 @@
       "1.48 N",
       "0.7382 N",
       "2.95 N",
-      "1.85 N"
+      "1.85 N",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "F=BIL."
+    "explanation": "F=BIL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-038",
@@ -678,10 +752,12 @@
       "3.47 V",
       "13.88 V",
       "8.68 V",
-      "6.94 V"
+      "6.94 V",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "|ε|=N|ΔΦ|/Δt."
+    "explanation": "|ε|=N|ΔΦ|/Δt.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-039",
@@ -696,10 +772,12 @@
       "0.043 s",
       "0.0269 s",
       "0.0215 s",
-      "0.0108 s"
+      "0.0108 s",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-040",
@@ -714,10 +792,12 @@
       "1.93 N",
       "1.54 N",
       "0.77 N",
-      "3.08 N"
+      "3.08 N",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "F=BIL."
+    "explanation": "F=BIL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-041",
@@ -732,10 +812,12 @@
       "7.17 V",
       "3.59 V",
       "14.34 V",
-      "8.96 V"
+      "8.96 V",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "|ε|=N|ΔΦ|/Δt."
+    "explanation": "|ε|=N|ΔΦ|/Δt.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-042",
@@ -750,10 +832,12 @@
       "0.0106 s",
       "0.0426 s",
       "0.0266 s",
-      "0.0213 s"
+      "0.0213 s",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-043",
@@ -768,10 +852,12 @@
       "3.21 N",
       "2.01 N",
       "1.61 N",
-      "0.8028 N"
+      "0.8028 N",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "F=BIL."
+    "explanation": "F=BIL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-044",
@@ -786,10 +872,12 @@
       "9.25 V",
       "7.4 V",
       "3.7 V",
-      "14.81 V"
+      "14.81 V",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "|ε|=N|ΔΦ|/Δt."
+    "explanation": "|ε|=N|ΔΦ|/Δt.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-045",
@@ -804,10 +892,12 @@
       "0.0211 s",
       "0.0105 s",
       "0.0421 s",
-      "0.0263 s"
+      "0.0263 s",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-046",
@@ -822,10 +912,12 @@
       "0.8364 N",
       "3.35 N",
       "2.09 N",
-      "1.67 N"
+      "1.67 N",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "F=BIL."
+    "explanation": "F=BIL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-047",
@@ -840,10 +932,12 @@
       "15.27 V",
       "9.55 V",
       "7.64 V",
-      "3.82 V"
+      "3.82 V",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "|ε|=N|ΔΦ|/Δt."
+    "explanation": "|ε|=N|ΔΦ|/Δt.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-048",
@@ -858,10 +952,12 @@
       "0.026 s",
       "0.0208 s",
       "0.0104 s",
-      "0.0417 s"
+      "0.0417 s",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-049",
@@ -876,10 +972,12 @@
       "1.74 N",
       "0.8709 N",
       "3.48 N",
-      "2.18 N"
+      "2.18 N",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "F=BIL."
+    "explanation": "F=BIL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-050",
@@ -894,10 +992,12 @@
       "3.93 V",
       "15.74 V",
       "9.84 V",
-      "7.87 V"
+      "7.87 V",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "|ε|=N|ΔΦ|/Δt."
+    "explanation": "|ε|=N|ΔΦ|/Δt.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-051",
@@ -912,10 +1012,12 @@
       "0.0412 s",
       "0.0258 s",
       "0.0206 s",
-      "0.0103 s"
+      "0.0103 s",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-052",
@@ -930,10 +1032,12 @@
       "2.27 N",
       "1.81 N",
       "0.9063 N",
-      "3.63 N"
+      "3.63 N",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "F=BIL."
+    "explanation": "F=BIL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-053",
@@ -948,10 +1052,12 @@
       "8.1 V",
       "4.05 V",
       "16.21 V",
-      "10.13 V"
+      "10.13 V",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "|ε|=N|ΔΦ|/Δt."
+    "explanation": "|ε|=N|ΔΦ|/Δt.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-054",
@@ -966,10 +1072,12 @@
       "0.0102 s",
       "0.0408 s",
       "0.0255 s",
-      "0.0204 s"
+      "0.0204 s",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-055",
@@ -984,10 +1092,12 @@
       "3.77 N",
       "2.36 N",
       "1.89 N",
-      "0.9427 N"
+      "0.9427 N",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "F=BIL."
+    "explanation": "F=BIL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-056",
@@ -1002,10 +1112,12 @@
       "10.42 V",
       "8.34 V",
       "4.17 V",
-      "16.67 V"
+      "16.67 V",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "|ε|=N|ΔΦ|/Δt."
+    "explanation": "|ε|=N|ΔΦ|/Δt.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-057",
@@ -1020,10 +1132,12 @@
       "0.0202 s",
       "0.0101 s",
       "0.0404 s",
-      "0.0253 s"
+      "0.0253 s",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-058",
@@ -1038,10 +1152,12 @@
       "0.98 N",
       "3.92 N",
       "2.45 N",
-      "1.96 N"
+      "1.96 N",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "F=BIL."
+    "explanation": "F=BIL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-059",
@@ -1056,10 +1172,12 @@
       "17.14 V",
       "10.71 V",
       "8.57 V",
-      "4.29 V"
+      "4.29 V",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "|ε|=N|ΔΦ|/Δt."
+    "explanation": "|ε|=N|ΔΦ|/Δt.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-060",
@@ -1074,10 +1192,12 @@
       "0.025 s",
       "0.02 s",
       "0.01 s",
-      "0.04 s"
+      "0.04 s",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-061",
@@ -1092,10 +1212,12 @@
       "2.04 N",
       "1.02 N",
       "4.07 N",
-      "2.55 N"
+      "2.55 N",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "F=BIL."
+    "explanation": "F=BIL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-062",
@@ -1110,10 +1232,12 @@
       "4.4 V",
       "17.61 V",
       "11.01 V",
-      "8.81 V"
+      "8.81 V",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "|ε|=N|ΔΦ|/Δt."
+    "explanation": "|ε|=N|ΔΦ|/Δt.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-063",
@@ -1128,10 +1252,12 @@
       "0.0396 s",
       "0.0248 s",
       "0.0198 s",
-      "0.0099 s"
+      "0.0099 s",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-064",
@@ -1146,10 +1272,12 @@
       "2.64 N",
       "2.12 N",
       "1.06 N",
-      "4.23 N"
+      "4.23 N",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "F=BIL."
+    "explanation": "F=BIL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-065",
@@ -1164,10 +1292,12 @@
       "9.04 V",
       "4.52 V",
       "18.08 V",
-      "11.3 V"
+      "11.3 V",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "|ε|=N|ΔΦ|/Δt."
+    "explanation": "|ε|=N|ΔΦ|/Δt.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-066",
@@ -1182,10 +1312,12 @@
       "0.0098 s",
       "0.0392 s",
       "0.0245 s",
-      "0.0196 s"
+      "0.0196 s",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-067",
@@ -1200,10 +1332,12 @@
       "4.39 N",
       "2.74 N",
       "2.2 N",
-      "1.1 N"
+      "1.1 N",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "F=BIL."
+    "explanation": "F=BIL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-068",
@@ -1218,10 +1352,12 @@
       "11.6 V",
       "9.28 V",
       "4.64 V",
-      "18.55 V"
+      "18.55 V",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "|ε|=N|ΔΦ|/Δt."
+    "explanation": "|ε|=N|ΔΦ|/Δt.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-069",
@@ -1236,10 +1372,12 @@
       "0.0194 s",
       "0.0097 s",
       "0.0388 s",
-      "0.0243 s"
+      "0.0243 s",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-070",
@@ -1254,10 +1392,12 @@
       "1.14 N",
       "4.56 N",
       "2.85 N",
-      "2.28 N"
+      "2.28 N",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "F=BIL."
+    "explanation": "F=BIL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-071",
@@ -1272,10 +1412,12 @@
       "19.03 V",
       "11.89 V",
       "9.51 V",
-      "4.76 V"
+      "4.76 V",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "|ε|=N|ΔΦ|/Δt."
+    "explanation": "|ε|=N|ΔΦ|/Δt.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-072",
@@ -1290,10 +1432,12 @@
       "0.024 s",
       "0.0192 s",
       "0.0096 s",
-      "0.0385 s"
+      "0.0385 s",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-073",
@@ -1308,10 +1452,12 @@
       "2.36 N",
       "1.18 N",
       "4.73 N",
-      "2.95 N"
+      "2.95 N",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "F=BIL."
+    "explanation": "F=BIL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-074",
@@ -1326,10 +1472,12 @@
       "4.88 V",
       "19.5 V",
       "12.19 V",
-      "9.75 V"
+      "9.75 V",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "|ε|=N|ΔΦ|/Δt."
+    "explanation": "|ε|=N|ΔΦ|/Δt.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-075",
@@ -1344,10 +1492,12 @@
       "0.0381 s",
       "0.0238 s",
       "0.019 s",
-      "0.0095 s"
+      "0.0095 s",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-076",
@@ -1362,10 +1512,12 @@
       "3.06 N",
       "2.45 N",
       "1.22 N",
-      "4.9 N"
+      "4.9 N",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "F=BIL."
+    "explanation": "F=BIL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-077",
@@ -1380,10 +1532,12 @@
       "9.99 V",
       "4.99 V",
       "19.97 V",
-      "12.48 V"
+      "12.48 V",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "|ε|=N|ΔΦ|/Δt."
+    "explanation": "|ε|=N|ΔΦ|/Δt.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-078",
@@ -1398,10 +1552,12 @@
       "0.0094 s",
       "0.0377 s",
       "0.0236 s",
-      "0.0189 s"
+      "0.0189 s",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-079",
@@ -1416,10 +1572,12 @@
       "5.08 N",
       "3.17 N",
       "2.54 N",
-      "1.27 N"
+      "1.27 N",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "F=BIL."
+    "explanation": "F=BIL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-080",
@@ -1434,10 +1592,12 @@
       "12.78 V",
       "10.22 V",
       "5.11 V",
-      "20.45 V"
+      "20.45 V",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "|ε|=N|ΔΦ|/Δt."
+    "explanation": "|ε|=N|ΔΦ|/Δt.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-081",
@@ -1452,10 +1612,12 @@
       "0.0187 s",
       "0.0093 s",
       "0.0374 s",
-      "0.0234 s"
+      "0.0234 s",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-082",
@@ -1470,10 +1632,12 @@
       "1.31 N",
       "5.26 N",
       "3.29 N",
-      "2.63 N"
+      "2.63 N",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "F=BIL."
+    "explanation": "F=BIL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-083",
@@ -1488,10 +1652,12 @@
       "20.92 V",
       "13.08 V",
       "10.46 V",
-      "5.23 V"
+      "5.23 V",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "|ε|=N|ΔΦ|/Δt."
+    "explanation": "|ε|=N|ΔΦ|/Δt.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-084",
@@ -1506,10 +1672,12 @@
       "0.0231 s",
       "0.0185 s",
       "0.0093 s",
-      "0.037 s"
+      "0.037 s",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-085",
@@ -1524,10 +1692,12 @@
       "2.72 N",
       "1.36 N",
       "5.44 N",
-      "3.4 N"
+      "3.4 N",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "F=BIL."
+    "explanation": "F=BIL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-086",
@@ -1542,10 +1712,12 @@
       "5.35 V",
       "21.4 V",
       "13.37 V",
-      "10.7 V"
+      "10.7 V",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "|ε|=N|ΔΦ|/Δt."
+    "explanation": "|ε|=N|ΔΦ|/Δt.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-087",
@@ -1560,10 +1732,12 @@
       "0.0367 s",
       "0.0229 s",
       "0.0183 s",
-      "0.0092 s"
+      "0.0092 s",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-088",
@@ -1578,10 +1752,12 @@
       "3.52 N",
       "2.82 N",
       "1.41 N",
-      "5.63 N"
+      "5.63 N",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "F=BIL."
+    "explanation": "F=BIL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-089",
@@ -1596,10 +1772,12 @@
       "10.94 V",
       "5.47 V",
       "21.88 V",
-      "13.67 V"
+      "13.67 V",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "|ε|=N|ΔΦ|/Δt."
+    "explanation": "|ε|=N|ΔΦ|/Δt.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-090",
@@ -1614,10 +1792,12 @@
       "0.0091 s",
       "0.0364 s",
       "0.0227 s",
-      "0.0182 s"
+      "0.0182 s",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-091",
@@ -1632,10 +1812,12 @@
       "5.83 N",
       "3.64 N",
       "2.91 N",
-      "1.46 N"
+      "1.46 N",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "F=BIL."
+    "explanation": "F=BIL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-092",
@@ -1650,10 +1832,12 @@
       "13.97 V",
       "11.18 V",
       "5.59 V",
-      "22.35 V"
+      "22.35 V",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "|ε|=N|ΔΦ|/Δt."
+    "explanation": "|ε|=N|ΔΦ|/Δt.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-093",
@@ -1668,10 +1852,12 @@
       "0.018 s",
       "0.009 s",
       "0.036 s",
-      "0.0225 s"
+      "0.0225 s",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-094",
@@ -1686,10 +1872,12 @@
       "1.51 N",
       "6.02 N",
       "3.77 N",
-      "3.01 N"
+      "3.01 N",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "F=BIL."
+    "explanation": "F=BIL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-095",
@@ -1704,10 +1892,12 @@
       "22.83 V",
       "14.27 V",
       "11.41 V",
-      "5.71 V"
+      "5.71 V",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "|ε|=N|ΔΦ|/Δt."
+    "explanation": "|ε|=N|ΔΦ|/Δt.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-096",
@@ -1722,10 +1912,12 @@
       "0.0223 s",
       "0.0179 s",
       "0.0089 s",
-      "0.0357 s"
+      "0.0357 s",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-097",
@@ -1740,10 +1932,12 @@
       "3.11 N",
       "1.56 N",
       "6.23 N",
-      "3.89 N"
+      "3.89 N",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "F=BIL."
+    "explanation": "F=BIL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-098",
@@ -1758,10 +1952,12 @@
       "5.83 V",
       "23.31 V",
       "14.57 V",
-      "11.65 V"
+      "11.65 V",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "|ε|=N|ΔΦ|/Δt."
+    "explanation": "|ε|=N|ΔΦ|/Δt.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-099",
@@ -1776,10 +1972,12 @@
       "0.0354 s",
       "0.0221 s",
       "0.0177 s",
-      "0.0088 s"
+      "0.0088 s",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-100",
@@ -1794,10 +1992,12 @@
       "4.02 N",
       "3.22 N",
       "1.61 N",
-      "6.44 N"
+      "6.44 N",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "F=BIL."
+    "explanation": "F=BIL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-101",
@@ -1812,10 +2012,12 @@
       "11.89 V",
       "5.95 V",
       "23.79 V",
-      "14.87 V"
+      "14.87 V",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "|ε|=N|ΔΦ|/Δt."
+    "explanation": "|ε|=N|ΔΦ|/Δt.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-102",
@@ -1830,10 +2032,12 @@
       "0.0088 s",
       "0.0351 s",
       "0.0219 s",
-      "0.0175 s"
+      "0.0175 s",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-103",
@@ -1848,10 +2052,12 @@
       "6.65 N",
       "4.15 N",
       "3.32 N",
-      "1.66 N"
+      "1.66 N",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "F=BIL."
+    "explanation": "F=BIL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-104",
@@ -1866,10 +2072,12 @@
       "15.17 V",
       "12.13 V",
       "6.07 V",
-      "24.26 V"
+      "24.26 V",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "|ε|=N|ΔΦ|/Δt."
+    "explanation": "|ε|=N|ΔΦ|/Δt.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-105",
@@ -1884,10 +2092,12 @@
       "0.0174 s",
       "0.0087 s",
       "0.0348 s",
-      "0.0217 s"
+      "0.0217 s",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-106",
@@ -1902,10 +2112,12 @@
       "1.72 N",
       "6.86 N",
       "4.29 N",
-      "3.43 N"
+      "3.43 N",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "F=BIL."
+    "explanation": "F=BIL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-107",
@@ -1920,10 +2132,12 @@
       "24.74 V",
       "15.47 V",
       "12.37 V",
-      "6.19 V"
+      "6.19 V",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "|ε|=N|ΔΦ|/Δt."
+    "explanation": "|ε|=N|ΔΦ|/Δt.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-108",
@@ -1938,10 +2152,12 @@
       "0.0216 s",
       "0.0172 s",
       "0.0086 s",
-      "0.0345 s"
+      "0.0345 s",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-109",
@@ -1956,10 +2172,12 @@
       "3.54 N",
       "1.77 N",
       "7.08 N",
-      "4.43 N"
+      "4.43 N",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "F=BIL."
+    "explanation": "F=BIL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-110",
@@ -1974,10 +2192,12 @@
       "6.31 V",
       "25.22 V",
       "15.77 V",
-      "12.61 V"
+      "12.61 V",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "|ε|=N|ΔΦ|/Δt."
+    "explanation": "|ε|=N|ΔΦ|/Δt.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-111",
@@ -1992,10 +2212,12 @@
       "0.0342 s",
       "0.0214 s",
       "0.0171 s",
-      "0.0085 s"
+      "0.0085 s",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-112",
@@ -2010,10 +2232,12 @@
       "4.57 N",
       "3.66 N",
       "1.83 N",
-      "7.31 N"
+      "7.31 N",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "F=BIL."
+    "explanation": "F=BIL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-113",
@@ -2028,10 +2252,12 @@
       "12.85 V",
       "6.43 V",
       "25.7 V",
-      "16.07 V"
+      "16.07 V",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "|ε|=N|ΔΦ|/Δt."
+    "explanation": "|ε|=N|ΔΦ|/Δt.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-114",
@@ -2046,10 +2272,12 @@
       "0.0085 s",
       "0.0339 s",
       "0.0212 s",
-      "0.0169 s"
+      "0.0169 s",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-115",
@@ -2064,10 +2292,12 @@
       "7.54 N",
       "4.71 N",
       "3.77 N",
-      "1.89 N"
+      "1.89 N",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "F=BIL."
+    "explanation": "F=BIL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-116",
@@ -2082,10 +2312,12 @@
       "16.37 V",
       "13.09 V",
       "6.55 V",
-      "26.19 V"
+      "26.19 V",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "|ε|=N|ΔΦ|/Δt."
+    "explanation": "|ε|=N|ΔΦ|/Δt.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-117",
@@ -2100,10 +2332,12 @@
       "0.0168 s",
       "0.0084 s",
       "0.0336 s",
-      "0.021 s"
+      "0.021 s",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-118",
@@ -2118,10 +2352,12 @@
       "1.94 N",
       "7.78 N",
       "4.86 N",
-      "3.89 N"
+      "3.89 N",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "F=BIL."
+    "explanation": "F=BIL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-119",
@@ -2136,10 +2372,12 @@
       "26.67 V",
       "16.67 V",
       "13.33 V",
-      "6.67 V"
+      "6.67 V",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "|ε|=N|ΔΦ|/Δt."
+    "explanation": "|ε|=N|ΔΦ|/Δt.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-120",
@@ -2154,10 +2392,12 @@
       "0.0208 s",
       "0.0167 s",
       "0.0083 s",
-      "0.0333 s"
+      "0.0333 s",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-121",
@@ -2172,10 +2412,12 @@
       "4.01 N",
       "2 N",
       "8.02 N",
-      "5.01 N"
+      "5.01 N",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "F=BIL."
+    "explanation": "F=BIL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-122",
@@ -2190,10 +2432,12 @@
       "6.79 V",
       "27.15 V",
       "16.97 V",
-      "13.57 V"
+      "13.57 V",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "|ε|=N|ΔΦ|/Δt."
+    "explanation": "|ε|=N|ΔΦ|/Δt.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-123",
@@ -2208,10 +2452,12 @@
       "0.0331 s",
       "0.0207 s",
       "0.0165 s",
-      "0.0083 s"
+      "0.0083 s",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-124",
@@ -2226,10 +2472,12 @@
       "5.16 N",
       "4.13 N",
       "2.07 N",
-      "8.26 N"
+      "8.26 N",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "F=BIL."
+    "explanation": "F=BIL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-125",
@@ -2244,10 +2492,12 @@
       "13.82 V",
       "6.91 V",
       "27.63 V",
-      "17.27 V"
+      "17.27 V",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "|ε|=N|ΔΦ|/Δt."
+    "explanation": "|ε|=N|ΔΦ|/Δt.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-126",
@@ -2262,10 +2512,12 @@
       "0.0082 s",
       "0.0328 s",
       "0.0205 s",
-      "0.0164 s"
+      "0.0164 s",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-127",
@@ -2280,10 +2532,12 @@
       "8.51 N",
       "5.32 N",
       "4.26 N",
-      "2.13 N"
+      "2.13 N",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "F=BIL."
+    "explanation": "F=BIL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-128",
@@ -2298,10 +2552,12 @@
       "17.57 V",
       "14.06 V",
       "7.03 V",
-      "28.11 V"
+      "28.11 V",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "|ε|=N|ΔΦ|/Δt."
+    "explanation": "|ε|=N|ΔΦ|/Δt.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-129",
@@ -2316,10 +2572,12 @@
       "0.0163 s",
       "0.0081 s",
       "0.0325 s",
-      "0.0203 s"
+      "0.0203 s",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-130",
@@ -2334,10 +2592,12 @@
       "2.19 N",
       "8.77 N",
       "5.48 N",
-      "4.38 N"
+      "4.38 N",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "F=BIL."
+    "explanation": "F=BIL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-131",
@@ -2352,10 +2612,12 @@
       "28.6 V",
       "17.87 V",
       "14.3 V",
-      "7.15 V"
+      "7.15 V",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "|ε|=N|ΔΦ|/Δt."
+    "explanation": "|ε|=N|ΔΦ|/Δt.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-132",
@@ -2370,10 +2632,12 @@
       "0.0202 s",
       "0.0161 s",
       "0.0081 s",
-      "0.0323 s"
+      "0.0323 s",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-133",
@@ -2388,10 +2652,12 @@
       "4.51 N",
       "2.26 N",
       "9.03 N",
-      "5.64 N"
+      "5.64 N",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "F=BIL."
+    "explanation": "F=BIL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-134",
@@ -2406,10 +2672,12 @@
       "7.27 V",
       "29.08 V",
       "18.17 V",
-      "14.54 V"
+      "14.54 V",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "|ε|=N|ΔΦ|/Δt."
+    "explanation": "|ε|=N|ΔΦ|/Δt.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-135",
@@ -2424,10 +2692,12 @@
       "0.032 s",
       "0.02 s",
       "0.016 s",
-      "0.008 s"
+      "0.008 s",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-136",
@@ -2442,10 +2712,12 @@
       "5.81 N",
       "4.64 N",
       "2.32 N",
-      "9.29 N"
+      "9.29 N",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "F=BIL."
+    "explanation": "F=BIL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-137",
@@ -2460,10 +2732,12 @@
       "14.78 V",
       "7.39 V",
       "29.56 V",
-      "18.48 V"
+      "18.48 V",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "|ε|=N|ΔΦ|/Δt."
+    "explanation": "|ε|=N|ΔΦ|/Δt.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-138",
@@ -2478,10 +2752,12 @@
       "0.0079 s",
       "0.0317 s",
       "0.0198 s",
-      "0.0159 s"
+      "0.0159 s",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-139",
@@ -2496,10 +2772,12 @@
       "9.56 N",
       "5.97 N",
       "4.78 N",
-      "2.39 N"
+      "2.39 N",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "F=BIL."
+    "explanation": "F=BIL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-140",
@@ -2514,10 +2792,12 @@
       "18.78 V",
       "15.02 V",
       "7.51 V",
-      "30.05 V"
+      "30.05 V",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "|ε|=N|ΔΦ|/Δt."
+    "explanation": "|ε|=N|ΔΦ|/Δt.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-141",
@@ -2532,10 +2812,12 @@
       "0.0157 s",
       "0.0079 s",
       "0.0315 s",
-      "0.0197 s"
+      "0.0197 s",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-142",
@@ -2550,10 +2832,12 @@
       "2.46 N",
       "9.83 N",
       "6.15 N",
-      "4.92 N"
+      "4.92 N",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "F=BIL."
+    "explanation": "F=BIL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-143",
@@ -2568,10 +2852,12 @@
       "30.53 V",
       "19.08 V",
       "15.27 V",
-      "7.63 V"
+      "7.63 V",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "|ε|=N|ΔΦ|/Δt."
+    "explanation": "|ε|=N|ΔΦ|/Δt.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-144",
@@ -2586,10 +2872,12 @@
       "0.0195 s",
       "0.0156 s",
       "0.0078 s",
-      "0.0313 s"
+      "0.0313 s",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-145",
@@ -2604,10 +2892,12 @@
       "5.06 N",
       "2.53 N",
       "10.11 N",
-      "6.32 N"
+      "6.32 N",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "F=BIL."
+    "explanation": "F=BIL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-146",
@@ -2622,10 +2912,12 @@
       "7.75 V",
       "31.02 V",
       "19.38 V",
-      "15.51 V"
+      "15.51 V",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "|ε|=N|ΔΦ|/Δt."
+    "explanation": "|ε|=N|ΔΦ|/Δt.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-147",
@@ -2640,10 +2932,12 @@
       "0.031 s",
       "0.0194 s",
       "0.0155 s",
-      "0.0078 s"
+      "0.0078 s",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-148",
@@ -2658,10 +2952,12 @@
       "6.5 N",
       "5.2 N",
       "2.6 N",
-      "10.4 N"
+      "10.4 N",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "F=BIL."
+    "explanation": "F=BIL.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-149",
@@ -2676,10 +2972,12 @@
       "15.75 V",
       "7.87 V",
       "31.5 V",
-      "19.69 V"
+      "19.69 V",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "|ε|=N|ΔΦ|/Δt."
+    "explanation": "|ε|=N|ΔΦ|/Δt.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-MAGNETISM-EMI-AC-150",
@@ -2694,9 +2992,11 @@
       "0.0077 s",
       "0.0308 s",
       "0.0192 s",
-      "0.0154 s"
+      "0.0154 s",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   }
 ]
