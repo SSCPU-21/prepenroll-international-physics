@@ -8,16 +8,16 @@
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A wave has frequency 5.04 Hz and wavelength 0.803 m. What is its speed?",
+    "stem": "Wave set 1: frequency is 4.251 Hz and wavelength is 0.6241 m. Find the wave speed.",
     "options": [
-      "4.047 m/s",
-      "6.276 m/s",
-      "0.159 m/s",
-      "8.094 m/s",
+      "2.653 m/s",
+      "6.811 m/s",
+      "0.147 m/s",
+      "5.306 m/s",
       "Cannot be determined"
     ],
     "answer_index": 0,
-    "explanation": "Wave speed is v=fλ."
+    "explanation": "Use v=fλ."
   },
   {
     "id": "IMAT-PHY-WAVES-002",
@@ -28,16 +28,16 @@
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "Two waves are described as coherent. Which property must remain constant with time?",
+    "stem": "In interference experiment 2, two sources initially have phase difference 12°. What additional condition makes them coherent?",
     "options": [
-      "Their phase difference",
-      "Their amplitudes",
-      "Their intensities",
+      "The phase difference remains constant with time",
+      "Their amplitudes must be equal",
+      "Their intensities must be equal",
       "Their wavelengths must be visible",
       "Their speeds must be zero"
     ],
     "answer_index": 0,
-    "explanation": "Coherent waves maintain a constant phase difference."
+    "explanation": "Coherent sources maintain a constant phase difference."
   },
   {
     "id": "IMAT-PHY-WAVES-003",
@@ -48,16 +48,16 @@
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A periodic wave has period 0.203 s. What is its frequency?",
+    "stem": "Oscillation 3 has period 0.1251 s. What is its frequency?",
     "options": [
-      "4.926 Hz",
-      "0.203 Hz",
-      "30.952 Hz",
-      "0.406 Hz",
+      "7.994 Hz",
+      "0.1251 Hz",
+      "50.225 Hz",
+      "0.2502 Hz",
       "0 Hz"
     ],
     "answer_index": 0,
-    "explanation": "Frequency is the reciprocal of period: f=1/T."
+    "explanation": "Frequency is f=1/T."
   },
   {
     "id": "IMAT-PHY-WAVES-004",
@@ -68,16 +68,16 @@
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A wave has frequency 5.16 Hz and wavelength 0.812 m. What is its speed?",
+    "stem": "Wave set 4: frequency is 4.404 Hz and wavelength is 0.6364 m. Find the wave speed.",
     "options": [
-      "4.19 m/s",
-      "6.355 m/s",
-      "0.157 m/s",
-      "8.380 m/s",
+      "2.803 m/s",
+      "6.920 m/s",
+      "0.145 m/s",
+      "5.605 m/s",
       "Cannot be determined"
     ],
     "answer_index": 0,
-    "explanation": "Wave speed is v=fλ."
+    "explanation": "Use v=fλ."
   },
   {
     "id": "IMAT-PHY-WAVES-005",
@@ -88,16 +88,16 @@
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "Two waves are described as coherent. Which property must remain constant with time?",
+    "stem": "In interference experiment 5, two sources initially have phase difference 15°. What additional condition makes them coherent?",
     "options": [
-      "Their phase difference",
-      "Their amplitudes",
-      "Their intensities",
+      "The phase difference remains constant with time",
+      "Their amplitudes must be equal",
+      "Their intensities must be equal",
       "Their wavelengths must be visible",
       "Their speeds must be zero"
     ],
     "answer_index": 0,
-    "explanation": "Coherent waves maintain a constant phase difference."
+    "explanation": "Coherent sources maintain a constant phase difference."
   },
   {
     "id": "IMAT-PHY-WAVES-006",
@@ -108,16 +108,16 @@
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A periodic wave has period 0.206 s. What is its frequency?",
+    "stem": "Oscillation 6 has period 0.1302 s. What is its frequency?",
     "options": [
-      "4.854 Hz",
-      "0.206 Hz",
-      "30.501 Hz",
-      "0.412 Hz",
+      "7.680 Hz",
+      "0.1302 Hz",
+      "48.258 Hz",
+      "0.2604 Hz",
       "0 Hz"
     ],
     "answer_index": 0,
-    "explanation": "Frequency is the reciprocal of period: f=1/T."
+    "explanation": "Frequency is f=1/T."
   },
   {
     "id": "IMAT-PHY-WAVES-007",
@@ -128,16 +128,16 @@
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A wave has frequency 5.28 Hz and wavelength 0.821 m. What is its speed?",
+    "stem": "Wave set 7: frequency is 4.557 Hz and wavelength is 0.6487 m. Find the wave speed.",
     "options": [
-      "4.335 m/s",
-      "6.431 m/s",
-      "0.155 m/s",
-      "8.670 m/s",
+      "2.956 m/s",
+      "7.025 m/s",
+      "0.142 m/s",
+      "5.912 m/s",
       "Cannot be determined"
     ],
     "answer_index": 0,
-    "explanation": "Wave speed is v=fλ."
+    "explanation": "Use v=fλ."
   },
   {
     "id": "IMAT-PHY-WAVES-008",
@@ -148,16 +148,16 @@
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "Two waves are described as coherent. Which property must remain constant with time?",
+    "stem": "In interference experiment 8, two sources initially have phase difference 18°. What additional condition makes them coherent?",
     "options": [
-      "Their phase difference",
-      "Their amplitudes",
-      "Their intensities",
+      "The phase difference remains constant with time",
+      "Their amplitudes must be equal",
+      "Their intensities must be equal",
       "Their wavelengths must be visible",
       "Their speeds must be zero"
     ],
     "answer_index": 0,
-    "explanation": "Coherent waves maintain a constant phase difference."
+    "explanation": "Coherent sources maintain a constant phase difference."
   },
   {
     "id": "IMAT-PHY-WAVES-009",
@@ -168,16 +168,16 @@
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A periodic wave has period 0.209 s. What is its frequency?",
+    "stem": "Oscillation 9 has period 0.1353 s. What is its frequency?",
     "options": [
-      "4.785 Hz",
-      "0.209 Hz",
-      "30.063 Hz",
-      "0.418 Hz",
+      "7.391 Hz",
+      "0.1353 Hz",
+      "46.439 Hz",
+      "0.2706 Hz",
       "0 Hz"
     ],
     "answer_index": 0,
-    "explanation": "Frequency is the reciprocal of period: f=1/T."
+    "explanation": "Frequency is f=1/T."
   },
   {
     "id": "IMAT-PHY-WAVES-010",
@@ -188,16 +188,16 @@
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A wave has frequency 5.40 Hz and wavelength 0.830 m. What is its speed?",
+    "stem": "Wave set 10: frequency is 4.710 Hz and wavelength is 0.6610 m. Find the wave speed.",
     "options": [
-      "4.482 m/s",
-      "6.506 m/s",
-      "0.154 m/s",
-      "8.964 m/s",
+      "3.113 m/s",
+      "7.126 m/s",
+      "0.140 m/s",
+      "6.227 m/s",
       "Cannot be determined"
     ],
     "answer_index": 0,
-    "explanation": "Wave speed is v=fλ."
+    "explanation": "Use v=fλ."
   },
   {
     "id": "IMAT-PHY-WAVES-011",
@@ -208,16 +208,16 @@
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "Two waves are described as coherent. Which property must remain constant with time?",
+    "stem": "In interference experiment 11, two sources initially have phase difference 21°. What additional condition makes them coherent?",
     "options": [
-      "Their phase difference",
-      "Their amplitudes",
-      "Their intensities",
+      "The phase difference remains constant with time",
+      "Their amplitudes must be equal",
+      "Their intensities must be equal",
       "Their wavelengths must be visible",
       "Their speeds must be zero"
     ],
     "answer_index": 0,
-    "explanation": "Coherent waves maintain a constant phase difference."
+    "explanation": "Coherent sources maintain a constant phase difference."
   },
   {
     "id": "IMAT-PHY-WAVES-012",
@@ -228,16 +228,16 @@
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A periodic wave has period 0.212 s. What is its frequency?",
+    "stem": "Oscillation 12 has period 0.1404 s. What is its frequency?",
     "options": [
-      "4.717 Hz",
-      "0.212 Hz",
-      "29.638 Hz",
-      "0.424 Hz",
+      "7.123 Hz",
+      "0.1404 Hz",
+      "44.752 Hz",
+      "0.2808 Hz",
       "0 Hz"
     ],
     "answer_index": 0,
-    "explanation": "Frequency is the reciprocal of period: f=1/T."
+    "explanation": "Frequency is f=1/T."
   },
   {
     "id": "IMAT-PHY-WAVES-013",
@@ -248,16 +248,16 @@
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A wave has frequency 5.52 Hz and wavelength 0.839 m. What is its speed?",
+    "stem": "Wave set 13: frequency is 4.863 Hz and wavelength is 0.6733 m. Find the wave speed.",
     "options": [
-      "4.631 m/s",
-      "6.579 m/s",
-      "0.152 m/s",
-      "9.263 m/s",
+      "3.274 m/s",
+      "7.223 m/s",
+      "0.138 m/s",
+      "6.549 m/s",
       "Cannot be determined"
     ],
     "answer_index": 0,
-    "explanation": "Wave speed is v=fλ."
+    "explanation": "Use v=fλ."
   },
   {
     "id": "IMAT-PHY-WAVES-014",
@@ -268,16 +268,16 @@
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "Two waves are described as coherent. Which property must remain constant with time?",
+    "stem": "In interference experiment 14, two sources initially have phase difference 24°. What additional condition makes them coherent?",
     "options": [
-      "Their phase difference",
-      "Their amplitudes",
-      "Their intensities",
+      "The phase difference remains constant with time",
+      "Their amplitudes must be equal",
+      "Their intensities must be equal",
       "Their wavelengths must be visible",
       "Their speeds must be zero"
     ],
     "answer_index": 0,
-    "explanation": "Coherent waves maintain a constant phase difference."
+    "explanation": "Coherent sources maintain a constant phase difference."
   },
   {
     "id": "IMAT-PHY-WAVES-015",
@@ -288,16 +288,16 @@
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A periodic wave has period 0.215 s. What is its frequency?",
+    "stem": "Oscillation 15 has period 0.1455 s. What is its frequency?",
     "options": [
-      "4.651 Hz",
-      "0.215 Hz",
-      "29.224 Hz",
-      "0.430 Hz",
+      "6.873 Hz",
+      "0.1455 Hz",
+      "43.183 Hz",
+      "0.2910 Hz",
       "0 Hz"
     ],
     "answer_index": 0,
-    "explanation": "Frequency is the reciprocal of period: f=1/T."
+    "explanation": "Frequency is f=1/T."
   },
   {
     "id": "IMAT-PHY-WAVES-016",
@@ -308,16 +308,16 @@
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A wave has frequency 5.64 Hz and wavelength 0.848 m. What is its speed?",
+    "stem": "Wave set 16: frequency is 5.016 Hz and wavelength is 0.6856 m. Find the wave speed.",
     "options": [
-      "4.783 m/s",
-      "6.651 m/s",
-      "0.150 m/s",
-      "9.565 m/s",
+      "3.439 m/s",
+      "7.316 m/s",
+      "0.137 m/s",
+      "6.878 m/s",
       "Cannot be determined"
     ],
     "answer_index": 0,
-    "explanation": "Wave speed is v=fλ."
+    "explanation": "Use v=fλ."
   },
   {
     "id": "IMAT-PHY-WAVES-017",
@@ -328,16 +328,16 @@
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "Two waves are described as coherent. Which property must remain constant with time?",
+    "stem": "In interference experiment 17, two sources initially have phase difference 27°. What additional condition makes them coherent?",
     "options": [
-      "Their phase difference",
-      "Their amplitudes",
-      "Their intensities",
+      "The phase difference remains constant with time",
+      "Their amplitudes must be equal",
+      "Their intensities must be equal",
       "Their wavelengths must be visible",
       "Their speeds must be zero"
     ],
     "answer_index": 0,
-    "explanation": "Coherent waves maintain a constant phase difference."
+    "explanation": "Coherent sources maintain a constant phase difference."
   },
   {
     "id": "IMAT-PHY-WAVES-018",
@@ -348,16 +348,16 @@
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A periodic wave has period 0.218 s. What is its frequency?",
+    "stem": "Oscillation 18 has period 0.1506 s. What is its frequency?",
     "options": [
-      "4.587 Hz",
-      "0.218 Hz",
-      "28.822 Hz",
-      "0.436 Hz",
+      "6.640 Hz",
+      "0.1506 Hz",
+      "41.721 Hz",
+      "0.3012 Hz",
       "0 Hz"
     ],
     "answer_index": 0,
-    "explanation": "Frequency is the reciprocal of period: f=1/T."
+    "explanation": "Frequency is f=1/T."
   },
   {
     "id": "IMAT-PHY-WAVES-019",
@@ -368,16 +368,16 @@
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A wave has frequency 5.76 Hz and wavelength 0.857 m. What is its speed?",
+    "stem": "Wave set 19: frequency is 5.169 Hz and wavelength is 0.6979 m. Find the wave speed.",
     "options": [
-      "4.936 m/s",
-      "6.721 m/s",
-      "0.149 m/s",
-      "9.873 m/s",
+      "3.607 m/s",
+      "7.407 m/s",
+      "0.135 m/s",
+      "7.215 m/s",
       "Cannot be determined"
     ],
     "answer_index": 0,
-    "explanation": "Wave speed is v=fλ."
+    "explanation": "Use v=fλ."
   },
   {
     "id": "IMAT-PHY-WAVES-020",
@@ -388,16 +388,16 @@
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "Two waves are described as coherent. Which property must remain constant with time?",
+    "stem": "In interference experiment 20, two sources initially have phase difference 30°. What additional condition makes them coherent?",
     "options": [
-      "Their phase difference",
-      "Their amplitudes",
-      "Their intensities",
+      "The phase difference remains constant with time",
+      "Their amplitudes must be equal",
+      "Their intensities must be equal",
       "Their wavelengths must be visible",
       "Their speeds must be zero"
     ],
     "answer_index": 0,
-    "explanation": "Coherent waves maintain a constant phase difference."
+    "explanation": "Coherent sources maintain a constant phase difference."
   },
   {
     "id": "IMAT-PHY-WAVES-021",
@@ -408,16 +408,16 @@
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A periodic wave has period 0.221 s. What is its frequency?",
+    "stem": "Oscillation 21 has period 0.1557 s. What is its frequency?",
     "options": [
-      "4.525 Hz",
-      "0.221 Hz",
-      "28.431 Hz",
-      "0.442 Hz",
+      "6.423 Hz",
+      "0.1557 Hz",
+      "40.354 Hz",
+      "0.3114 Hz",
       "0 Hz"
     ],
     "answer_index": 0,
-    "explanation": "Frequency is the reciprocal of period: f=1/T."
+    "explanation": "Frequency is f=1/T."
   },
   {
     "id": "IMAT-PHY-WAVES-022",
@@ -428,16 +428,16 @@
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A wave has frequency 5.88 Hz and wavelength 0.866 m. What is its speed?",
+    "stem": "Wave set 22: frequency is 5.322 Hz and wavelength is 0.7102 m. Find the wave speed.",
     "options": [
-      "5.092 m/s",
-      "6.790 m/s",
-      "0.147 m/s",
-      "10.184 m/s",
+      "3.780 m/s",
+      "7.494 m/s",
+      "0.133 m/s",
+      "7.559 m/s",
       "Cannot be determined"
     ],
     "answer_index": 0,
-    "explanation": "Wave speed is v=fλ."
+    "explanation": "Use v=fλ."
   },
   {
     "id": "IMAT-PHY-WAVES-023",
@@ -448,16 +448,16 @@
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "Two waves are described as coherent. Which property must remain constant with time?",
+    "stem": "In interference experiment 23, two sources initially have phase difference 33°. What additional condition makes them coherent?",
     "options": [
-      "Their phase difference",
-      "Their amplitudes",
-      "Their intensities",
+      "The phase difference remains constant with time",
+      "Their amplitudes must be equal",
+      "Their intensities must be equal",
       "Their wavelengths must be visible",
       "Their speeds must be zero"
     ],
     "answer_index": 0,
-    "explanation": "Coherent waves maintain a constant phase difference."
+    "explanation": "Coherent sources maintain a constant phase difference."
   },
   {
     "id": "IMAT-PHY-WAVES-024",
@@ -468,16 +468,16 @@
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A periodic wave has period 0.224 s. What is its frequency?",
+    "stem": "Oscillation 24 has period 0.1608 s. What is its frequency?",
     "options": [
-      "4.464 Hz",
-      "0.224 Hz",
-      "28.050 Hz",
-      "0.448 Hz",
+      "6.219 Hz",
+      "0.1608 Hz",
+      "39.075 Hz",
+      "0.3216 Hz",
       "0 Hz"
     ],
     "answer_index": 0,
-    "explanation": "Frequency is the reciprocal of period: f=1/T."
+    "explanation": "Frequency is f=1/T."
   },
   {
     "id": "IMAT-PHY-WAVES-025",
@@ -488,16 +488,16 @@
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A wave has frequency 6.00 Hz and wavelength 0.875 m. What is its speed?",
+    "stem": "Wave set 25: frequency is 5.475 Hz and wavelength is 0.7225 m. Find the wave speed.",
     "options": [
-      "5.25 m/s",
-      "6.857 m/s",
-      "0.146 m/s",
-      "10.500 m/s",
+      "3.956 m/s",
+      "7.578 m/s",
+      "0.132 m/s",
+      "7.911 m/s",
       "Cannot be determined"
     ],
     "answer_index": 0,
-    "explanation": "Wave speed is v=fλ."
+    "explanation": "Use v=fλ."
   },
   {
     "id": "IMAT-PHY-WAVES-026",
@@ -508,16 +508,16 @@
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "Two waves are described as coherent. Which property must remain constant with time?",
+    "stem": "In interference experiment 26, two sources initially have phase difference 36°. What additional condition makes them coherent?",
     "options": [
-      "Their phase difference",
-      "Their amplitudes",
-      "Their intensities",
+      "The phase difference remains constant with time",
+      "Their amplitudes must be equal",
+      "Their intensities must be equal",
       "Their wavelengths must be visible",
       "Their speeds must be zero"
     ],
     "answer_index": 0,
-    "explanation": "Coherent waves maintain a constant phase difference."
+    "explanation": "Coherent sources maintain a constant phase difference."
   },
   {
     "id": "IMAT-PHY-WAVES-027",
@@ -528,16 +528,16 @@
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A periodic wave has period 0.227 s. What is its frequency?",
+    "stem": "Oscillation 27 has period 0.1659 s. What is its frequency?",
     "options": [
-      "4.405 Hz",
-      "0.227 Hz",
-      "27.679 Hz",
-      "0.454 Hz",
+      "6.028 Hz",
+      "0.1659 Hz",
+      "37.873 Hz",
+      "0.3318 Hz",
       "0 Hz"
     ],
     "answer_index": 0,
-    "explanation": "Frequency is the reciprocal of period: f=1/T."
+    "explanation": "Frequency is f=1/T."
   },
   {
     "id": "IMAT-PHY-WAVES-028",
@@ -548,16 +548,16 @@
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A wave has frequency 6.12 Hz and wavelength 0.884 m. What is its speed?",
+    "stem": "Wave set 28: frequency is 5.628 Hz and wavelength is 0.7348 m. Find the wave speed.",
     "options": [
-      "5.41 m/s",
-      "6.923 m/s",
-      "0.144 m/s",
-      "10.820 m/s",
+      "4.135 m/s",
+      "7.659 m/s",
+      "0.131 m/s",
+      "8.271 m/s",
       "Cannot be determined"
     ],
     "answer_index": 0,
-    "explanation": "Wave speed is v=fλ."
+    "explanation": "Use v=fλ."
   },
   {
     "id": "IMAT-PHY-WAVES-029",
@@ -568,16 +568,16 @@
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "Two waves are described as coherent. Which property must remain constant with time?",
+    "stem": "In interference experiment 29, two sources initially have phase difference 39°. What additional condition makes them coherent?",
     "options": [
-      "Their phase difference",
-      "Their amplitudes",
-      "Their intensities",
+      "The phase difference remains constant with time",
+      "Their amplitudes must be equal",
+      "Their intensities must be equal",
       "Their wavelengths must be visible",
       "Their speeds must be zero"
     ],
     "answer_index": 0,
-    "explanation": "Coherent waves maintain a constant phase difference."
+    "explanation": "Coherent sources maintain a constant phase difference."
   },
   {
     "id": "IMAT-PHY-WAVES-030",
@@ -588,16 +588,16 @@
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A periodic wave has period 0.230 s. What is its frequency?",
+    "stem": "Oscillation 30 has period 0.1710 s. What is its frequency?",
     "options": [
-      "4.348 Hz",
-      "0.230 Hz",
-      "27.318 Hz",
-      "0.460 Hz",
+      "5.848 Hz",
+      "0.1710 Hz",
+      "36.744 Hz",
+      "0.3420 Hz",
       "0 Hz"
     ],
     "answer_index": 0,
-    "explanation": "Frequency is the reciprocal of period: f=1/T."
+    "explanation": "Frequency is f=1/T."
   },
   {
     "id": "IMAT-PHY-WAVES-031",
@@ -608,16 +608,16 @@
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A wave has frequency 6.24 Hz and wavelength 0.893 m. What is its speed?",
+    "stem": "Wave set 31: frequency is 5.781 Hz and wavelength is 0.7471 m. Find the wave speed.",
     "options": [
-      "5.572 m/s",
-      "6.988 m/s",
-      "0.143 m/s",
-      "11.145 m/s",
+      "4.319 m/s",
+      "7.738 m/s",
+      "0.129 m/s",
+      "8.638 m/s",
       "Cannot be determined"
     ],
     "answer_index": 0,
-    "explanation": "Wave speed is v=fλ."
+    "explanation": "Use v=fλ."
   },
   {
     "id": "IMAT-PHY-WAVES-032",
@@ -628,16 +628,16 @@
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "Two waves are described as coherent. Which property must remain constant with time?",
+    "stem": "In interference experiment 32, two sources initially have phase difference 42°. What additional condition makes them coherent?",
     "options": [
-      "Their phase difference",
-      "Their amplitudes",
-      "Their intensities",
+      "The phase difference remains constant with time",
+      "Their amplitudes must be equal",
+      "Their intensities must be equal",
       "Their wavelengths must be visible",
       "Their speeds must be zero"
     ],
     "answer_index": 0,
-    "explanation": "Coherent waves maintain a constant phase difference."
+    "explanation": "Coherent sources maintain a constant phase difference."
   },
   {
     "id": "IMAT-PHY-WAVES-033",
@@ -648,16 +648,16 @@
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A periodic wave has period 0.233 s. What is its frequency?",
+    "stem": "Oscillation 33 has period 0.1761 s. What is its frequency?",
     "options": [
-      "4.292 Hz",
-      "0.233 Hz",
-      "26.966 Hz",
-      "0.466 Hz",
+      "5.679 Hz",
+      "0.1761 Hz",
+      "35.680 Hz",
+      "0.3522 Hz",
       "0 Hz"
     ],
     "answer_index": 0,
-    "explanation": "Frequency is the reciprocal of period: f=1/T."
+    "explanation": "Frequency is f=1/T."
   },
   {
     "id": "IMAT-PHY-WAVES-034",
@@ -668,16 +668,16 @@
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A wave has frequency 6.36 Hz and wavelength 0.902 m. What is its speed?",
+    "stem": "Wave set 34: frequency is 5.934 Hz and wavelength is 0.7594 m. Find the wave speed.",
     "options": [
-      "5.737 m/s",
-      "7.051 m/s",
-      "0.142 m/s",
-      "11.473 m/s",
+      "4.506 m/s",
+      "7.814 m/s",
+      "0.128 m/s",
+      "9.013 m/s",
       "Cannot be determined"
     ],
     "answer_index": 0,
-    "explanation": "Wave speed is v=fλ."
+    "explanation": "Use v=fλ."
   },
   {
     "id": "IMAT-PHY-WAVES-035",
@@ -688,16 +688,16 @@
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "Two waves are described as coherent. Which property must remain constant with time?",
+    "stem": "In interference experiment 35, two sources initially have phase difference 45°. What additional condition makes them coherent?",
     "options": [
-      "Their phase difference",
-      "Their amplitudes",
-      "Their intensities",
+      "The phase difference remains constant with time",
+      "Their amplitudes must be equal",
+      "Their intensities must be equal",
       "Their wavelengths must be visible",
       "Their speeds must be zero"
     ],
     "answer_index": 0,
-    "explanation": "Coherent waves maintain a constant phase difference."
+    "explanation": "Coherent sources maintain a constant phase difference."
   },
   {
     "id": "IMAT-PHY-WAVES-036",
@@ -708,16 +708,16 @@
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A periodic wave has period 0.236 s. What is its frequency?",
+    "stem": "Oscillation 36 has period 0.1812 s. What is its frequency?",
     "options": [
-      "4.237 Hz",
-      "0.236 Hz",
-      "26.624 Hz",
-      "0.472 Hz",
+      "5.519 Hz",
+      "0.1812 Hz",
+      "34.675 Hz",
+      "0.3624 Hz",
       "0 Hz"
     ],
     "answer_index": 0,
-    "explanation": "Frequency is the reciprocal of period: f=1/T."
+    "explanation": "Frequency is f=1/T."
   },
   {
     "id": "IMAT-PHY-WAVES-037",
@@ -728,16 +728,16 @@
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A wave has frequency 6.48 Hz and wavelength 0.911 m. What is its speed?",
+    "stem": "Wave set 37: frequency is 6.087 Hz and wavelength is 0.7717 m. Find the wave speed.",
     "options": [
-      "5.903 m/s",
-      "7.113 m/s",
-      "0.141 m/s",
-      "11.807 m/s",
+      "4.697 m/s",
+      "7.888 m/s",
+      "0.127 m/s",
+      "9.395 m/s",
       "Cannot be determined"
     ],
     "answer_index": 0,
-    "explanation": "Wave speed is v=fλ."
+    "explanation": "Use v=fλ."
   },
   {
     "id": "IMAT-PHY-WAVES-038",
@@ -748,16 +748,16 @@
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "Two waves are described as coherent. Which property must remain constant with time?",
+    "stem": "In interference experiment 38, two sources initially have phase difference 48°. What additional condition makes them coherent?",
     "options": [
-      "Their phase difference",
-      "Their amplitudes",
-      "Their intensities",
+      "The phase difference remains constant with time",
+      "Their amplitudes must be equal",
+      "Their intensities must be equal",
       "Their wavelengths must be visible",
       "Their speeds must be zero"
     ],
     "answer_index": 0,
-    "explanation": "Coherent waves maintain a constant phase difference."
+    "explanation": "Coherent sources maintain a constant phase difference."
   },
   {
     "id": "IMAT-PHY-WAVES-039",
@@ -768,16 +768,16 @@
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A periodic wave has period 0.239 s. What is its frequency?",
+    "stem": "Oscillation 39 has period 0.1863 s. What is its frequency?",
     "options": [
-      "4.184 Hz",
-      "0.239 Hz",
-      "26.289 Hz",
-      "0.478 Hz",
+      "5.368 Hz",
+      "0.1863 Hz",
+      "33.726 Hz",
+      "0.3726 Hz",
       "0 Hz"
     ],
     "answer_index": 0,
-    "explanation": "Frequency is the reciprocal of period: f=1/T."
+    "explanation": "Frequency is f=1/T."
   },
   {
     "id": "IMAT-PHY-WAVES-040",
@@ -788,16 +788,16 @@
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A wave has frequency 6.60 Hz and wavelength 0.920 m. What is its speed?",
+    "stem": "Wave set 40: frequency is 6.240 Hz and wavelength is 0.7840 m. Find the wave speed.",
     "options": [
-      "6.072 m/s",
-      "7.174 m/s",
-      "0.139 m/s",
-      "12.144 m/s",
+      "4.892 m/s",
+      "7.959 m/s",
+      "0.126 m/s",
+      "9.784 m/s",
       "Cannot be determined"
     ],
     "answer_index": 0,
-    "explanation": "Wave speed is v=fλ."
+    "explanation": "Use v=fλ."
   },
   {
     "id": "IMAT-PHY-WAVES-041",
@@ -808,16 +808,16 @@
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "Two waves are described as coherent. Which property must remain constant with time?",
+    "stem": "In interference experiment 41, two sources initially have phase difference 51°. What additional condition makes them coherent?",
     "options": [
-      "Their phase difference",
-      "Their amplitudes",
-      "Their intensities",
+      "The phase difference remains constant with time",
+      "Their amplitudes must be equal",
+      "Their intensities must be equal",
       "Their wavelengths must be visible",
       "Their speeds must be zero"
     ],
     "answer_index": 0,
-    "explanation": "Coherent waves maintain a constant phase difference."
+    "explanation": "Coherent sources maintain a constant phase difference."
   },
   {
     "id": "IMAT-PHY-WAVES-042",
@@ -828,16 +828,16 @@
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A periodic wave has period 0.242 s. What is its frequency?",
+    "stem": "Oscillation 42 has period 0.1914 s. What is its frequency?",
     "options": [
-      "4.132 Hz",
-      "0.242 Hz",
-      "25.964 Hz",
-      "0.484 Hz",
+      "5.225 Hz",
+      "0.1914 Hz",
+      "32.828 Hz",
+      "0.3828 Hz",
       "0 Hz"
     ],
     "answer_index": 0,
-    "explanation": "Frequency is the reciprocal of period: f=1/T."
+    "explanation": "Frequency is f=1/T."
   },
   {
     "id": "IMAT-PHY-WAVES-043",
@@ -848,16 +848,16 @@
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A wave has frequency 6.72 Hz and wavelength 0.929 m. What is its speed?",
+    "stem": "Wave set 43: frequency is 6.393 Hz and wavelength is 0.7963 m. Find the wave speed.",
     "options": [
-      "6.243 m/s",
-      "7.234 m/s",
-      "0.138 m/s",
-      "12.486 m/s",
+      "5.091 m/s",
+      "8.028 m/s",
+      "0.125 m/s",
+      "10.181 m/s",
       "Cannot be determined"
     ],
     "answer_index": 0,
-    "explanation": "Wave speed is v=fλ."
+    "explanation": "Use v=fλ."
   },
   {
     "id": "IMAT-PHY-WAVES-044",
@@ -868,16 +868,16 @@
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "Two waves are described as coherent. Which property must remain constant with time?",
+    "stem": "In interference experiment 44, two sources initially have phase difference 54°. What additional condition makes them coherent?",
     "options": [
-      "Their phase difference",
-      "Their amplitudes",
-      "Their intensities",
+      "The phase difference remains constant with time",
+      "Their amplitudes must be equal",
+      "Their intensities must be equal",
       "Their wavelengths must be visible",
       "Their speeds must be zero"
     ],
     "answer_index": 0,
-    "explanation": "Coherent waves maintain a constant phase difference."
+    "explanation": "Coherent sources maintain a constant phase difference."
   },
   {
     "id": "IMAT-PHY-WAVES-045",
@@ -888,16 +888,16 @@
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A periodic wave has period 0.245 s. What is its frequency?",
+    "stem": "Oscillation 45 has period 0.1965 s. What is its frequency?",
     "options": [
-      "4.082 Hz",
-      "0.245 Hz",
-      "25.646 Hz",
-      "0.490 Hz",
+      "5.089 Hz",
+      "0.1965 Hz",
+      "31.975 Hz",
+      "0.3930 Hz",
       "0 Hz"
     ],
     "answer_index": 0,
-    "explanation": "Frequency is the reciprocal of period: f=1/T."
+    "explanation": "Frequency is f=1/T."
   },
   {
     "id": "IMAT-PHY-WAVES-046",
@@ -908,16 +908,16 @@
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A wave has frequency 6.84 Hz and wavelength 0.938 m. What is its speed?",
+    "stem": "Wave set 46: frequency is 6.546 Hz and wavelength is 0.8086 m. Find the wave speed.",
     "options": [
-      "6.416 m/s",
-      "7.292 m/s",
-      "0.137 m/s",
-      "12.832 m/s",
+      "5.293 m/s",
+      "8.095 m/s",
+      "0.124 m/s",
+      "10.586 m/s",
       "Cannot be determined"
     ],
     "answer_index": 0,
-    "explanation": "Wave speed is v=fλ."
+    "explanation": "Use v=fλ."
   },
   {
     "id": "IMAT-PHY-WAVES-047",
@@ -928,16 +928,16 @@
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "Two waves are described as coherent. Which property must remain constant with time?",
+    "stem": "In interference experiment 47, two sources initially have phase difference 57°. What additional condition makes them coherent?",
     "options": [
-      "Their phase difference",
-      "Their amplitudes",
-      "Their intensities",
+      "The phase difference remains constant with time",
+      "Their amplitudes must be equal",
+      "Their intensities must be equal",
       "Their wavelengths must be visible",
       "Their speeds must be zero"
     ],
     "answer_index": 0,
-    "explanation": "Coherent waves maintain a constant phase difference."
+    "explanation": "Coherent sources maintain a constant phase difference."
   },
   {
     "id": "IMAT-PHY-WAVES-048",
@@ -948,16 +948,16 @@
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A periodic wave has period 0.248 s. What is its frequency?",
+    "stem": "Oscillation 48 has period 0.2016 s. What is its frequency?",
     "options": [
-      "4.032 Hz",
-      "0.248 Hz",
-      "25.335 Hz",
-      "0.496 Hz",
+      "4.960 Hz",
+      "0.2016 Hz",
+      "31.167 Hz",
+      "0.4032 Hz",
       "0 Hz"
     ],
     "answer_index": 0,
-    "explanation": "Frequency is the reciprocal of period: f=1/T."
+    "explanation": "Frequency is f=1/T."
   },
   {
     "id": "IMAT-PHY-WAVES-049",
@@ -968,16 +968,16 @@
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A wave has frequency 6.96 Hz and wavelength 0.947 m. What is its speed?",
+    "stem": "Wave set 49: frequency is 6.699 Hz and wavelength is 0.8209 m. Find the wave speed.",
     "options": [
-      "6.591 m/s",
-      "7.350 m/s",
-      "0.136 m/s",
-      "13.182 m/s",
+      "5.499 m/s",
+      "8.161 m/s",
+      "0.123 m/s",
+      "10.998 m/s",
       "Cannot be determined"
     ],
     "answer_index": 0,
-    "explanation": "Wave speed is v=fλ."
+    "explanation": "Use v=fλ."
   },
   {
     "id": "IMAT-PHY-WAVES-050",
@@ -988,16 +988,16 @@
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "Two waves are described as coherent. Which property must remain constant with time?",
+    "stem": "In interference experiment 50, two sources initially have phase difference 60°. What additional condition makes them coherent?",
     "options": [
-      "Their phase difference",
-      "Their amplitudes",
-      "Their intensities",
+      "The phase difference remains constant with time",
+      "Their amplitudes must be equal",
+      "Their intensities must be equal",
       "Their wavelengths must be visible",
       "Their speeds must be zero"
     ],
     "answer_index": 0,
-    "explanation": "Coherent waves maintain a constant phase difference."
+    "explanation": "Coherent sources maintain a constant phase difference."
   },
   {
     "id": "IMAT-PHY-WAVES-051",
@@ -1008,16 +1008,16 @@
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A periodic wave has period 0.251 s. What is its frequency?",
+    "stem": "Oscillation 51 has period 0.2067 s. What is its frequency?",
     "options": [
-      "3.984 Hz",
-      "0.251 Hz",
-      "25.033 Hz",
-      "0.502 Hz",
+      "4.838 Hz",
+      "0.2067 Hz",
+      "30.398 Hz",
+      "0.4134 Hz",
       "0 Hz"
     ],
     "answer_index": 0,
-    "explanation": "Frequency is the reciprocal of period: f=1/T."
+    "explanation": "Frequency is f=1/T."
   },
   {
     "id": "IMAT-PHY-WAVES-052",
@@ -1028,16 +1028,16 @@
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A wave has frequency 7.08 Hz and wavelength 0.956 m. What is its speed?",
+    "stem": "Wave set 52: frequency is 6.852 Hz and wavelength is 0.8332 m. Find the wave speed.",
     "options": [
-      "6.768 m/s",
-      "7.406 m/s",
-      "0.135 m/s",
-      "13.537 m/s",
+      "5.709 m/s",
+      "8.224 m/s",
+      "0.122 m/s",
+      "11.418 m/s",
       "Cannot be determined"
     ],
     "answer_index": 0,
-    "explanation": "Wave speed is v=fλ."
+    "explanation": "Use v=fλ."
   },
   {
     "id": "IMAT-PHY-WAVES-053",
@@ -1048,16 +1048,16 @@
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "Two waves are described as coherent. Which property must remain constant with time?",
+    "stem": "In interference experiment 53, two sources initially have phase difference 63°. What additional condition makes them coherent?",
     "options": [
-      "Their phase difference",
-      "Their amplitudes",
-      "Their intensities",
+      "The phase difference remains constant with time",
+      "Their amplitudes must be equal",
+      "Their intensities must be equal",
       "Their wavelengths must be visible",
       "Their speeds must be zero"
     ],
     "answer_index": 0,
-    "explanation": "Coherent waves maintain a constant phase difference."
+    "explanation": "Coherent sources maintain a constant phase difference."
   },
   {
     "id": "IMAT-PHY-WAVES-054",
@@ -1068,16 +1068,16 @@
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A periodic wave has period 0.254 s. What is its frequency?",
+    "stem": "Oscillation 54 has period 0.2118 s. What is its frequency?",
     "options": [
-      "3.937 Hz",
-      "0.254 Hz",
-      "24.737 Hz",
-      "0.508 Hz",
+      "4.721 Hz",
+      "0.2118 Hz",
+      "29.666 Hz",
+      "0.4236 Hz",
       "0 Hz"
     ],
     "answer_index": 0,
-    "explanation": "Frequency is the reciprocal of period: f=1/T."
+    "explanation": "Frequency is f=1/T."
   },
   {
     "id": "IMAT-PHY-WAVES-055",
@@ -1088,16 +1088,16 @@
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A wave has frequency 7.20 Hz and wavelength 0.965 m. What is its speed?",
+    "stem": "Wave set 55: frequency is 7.005 Hz and wavelength is 0.8455 m. Find the wave speed.",
     "options": [
-      "6.948 m/s",
-      "7.461 m/s",
-      "0.134 m/s",
-      "13.896 m/s",
+      "5.923 m/s",
+      "8.285 m/s",
+      "0.121 m/s",
+      "11.845 m/s",
       "Cannot be determined"
     ],
     "answer_index": 0,
-    "explanation": "Wave speed is v=fλ."
+    "explanation": "Use v=fλ."
   },
   {
     "id": "IMAT-PHY-WAVES-056",
@@ -1108,16 +1108,16 @@
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "Two waves are described as coherent. Which property must remain constant with time?",
+    "stem": "In interference experiment 56, two sources initially have phase difference 66°. What additional condition makes them coherent?",
     "options": [
-      "Their phase difference",
-      "Their amplitudes",
-      "Their intensities",
+      "The phase difference remains constant with time",
+      "Their amplitudes must be equal",
+      "Their intensities must be equal",
       "Their wavelengths must be visible",
       "Their speeds must be zero"
     ],
     "answer_index": 0,
-    "explanation": "Coherent waves maintain a constant phase difference."
+    "explanation": "Coherent sources maintain a constant phase difference."
   },
   {
     "id": "IMAT-PHY-WAVES-057",
@@ -1128,16 +1128,16 @@
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A periodic wave has period 0.257 s. What is its frequency?",
+    "stem": "Oscillation 57 has period 0.2169 s. What is its frequency?",
     "options": [
-      "3.891 Hz",
-      "0.257 Hz",
-      "24.448 Hz",
-      "0.514 Hz",
+      "4.610 Hz",
+      "0.2169 Hz",
+      "28.968 Hz",
+      "0.4338 Hz",
       "0 Hz"
     ],
     "answer_index": 0,
-    "explanation": "Frequency is the reciprocal of period: f=1/T."
+    "explanation": "Frequency is f=1/T."
   },
   {
     "id": "IMAT-PHY-WAVES-058",
@@ -1148,16 +1148,16 @@
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A wave has frequency 7.32 Hz and wavelength 0.974 m. What is its speed?",
+    "stem": "Wave set 58: frequency is 7.158 Hz and wavelength is 0.8578 m. Find the wave speed.",
     "options": [
-      "7.13 m/s",
-      "7.515 m/s",
-      "0.133 m/s",
-      "14.259 m/s",
+      "6.140 m/s",
+      "8.345 m/s",
+      "0.120 m/s",
+      "12.280 m/s",
       "Cannot be determined"
     ],
     "answer_index": 0,
-    "explanation": "Wave speed is v=fλ."
+    "explanation": "Use v=fλ."
   },
   {
     "id": "IMAT-PHY-WAVES-059",
@@ -1168,16 +1168,16 @@
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "Two waves are described as coherent. Which property must remain constant with time?",
+    "stem": "In interference experiment 59, two sources initially have phase difference 69°. What additional condition makes them coherent?",
     "options": [
-      "Their phase difference",
-      "Their amplitudes",
-      "Their intensities",
+      "The phase difference remains constant with time",
+      "Their amplitudes must be equal",
+      "Their intensities must be equal",
       "Their wavelengths must be visible",
       "Their speeds must be zero"
     ],
     "answer_index": 0,
-    "explanation": "Coherent waves maintain a constant phase difference."
+    "explanation": "Coherent sources maintain a constant phase difference."
   },
   {
     "id": "IMAT-PHY-WAVES-060",
@@ -1188,16 +1188,16 @@
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A periodic wave has period 0.260 s. What is its frequency?",
+    "stem": "Oscillation 60 has period 0.2220 s. What is its frequency?",
     "options": [
-      "3.846 Hz",
-      "0.260 Hz",
-      "24.166 Hz",
-      "0.520 Hz",
+      "4.505 Hz",
+      "0.2220 Hz",
+      "28.303 Hz",
+      "0.4440 Hz",
       "0 Hz"
     ],
     "answer_index": 0,
-    "explanation": "Frequency is the reciprocal of period: f=1/T."
+    "explanation": "Frequency is f=1/T."
   },
   {
     "id": "IMAT-PHY-WAVES-061",
@@ -1208,16 +1208,16 @@
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A wave has frequency 7.44 Hz and wavelength 0.983 m. What is its speed?",
+    "stem": "Wave set 61: frequency is 7.311 Hz and wavelength is 0.8701 m. Find the wave speed.",
     "options": [
-      "7.314 m/s",
-      "7.569 m/s",
-      "0.132 m/s",
-      "14.627 m/s",
+      "6.361 m/s",
+      "8.402 m/s",
+      "0.119 m/s",
+      "12.723 m/s",
       "Cannot be determined"
     ],
     "answer_index": 0,
-    "explanation": "Wave speed is v=fλ."
+    "explanation": "Use v=fλ."
   },
   {
     "id": "IMAT-PHY-WAVES-062",
@@ -1228,16 +1228,16 @@
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "Two waves are described as coherent. Which property must remain constant with time?",
+    "stem": "In interference experiment 62, two sources initially have phase difference 72°. What additional condition makes them coherent?",
     "options": [
-      "Their phase difference",
-      "Their amplitudes",
-      "Their intensities",
+      "The phase difference remains constant with time",
+      "Their amplitudes must be equal",
+      "Their intensities must be equal",
       "Their wavelengths must be visible",
       "Their speeds must be zero"
     ],
     "answer_index": 0,
-    "explanation": "Coherent waves maintain a constant phase difference."
+    "explanation": "Coherent sources maintain a constant phase difference."
   },
   {
     "id": "IMAT-PHY-WAVES-063",
@@ -1248,16 +1248,16 @@
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A periodic wave has period 0.263 s. What is its frequency?",
+    "stem": "Oscillation 63 has period 0.2271 s. What is its frequency?",
     "options": [
-      "3.802 Hz",
-      "0.263 Hz",
-      "23.890 Hz",
-      "0.526 Hz",
+      "4.403 Hz",
+      "0.2271 Hz",
+      "27.667 Hz",
+      "0.4542 Hz",
       "0 Hz"
     ],
     "answer_index": 0,
-    "explanation": "Frequency is the reciprocal of period: f=1/T."
+    "explanation": "Frequency is f=1/T."
   },
   {
     "id": "IMAT-PHY-WAVES-064",
@@ -1268,16 +1268,16 @@
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A wave has frequency 7.56 Hz and wavelength 0.992 m. What is its speed?",
+    "stem": "Wave set 64: frequency is 7.464 Hz and wavelength is 0.8824 m. Find the wave speed.",
     "options": [
-      "7.5 m/s",
-      "7.621 m/s",
-      "0.131 m/s",
-      "14.999 m/s",
+      "6.586 m/s",
+      "8.459 m/s",
+      "0.118 m/s",
+      "13.172 m/s",
       "Cannot be determined"
     ],
     "answer_index": 0,
-    "explanation": "Wave speed is v=fλ."
+    "explanation": "Use v=fλ."
   },
   {
     "id": "IMAT-PHY-WAVES-065",
@@ -1288,16 +1288,16 @@
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "Two waves are described as coherent. Which property must remain constant with time?",
+    "stem": "In interference experiment 65, two sources initially have phase difference 75°. What additional condition makes them coherent?",
     "options": [
-      "Their phase difference",
-      "Their amplitudes",
-      "Their intensities",
+      "The phase difference remains constant with time",
+      "Their amplitudes must be equal",
+      "Their intensities must be equal",
       "Their wavelengths must be visible",
       "Their speeds must be zero"
     ],
     "answer_index": 0,
-    "explanation": "Coherent waves maintain a constant phase difference."
+    "explanation": "Coherent sources maintain a constant phase difference."
   },
   {
     "id": "IMAT-PHY-WAVES-066",
@@ -1308,16 +1308,16 @@
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A periodic wave has period 0.266 s. What is its frequency?",
+    "stem": "Oscillation 66 has period 0.2322 s. What is its frequency?",
     "options": [
-      "3.759 Hz",
-      "0.266 Hz",
-      "23.621 Hz",
-      "0.532 Hz",
+      "4.307 Hz",
+      "0.2322 Hz",
+      "27.059 Hz",
+      "0.4644 Hz",
       "0 Hz"
     ],
     "answer_index": 0,
-    "explanation": "Frequency is the reciprocal of period: f=1/T."
+    "explanation": "Frequency is f=1/T."
   },
   {
     "id": "IMAT-PHY-WAVES-067",
@@ -1328,16 +1328,16 @@
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A wave has frequency 7.68 Hz and wavelength 1.001 m. What is its speed?",
+    "stem": "Wave set 67: frequency is 7.617 Hz and wavelength is 0.8947 m. Find the wave speed.",
     "options": [
-      "7.688 m/s",
-      "7.672 m/s",
-      "0.130 m/s",
-      "15.375 m/s",
+      "6.815 m/s",
+      "8.513 m/s",
+      "0.117 m/s",
+      "13.630 m/s",
       "Cannot be determined"
     ],
     "answer_index": 0,
-    "explanation": "Wave speed is v=fλ."
+    "explanation": "Use v=fλ."
   },
   {
     "id": "IMAT-PHY-WAVES-068",
@@ -1348,16 +1348,16 @@
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "Two waves are described as coherent. Which property must remain constant with time?",
+    "stem": "In interference experiment 68, two sources initially have phase difference 78°. What additional condition makes them coherent?",
     "options": [
-      "Their phase difference",
-      "Their amplitudes",
-      "Their intensities",
+      "The phase difference remains constant with time",
+      "Their amplitudes must be equal",
+      "Their intensities must be equal",
       "Their wavelengths must be visible",
       "Their speeds must be zero"
     ],
     "answer_index": 0,
-    "explanation": "Coherent waves maintain a constant phase difference."
+    "explanation": "Coherent sources maintain a constant phase difference."
   },
   {
     "id": "IMAT-PHY-WAVES-069",
@@ -1368,16 +1368,16 @@
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A periodic wave has period 0.269 s. What is its frequency?",
+    "stem": "Oscillation 69 has period 0.2373 s. What is its frequency?",
     "options": [
-      "3.717 Hz",
-      "0.269 Hz",
-      "23.358 Hz",
-      "0.538 Hz",
+      "4.214 Hz",
+      "0.2373 Hz",
+      "26.478 Hz",
+      "0.4746 Hz",
       "0 Hz"
     ],
     "answer_index": 0,
-    "explanation": "Frequency is the reciprocal of period: f=1/T."
+    "explanation": "Frequency is f=1/T."
   },
   {
     "id": "IMAT-PHY-WAVES-070",
@@ -1388,16 +1388,16 @@
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A wave has frequency 7.80 Hz and wavelength 1.010 m. What is its speed?",
+    "stem": "Wave set 70: frequency is 7.770 Hz and wavelength is 0.9070 m. Find the wave speed.",
     "options": [
-      "7.878 m/s",
-      "7.723 m/s",
-      "0.129 m/s",
-      "15.756 m/s",
+      "7.047 m/s",
+      "8.567 m/s",
+      "0.117 m/s",
+      "14.095 m/s",
       "Cannot be determined"
     ],
     "answer_index": 0,
-    "explanation": "Wave speed is v=fλ."
+    "explanation": "Use v=fλ."
   },
   {
     "id": "IMAT-PHY-WAVES-071",
@@ -1408,16 +1408,16 @@
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "Two waves are described as coherent. Which property must remain constant with time?",
+    "stem": "In interference experiment 71, two sources initially have phase difference 81°. What additional condition makes them coherent?",
     "options": [
-      "Their phase difference",
-      "Their amplitudes",
-      "Their intensities",
+      "The phase difference remains constant with time",
+      "Their amplitudes must be equal",
+      "Their intensities must be equal",
       "Their wavelengths must be visible",
       "Their speeds must be zero"
     ],
     "answer_index": 0,
-    "explanation": "Coherent waves maintain a constant phase difference."
+    "explanation": "Coherent sources maintain a constant phase difference."
   },
   {
     "id": "IMAT-PHY-WAVES-072",
@@ -1428,16 +1428,16 @@
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A periodic wave has period 0.272 s. What is its frequency?",
+    "stem": "Oscillation 72 has period 0.2424 s. What is its frequency?",
     "options": [
-      "3.676 Hz",
-      "0.272 Hz",
-      "23.100 Hz",
-      "0.544 Hz",
+      "4.125 Hz",
+      "0.2424 Hz",
+      "25.921 Hz",
+      "0.4848 Hz",
       "0 Hz"
     ],
     "answer_index": 0,
-    "explanation": "Frequency is the reciprocal of period: f=1/T."
+    "explanation": "Frequency is f=1/T."
   },
   {
     "id": "IMAT-PHY-WAVES-073",
@@ -1448,16 +1448,16 @@
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A wave has frequency 7.92 Hz and wavelength 1.019 m. What is its speed?",
+    "stem": "Wave set 73: frequency is 7.923 Hz and wavelength is 0.9193 m. Find the wave speed.",
     "options": [
-      "8.07 m/s",
-      "7.772 m/s",
-      "0.129 m/s",
-      "16.141 m/s",
+      "7.284 m/s",
+      "8.619 m/s",
+      "0.116 m/s",
+      "14.567 m/s",
       "Cannot be determined"
     ],
     "answer_index": 0,
-    "explanation": "Wave speed is v=fλ."
+    "explanation": "Use v=fλ."
   },
   {
     "id": "IMAT-PHY-WAVES-074",
@@ -1468,16 +1468,16 @@
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "Two waves are described as coherent. Which property must remain constant with time?",
+    "stem": "In interference experiment 74, two sources initially have phase difference 84°. What additional condition makes them coherent?",
     "options": [
-      "Their phase difference",
-      "Their amplitudes",
-      "Their intensities",
+      "The phase difference remains constant with time",
+      "Their amplitudes must be equal",
+      "Their intensities must be equal",
       "Their wavelengths must be visible",
       "Their speeds must be zero"
     ],
     "answer_index": 0,
-    "explanation": "Coherent waves maintain a constant phase difference."
+    "explanation": "Coherent sources maintain a constant phase difference."
   },
   {
     "id": "IMAT-PHY-WAVES-075",
@@ -1488,16 +1488,16 @@
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A periodic wave has period 0.275 s. What is its frequency?",
+    "stem": "Oscillation 75 has period 0.2475 s. What is its frequency?",
     "options": [
-      "3.636 Hz",
-      "0.275 Hz",
-      "22.848 Hz",
-      "0.550 Hz",
+      "4.040 Hz",
+      "0.2475 Hz",
+      "25.387 Hz",
+      "0.4950 Hz",
       "0 Hz"
     ],
     "answer_index": 0,
-    "explanation": "Frequency is the reciprocal of period: f=1/T."
+    "explanation": "Frequency is f=1/T."
   },
   {
     "id": "IMAT-PHY-WAVES-076",
@@ -1508,16 +1508,16 @@
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A wave has frequency 8.04 Hz and wavelength 1.028 m. What is its speed?",
+    "stem": "Wave set 76: frequency is 8.076 Hz and wavelength is 0.9316 m. Find the wave speed.",
     "options": [
-      "8.265 m/s",
-      "7.821 m/s",
-      "0.128 m/s",
-      "16.530 m/s",
+      "7.524 m/s",
+      "8.669 m/s",
+      "0.115 m/s",
+      "15.047 m/s",
       "Cannot be determined"
     ],
     "answer_index": 0,
-    "explanation": "Wave speed is v=fλ."
+    "explanation": "Use v=fλ."
   },
   {
     "id": "IMAT-PHY-WAVES-077",
@@ -1528,16 +1528,16 @@
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "Two waves are described as coherent. Which property must remain constant with time?",
+    "stem": "In interference experiment 77, two sources initially have phase difference 87°. What additional condition makes them coherent?",
     "options": [
-      "Their phase difference",
-      "Their amplitudes",
-      "Their intensities",
+      "The phase difference remains constant with time",
+      "Their amplitudes must be equal",
+      "Their intensities must be equal",
       "Their wavelengths must be visible",
       "Their speeds must be zero"
     ],
     "answer_index": 0,
-    "explanation": "Coherent waves maintain a constant phase difference."
+    "explanation": "Coherent sources maintain a constant phase difference."
   },
   {
     "id": "IMAT-PHY-WAVES-078",
@@ -1548,16 +1548,16 @@
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A periodic wave has period 0.278 s. What is its frequency?",
+    "stem": "Oscillation 78 has period 0.2526 s. What is its frequency?",
     "options": [
-      "3.597 Hz",
-      "0.278 Hz",
-      "22.601 Hz",
-      "0.556 Hz",
+      "3.959 Hz",
+      "0.2526 Hz",
+      "24.874 Hz",
+      "0.5052 Hz",
       "0 Hz"
     ],
     "answer_index": 0,
-    "explanation": "Frequency is the reciprocal of period: f=1/T."
+    "explanation": "Frequency is f=1/T."
   },
   {
     "id": "IMAT-PHY-WAVES-079",
@@ -1568,16 +1568,16 @@
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A wave has frequency 8.16 Hz and wavelength 1.037 m. What is its speed?",
+    "stem": "Wave set 79: frequency is 8.229 Hz and wavelength is 0.9439 m. Find the wave speed.",
     "options": [
-      "8.462 m/s",
-      "7.869 m/s",
-      "0.127 m/s",
-      "16.924 m/s",
+      "7.767 m/s",
+      "8.718 m/s",
+      "0.115 m/s",
+      "15.535 m/s",
       "Cannot be determined"
     ],
     "answer_index": 0,
-    "explanation": "Wave speed is v=fλ."
+    "explanation": "Use v=fλ."
   },
   {
     "id": "IMAT-PHY-WAVES-080",
@@ -1588,16 +1588,16 @@
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "Two waves are described as coherent. Which property must remain constant with time?",
+    "stem": "In interference experiment 80, two sources initially have phase difference 90°. What additional condition makes them coherent?",
     "options": [
-      "Their phase difference",
-      "Their amplitudes",
-      "Their intensities",
+      "The phase difference remains constant with time",
+      "Their amplitudes must be equal",
+      "Their intensities must be equal",
       "Their wavelengths must be visible",
       "Their speeds must be zero"
     ],
     "answer_index": 0,
-    "explanation": "Coherent waves maintain a constant phase difference."
+    "explanation": "Coherent sources maintain a constant phase difference."
   },
   {
     "id": "IMAT-PHY-WAVES-081",
@@ -1608,16 +1608,16 @@
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A periodic wave has period 0.281 s. What is its frequency?",
+    "stem": "Oscillation 81 has period 0.2577 s. What is its frequency?",
     "options": [
-      "3.559 Hz",
-      "0.281 Hz",
-      "22.360 Hz",
-      "0.562 Hz",
+      "3.880 Hz",
+      "0.2577 Hz",
+      "24.382 Hz",
+      "0.5154 Hz",
       "0 Hz"
     ],
     "answer_index": 0,
-    "explanation": "Frequency is the reciprocal of period: f=1/T."
+    "explanation": "Frequency is f=1/T."
   },
   {
     "id": "IMAT-PHY-WAVES-082",
@@ -1628,16 +1628,16 @@
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A wave has frequency 8.28 Hz and wavelength 1.046 m. What is its speed?",
+    "stem": "Wave set 82: frequency is 8.382 Hz and wavelength is 0.9562 m. Find the wave speed.",
     "options": [
-      "8.661 m/s",
-      "7.916 m/s",
-      "0.126 m/s",
-      "17.322 m/s",
+      "8.015 m/s",
+      "8.766 m/s",
+      "0.114 m/s",
+      "16.030 m/s",
       "Cannot be determined"
     ],
     "answer_index": 0,
-    "explanation": "Wave speed is v=fλ."
+    "explanation": "Use v=fλ."
   },
   {
     "id": "IMAT-PHY-WAVES-083",
@@ -1648,16 +1648,16 @@
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "Two waves are described as coherent. Which property must remain constant with time?",
+    "stem": "In interference experiment 83, two sources initially have phase difference 93°. What additional condition makes them coherent?",
     "options": [
-      "Their phase difference",
-      "Their amplitudes",
-      "Their intensities",
+      "The phase difference remains constant with time",
+      "Their amplitudes must be equal",
+      "Their intensities must be equal",
       "Their wavelengths must be visible",
       "Their speeds must be zero"
     ],
     "answer_index": 0,
-    "explanation": "Coherent waves maintain a constant phase difference."
+    "explanation": "Coherent sources maintain a constant phase difference."
   },
   {
     "id": "IMAT-PHY-WAVES-084",
@@ -1668,16 +1668,16 @@
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A periodic wave has period 0.284 s. What is its frequency?",
+    "stem": "Oscillation 84 has period 0.2628 s. What is its frequency?",
     "options": [
-      "3.521 Hz",
-      "0.284 Hz",
-      "22.124 Hz",
-      "0.568 Hz",
+      "3.805 Hz",
+      "0.2628 Hz",
+      "23.909 Hz",
+      "0.5256 Hz",
       "0 Hz"
     ],
     "answer_index": 0,
-    "explanation": "Frequency is the reciprocal of period: f=1/T."
+    "explanation": "Frequency is f=1/T."
   },
   {
     "id": "IMAT-PHY-WAVES-085",
@@ -1688,16 +1688,16 @@
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A wave has frequency 8.40 Hz and wavelength 1.055 m. What is its speed?",
+    "stem": "Wave set 85: frequency is 8.535 Hz and wavelength is 0.9685 m. Find the wave speed.",
     "options": [
-      "8.862 m/s",
-      "7.962 m/s",
-      "0.126 m/s",
-      "17.724 m/s",
+      "8.266 m/s",
+      "8.813 m/s",
+      "0.113 m/s",
+      "16.532 m/s",
       "Cannot be determined"
     ],
     "answer_index": 0,
-    "explanation": "Wave speed is v=fλ."
+    "explanation": "Use v=fλ."
   },
   {
     "id": "IMAT-PHY-WAVES-086",
@@ -1708,16 +1708,16 @@
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "Two waves are described as coherent. Which property must remain constant with time?",
+    "stem": "In interference experiment 86, two sources initially have phase difference 96°. What additional condition makes them coherent?",
     "options": [
-      "Their phase difference",
-      "Their amplitudes",
-      "Their intensities",
+      "The phase difference remains constant with time",
+      "Their amplitudes must be equal",
+      "Their intensities must be equal",
       "Their wavelengths must be visible",
       "Their speeds must be zero"
     ],
     "answer_index": 0,
-    "explanation": "Coherent waves maintain a constant phase difference."
+    "explanation": "Coherent sources maintain a constant phase difference."
   },
   {
     "id": "IMAT-PHY-WAVES-087",
@@ -1728,16 +1728,16 @@
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A periodic wave has period 0.287 s. What is its frequency?",
+    "stem": "Oscillation 87 has period 0.2679 s. What is its frequency?",
     "options": [
-      "3.484 Hz",
-      "0.287 Hz",
-      "21.893 Hz",
-      "0.574 Hz",
+      "3.733 Hz",
+      "0.2679 Hz",
+      "23.453 Hz",
+      "0.5358 Hz",
       "0 Hz"
     ],
     "answer_index": 0,
-    "explanation": "Frequency is the reciprocal of period: f=1/T."
+    "explanation": "Frequency is f=1/T."
   },
   {
     "id": "IMAT-PHY-WAVES-088",
@@ -1748,16 +1748,16 @@
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A wave has frequency 8.52 Hz and wavelength 1.064 m. What is its speed?",
+    "stem": "Wave set 88: frequency is 8.688 Hz and wavelength is 0.9808 m. Find the wave speed.",
     "options": [
-      "9.065 m/s",
-      "8.008 m/s",
-      "0.125 m/s",
-      "18.131 m/s",
+      "8.521 m/s",
+      "8.858 m/s",
+      "0.113 m/s",
+      "17.042 m/s",
       "Cannot be determined"
     ],
     "answer_index": 0,
-    "explanation": "Wave speed is v=fλ."
+    "explanation": "Use v=fλ."
   },
   {
     "id": "IMAT-PHY-WAVES-089",
@@ -1768,16 +1768,16 @@
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "Two waves are described as coherent. Which property must remain constant with time?",
+    "stem": "In interference experiment 89, two sources initially have phase difference 99°. What additional condition makes them coherent?",
     "options": [
-      "Their phase difference",
-      "Their amplitudes",
-      "Their intensities",
+      "The phase difference remains constant with time",
+      "Their amplitudes must be equal",
+      "Their intensities must be equal",
       "Their wavelengths must be visible",
       "Their speeds must be zero"
     ],
     "answer_index": 0,
-    "explanation": "Coherent waves maintain a constant phase difference."
+    "explanation": "Coherent sources maintain a constant phase difference."
   },
   {
     "id": "IMAT-PHY-WAVES-090",
@@ -1788,16 +1788,16 @@
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A periodic wave has period 0.290 s. What is its frequency?",
+    "stem": "Oscillation 90 has period 0.2730 s. What is its frequency?",
     "options": [
-      "3.448 Hz",
-      "0.290 Hz",
-      "21.666 Hz",
-      "0.580 Hz",
+      "3.663 Hz",
+      "0.2730 Hz",
+      "23.015 Hz",
+      "0.5460 Hz",
       "0 Hz"
     ],
     "answer_index": 0,
-    "explanation": "Frequency is the reciprocal of period: f=1/T."
+    "explanation": "Frequency is f=1/T."
   },
   {
     "id": "IMAT-PHY-WAVES-091",
@@ -1808,16 +1808,16 @@
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A wave has frequency 8.64 Hz and wavelength 1.073 m. What is its speed?",
+    "stem": "Wave set 91: frequency is 8.841 Hz and wavelength is 0.9931 m. Find the wave speed.",
     "options": [
-      "9.271 m/s",
-      "8.052 m/s",
-      "0.124 m/s",
-      "18.541 m/s",
+      "8.780 m/s",
+      "8.902 m/s",
+      "0.112 m/s",
+      "17.560 m/s",
       "Cannot be determined"
     ],
     "answer_index": 0,
-    "explanation": "Wave speed is v=fλ."
+    "explanation": "Use v=fλ."
   },
   {
     "id": "IMAT-PHY-WAVES-092",
@@ -1828,16 +1828,16 @@
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "Two waves are described as coherent. Which property must remain constant with time?",
+    "stem": "In interference experiment 92, two sources initially have phase difference 102°. What additional condition makes them coherent?",
     "options": [
-      "Their phase difference",
-      "Their amplitudes",
-      "Their intensities",
+      "The phase difference remains constant with time",
+      "Their amplitudes must be equal",
+      "Their intensities must be equal",
       "Their wavelengths must be visible",
       "Their speeds must be zero"
     ],
     "answer_index": 0,
-    "explanation": "Coherent waves maintain a constant phase difference."
+    "explanation": "Coherent sources maintain a constant phase difference."
   },
   {
     "id": "IMAT-PHY-WAVES-093",
@@ -1848,16 +1848,16 @@
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A periodic wave has period 0.293 s. What is its frequency?",
+    "stem": "Oscillation 93 has period 0.2781 s. What is its frequency?",
     "options": [
-      "3.413 Hz",
-      "0.293 Hz",
-      "21.444 Hz",
-      "0.586 Hz",
+      "3.596 Hz",
+      "0.2781 Hz",
+      "22.593 Hz",
+      "0.5562 Hz",
       "0 Hz"
     ],
     "answer_index": 0,
-    "explanation": "Frequency is the reciprocal of period: f=1/T."
+    "explanation": "Frequency is f=1/T."
   },
   {
     "id": "IMAT-PHY-WAVES-094",
@@ -1868,16 +1868,16 @@
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A wave has frequency 8.76 Hz and wavelength 1.082 m. What is its speed?",
+    "stem": "Wave set 94: frequency is 8.994 Hz and wavelength is 1.0054 m. Find the wave speed.",
     "options": [
-      "9.478 m/s",
-      "8.096 m/s",
-      "0.124 m/s",
-      "18.957 m/s",
+      "9.043 m/s",
+      "8.946 m/s",
+      "0.112 m/s",
+      "18.085 m/s",
       "Cannot be determined"
     ],
     "answer_index": 0,
-    "explanation": "Wave speed is v=fλ."
+    "explanation": "Use v=fλ."
   },
   {
     "id": "IMAT-PHY-WAVES-095",
@@ -1888,16 +1888,16 @@
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "Two waves are described as coherent. Which property must remain constant with time?",
+    "stem": "In interference experiment 95, two sources initially have phase difference 105°. What additional condition makes them coherent?",
     "options": [
-      "Their phase difference",
-      "Their amplitudes",
-      "Their intensities",
+      "The phase difference remains constant with time",
+      "Their amplitudes must be equal",
+      "Their intensities must be equal",
       "Their wavelengths must be visible",
       "Their speeds must be zero"
     ],
     "answer_index": 0,
-    "explanation": "Coherent waves maintain a constant phase difference."
+    "explanation": "Coherent sources maintain a constant phase difference."
   },
   {
     "id": "IMAT-PHY-WAVES-096",
@@ -1908,16 +1908,16 @@
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A periodic wave has period 0.296 s. What is its frequency?",
+    "stem": "Oscillation 96 has period 0.2832 s. What is its frequency?",
     "options": [
-      "3.378 Hz",
-      "0.296 Hz",
-      "21.227 Hz",
-      "0.592 Hz",
+      "3.531 Hz",
+      "0.2832 Hz",
+      "22.186 Hz",
+      "0.5664 Hz",
       "0 Hz"
     ],
     "answer_index": 0,
-    "explanation": "Frequency is the reciprocal of period: f=1/T."
+    "explanation": "Frequency is f=1/T."
   },
   {
     "id": "IMAT-PHY-WAVES-097",
@@ -1928,16 +1928,16 @@
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A wave has frequency 8.88 Hz and wavelength 1.091 m. What is its speed?",
+    "stem": "Wave set 97: frequency is 9.147 Hz and wavelength is 1.0177 m. Find the wave speed.",
     "options": [
-      "9.688 m/s",
-      "8.139 m/s",
-      "0.123 m/s",
-      "19.376 m/s",
+      "9.309 m/s",
+      "8.988 m/s",
+      "0.111 m/s",
+      "18.618 m/s",
       "Cannot be determined"
     ],
     "answer_index": 0,
-    "explanation": "Wave speed is v=fλ."
+    "explanation": "Use v=fλ."
   },
   {
     "id": "IMAT-PHY-WAVES-098",
@@ -1948,16 +1948,16 @@
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "Two waves are described as coherent. Which property must remain constant with time?",
+    "stem": "In interference experiment 98, two sources initially have phase difference 108°. What additional condition makes them coherent?",
     "options": [
-      "Their phase difference",
-      "Their amplitudes",
-      "Their intensities",
+      "The phase difference remains constant with time",
+      "Their amplitudes must be equal",
+      "Their intensities must be equal",
       "Their wavelengths must be visible",
       "Their speeds must be zero"
     ],
     "answer_index": 0,
-    "explanation": "Coherent waves maintain a constant phase difference."
+    "explanation": "Coherent sources maintain a constant phase difference."
   },
   {
     "id": "IMAT-PHY-WAVES-099",
@@ -1968,16 +1968,16 @@
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A periodic wave has period 0.299 s. What is its frequency?",
+    "stem": "Oscillation 99 has period 0.2883 s. What is its frequency?",
     "options": [
-      "3.344 Hz",
-      "0.299 Hz",
-      "21.014 Hz",
-      "0.598 Hz",
+      "3.469 Hz",
+      "0.2883 Hz",
+      "21.794 Hz",
+      "0.5766 Hz",
       "0 Hz"
     ],
     "answer_index": 0,
-    "explanation": "Frequency is the reciprocal of period: f=1/T."
+    "explanation": "Frequency is f=1/T."
   },
   {
     "id": "IMAT-PHY-WAVES-100",
@@ -1988,16 +1988,16 @@
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A wave has frequency 9.00 Hz and wavelength 1.100 m. What is its speed?",
+    "stem": "Wave set 100: frequency is 9.300 Hz and wavelength is 1.0300 m. Find the wave speed.",
     "options": [
-      "9.9 m/s",
-      "8.182 m/s",
-      "0.122 m/s",
-      "19.800 m/s",
+      "9.579 m/s",
+      "9.029 m/s",
+      "0.111 m/s",
+      "19.158 m/s",
       "Cannot be determined"
     ],
     "answer_index": 0,
-    "explanation": "Wave speed is v=fλ."
+    "explanation": "Use v=fλ."
   },
   {
     "id": "IMAT-PHY-WAVES-101",
@@ -2008,16 +2008,16 @@
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "Two waves are described as coherent. Which property must remain constant with time?",
+    "stem": "In interference experiment 101, two sources initially have phase difference 111°. What additional condition makes them coherent?",
     "options": [
-      "Their phase difference",
-      "Their amplitudes",
-      "Their intensities",
+      "The phase difference remains constant with time",
+      "Their amplitudes must be equal",
+      "Their intensities must be equal",
       "Their wavelengths must be visible",
       "Their speeds must be zero"
     ],
     "answer_index": 0,
-    "explanation": "Coherent waves maintain a constant phase difference."
+    "explanation": "Coherent sources maintain a constant phase difference."
   },
   {
     "id": "IMAT-PHY-WAVES-102",
@@ -2028,16 +2028,16 @@
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A periodic wave has period 0.302 s. What is its frequency?",
+    "stem": "Oscillation 102 has period 0.2934 s. What is its frequency?",
     "options": [
-      "3.311 Hz",
-      "0.302 Hz",
-      "20.805 Hz",
-      "0.604 Hz",
+      "3.408 Hz",
+      "0.2934 Hz",
+      "21.415 Hz",
+      "0.5868 Hz",
       "0 Hz"
     ],
     "answer_index": 0,
-    "explanation": "Frequency is the reciprocal of period: f=1/T."
+    "explanation": "Frequency is f=1/T."
   },
   {
     "id": "IMAT-PHY-WAVES-103",
@@ -2048,16 +2048,16 @@
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A wave has frequency 9.12 Hz and wavelength 1.109 m. What is its speed?",
+    "stem": "Wave set 103: frequency is 9.453 Hz and wavelength is 1.0423 m. Find the wave speed.",
     "options": [
-      "10.114 m/s",
-      "8.224 m/s",
-      "0.122 m/s",
-      "20.228 m/s",
+      "9.853 m/s",
+      "9.069 m/s",
+      "0.110 m/s",
+      "19.706 m/s",
       "Cannot be determined"
     ],
     "answer_index": 0,
-    "explanation": "Wave speed is v=fλ."
+    "explanation": "Use v=fλ."
   },
   {
     "id": "IMAT-PHY-WAVES-104",
@@ -2068,16 +2068,16 @@
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "Two waves are described as coherent. Which property must remain constant with time?",
+    "stem": "In interference experiment 104, two sources initially have phase difference 114°. What additional condition makes them coherent?",
     "options": [
-      "Their phase difference",
-      "Their amplitudes",
-      "Their intensities",
+      "The phase difference remains constant with time",
+      "Their amplitudes must be equal",
+      "Their intensities must be equal",
       "Their wavelengths must be visible",
       "Their speeds must be zero"
     ],
     "answer_index": 0,
-    "explanation": "Coherent waves maintain a constant phase difference."
+    "explanation": "Coherent sources maintain a constant phase difference."
   },
   {
     "id": "IMAT-PHY-WAVES-105",
@@ -2088,16 +2088,16 @@
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A periodic wave has period 0.305 s. What is its frequency?",
+    "stem": "Oscillation 105 has period 0.2985 s. What is its frequency?",
     "options": [
-      "3.279 Hz",
-      "0.305 Hz",
-      "20.601 Hz",
-      "0.610 Hz",
+      "3.350 Hz",
+      "0.2985 Hz",
+      "21.049 Hz",
+      "0.5970 Hz",
       "0 Hz"
     ],
     "answer_index": 0,
-    "explanation": "Frequency is the reciprocal of period: f=1/T."
+    "explanation": "Frequency is f=1/T."
   },
   {
     "id": "IMAT-PHY-WAVES-106",
@@ -2108,16 +2108,16 @@
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A wave has frequency 9.24 Hz and wavelength 1.118 m. What is its speed?",
+    "stem": "Wave set 106: frequency is 9.606 Hz and wavelength is 1.0546 m. Find the wave speed.",
     "options": [
-      "10.33 m/s",
-      "8.265 m/s",
-      "0.121 m/s",
-      "20.661 m/s",
+      "10.130 m/s",
+      "9.109 m/s",
+      "0.110 m/s",
+      "20.261 m/s",
       "Cannot be determined"
     ],
     "answer_index": 0,
-    "explanation": "Wave speed is v=fλ."
+    "explanation": "Use v=fλ."
   },
   {
     "id": "IMAT-PHY-WAVES-107",
@@ -2128,16 +2128,16 @@
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "Two waves are described as coherent. Which property must remain constant with time?",
+    "stem": "In interference experiment 107, two sources initially have phase difference 117°. What additional condition makes them coherent?",
     "options": [
-      "Their phase difference",
-      "Their amplitudes",
-      "Their intensities",
+      "The phase difference remains constant with time",
+      "Their amplitudes must be equal",
+      "Their intensities must be equal",
       "Their wavelengths must be visible",
       "Their speeds must be zero"
     ],
     "answer_index": 0,
-    "explanation": "Coherent waves maintain a constant phase difference."
+    "explanation": "Coherent sources maintain a constant phase difference."
   },
   {
     "id": "IMAT-PHY-WAVES-108",
@@ -2148,16 +2148,16 @@
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A periodic wave has period 0.308 s. What is its frequency?",
+    "stem": "Oscillation 108 has period 0.3036 s. What is its frequency?",
     "options": [
-      "3.247 Hz",
-      "0.308 Hz",
-      "20.400 Hz",
-      "0.616 Hz",
+      "3.294 Hz",
+      "0.3036 Hz",
+      "20.696 Hz",
+      "0.6072 Hz",
       "0 Hz"
     ],
     "answer_index": 0,
-    "explanation": "Frequency is the reciprocal of period: f=1/T."
+    "explanation": "Frequency is f=1/T."
   },
   {
     "id": "IMAT-PHY-WAVES-109",
@@ -2168,16 +2168,16 @@
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A wave has frequency 9.36 Hz and wavelength 1.127 m. What is its speed?",
+    "stem": "Wave set 109: frequency is 9.759 Hz and wavelength is 1.0669 m. Find the wave speed.",
     "options": [
-      "10.549 m/s",
-      "8.305 m/s",
-      "0.120 m/s",
-      "21.097 m/s",
+      "10.412 m/s",
+      "9.147 m/s",
+      "0.109 m/s",
+      "20.824 m/s",
       "Cannot be determined"
     ],
     "answer_index": 0,
-    "explanation": "Wave speed is v=fλ."
+    "explanation": "Use v=fλ."
   },
   {
     "id": "IMAT-PHY-WAVES-110",
@@ -2188,16 +2188,16 @@
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "Two waves are described as coherent. Which property must remain constant with time?",
+    "stem": "In interference experiment 110, two sources initially have phase difference 120°. What additional condition makes them coherent?",
     "options": [
-      "Their phase difference",
-      "Their amplitudes",
-      "Their intensities",
+      "The phase difference remains constant with time",
+      "Their amplitudes must be equal",
+      "Their intensities must be equal",
       "Their wavelengths must be visible",
       "Their speeds must be zero"
     ],
     "answer_index": 0,
-    "explanation": "Coherent waves maintain a constant phase difference."
+    "explanation": "Coherent sources maintain a constant phase difference."
   },
   {
     "id": "IMAT-PHY-WAVES-111",
@@ -2208,16 +2208,16 @@
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A periodic wave has period 0.311 s. What is its frequency?",
+    "stem": "Oscillation 111 has period 0.3087 s. What is its frequency?",
     "options": [
-      "3.215 Hz",
-      "0.311 Hz",
-      "20.203 Hz",
-      "0.622 Hz",
+      "3.239 Hz",
+      "0.3087 Hz",
+      "20.354 Hz",
+      "0.6174 Hz",
       "0 Hz"
     ],
     "answer_index": 0,
-    "explanation": "Frequency is the reciprocal of period: f=1/T."
+    "explanation": "Frequency is f=1/T."
   },
   {
     "id": "IMAT-PHY-WAVES-112",
@@ -2228,16 +2228,16 @@
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A wave has frequency 9.48 Hz and wavelength 1.136 m. What is its speed?",
+    "stem": "Wave set 112: frequency is 9.912 Hz and wavelength is 1.0792 m. Find the wave speed.",
     "options": [
-      "10.769 m/s",
-      "8.345 m/s",
-      "0.120 m/s",
-      "21.539 m/s",
+      "10.697 m/s",
+      "9.185 m/s",
+      "0.109 m/s",
+      "21.394 m/s",
       "Cannot be determined"
     ],
     "answer_index": 0,
-    "explanation": "Wave speed is v=fλ."
+    "explanation": "Use v=fλ."
   },
   {
     "id": "IMAT-PHY-WAVES-113",
@@ -2248,16 +2248,16 @@
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "Two waves are described as coherent. Which property must remain constant with time?",
+    "stem": "In interference experiment 113, two sources initially have phase difference 123°. What additional condition makes them coherent?",
     "options": [
-      "Their phase difference",
-      "Their amplitudes",
-      "Their intensities",
+      "The phase difference remains constant with time",
+      "Their amplitudes must be equal",
+      "Their intensities must be equal",
       "Their wavelengths must be visible",
       "Their speeds must be zero"
     ],
     "answer_index": 0,
-    "explanation": "Coherent waves maintain a constant phase difference."
+    "explanation": "Coherent sources maintain a constant phase difference."
   },
   {
     "id": "IMAT-PHY-WAVES-114",
@@ -2268,16 +2268,16 @@
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A periodic wave has period 0.314 s. What is its frequency?",
+    "stem": "Oscillation 114 has period 0.3138 s. What is its frequency?",
     "options": [
-      "3.185 Hz",
-      "0.314 Hz",
-      "20.010 Hz",
-      "0.628 Hz",
+      "3.187 Hz",
+      "0.3138 Hz",
+      "20.023 Hz",
+      "0.6276 Hz",
       "0 Hz"
     ],
     "answer_index": 0,
-    "explanation": "Frequency is the reciprocal of period: f=1/T."
+    "explanation": "Frequency is f=1/T."
   },
   {
     "id": "IMAT-PHY-WAVES-115",
@@ -2288,16 +2288,16 @@
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A wave has frequency 9.60 Hz and wavelength 1.145 m. What is its speed?",
+    "stem": "Wave set 115: frequency is 10.065 Hz and wavelength is 1.0915 m. Find the wave speed.",
     "options": [
-      "10.992 m/s",
-      "8.384 m/s",
-      "0.119 m/s",
-      "21.984 m/s",
+      "10.986 m/s",
+      "9.221 m/s",
+      "0.108 m/s",
+      "21.972 m/s",
       "Cannot be determined"
     ],
     "answer_index": 0,
-    "explanation": "Wave speed is v=fλ."
+    "explanation": "Use v=fλ."
   },
   {
     "id": "IMAT-PHY-WAVES-116",
@@ -2308,16 +2308,16 @@
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "Two waves are described as coherent. Which property must remain constant with time?",
+    "stem": "In interference experiment 116, two sources initially have phase difference 126°. What additional condition makes them coherent?",
     "options": [
-      "Their phase difference",
-      "Their amplitudes",
-      "Their intensities",
+      "The phase difference remains constant with time",
+      "Their amplitudes must be equal",
+      "Their intensities must be equal",
       "Their wavelengths must be visible",
       "Their speeds must be zero"
     ],
     "answer_index": 0,
-    "explanation": "Coherent waves maintain a constant phase difference."
+    "explanation": "Coherent sources maintain a constant phase difference."
   },
   {
     "id": "IMAT-PHY-WAVES-117",
@@ -2328,16 +2328,16 @@
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A periodic wave has period 0.317 s. What is its frequency?",
+    "stem": "Oscillation 117 has period 0.3189 s. What is its frequency?",
     "options": [
-      "3.155 Hz",
-      "0.317 Hz",
-      "19.821 Hz",
-      "0.634 Hz",
+      "3.136 Hz",
+      "0.3189 Hz",
+      "19.703 Hz",
+      "0.6378 Hz",
       "0 Hz"
     ],
     "answer_index": 0,
-    "explanation": "Frequency is the reciprocal of period: f=1/T."
+    "explanation": "Frequency is f=1/T."
   },
   {
     "id": "IMAT-PHY-WAVES-118",
@@ -2348,16 +2348,16 @@
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A wave has frequency 9.72 Hz and wavelength 1.154 m. What is its speed?",
+    "stem": "Wave set 118: frequency is 10.218 Hz and wavelength is 1.1038 m. Find the wave speed.",
     "options": [
-      "11.217 m/s",
-      "8.423 m/s",
-      "0.119 m/s",
-      "22.434 m/s",
+      "11.279 m/s",
+      "9.257 m/s",
+      "0.108 m/s",
+      "22.557 m/s",
       "Cannot be determined"
     ],
     "answer_index": 0,
-    "explanation": "Wave speed is v=fλ."
+    "explanation": "Use v=fλ."
   },
   {
     "id": "IMAT-PHY-WAVES-119",
@@ -2368,16 +2368,16 @@
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "Two waves are described as coherent. Which property must remain constant with time?",
+    "stem": "In interference experiment 119, two sources initially have phase difference 129°. What additional condition makes them coherent?",
     "options": [
-      "Their phase difference",
-      "Their amplitudes",
-      "Their intensities",
+      "The phase difference remains constant with time",
+      "Their amplitudes must be equal",
+      "Their intensities must be equal",
       "Their wavelengths must be visible",
       "Their speeds must be zero"
     ],
     "answer_index": 0,
-    "explanation": "Coherent waves maintain a constant phase difference."
+    "explanation": "Coherent sources maintain a constant phase difference."
   },
   {
     "id": "IMAT-PHY-WAVES-120",
@@ -2388,16 +2388,16 @@
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A periodic wave has period 0.320 s. What is its frequency?",
+    "stem": "Oscillation 120 has period 0.3240 s. What is its frequency?",
     "options": [
-      "3.125 Hz",
-      "0.320 Hz",
-      "19.635 Hz",
-      "0.640 Hz",
+      "3.086 Hz",
+      "0.3240 Hz",
+      "19.393 Hz",
+      "0.6480 Hz",
       "0 Hz"
     ],
     "answer_index": 0,
-    "explanation": "Frequency is the reciprocal of period: f=1/T."
+    "explanation": "Frequency is f=1/T."
   },
   {
     "id": "IMAT-PHY-WAVES-121",
@@ -2408,16 +2408,16 @@
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A wave has frequency 9.84 Hz and wavelength 1.163 m. What is its speed?",
+    "stem": "Wave set 121: frequency is 10.371 Hz and wavelength is 1.1161 m. Find the wave speed.",
     "options": [
-      "11.444 m/s",
-      "8.461 m/s",
-      "0.118 m/s",
-      "22.888 m/s",
+      "11.575 m/s",
+      "9.292 m/s",
+      "0.108 m/s",
+      "23.150 m/s",
       "Cannot be determined"
     ],
     "answer_index": 0,
-    "explanation": "Wave speed is v=fλ."
+    "explanation": "Use v=fλ."
   },
   {
     "id": "IMAT-PHY-WAVES-122",
@@ -2428,16 +2428,16 @@
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "Two waves are described as coherent. Which property must remain constant with time?",
+    "stem": "In interference experiment 122, two sources initially have phase difference 132°. What additional condition makes them coherent?",
     "options": [
-      "Their phase difference",
-      "Their amplitudes",
-      "Their intensities",
+      "The phase difference remains constant with time",
+      "Their amplitudes must be equal",
+      "Their intensities must be equal",
       "Their wavelengths must be visible",
       "Their speeds must be zero"
     ],
     "answer_index": 0,
-    "explanation": "Coherent waves maintain a constant phase difference."
+    "explanation": "Coherent sources maintain a constant phase difference."
   },
   {
     "id": "IMAT-PHY-WAVES-123",
@@ -2448,16 +2448,16 @@
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A periodic wave has period 0.323 s. What is its frequency?",
+    "stem": "Oscillation 123 has period 0.3291 s. What is its frequency?",
     "options": [
-      "3.096 Hz",
-      "0.323 Hz",
-      "19.453 Hz",
-      "0.646 Hz",
+      "3.039 Hz",
+      "0.3291 Hz",
+      "19.092 Hz",
+      "0.6582 Hz",
       "0 Hz"
     ],
     "answer_index": 0,
-    "explanation": "Frequency is the reciprocal of period: f=1/T."
+    "explanation": "Frequency is f=1/T."
   },
   {
     "id": "IMAT-PHY-WAVES-124",
@@ -2468,16 +2468,16 @@
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A wave has frequency 9.96 Hz and wavelength 1.172 m. What is its speed?",
+    "stem": "Wave set 124: frequency is 10.524 Hz and wavelength is 1.1284 m. Find the wave speed.",
     "options": [
-      "11.673 m/s",
-      "8.498 m/s",
-      "0.118 m/s",
-      "23.346 m/s",
+      "11.875 m/s",
+      "9.326 m/s",
+      "0.107 m/s",
+      "23.751 m/s",
       "Cannot be determined"
     ],
     "answer_index": 0,
-    "explanation": "Wave speed is v=fλ."
+    "explanation": "Use v=fλ."
   },
   {
     "id": "IMAT-PHY-WAVES-125",
@@ -2488,16 +2488,16 @@
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "Two waves are described as coherent. Which property must remain constant with time?",
+    "stem": "In interference experiment 125, two sources initially have phase difference 135°. What additional condition makes them coherent?",
     "options": [
-      "Their phase difference",
-      "Their amplitudes",
-      "Their intensities",
+      "The phase difference remains constant with time",
+      "Their amplitudes must be equal",
+      "Their intensities must be equal",
       "Their wavelengths must be visible",
       "Their speeds must be zero"
     ],
     "answer_index": 0,
-    "explanation": "Coherent waves maintain a constant phase difference."
+    "explanation": "Coherent sources maintain a constant phase difference."
   },
   {
     "id": "IMAT-PHY-WAVES-126",
@@ -2508,16 +2508,16 @@
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A periodic wave has period 0.326 s. What is its frequency?",
+    "stem": "Oscillation 126 has period 0.3342 s. What is its frequency?",
     "options": [
-      "3.067 Hz",
-      "0.326 Hz",
-      "19.274 Hz",
-      "0.652 Hz",
+      "2.992 Hz",
+      "0.3342 Hz",
+      "18.801 Hz",
+      "0.6684 Hz",
       "0 Hz"
     ],
     "answer_index": 0,
-    "explanation": "Frequency is the reciprocal of period: f=1/T."
+    "explanation": "Frequency is f=1/T."
   },
   {
     "id": "IMAT-PHY-WAVES-127",
@@ -2528,16 +2528,16 @@
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A wave has frequency 10.08 Hz and wavelength 1.181 m. What is its speed?",
+    "stem": "Wave set 127: frequency is 10.677 Hz and wavelength is 1.1407 m. Find the wave speed.",
     "options": [
-      "11.904 m/s",
-      "8.535 m/s",
-      "0.117 m/s",
-      "23.809 m/s",
+      "12.179 m/s",
+      "9.360 m/s",
+      "0.107 m/s",
+      "24.359 m/s",
       "Cannot be determined"
     ],
     "answer_index": 0,
-    "explanation": "Wave speed is v=fλ."
+    "explanation": "Use v=fλ."
   },
   {
     "id": "IMAT-PHY-WAVES-128",
@@ -2548,16 +2548,16 @@
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "Two waves are described as coherent. Which property must remain constant with time?",
+    "stem": "In interference experiment 128, two sources initially have phase difference 138°. What additional condition makes them coherent?",
     "options": [
-      "Their phase difference",
-      "Their amplitudes",
-      "Their intensities",
+      "The phase difference remains constant with time",
+      "Their amplitudes must be equal",
+      "Their intensities must be equal",
       "Their wavelengths must be visible",
       "Their speeds must be zero"
     ],
     "answer_index": 0,
-    "explanation": "Coherent waves maintain a constant phase difference."
+    "explanation": "Coherent sources maintain a constant phase difference."
   },
   {
     "id": "IMAT-PHY-WAVES-129",
@@ -2568,16 +2568,16 @@
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A periodic wave has period 0.329 s. What is its frequency?",
+    "stem": "Oscillation 129 has period 0.3393 s. What is its frequency?",
     "options": [
-      "3.04 Hz",
-      "0.329 Hz",
-      "19.098 Hz",
-      "0.658 Hz",
+      "2.947 Hz",
+      "0.3393 Hz",
+      "18.518 Hz",
+      "0.6786 Hz",
       "0 Hz"
     ],
     "answer_index": 0,
-    "explanation": "Frequency is the reciprocal of period: f=1/T."
+    "explanation": "Frequency is f=1/T."
   },
   {
     "id": "IMAT-PHY-WAVES-130",
@@ -2588,16 +2588,16 @@
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A wave has frequency 10.20 Hz and wavelength 1.190 m. What is its speed?",
+    "stem": "Wave set 130: frequency is 10.830 Hz and wavelength is 1.1530 m. Find the wave speed.",
     "options": [
-      "12.138 m/s",
-      "8.571 m/s",
-      "0.117 m/s",
-      "24.276 m/s",
+      "12.487 m/s",
+      "9.393 m/s",
+      "0.106 m/s",
+      "24.974 m/s",
       "Cannot be determined"
     ],
     "answer_index": 0,
-    "explanation": "Wave speed is v=fλ."
+    "explanation": "Use v=fλ."
   },
   {
     "id": "IMAT-PHY-WAVES-131",
@@ -2608,16 +2608,16 @@
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "Two waves are described as coherent. Which property must remain constant with time?",
+    "stem": "In interference experiment 131, two sources initially have phase difference 141°. What additional condition makes them coherent?",
     "options": [
-      "Their phase difference",
-      "Their amplitudes",
-      "Their intensities",
+      "The phase difference remains constant with time",
+      "Their amplitudes must be equal",
+      "Their intensities must be equal",
       "Their wavelengths must be visible",
       "Their speeds must be zero"
     ],
     "answer_index": 0,
-    "explanation": "Coherent waves maintain a constant phase difference."
+    "explanation": "Coherent sources maintain a constant phase difference."
   },
   {
     "id": "IMAT-PHY-WAVES-132",
@@ -2628,16 +2628,16 @@
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A periodic wave has period 0.332 s. What is its frequency?",
+    "stem": "Oscillation 132 has period 0.3444 s. What is its frequency?",
     "options": [
-      "3.012 Hz",
-      "0.332 Hz",
-      "18.925 Hz",
-      "0.664 Hz",
+      "2.904 Hz",
+      "0.3444 Hz",
+      "18.244 Hz",
+      "0.6888 Hz",
       "0 Hz"
     ],
     "answer_index": 0,
-    "explanation": "Frequency is the reciprocal of period: f=1/T."
+    "explanation": "Frequency is f=1/T."
   },
   {
     "id": "IMAT-PHY-WAVES-133",
@@ -2648,16 +2648,16 @@
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A wave has frequency 10.32 Hz and wavelength 1.199 m. What is its speed?",
+    "stem": "Wave set 133: frequency is 10.983 Hz and wavelength is 1.1653 m. Find the wave speed.",
     "options": [
-      "12.374 m/s",
-      "8.607 m/s",
-      "0.116 m/s",
-      "24.747 m/s",
+      "12.798 m/s",
+      "9.425 m/s",
+      "0.106 m/s",
+      "25.597 m/s",
       "Cannot be determined"
     ],
     "answer_index": 0,
-    "explanation": "Wave speed is v=fλ."
+    "explanation": "Use v=fλ."
   },
   {
     "id": "IMAT-PHY-WAVES-134",
@@ -2668,16 +2668,16 @@
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "Two waves are described as coherent. Which property must remain constant with time?",
+    "stem": "In interference experiment 134, two sources initially have phase difference 144°. What additional condition makes them coherent?",
     "options": [
-      "Their phase difference",
-      "Their amplitudes",
-      "Their intensities",
+      "The phase difference remains constant with time",
+      "Their amplitudes must be equal",
+      "Their intensities must be equal",
       "Their wavelengths must be visible",
       "Their speeds must be zero"
     ],
     "answer_index": 0,
-    "explanation": "Coherent waves maintain a constant phase difference."
+    "explanation": "Coherent sources maintain a constant phase difference."
   },
   {
     "id": "IMAT-PHY-WAVES-135",
@@ -2688,16 +2688,16 @@
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A periodic wave has period 0.335 s. What is its frequency?",
+    "stem": "Oscillation 135 has period 0.3495 s. What is its frequency?",
     "options": [
-      "2.985 Hz",
-      "0.335 Hz",
-      "18.756 Hz",
-      "0.670 Hz",
+      "2.861 Hz",
+      "0.3495 Hz",
+      "17.978 Hz",
+      "0.6990 Hz",
       "0 Hz"
     ],
     "answer_index": 0,
-    "explanation": "Frequency is the reciprocal of period: f=1/T."
+    "explanation": "Frequency is f=1/T."
   },
   {
     "id": "IMAT-PHY-WAVES-136",
@@ -2708,16 +2708,16 @@
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A wave has frequency 10.44 Hz and wavelength 1.208 m. What is its speed?",
+    "stem": "Wave set 136: frequency is 11.136 Hz and wavelength is 1.1776 m. Find the wave speed.",
     "options": [
-      "12.612 m/s",
-      "8.642 m/s",
-      "0.116 m/s",
-      "25.223 m/s",
+      "13.114 m/s",
+      "9.457 m/s",
+      "0.106 m/s",
+      "26.228 m/s",
       "Cannot be determined"
     ],
     "answer_index": 0,
-    "explanation": "Wave speed is v=fλ."
+    "explanation": "Use v=fλ."
   },
   {
     "id": "IMAT-PHY-WAVES-137",
@@ -2728,16 +2728,16 @@
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "Two waves are described as coherent. Which property must remain constant with time?",
+    "stem": "In interference experiment 137, two sources initially have phase difference 147°. What additional condition makes them coherent?",
     "options": [
-      "Their phase difference",
-      "Their amplitudes",
-      "Their intensities",
+      "The phase difference remains constant with time",
+      "Their amplitudes must be equal",
+      "Their intensities must be equal",
       "Their wavelengths must be visible",
       "Their speeds must be zero"
     ],
     "answer_index": 0,
-    "explanation": "Coherent waves maintain a constant phase difference."
+    "explanation": "Coherent sources maintain a constant phase difference."
   },
   {
     "id": "IMAT-PHY-WAVES-138",
@@ -2748,16 +2748,16 @@
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A periodic wave has period 0.338 s. What is its frequency?",
+    "stem": "Oscillation 138 has period 0.3546 s. What is its frequency?",
     "options": [
-      "2.959 Hz",
-      "0.338 Hz",
-      "18.589 Hz",
-      "0.676 Hz",
+      "2.820 Hz",
+      "0.3546 Hz",
+      "17.719 Hz",
+      "0.7092 Hz",
       "0 Hz"
     ],
     "answer_index": 0,
-    "explanation": "Frequency is the reciprocal of period: f=1/T."
+    "explanation": "Frequency is f=1/T."
   },
   {
     "id": "IMAT-PHY-WAVES-139",
@@ -2768,16 +2768,16 @@
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A wave has frequency 10.56 Hz and wavelength 1.217 m. What is its speed?",
+    "stem": "Wave set 139: frequency is 11.289 Hz and wavelength is 1.1899 m. Find the wave speed.",
     "options": [
-      "12.852 m/s",
-      "8.677 m/s",
-      "0.115 m/s",
-      "25.703 m/s",
+      "13.433 m/s",
+      "9.487 m/s",
+      "0.105 m/s",
+      "26.866 m/s",
       "Cannot be determined"
     ],
     "answer_index": 0,
-    "explanation": "Wave speed is v=fλ."
+    "explanation": "Use v=fλ."
   },
   {
     "id": "IMAT-PHY-WAVES-140",
@@ -2788,16 +2788,16 @@
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "Two waves are described as coherent. Which property must remain constant with time?",
+    "stem": "In interference experiment 140, two sources initially have phase difference 150°. What additional condition makes them coherent?",
     "options": [
-      "Their phase difference",
-      "Their amplitudes",
-      "Their intensities",
+      "The phase difference remains constant with time",
+      "Their amplitudes must be equal",
+      "Their intensities must be equal",
       "Their wavelengths must be visible",
       "Their speeds must be zero"
     ],
     "answer_index": 0,
-    "explanation": "Coherent waves maintain a constant phase difference."
+    "explanation": "Coherent sources maintain a constant phase difference."
   },
   {
     "id": "IMAT-PHY-WAVES-141",
@@ -2808,16 +2808,16 @@
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A periodic wave has period 0.341 s. What is its frequency?",
+    "stem": "Oscillation 141 has period 0.3597 s. What is its frequency?",
     "options": [
-      "2.933 Hz",
-      "0.341 Hz",
-      "18.426 Hz",
-      "0.682 Hz",
+      "2.780 Hz",
+      "0.3597 Hz",
+      "17.468 Hz",
+      "0.7194 Hz",
       "0 Hz"
     ],
     "answer_index": 0,
-    "explanation": "Frequency is the reciprocal of period: f=1/T."
+    "explanation": "Frequency is f=1/T."
   },
   {
     "id": "IMAT-PHY-WAVES-142",
@@ -2828,16 +2828,16 @@
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A wave has frequency 10.68 Hz and wavelength 1.226 m. What is its speed?",
+    "stem": "Wave set 142: frequency is 11.442 Hz and wavelength is 1.2022 m. Find the wave speed.",
     "options": [
-      "13.094 m/s",
-      "8.711 m/s",
-      "0.115 m/s",
-      "26.187 m/s",
+      "13.756 m/s",
+      "9.518 m/s",
+      "0.105 m/s",
+      "27.511 m/s",
       "Cannot be determined"
     ],
     "answer_index": 0,
-    "explanation": "Wave speed is v=fλ."
+    "explanation": "Use v=fλ."
   },
   {
     "id": "IMAT-PHY-WAVES-143",
@@ -2848,16 +2848,16 @@
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "Two waves are described as coherent. Which property must remain constant with time?",
+    "stem": "In interference experiment 143, two sources initially have phase difference 153°. What additional condition makes them coherent?",
     "options": [
-      "Their phase difference",
-      "Their amplitudes",
-      "Their intensities",
+      "The phase difference remains constant with time",
+      "Their amplitudes must be equal",
+      "Their intensities must be equal",
       "Their wavelengths must be visible",
       "Their speeds must be zero"
     ],
     "answer_index": 0,
-    "explanation": "Coherent waves maintain a constant phase difference."
+    "explanation": "Coherent sources maintain a constant phase difference."
   },
   {
     "id": "IMAT-PHY-WAVES-144",
@@ -2868,16 +2868,16 @@
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A periodic wave has period 0.344 s. What is its frequency?",
+    "stem": "Oscillation 144 has period 0.3648 s. What is its frequency?",
     "options": [
-      "2.907 Hz",
-      "0.344 Hz",
-      "18.265 Hz",
-      "0.688 Hz",
+      "2.741 Hz",
+      "0.3648 Hz",
+      "17.224 Hz",
+      "0.7296 Hz",
       "0 Hz"
     ],
     "answer_index": 0,
-    "explanation": "Frequency is the reciprocal of period: f=1/T."
+    "explanation": "Frequency is f=1/T."
   },
   {
     "id": "IMAT-PHY-WAVES-145",
@@ -2888,16 +2888,16 @@
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A wave has frequency 10.80 Hz and wavelength 1.235 m. What is its speed?",
+    "stem": "Wave set 145: frequency is 11.595 Hz and wavelength is 1.2145 m. Find the wave speed.",
     "options": [
-      "13.338 m/s",
-      "8.745 m/s",
-      "0.114 m/s",
-      "26.676 m/s",
+      "14.082 m/s",
+      "9.547 m/s",
+      "0.105 m/s",
+      "28.164 m/s",
       "Cannot be determined"
     ],
     "answer_index": 0,
-    "explanation": "Wave speed is v=fλ."
+    "explanation": "Use v=fλ."
   },
   {
     "id": "IMAT-PHY-WAVES-146",
@@ -2908,16 +2908,16 @@
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "Two waves are described as coherent. Which property must remain constant with time?",
+    "stem": "In interference experiment 146, two sources initially have phase difference 156°. What additional condition makes them coherent?",
     "options": [
-      "Their phase difference",
-      "Their amplitudes",
-      "Their intensities",
+      "The phase difference remains constant with time",
+      "Their amplitudes must be equal",
+      "Their intensities must be equal",
       "Their wavelengths must be visible",
       "Their speeds must be zero"
     ],
     "answer_index": 0,
-    "explanation": "Coherent waves maintain a constant phase difference."
+    "explanation": "Coherent sources maintain a constant phase difference."
   },
   {
     "id": "IMAT-PHY-WAVES-147",
@@ -2928,16 +2928,16 @@
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A periodic wave has period 0.347 s. What is its frequency?",
+    "stem": "Oscillation 147 has period 0.3699 s. What is its frequency?",
     "options": [
-      "2.882 Hz",
-      "0.347 Hz",
-      "18.107 Hz",
-      "0.694 Hz",
+      "2.703 Hz",
+      "0.3699 Hz",
+      "16.986 Hz",
+      "0.7398 Hz",
       "0 Hz"
     ],
     "answer_index": 0,
-    "explanation": "Frequency is the reciprocal of period: f=1/T."
+    "explanation": "Frequency is f=1/T."
   },
   {
     "id": "IMAT-PHY-WAVES-148",
@@ -2948,16 +2948,16 @@
     "difficulty": "Foundation",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A wave has frequency 10.92 Hz and wavelength 1.244 m. What is its speed?",
+    "stem": "Wave set 148: frequency is 11.748 Hz and wavelength is 1.2268 m. Find the wave speed.",
     "options": [
-      "13.584 m/s",
-      "8.778 m/s",
-      "0.114 m/s",
-      "27.169 m/s",
+      "14.412 m/s",
+      "9.576 m/s",
+      "0.104 m/s",
+      "28.825 m/s",
       "Cannot be determined"
     ],
     "answer_index": 0,
-    "explanation": "Wave speed is v=fλ."
+    "explanation": "Use v=fλ."
   },
   {
     "id": "IMAT-PHY-WAVES-149",
@@ -2968,16 +2968,16 @@
     "difficulty": "Standard",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "Two waves are described as coherent. Which property must remain constant with time?",
+    "stem": "In interference experiment 149, two sources initially have phase difference 159°. What additional condition makes them coherent?",
     "options": [
-      "Their phase difference",
-      "Their amplitudes",
-      "Their intensities",
+      "The phase difference remains constant with time",
+      "Their amplitudes must be equal",
+      "Their intensities must be equal",
       "Their wavelengths must be visible",
       "Their speeds must be zero"
     ],
     "answer_index": 0,
-    "explanation": "Coherent waves maintain a constant phase difference."
+    "explanation": "Coherent sources maintain a constant phase difference."
   },
   {
     "id": "IMAT-PHY-WAVES-150",
@@ -2988,15 +2988,15 @@
     "difficulty": "Challenge",
     "source_type": "Original IMAT-style",
     "format": "single-best-answer-5",
-    "stem": "A periodic wave has period 0.350 s. What is its frequency?",
+    "stem": "Oscillation 150 has period 0.3750 s. What is its frequency?",
     "options": [
-      "2.857 Hz",
-      "0.350 Hz",
-      "17.952 Hz",
-      "0.700 Hz",
+      "2.667 Hz",
+      "0.3750 Hz",
+      "16.755 Hz",
+      "0.7500 Hz",
       "0 Hz"
     ],
     "answer_index": 0,
-    "explanation": "Frequency is the reciprocal of period: f=1/T."
+    "explanation": "Frequency is f=1/T."
   }
 ]
