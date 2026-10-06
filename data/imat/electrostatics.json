@@ -12,10 +12,12 @@
       "0.0284 N",
       "0.0142 N",
       "0.0568 N",
-      "0.0355 N"
+      "0.0355 N",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "F=k|q1q2|/r²."
+    "explanation": "F=k|q1q2|/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-002",
@@ -30,10 +32,12 @@
       "12335.39 N/C",
       "49341.57 N/C",
       "30838.48 N/C",
-      "24670.79 N/C"
+      "24670.79 N/C",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "E=kq/r²."
+    "explanation": "E=kq/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-003",
@@ -48,10 +52,12 @@
       "38535.21 V",
       "24084.51 V",
       "19267.61 V",
-      "9633.8 V"
+      "9633.8 V",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "V=kq/r."
+    "explanation": "V=kq/r.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-004",
@@ -66,10 +72,12 @@
       "0.0358 N",
       "0.0287 N",
       "0.0143 N",
-      "0.0574 N"
+      "0.0574 N",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "F=k|q1q2|/r²."
+    "explanation": "F=k|q1q2|/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-005",
@@ -84,10 +92,12 @@
       "24349.64 N/C",
       "12174.82 N/C",
       "48699.27 N/C",
-      "30437.04 N/C"
+      "30437.04 N/C",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "E=kq/r²."
+    "explanation": "E=kq/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-006",
@@ -102,10 +112,12 @@
       "9625 V",
       "38500 V",
       "24062.5 V",
-      "19250 V"
+      "19250 V",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "V=kq/r."
+    "explanation": "V=kq/r.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-007",
@@ -120,10 +132,12 @@
       "0.0579 N",
       "0.0362 N",
       "0.0289 N",
-      "0.0145 N"
+      "0.0145 N",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "F=k|q1q2|/r²."
+    "explanation": "F=k|q1q2|/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-008",
@@ -138,10 +152,12 @@
       "30045.35 N/C",
       "24036.28 N/C",
       "12018.14 N/C",
-      "48072.56 N/C"
+      "48072.56 N/C",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "E=kq/r²."
+    "explanation": "E=kq/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-009",
@@ -156,10 +172,12 @@
       "19232.88 V",
       "9616.44 V",
       "38465.75 V",
-      "24041.1 V"
+      "24041.1 V",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "V=kq/r."
+    "explanation": "V=kq/r.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-010",
@@ -174,10 +192,12 @@
       "0.0146 N",
       "0.0584 N",
       "0.0365 N",
-      "0.0292 N"
+      "0.0292 N",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "F=k|q1q2|/r²."
+    "explanation": "F=k|q1q2|/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-011",
@@ -192,10 +212,12 @@
       "47460.94 N/C",
       "29663.09 N/C",
       "23730.47 N/C",
-      "11865.23 N/C"
+      "11865.23 N/C",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "E=kq/r²."
+    "explanation": "E=kq/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-012",
@@ -210,10 +232,12 @@
       "24020.27 V",
       "19216.22 V",
       "9608.11 V",
-      "38432.43 V"
+      "38432.43 V",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "V=kq/r."
+    "explanation": "V=kq/r.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-013",
@@ -228,10 +252,12 @@
       "0.0295 N",
       "0.0147 N",
       "0.0589 N",
-      "0.0368 N"
+      "0.0368 N",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "F=k|q1q2|/r²."
+    "explanation": "F=k|q1q2|/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-014",
@@ -246,10 +272,12 @@
       "11715.98 N/C",
       "46863.91 N/C",
       "29289.94 N/C",
-      "23431.95 N/C"
+      "23431.95 N/C",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "E=kq/r²."
+    "explanation": "E=kq/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-015",
@@ -264,10 +292,12 @@
       "38400 V",
       "24000 V",
       "19200 V",
-      "9600 V"
+      "9600 V",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "V=kq/r."
+    "explanation": "V=kq/r.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-016",
@@ -282,10 +312,12 @@
       "0.0371 N",
       "0.0297 N",
       "0.0149 N",
-      "0.0594 N"
+      "0.0594 N",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "F=k|q1q2|/r²."
+    "explanation": "F=k|q1q2|/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-017",
@@ -300,10 +332,12 @@
       "23140.5 N/C",
       "11570.25 N/C",
       "46280.99 N/C",
-      "28925.62 N/C"
+      "28925.62 N/C",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "E=kq/r²."
+    "explanation": "E=kq/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-018",
@@ -318,10 +352,12 @@
       "9592.11 V",
       "38368.42 V",
       "23980.26 V",
-      "19184.21 V"
+      "19184.21 V",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "V=kq/r."
+    "explanation": "V=kq/r.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-019",
@@ -336,10 +372,12 @@
       "0.0599 N",
       "0.0374 N",
       "0.03 N",
-      "0.015 N"
+      "0.015 N",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "F=k|q1q2|/r²."
+    "explanation": "F=k|q1q2|/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-020",
@@ -354,10 +392,12 @@
       "28569.84 N/C",
       "22855.87 N/C",
       "11427.93 N/C",
-      "45711.74 N/C"
+      "45711.74 N/C",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "E=kq/r²."
+    "explanation": "E=kq/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-021",
@@ -372,10 +412,12 @@
       "19168.83 V",
       "9584.42 V",
       "38337.66 V",
-      "23961.04 V"
+      "23961.04 V",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "V=kq/r."
+    "explanation": "V=kq/r.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-022",
@@ -390,10 +432,12 @@
       "0.0151 N",
       "0.0604 N",
       "0.0377 N",
-      "0.0302 N"
+      "0.0302 N",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "F=k|q1q2|/r²."
+    "explanation": "F=k|q1q2|/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-023",
@@ -408,10 +452,12 @@
       "45155.71 N/C",
       "28222.32 N/C",
       "22577.85 N/C",
-      "11288.93 N/C"
+      "11288.93 N/C",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "E=kq/r²."
+    "explanation": "E=kq/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-024",
@@ -426,10 +472,12 @@
       "23942.31 V",
       "19153.85 V",
       "9576.92 V",
-      "38307.69 V"
+      "38307.69 V",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "V=kq/r."
+    "explanation": "V=kq/r.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-025",
@@ -444,10 +492,12 @@
       "0.0304 N",
       "0.0152 N",
       "0.0609 N",
-      "0.038 N"
+      "0.038 N",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "F=k|q1q2|/r²."
+    "explanation": "F=k|q1q2|/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-026",
@@ -462,10 +512,12 @@
       "11153.12 N/C",
       "44612.48 N/C",
       "27882.8 N/C",
-      "22306.24 N/C"
+      "22306.24 N/C",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "E=kq/r²."
+    "explanation": "E=kq/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-027",
@@ -480,10 +532,12 @@
       "38278.48 V",
       "23924.05 V",
       "19139.24 V",
-      "9569.62 V"
+      "9569.62 V",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "V=kq/r."
+    "explanation": "V=kq/r.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-028",
@@ -498,10 +552,12 @@
       "0.0383 N",
       "0.0307 N",
       "0.0153 N",
-      "0.0613 N"
+      "0.0613 N",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "F=k|q1q2|/r²."
+    "explanation": "F=k|q1q2|/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-029",
@@ -516,10 +572,12 @@
       "22040.82 N/C",
       "11020.41 N/C",
       "44081.63 N/C",
-      "27551.02 N/C"
+      "27551.02 N/C",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "E=kq/r²."
+    "explanation": "E=kq/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-030",
@@ -534,10 +592,12 @@
       "9562.5 V",
       "38250 V",
       "23906.25 V",
-      "19125 V"
+      "19125 V",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "V=kq/r."
+    "explanation": "V=kq/r.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-031",
@@ -552,10 +612,12 @@
       "0.0618 N",
       "0.0386 N",
       "0.0309 N",
-      "0.0154 N"
+      "0.0154 N",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "F=k|q1q2|/r²."
+    "explanation": "F=k|q1q2|/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-032",
@@ -570,10 +632,12 @@
       "27226.74 N/C",
       "21781.39 N/C",
       "10890.7 N/C",
-      "43562.79 N/C"
+      "43562.79 N/C",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "E=kq/r²."
+    "explanation": "E=kq/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-033",
@@ -588,10 +652,12 @@
       "19111.11 V",
       "9555.56 V",
       "38222.22 V",
-      "23888.89 V"
+      "23888.89 V",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "V=kq/r."
+    "explanation": "V=kq/r.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-034",
@@ -606,10 +672,12 @@
       "0.0156 N",
       "0.0622 N",
       "0.0389 N",
-      "0.0311 N"
+      "0.0311 N",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "F=k|q1q2|/r²."
+    "explanation": "F=k|q1q2|/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-035",
@@ -624,10 +692,12 @@
       "43055.56 N/C",
       "26909.72 N/C",
       "21527.78 N/C",
-      "10763.89 N/C"
+      "10763.89 N/C",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "E=kq/r²."
+    "explanation": "E=kq/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-036",
@@ -642,10 +712,12 @@
       "23871.95 V",
       "19097.56 V",
       "9548.78 V",
-      "38195.12 V"
+      "38195.12 V",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "V=kq/r."
+    "explanation": "V=kq/r.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-037",
@@ -660,10 +732,12 @@
       "0.0313 N",
       "0.0157 N",
       "0.0627 N",
-      "0.0392 N"
+      "0.0392 N",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "F=k|q1q2|/r²."
+    "explanation": "F=k|q1q2|/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-038",
@@ -678,10 +752,12 @@
       "10639.89 N/C",
       "42559.58 N/C",
       "26599.74 N/C",
-      "21279.79 N/C"
+      "21279.79 N/C",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "E=kq/r²."
+    "explanation": "E=kq/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-039",
@@ -696,10 +772,12 @@
       "38168.67 V",
       "23855.42 V",
       "19084.34 V",
-      "9542.17 V"
+      "9542.17 V",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "V=kq/r."
+    "explanation": "V=kq/r.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-040",
@@ -714,10 +792,12 @@
       "0.0394 N",
       "0.0316 N",
       "0.0158 N",
-      "0.0631 N"
+      "0.0631 N",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "F=k|q1q2|/r²."
+    "explanation": "F=k|q1q2|/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-041",
@@ -732,10 +812,12 @@
       "21037.25 N/C",
       "10518.63 N/C",
       "42074.51 N/C",
-      "26296.57 N/C"
+      "26296.57 N/C",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "E=kq/r²."
+    "explanation": "E=kq/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-042",
@@ -750,10 +832,12 @@
       "9535.71 V",
       "38142.86 V",
       "23839.29 V",
-      "19071.43 V"
+      "19071.43 V",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "V=kq/r."
+    "explanation": "V=kq/r.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-043",
@@ -768,10 +852,12 @@
       "0.0635 N",
       "0.0397 N",
       "0.0318 N",
-      "0.0159 N"
+      "0.0159 N",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "F=k|q1q2|/r²."
+    "explanation": "F=k|q1q2|/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-044",
@@ -786,10 +872,12 @@
       "26000 N/C",
       "20800 N/C",
       "10400 N/C",
-      "41600 N/C"
+      "41600 N/C",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "E=kq/r²."
+    "explanation": "E=kq/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-045",
@@ -804,10 +892,12 @@
       "19058.82 V",
       "9529.41 V",
       "38117.65 V",
-      "23823.53 V"
+      "23823.53 V",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "V=kq/r."
+    "explanation": "V=kq/r.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-046",
@@ -822,10 +912,12 @@
       "0.016 N",
       "0.0639 N",
       "0.04 N",
-      "0.032 N"
+      "0.032 N",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "F=k|q1q2|/r²."
+    "explanation": "F=k|q1q2|/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-047",
@@ -840,10 +932,12 @@
       "41135.73 N/C",
       "25709.83 N/C",
       "20567.87 N/C",
-      "10283.93 N/C"
+      "10283.93 N/C",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "E=kq/r²."
+    "explanation": "E=kq/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-048",
@@ -858,10 +952,12 @@
       "23808.14 V",
       "19046.51 V",
       "9523.26 V",
-      "38093.02 V"
+      "38093.02 V",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "V=kq/r."
+    "explanation": "V=kq/r.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-049",
@@ -876,10 +972,12 @@
       "0.0322 N",
       "0.0161 N",
       "0.0643 N",
-      "0.0402 N"
+      "0.0402 N",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "F=k|q1q2|/r²."
+    "explanation": "F=k|q1q2|/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-050",
@@ -894,10 +992,12 @@
       "10170.35 N/C",
       "40681.4 N/C",
       "25425.87 N/C",
-      "20340.7 N/C"
+      "20340.7 N/C",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "E=kq/r²."
+    "explanation": "E=kq/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-051",
@@ -912,10 +1012,12 @@
       "38068.97 V",
       "23793.1 V",
       "19034.48 V",
-      "9517.24 V"
+      "9517.24 V",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "V=kq/r."
+    "explanation": "V=kq/r.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-052",
@@ -930,10 +1032,12 @@
       "0.0405 N",
       "0.0324 N",
       "0.0162 N",
-      "0.0647 N"
+      "0.0647 N",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "F=k|q1q2|/r²."
+    "explanation": "F=k|q1q2|/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-053",
@@ -948,10 +1052,12 @@
       "20118.34 N/C",
       "10059.17 N/C",
       "40236.69 N/C",
-      "25147.93 N/C"
+      "25147.93 N/C",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "E=kq/r²."
+    "explanation": "E=kq/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-054",
@@ -966,10 +1072,12 @@
       "9511.36 V",
       "38045.45 V",
       "23778.41 V",
-      "19022.73 V"
+      "19022.73 V",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "V=kq/r."
+    "explanation": "V=kq/r.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-055",
@@ -984,10 +1092,12 @@
       "0.0651 N",
       "0.0407 N",
       "0.0326 N",
-      "0.0163 N"
+      "0.0163 N",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "F=k|q1q2|/r²."
+    "explanation": "F=k|q1q2|/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-056",
@@ -1002,10 +1112,12 @@
       "24875.82 N/C",
       "19900.66 N/C",
       "9950.33 N/C",
-      "39801.31 N/C"
+      "39801.31 N/C",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "E=kq/r²."
+    "explanation": "E=kq/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-057",
@@ -1020,10 +1132,12 @@
       "19011.24 V",
       "9505.62 V",
       "38022.47 V",
-      "23764.04 V"
+      "23764.04 V",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "V=kq/r."
+    "explanation": "V=kq/r.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-058",
@@ -1038,10 +1152,12 @@
       "0.0164 N",
       "0.0655 N",
       "0.041 N",
-      "0.0328 N"
+      "0.0328 N",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "F=k|q1q2|/r²."
+    "explanation": "F=k|q1q2|/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-059",
@@ -1056,10 +1172,12 @@
       "39375 N/C",
       "24609.37 N/C",
       "19687.5 N/C",
-      "9843.75 N/C"
+      "9843.75 N/C",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "E=kq/r²."
+    "explanation": "E=kq/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-060",
@@ -1074,10 +1192,12 @@
       "23750 V",
       "19000 V",
       "9500 V",
-      "38000 V"
+      "38000 V",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "V=kq/r."
+    "explanation": "V=kq/r.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-061",
@@ -1092,10 +1212,12 @@
       "0.0329 N",
       "0.0165 N",
       "0.0659 N",
-      "0.0412 N"
+      "0.0412 N",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "F=k|q1q2|/r²."
+    "explanation": "F=k|q1q2|/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-062",
@@ -1110,10 +1232,12 @@
       "9739.37 N/C",
       "38957.48 N/C",
       "24348.42 N/C",
-      "19478.74 N/C"
+      "19478.74 N/C",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "E=kq/r²."
+    "explanation": "E=kq/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-063",
@@ -1128,10 +1252,12 @@
       "37978.02 V",
       "23736.26 V",
       "18989.01 V",
-      "9494.51 V"
+      "9494.51 V",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "V=kq/r."
+    "explanation": "V=kq/r.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-064",
@@ -1146,10 +1272,12 @@
       "0.0414 N",
       "0.0331 N",
       "0.0166 N",
-      "0.0663 N"
+      "0.0663 N",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "F=k|q1q2|/r²."
+    "explanation": "F=k|q1q2|/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-065",
@@ -1164,10 +1292,12 @@
       "19274.24 N/C",
       "9637.12 N/C",
       "38548.48 N/C",
-      "24092.8 N/C"
+      "24092.8 N/C",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "E=kq/r²."
+    "explanation": "E=kq/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-066",
@@ -1182,10 +1312,12 @@
       "9489.13 V",
       "37956.52 V",
       "23722.83 V",
-      "18978.26 V"
+      "18978.26 V",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "V=kq/r."
+    "explanation": "V=kq/r.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-067",
@@ -1200,10 +1332,12 @@
       "0.0666 N",
       "0.0416 N",
       "0.0333 N",
-      "0.0167 N"
+      "0.0167 N",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "F=k|q1q2|/r²."
+    "explanation": "F=k|q1q2|/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-068",
@@ -1218,10 +1352,12 @@
       "23842.36 N/C",
       "19073.89 N/C",
       "9536.94 N/C",
-      "38147.77 N/C"
+      "38147.77 N/C",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "E=kq/r²."
+    "explanation": "E=kq/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-069",
@@ -1236,10 +1372,12 @@
       "18967.74 V",
       "9483.87 V",
       "37935.48 V",
-      "23709.68 V"
+      "23709.68 V",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "V=kq/r."
+    "explanation": "V=kq/r.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-070",
@@ -1254,10 +1392,12 @@
       "0.0167 N",
       "0.067 N",
       "0.0419 N",
-      "0.0335 N"
+      "0.0335 N",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "F=k|q1q2|/r²."
+    "explanation": "F=k|q1q2|/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-071",
@@ -1272,10 +1412,12 @@
       "37755.1 N/C",
       "23596.94 N/C",
       "18877.55 N/C",
-      "9438.78 N/C"
+      "9438.78 N/C",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "E=kq/r²."
+    "explanation": "E=kq/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-072",
@@ -1290,10 +1432,12 @@
       "23696.81 V",
       "18957.45 V",
       "9478.72 V",
-      "37914.89 V"
+      "37914.89 V",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "V=kq/r."
+    "explanation": "V=kq/r.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-073",
@@ -1308,10 +1452,12 @@
       "0.0337 N",
       "0.0168 N",
       "0.0673 N",
-      "0.0421 N"
+      "0.0421 N",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "F=k|q1q2|/r²."
+    "explanation": "F=k|q1q2|/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-074",
@@ -1326,10 +1472,12 @@
       "9342.56 N/C",
       "37370.24 N/C",
       "23356.4 N/C",
-      "18685.12 N/C"
+      "18685.12 N/C",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "E=kq/r²."
+    "explanation": "E=kq/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-075",
@@ -1344,10 +1492,12 @@
       "37894.74 V",
       "23684.21 V",
       "18947.37 V",
-      "9473.68 V"
+      "9473.68 V",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "V=kq/r."
+    "explanation": "V=kq/r.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-076",
@@ -1362,10 +1512,12 @@
       "0.0423 N",
       "0.0338 N",
       "0.0169 N",
-      "0.0677 N"
+      "0.0677 N",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "F=k|q1q2|/r²."
+    "explanation": "F=k|q1q2|/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-077",
@@ -1380,10 +1532,12 @@
       "18496.48 N/C",
       "9248.24 N/C",
       "36992.97 N/C",
-      "23120.61 N/C"
+      "23120.61 N/C",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "E=kq/r²."
+    "explanation": "E=kq/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-078",
@@ -1398,10 +1552,12 @@
       "9468.75 V",
       "37875 V",
       "23671.87 V",
-      "18937.5 V"
+      "18937.5 V",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "V=kq/r."
+    "explanation": "V=kq/r.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-079",
@@ -1416,10 +1572,12 @@
       "0.068 N",
       "0.0425 N",
       "0.034 N",
-      "0.017 N"
+      "0.017 N",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "F=k|q1q2|/r²."
+    "explanation": "F=k|q1q2|/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-080",
@@ -1434,10 +1592,12 @@
       "22889.42 N/C",
       "18311.53 N/C",
       "9155.77 N/C",
-      "36623.07 N/C"
+      "36623.07 N/C",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "E=kq/r²."
+    "explanation": "E=kq/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-081",
@@ -1452,10 +1612,12 @@
       "18927.84 V",
       "9463.92 V",
       "37855.67 V",
-      "23659.79 V"
+      "23659.79 V",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "V=kq/r."
+    "explanation": "V=kq/r.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-082",
@@ -1470,10 +1632,12 @@
       "0.0171 N",
       "0.0684 N",
       "0.0427 N",
-      "0.0342 N"
+      "0.0342 N",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "F=k|q1q2|/r²."
+    "explanation": "F=k|q1q2|/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-083",
@@ -1488,10 +1652,12 @@
       "36260.33 N/C",
       "22662.71 N/C",
       "18130.17 N/C",
-      "9065.08 N/C"
+      "9065.08 N/C",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "E=kq/r²."
+    "explanation": "E=kq/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-084",
@@ -1506,10 +1672,12 @@
       "23647.96 V",
       "18918.37 V",
       "9459.18 V",
-      "37836.73 V"
+      "37836.73 V",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "V=kq/r."
+    "explanation": "V=kq/r.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-085",
@@ -1524,10 +1692,12 @@
       "0.0344 N",
       "0.0172 N",
       "0.0687 N",
-      "0.0429 N"
+      "0.0429 N",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "F=k|q1q2|/r²."
+    "explanation": "F=k|q1q2|/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-086",
@@ -1542,10 +1712,12 @@
       "8976.14 N/C",
       "35904.56 N/C",
       "22440.35 N/C",
-      "17952.28 N/C"
+      "17952.28 N/C",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "E=kq/r²."
+    "explanation": "E=kq/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-087",
@@ -1560,10 +1732,12 @@
       "37818.18 V",
       "23636.36 V",
       "18909.09 V",
-      "9454.55 V"
+      "9454.55 V",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "V=kq/r."
+    "explanation": "V=kq/r.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-088",
@@ -1578,10 +1752,12 @@
       "0.0431 N",
       "0.0345 N",
       "0.0173 N",
-      "0.069 N"
+      "0.069 N",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "F=k|q1q2|/r²."
+    "explanation": "F=k|q1q2|/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-089",
@@ -1596,10 +1772,12 @@
       "17777.78 N/C",
       "8888.89 N/C",
       "35555.56 N/C",
-      "22222.22 N/C"
+      "22222.22 N/C",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "E=kq/r²."
+    "explanation": "E=kq/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-090",
@@ -1614,10 +1792,12 @@
       "9450 V",
       "37800 V",
       "23625 V",
-      "18900 V"
+      "18900 V",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "V=kq/r."
+    "explanation": "V=kq/r.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-091",
@@ -1632,10 +1812,12 @@
       "0.0693 N",
       "0.0433 N",
       "0.0347 N",
-      "0.0173 N"
+      "0.0173 N",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "F=k|q1q2|/r²."
+    "explanation": "F=k|q1q2|/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-092",
@@ -1650,10 +1832,12 @@
       "22008.21 N/C",
       "17606.57 N/C",
       "8803.28 N/C",
-      "35213.14 N/C"
+      "35213.14 N/C",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "E=kq/r²."
+    "explanation": "E=kq/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-093",
@@ -1668,10 +1852,12 @@
       "18891.09 V",
       "9445.54 V",
       "37782.18 V",
-      "23613.86 V"
+      "23613.86 V",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "V=kq/r."
+    "explanation": "V=kq/r.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-094",
@@ -1686,10 +1872,12 @@
       "0.0174 N",
       "0.0697 N",
       "0.0435 N",
-      "0.0348 N"
+      "0.0348 N",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "F=k|q1q2|/r²."
+    "explanation": "F=k|q1q2|/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-095",
@@ -1704,10 +1892,12 @@
       "34877.13 N/C",
       "21798.2 N/C",
       "17438.56 N/C",
-      "8719.28 N/C"
+      "8719.28 N/C",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "E=kq/r²."
+    "explanation": "E=kq/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-096",
@@ -1722,10 +1912,12 @@
       "23602.94 V",
       "18882.35 V",
       "9441.18 V",
-      "37764.71 V"
+      "37764.71 V",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "V=kq/r."
+    "explanation": "V=kq/r.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-097",
@@ -1740,10 +1932,12 @@
       "0.035 N",
       "0.0175 N",
       "0.07 N",
-      "0.0437 N"
+      "0.0437 N",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "F=k|q1q2|/r²."
+    "explanation": "F=k|q1q2|/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-098",
@@ -1758,10 +1952,12 @@
       "8636.84 N/C",
       "34547.35 N/C",
       "21592.09 N/C",
-      "17273.67 N/C"
+      "17273.67 N/C",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "E=kq/r²."
+    "explanation": "E=kq/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-099",
@@ -1776,10 +1972,12 @@
       "37747.57 V",
       "23592.23 V",
       "18873.79 V",
-      "9436.89 V"
+      "9436.89 V",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "V=kq/r."
+    "explanation": "V=kq/r.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-100",
@@ -1794,10 +1992,12 @@
       "0.0439 N",
       "0.0351 N",
       "0.0176 N",
-      "0.0703 N"
+      "0.0703 N",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "F=k|q1q2|/r²."
+    "explanation": "F=k|q1q2|/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-101",
@@ -1812,10 +2012,12 @@
       "17111.82 N/C",
       "8555.91 N/C",
       "34223.63 N/C",
-      "21389.77 N/C"
+      "21389.77 N/C",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "E=kq/r²."
+    "explanation": "E=kq/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-102",
@@ -1830,10 +2032,12 @@
       "9432.69 V",
       "37730.77 V",
       "23581.73 V",
-      "18865.38 V"
+      "18865.38 V",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "V=kq/r."
+    "explanation": "V=kq/r.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-103",
@@ -1848,10 +2052,12 @@
       "0.0706 N",
       "0.0441 N",
       "0.0353 N",
-      "0.0176 N"
+      "0.0176 N",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "F=k|q1q2|/r²."
+    "explanation": "F=k|q1q2|/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-104",
@@ -1866,10 +2072,12 @@
       "21191.14 N/C",
       "16952.91 N/C",
       "8476.45 N/C",
-      "33905.82 N/C"
+      "33905.82 N/C",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "E=kq/r²."
+    "explanation": "E=kq/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-105",
@@ -1884,10 +2092,12 @@
       "18857.14 V",
       "9428.57 V",
       "37714.29 V",
-      "23571.43 V"
+      "23571.43 V",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "V=kq/r."
+    "explanation": "V=kq/r.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-106",
@@ -1902,10 +2112,12 @@
       "0.0177 N",
       "0.0709 N",
       "0.0443 N",
-      "0.0354 N"
+      "0.0354 N",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "F=k|q1q2|/r²."
+    "explanation": "F=k|q1q2|/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-107",
@@ -1920,10 +2132,12 @@
       "33593.75 N/C",
       "20996.09 N/C",
       "16796.88 N/C",
-      "8398.44 N/C"
+      "8398.44 N/C",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "E=kq/r²."
+    "explanation": "E=kq/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-108",
@@ -1938,10 +2152,12 @@
       "23561.32 V",
       "18849.06 V",
       "9424.53 V",
-      "37698.11 V"
+      "37698.11 V",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "V=kq/r."
+    "explanation": "V=kq/r.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-109",
@@ -1956,10 +2172,12 @@
       "0.0356 N",
       "0.0178 N",
       "0.0712 N",
-      "0.0445 N"
+      "0.0445 N",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "F=k|q1q2|/r²."
+    "explanation": "F=k|q1q2|/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-110",
@@ -1974,10 +2192,12 @@
       "8321.82 N/C",
       "33287.28 N/C",
       "20804.55 N/C",
-      "16643.64 N/C"
+      "16643.64 N/C",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "E=kq/r²."
+    "explanation": "E=kq/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-111",
@@ -1992,10 +2212,12 @@
       "37682.24 V",
       "23551.4 V",
       "18841.12 V",
-      "9420.56 V"
+      "9420.56 V",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "V=kq/r."
+    "explanation": "V=kq/r.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-112",
@@ -2010,10 +2232,12 @@
       "0.0447 N",
       "0.0357 N",
       "0.0179 N",
-      "0.0714 N"
+      "0.0714 N",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "F=k|q1q2|/r²."
+    "explanation": "F=k|q1q2|/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-113",
@@ -2028,10 +2252,12 @@
       "16493.13 N/C",
       "8246.56 N/C",
       "32986.26 N/C",
-      "20616.41 N/C"
+      "20616.41 N/C",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "E=kq/r²."
+    "explanation": "E=kq/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-114",
@@ -2046,10 +2272,12 @@
       "9416.67 V",
       "37666.67 V",
       "23541.67 V",
-      "18833.33 V"
+      "18833.33 V",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "V=kq/r."
+    "explanation": "V=kq/r.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-115",
@@ -2064,10 +2292,12 @@
       "0.0717 N",
       "0.0448 N",
       "0.0359 N",
-      "0.0179 N"
+      "0.0179 N",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "F=k|q1q2|/r²."
+    "explanation": "F=k|q1q2|/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-116",
@@ -2082,10 +2312,12 @@
       "20431.59 N/C",
       "16345.27 N/C",
       "8172.64 N/C",
-      "32690.54 N/C"
+      "32690.54 N/C",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "E=kq/r²."
+    "explanation": "E=kq/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-117",
@@ -2100,10 +2332,12 @@
       "18825.69 V",
       "9412.84 V",
       "37651.38 V",
-      "23532.11 V"
+      "23532.11 V",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "V=kq/r."
+    "explanation": "V=kq/r.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-118",
@@ -2118,10 +2352,12 @@
       "0.018 N",
       "0.072 N",
       "0.045 N",
-      "0.036 N"
+      "0.036 N",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "F=k|q1q2|/r²."
+    "explanation": "F=k|q1q2|/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-119",
@@ -2136,10 +2372,12 @@
       "32400 N/C",
       "20250 N/C",
       "16200 N/C",
-      "8100 N/C"
+      "8100 N/C",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "E=kq/r²."
+    "explanation": "E=kq/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-120",
@@ -2154,10 +2392,12 @@
       "23522.73 V",
       "18818.18 V",
       "9409.09 V",
-      "37636.36 V"
+      "37636.36 V",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "V=kq/r."
+    "explanation": "V=kq/r.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-121",
@@ -2172,10 +2412,12 @@
       "0.0361 N",
       "0.0181 N",
       "0.0723 N",
-      "0.0452 N"
+      "0.0452 N",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "F=k|q1q2|/r²."
+    "explanation": "F=k|q1q2|/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-122",
@@ -2190,10 +2432,12 @@
       "8028.62 N/C",
       "32114.5 N/C",
       "20071.56 N/C",
-      "16057.25 N/C"
+      "16057.25 N/C",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "E=kq/r²."
+    "explanation": "E=kq/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-123",
@@ -2208,10 +2452,12 @@
       "37621.62 V",
       "23513.51 V",
       "18810.81 V",
-      "9405.41 V"
+      "9405.41 V",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "V=kq/r."
+    "explanation": "V=kq/r.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-124",
@@ -2226,10 +2472,12 @@
       "0.0453 N",
       "0.0363 N",
       "0.0181 N",
-      "0.0725 N"
+      "0.0725 N",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "F=k|q1q2|/r²."
+    "explanation": "F=k|q1q2|/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-125",
@@ -2244,10 +2492,12 @@
       "15916.96 N/C",
       "7958.48 N/C",
       "31833.91 N/C",
-      "19896.19 N/C"
+      "19896.19 N/C",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "E=kq/r²."
+    "explanation": "E=kq/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-126",
@@ -2262,10 +2512,12 @@
       "9401.79 V",
       "37607.14 V",
       "23504.46 V",
-      "18803.57 V"
+      "18803.57 V",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "V=kq/r."
+    "explanation": "V=kq/r.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-127",
@@ -2280,10 +2532,12 @@
       "0.0728 N",
       "0.0455 N",
       "0.0364 N",
-      "0.0182 N"
+      "0.0182 N",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "F=k|q1q2|/r²."
+    "explanation": "F=k|q1q2|/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-128",
@@ -2298,10 +2552,12 @@
       "19723.82 N/C",
       "15779.06 N/C",
       "7889.53 N/C",
-      "31558.11 N/C"
+      "31558.11 N/C",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "E=kq/r²."
+    "explanation": "E=kq/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-129",
@@ -2316,10 +2572,12 @@
       "18796.46 V",
       "9398.23 V",
       "37592.92 V",
-      "23495.58 V"
+      "23495.58 V",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "V=kq/r."
+    "explanation": "V=kq/r.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-130",
@@ -2334,10 +2592,12 @@
       "0.0183 N",
       "0.0731 N",
       "0.0457 N",
-      "0.0365 N"
+      "0.0365 N",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "F=k|q1q2|/r²."
+    "explanation": "F=k|q1q2|/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-131",
@@ -2352,10 +2612,12 @@
       "31286.98 N/C",
       "19554.36 N/C",
       "15643.49 N/C",
-      "7821.75 N/C"
+      "7821.75 N/C",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "E=kq/r²."
+    "explanation": "E=kq/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-132",
@@ -2370,10 +2632,12 @@
       "23486.84 V",
       "18789.47 V",
       "9394.74 V",
-      "37578.95 V"
+      "37578.95 V",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "V=kq/r."
+    "explanation": "V=kq/r.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-133",
@@ -2388,10 +2652,12 @@
       "0.0367 N",
       "0.0183 N",
       "0.0733 N",
-      "0.0458 N"
+      "0.0458 N",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "F=k|q1q2|/r²."
+    "explanation": "F=k|q1q2|/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-134",
@@ -2406,10 +2672,12 @@
       "7755.1 N/C",
       "31020.41 N/C",
       "19387.76 N/C",
-      "15510.2 N/C"
+      "15510.2 N/C",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "E=kq/r²."
+    "explanation": "E=kq/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-135",
@@ -2424,10 +2692,12 @@
       "37565.22 V",
       "23478.26 V",
       "18782.61 V",
-      "9391.3 V"
+      "9391.3 V",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "V=kq/r."
+    "explanation": "V=kq/r.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-136",
@@ -2442,10 +2712,12 @@
       "0.046 N",
       "0.0368 N",
       "0.0184 N",
-      "0.0736 N"
+      "0.0736 N",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "F=k|q1q2|/r²."
+    "explanation": "F=k|q1q2|/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-137",
@@ -2460,10 +2732,12 @@
       "15379.14 N/C",
       "7689.57 N/C",
       "30758.28 N/C",
-      "19223.92 N/C"
+      "19223.92 N/C",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "E=kq/r²."
+    "explanation": "E=kq/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-138",
@@ -2478,10 +2752,12 @@
       "9387.93 V",
       "37551.72 V",
       "23469.83 V",
-      "18775.86 V"
+      "18775.86 V",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "V=kq/r."
+    "explanation": "V=kq/r.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-139",
@@ -2496,10 +2772,12 @@
       "0.0738 N",
       "0.0461 N",
       "0.0369 N",
-      "0.0185 N"
+      "0.0185 N",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "F=k|q1q2|/r²."
+    "explanation": "F=k|q1q2|/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-140",
@@ -2514,10 +2792,12 @@
       "19062.8 N/C",
       "15250.24 N/C",
       "7625.12 N/C",
-      "30500.48 N/C"
+      "30500.48 N/C",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "E=kq/r²."
+    "explanation": "E=kq/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-141",
@@ -2532,10 +2812,12 @@
       "18769.23 V",
       "9384.62 V",
       "37538.46 V",
-      "23461.54 V"
+      "23461.54 V",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "V=kq/r."
+    "explanation": "V=kq/r.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-142",
@@ -2550,10 +2832,12 @@
       "0.0185 N",
       "0.0741 N",
       "0.0463 N",
-      "0.037 N"
+      "0.037 N",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "F=k|q1q2|/r²."
+    "explanation": "F=k|q1q2|/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-143",
@@ -2568,10 +2852,12 @@
       "30246.91 N/C",
       "18904.32 N/C",
       "15123.46 N/C",
-      "7561.73 N/C"
+      "7561.73 N/C",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "E=kq/r²."
+    "explanation": "E=kq/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-144",
@@ -2586,10 +2872,12 @@
       "23453.39 V",
       "18762.71 V",
       "9381.36 V",
-      "37525.42 V"
+      "37525.42 V",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "V=kq/r."
+    "explanation": "V=kq/r.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-145",
@@ -2604,10 +2892,12 @@
       "0.0372 N",
       "0.0186 N",
       "0.0743 N",
-      "0.0464 N"
+      "0.0464 N",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "F=k|q1q2|/r²."
+    "explanation": "F=k|q1q2|/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-146",
@@ -2622,10 +2912,12 @@
       "7499.37 N/C",
       "29997.47 N/C",
       "18748.42 N/C",
-      "14998.74 N/C"
+      "14998.74 N/C",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "E=kq/r²."
+    "explanation": "E=kq/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-147",
@@ -2640,10 +2932,12 @@
       "37512.61 V",
       "23445.38 V",
       "18756.3 V",
-      "9378.15 V"
+      "9378.15 V",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "V=kq/r."
+    "explanation": "V=kq/r.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-148",
@@ -2658,10 +2952,12 @@
       "0.0466 N",
       "0.0373 N",
       "0.0186 N",
-      "0.0746 N"
+      "0.0746 N",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "F=k|q1q2|/r²."
+    "explanation": "F=k|q1q2|/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-149",
@@ -2676,10 +2972,12 @@
       "14876.03 N/C",
       "7438.02 N/C",
       "29752.07 N/C",
-      "18595.04 N/C"
+      "18595.04 N/C",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "E=kq/r²."
+    "explanation": "E=kq/r².",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-ELECTROSTATICS-150",
@@ -2694,9 +2992,11 @@
       "9375 V",
       "37500 V",
       "23437.5 V",
-      "18750 V"
+      "18750 V",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "V=kq/r."
+    "explanation": "V=kq/r.",
+    "format": "single-best-answer-5"
   }
 ]
