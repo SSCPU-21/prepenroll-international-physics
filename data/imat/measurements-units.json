@@ -1,0 +1,2702 @@
+[
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-001",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 1.17 km to metres.",
+    "options": [
+      "1170 m",
+      "585 m",
+      "2340 m",
+      "1462.5 m"
+    ],
+    "answer_index": 0,
+    "explanation": "Multiply kilometres by 1000."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-002",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 1.43 m/s to km/h.",
+    "options": [
+      "2.57 km/h",
+      "10.3 km/h",
+      "6.43 km/h",
+      "5.15 km/h"
+    ],
+    "answer_index": 3,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-003",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Which is the correct scientific notation for 16100?",
+    "options": [
+      "1.61 × 10^5",
+      "16.1 × 10^4",
+      "1.61 × 10^4",
+      "1.61 × 10^3"
+    ],
+    "answer_index": 2,
+    "explanation": "Write the number as a coefficient between 1 and 10 multiplied by a power of ten."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-004",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 1.54 km to metres.",
+    "options": [
+      "1925 m",
+      "1540 m",
+      "770 m",
+      "3080 m"
+    ],
+    "answer_index": 1,
+    "explanation": "Multiply kilometres by 1000."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-005",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 1.66 m/s to km/h.",
+    "options": [
+      "5.98 km/h",
+      "2.99 km/h",
+      "11.95 km/h",
+      "7.47 km/h"
+    ],
+    "answer_index": 0,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-006",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Which is the correct scientific notation for 172000?",
+    "options": [
+      "1.72 × 10^4",
+      "1.72 × 10^6",
+      "17.2 × 10^5",
+      "1.72 × 10^5"
+    ],
+    "answer_index": 3,
+    "explanation": "Write the number as a coefficient between 1 and 10 multiplied by a power of ten."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-007",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 1.91 km to metres.",
+    "options": [
+      "3820 m",
+      "2387.5 m",
+      "1910 m",
+      "955 m"
+    ],
+    "answer_index": 2,
+    "explanation": "Multiply kilometres by 1000."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-008",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 1.89 m/s to km/h.",
+    "options": [
+      "8.51 km/h",
+      "6.8 km/h",
+      "3.4 km/h",
+      "13.61 km/h"
+    ],
+    "answer_index": 1,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-009",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Which is the correct scientific notation for 1830000?",
+    "options": [
+      "1.83 × 10^6",
+      "1.83 × 10^5",
+      "1.83 × 10^7",
+      "18.3 × 10^6"
+    ],
+    "answer_index": 0,
+    "explanation": "Write the number as a coefficient between 1 and 10 multiplied by a power of ten."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-010",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 2.28 km to metres.",
+    "options": [
+      "1140 m",
+      "4560 m",
+      "2850 m",
+      "2280 m"
+    ],
+    "answer_index": 3,
+    "explanation": "Multiply kilometres by 1000."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-011",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 2.12 m/s to km/h.",
+    "options": [
+      "15.26 km/h",
+      "9.54 km/h",
+      "7.63 km/h",
+      "3.82 km/h"
+    ],
+    "answer_index": 2,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-012",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Which is the correct scientific notation for 19400000?",
+    "options": [
+      "19.4 × 10^7",
+      "1.94 × 10^7",
+      "1.94 × 10^6",
+      "1.94 × 10^8"
+    ],
+    "answer_index": 1,
+    "explanation": "Write the number as a coefficient between 1 and 10 multiplied by a power of ten."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-013",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 2.65 km to metres.",
+    "options": [
+      "2650 m",
+      "1325 m",
+      "5300 m",
+      "3312.5 m"
+    ],
+    "answer_index": 0,
+    "explanation": "Multiply kilometres by 1000."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-014",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 2.35 m/s to km/h.",
+    "options": [
+      "4.23 km/h",
+      "16.92 km/h",
+      "10.58 km/h",
+      "8.46 km/h"
+    ],
+    "answer_index": 3,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-015",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Which is the correct scientific notation for 205000000?",
+    "options": [
+      "2.05 × 10^9",
+      "20.5 × 10^8",
+      "2.05 × 10^8",
+      "2.05 × 10^7"
+    ],
+    "answer_index": 2,
+    "explanation": "Write the number as a coefficient between 1 and 10 multiplied by a power of ten."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-016",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 3.02 km to metres.",
+    "options": [
+      "3775 m",
+      "3020 m",
+      "1510 m",
+      "6040 m"
+    ],
+    "answer_index": 1,
+    "explanation": "Multiply kilometres by 1000."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-017",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 2.58 m/s to km/h.",
+    "options": [
+      "9.29 km/h",
+      "4.64 km/h",
+      "18.58 km/h",
+      "11.61 km/h"
+    ],
+    "answer_index": 0,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-018",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Which is the correct scientific notation for 2160?",
+    "options": [
+      "2.16 × 10^2",
+      "2.16 × 10^4",
+      "21.6 × 10^3",
+      "2.16 × 10^3"
+    ],
+    "answer_index": 3,
+    "explanation": "Write the number as a coefficient between 1 and 10 multiplied by a power of ten."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-019",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 3.39 km to metres.",
+    "options": [
+      "6780 m",
+      "4237.5 m",
+      "3390 m",
+      "1695 m"
+    ],
+    "answer_index": 2,
+    "explanation": "Multiply kilometres by 1000."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-020",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 2.81 m/s to km/h.",
+    "options": [
+      "12.64 km/h",
+      "10.12 km/h",
+      "5.06 km/h",
+      "20.23 km/h"
+    ],
+    "answer_index": 1,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-021",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Which is the correct scientific notation for 22700?",
+    "options": [
+      "2.27 × 10^4",
+      "2.27 × 10^3",
+      "2.27 × 10^5",
+      "22.7 × 10^4"
+    ],
+    "answer_index": 0,
+    "explanation": "Write the number as a coefficient between 1 and 10 multiplied by a power of ten."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-022",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 3.76 km to metres.",
+    "options": [
+      "1880 m",
+      "7520 m",
+      "4700 m",
+      "3760 m"
+    ],
+    "answer_index": 3,
+    "explanation": "Multiply kilometres by 1000."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-023",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 3.04 m/s to km/h.",
+    "options": [
+      "21.89 km/h",
+      "13.68 km/h",
+      "10.94 km/h",
+      "5.47 km/h"
+    ],
+    "answer_index": 2,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-024",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Which is the correct scientific notation for 238000?",
+    "options": [
+      "23.8 × 10^5",
+      "2.38 × 10^5",
+      "2.38 × 10^4",
+      "2.38 × 10^6"
+    ],
+    "answer_index": 1,
+    "explanation": "Write the number as a coefficient between 1 and 10 multiplied by a power of ten."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-025",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 4.13 km to metres.",
+    "options": [
+      "4130 m",
+      "2065 m",
+      "8260 m",
+      "5162.5 m"
+    ],
+    "answer_index": 0,
+    "explanation": "Multiply kilometres by 1000."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-026",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 3.27 m/s to km/h.",
+    "options": [
+      "5.89 km/h",
+      "23.54 km/h",
+      "14.72 km/h",
+      "11.77 km/h"
+    ],
+    "answer_index": 3,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-027",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Which is the correct scientific notation for 2490000?",
+    "options": [
+      "2.49 × 10^7",
+      "24.9 × 10^6",
+      "2.49 × 10^6",
+      "2.49 × 10^5"
+    ],
+    "answer_index": 2,
+    "explanation": "Write the number as a coefficient between 1 and 10 multiplied by a power of ten."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-028",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 4.5 km to metres.",
+    "options": [
+      "5625 m",
+      "4500 m",
+      "2250 m",
+      "9000 m"
+    ],
+    "answer_index": 1,
+    "explanation": "Multiply kilometres by 1000."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-029",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 3.5 m/s to km/h.",
+    "options": [
+      "12.6 km/h",
+      "6.3 km/h",
+      "25.2 km/h",
+      "15.75 km/h"
+    ],
+    "answer_index": 0,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-030",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Which is the correct scientific notation for 26000000?",
+    "options": [
+      "2.6 × 10^6",
+      "2.6 × 10^8",
+      "26 × 10^7",
+      "2.6 × 10^7"
+    ],
+    "answer_index": 3,
+    "explanation": "Write the number as a coefficient between 1 and 10 multiplied by a power of ten."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-031",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 4.87 km to metres.",
+    "options": [
+      "9740 m",
+      "6087.5 m",
+      "4870 m",
+      "2435 m"
+    ],
+    "answer_index": 2,
+    "explanation": "Multiply kilometres by 1000."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-032",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 3.73 m/s to km/h.",
+    "options": [
+      "16.79 km/h",
+      "13.43 km/h",
+      "6.71 km/h",
+      "26.86 km/h"
+    ],
+    "answer_index": 1,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-033",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Which is the correct scientific notation for 271000000?",
+    "options": [
+      "2.71 × 10^8",
+      "2.71 × 10^7",
+      "2.71 × 10^9",
+      "27.1 × 10^8"
+    ],
+    "answer_index": 0,
+    "explanation": "Write the number as a coefficient between 1 and 10 multiplied by a power of ten."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-034",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 5.24 km to metres.",
+    "options": [
+      "2620 m",
+      "10480 m",
+      "6550 m",
+      "5240 m"
+    ],
+    "answer_index": 3,
+    "explanation": "Multiply kilometres by 1000."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-035",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 3.96 m/s to km/h.",
+    "options": [
+      "28.51 km/h",
+      "17.82 km/h",
+      "14.26 km/h",
+      "7.13 km/h"
+    ],
+    "answer_index": 2,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-036",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Which is the correct scientific notation for 2820?",
+    "options": [
+      "28.2 × 10^3",
+      "2.82 × 10^3",
+      "2.82 × 10^2",
+      "2.82 × 10^4"
+    ],
+    "answer_index": 1,
+    "explanation": "Write the number as a coefficient between 1 and 10 multiplied by a power of ten."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-037",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 5.61 km to metres.",
+    "options": [
+      "5610 m",
+      "2805 m",
+      "11220 m",
+      "7012.5 m"
+    ],
+    "answer_index": 0,
+    "explanation": "Multiply kilometres by 1000."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-038",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 4.19 m/s to km/h.",
+    "options": [
+      "7.54 km/h",
+      "30.17 km/h",
+      "18.86 km/h",
+      "15.08 km/h"
+    ],
+    "answer_index": 3,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-039",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Which is the correct scientific notation for 29300?",
+    "options": [
+      "2.93 × 10^5",
+      "29.3 × 10^4",
+      "2.93 × 10^4",
+      "2.93 × 10^3"
+    ],
+    "answer_index": 2,
+    "explanation": "Write the number as a coefficient between 1 and 10 multiplied by a power of ten."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-040",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 5.98 km to metres.",
+    "options": [
+      "7475 m",
+      "5980 m",
+      "2990 m",
+      "11960 m"
+    ],
+    "answer_index": 1,
+    "explanation": "Multiply kilometres by 1000."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-041",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 4.42 m/s to km/h.",
+    "options": [
+      "15.91 km/h",
+      "7.96 km/h",
+      "31.82 km/h",
+      "19.89 km/h"
+    ],
+    "answer_index": 0,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-042",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Which is the correct scientific notation for 304000?",
+    "options": [
+      "3.04 × 10^4",
+      "3.04 × 10^6",
+      "30.4 × 10^5",
+      "3.04 × 10^5"
+    ],
+    "answer_index": 3,
+    "explanation": "Write the number as a coefficient between 1 and 10 multiplied by a power of ten."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-043",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 6.35 km to metres.",
+    "options": [
+      "12700 m",
+      "7937.5 m",
+      "6350 m",
+      "3175 m"
+    ],
+    "answer_index": 2,
+    "explanation": "Multiply kilometres by 1000."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-044",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 4.65 m/s to km/h.",
+    "options": [
+      "20.93 km/h",
+      "16.74 km/h",
+      "8.37 km/h",
+      "33.48 km/h"
+    ],
+    "answer_index": 1,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-045",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Which is the correct scientific notation for 3150000?",
+    "options": [
+      "3.15 × 10^6",
+      "3.15 × 10^5",
+      "3.15 × 10^7",
+      "31.5 × 10^6"
+    ],
+    "answer_index": 0,
+    "explanation": "Write the number as a coefficient between 1 and 10 multiplied by a power of ten."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-046",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 6.72 km to metres.",
+    "options": [
+      "3360 m",
+      "13440 m",
+      "8400 m",
+      "6720 m"
+    ],
+    "answer_index": 3,
+    "explanation": "Multiply kilometres by 1000."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-047",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 4.88 m/s to km/h.",
+    "options": [
+      "35.14 km/h",
+      "21.96 km/h",
+      "17.57 km/h",
+      "8.78 km/h"
+    ],
+    "answer_index": 2,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-048",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Which is the correct scientific notation for 32600000?",
+    "options": [
+      "32.6 × 10^7",
+      "3.26 × 10^7",
+      "3.26 × 10^6",
+      "3.26 × 10^8"
+    ],
+    "answer_index": 1,
+    "explanation": "Write the number as a coefficient between 1 and 10 multiplied by a power of ten."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-049",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 7.09 km to metres.",
+    "options": [
+      "7090 m",
+      "3545 m",
+      "14180 m",
+      "8862.5 m"
+    ],
+    "answer_index": 0,
+    "explanation": "Multiply kilometres by 1000."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-050",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 5.11 m/s to km/h.",
+    "options": [
+      "9.2 km/h",
+      "36.79 km/h",
+      "23 km/h",
+      "18.4 km/h"
+    ],
+    "answer_index": 3,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-051",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Which is the correct scientific notation for 337000000?",
+    "options": [
+      "3.37 × 10^9",
+      "33.7 × 10^8",
+      "3.37 × 10^8",
+      "3.37 × 10^7"
+    ],
+    "answer_index": 2,
+    "explanation": "Write the number as a coefficient between 1 and 10 multiplied by a power of ten."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-052",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 7.46 km to metres.",
+    "options": [
+      "9325 m",
+      "7460 m",
+      "3730 m",
+      "14920 m"
+    ],
+    "answer_index": 1,
+    "explanation": "Multiply kilometres by 1000."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-053",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 5.34 m/s to km/h.",
+    "options": [
+      "19.22 km/h",
+      "9.61 km/h",
+      "38.45 km/h",
+      "24.03 km/h"
+    ],
+    "answer_index": 0,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-054",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Which is the correct scientific notation for 3480?",
+    "options": [
+      "3.48 × 10^2",
+      "3.48 × 10^4",
+      "34.8 × 10^3",
+      "3.48 × 10^3"
+    ],
+    "answer_index": 3,
+    "explanation": "Write the number as a coefficient between 1 and 10 multiplied by a power of ten."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-055",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 7.83 km to metres.",
+    "options": [
+      "15660 m",
+      "9787.5 m",
+      "7830 m",
+      "3915 m"
+    ],
+    "answer_index": 2,
+    "explanation": "Multiply kilometres by 1000."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-056",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 5.57 m/s to km/h.",
+    "options": [
+      "25.07 km/h",
+      "20.05 km/h",
+      "10.03 km/h",
+      "40.1 km/h"
+    ],
+    "answer_index": 1,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-057",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Which is the correct scientific notation for 35900?",
+    "options": [
+      "3.59 × 10^4",
+      "3.59 × 10^3",
+      "3.59 × 10^5",
+      "35.9 × 10^4"
+    ],
+    "answer_index": 0,
+    "explanation": "Write the number as a coefficient between 1 and 10 multiplied by a power of ten."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-058",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 8.2 km to metres.",
+    "options": [
+      "4100 m",
+      "16400 m",
+      "10250 m",
+      "8200 m"
+    ],
+    "answer_index": 3,
+    "explanation": "Multiply kilometres by 1000."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-059",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 5.8 m/s to km/h.",
+    "options": [
+      "41.76 km/h",
+      "26.1 km/h",
+      "20.88 km/h",
+      "10.44 km/h"
+    ],
+    "answer_index": 2,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-060",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Which is the correct scientific notation for 370000?",
+    "options": [
+      "37 × 10^5",
+      "3.7 × 10^5",
+      "3.7 × 10^4",
+      "3.7 × 10^6"
+    ],
+    "answer_index": 1,
+    "explanation": "Write the number as a coefficient between 1 and 10 multiplied by a power of ten."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-061",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 8.57 km to metres.",
+    "options": [
+      "8570 m",
+      "4285 m",
+      "17140 m",
+      "10712.5 m"
+    ],
+    "answer_index": 0,
+    "explanation": "Multiply kilometres by 1000."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-062",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 6.03 m/s to km/h.",
+    "options": [
+      "10.85 km/h",
+      "43.42 km/h",
+      "27.14 km/h",
+      "21.71 km/h"
+    ],
+    "answer_index": 3,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-063",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Which is the correct scientific notation for 3810000?",
+    "options": [
+      "3.81 × 10^7",
+      "38.1 × 10^6",
+      "3.81 × 10^6",
+      "3.81 × 10^5"
+    ],
+    "answer_index": 2,
+    "explanation": "Write the number as a coefficient between 1 and 10 multiplied by a power of ten."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-064",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 8.94 km to metres.",
+    "options": [
+      "11175 m",
+      "8940 m",
+      "4470 m",
+      "17880 m"
+    ],
+    "answer_index": 1,
+    "explanation": "Multiply kilometres by 1000."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-065",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 6.26 m/s to km/h.",
+    "options": [
+      "22.54 km/h",
+      "11.27 km/h",
+      "45.07 km/h",
+      "28.17 km/h"
+    ],
+    "answer_index": 0,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-066",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Which is the correct scientific notation for 39200000?",
+    "options": [
+      "3.92 × 10^6",
+      "3.92 × 10^8",
+      "39.2 × 10^7",
+      "3.92 × 10^7"
+    ],
+    "answer_index": 3,
+    "explanation": "Write the number as a coefficient between 1 and 10 multiplied by a power of ten."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-067",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 9.31 km to metres.",
+    "options": [
+      "18620 m",
+      "11637.5 m",
+      "9310 m",
+      "4655 m"
+    ],
+    "answer_index": 2,
+    "explanation": "Multiply kilometres by 1000."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-068",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 6.49 m/s to km/h.",
+    "options": [
+      "29.21 km/h",
+      "23.36 km/h",
+      "11.68 km/h",
+      "46.73 km/h"
+    ],
+    "answer_index": 1,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-069",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Which is the correct scientific notation for 403000000?",
+    "options": [
+      "4.03 × 10^8",
+      "4.03 × 10^7",
+      "4.03 × 10^9",
+      "40.3 × 10^8"
+    ],
+    "answer_index": 0,
+    "explanation": "Write the number as a coefficient between 1 and 10 multiplied by a power of ten."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-070",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 9.68 km to metres.",
+    "options": [
+      "4840 m",
+      "19360 m",
+      "12100 m",
+      "9680 m"
+    ],
+    "answer_index": 3,
+    "explanation": "Multiply kilometres by 1000."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-071",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 6.72 m/s to km/h.",
+    "options": [
+      "48.38 km/h",
+      "30.24 km/h",
+      "24.19 km/h",
+      "12.1 km/h"
+    ],
+    "answer_index": 2,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-072",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Which is the correct scientific notation for 4140?",
+    "options": [
+      "41.4 × 10^3",
+      "4.14 × 10^3",
+      "4.14 × 10^2",
+      "4.14 × 10^4"
+    ],
+    "answer_index": 1,
+    "explanation": "Write the number as a coefficient between 1 and 10 multiplied by a power of ten."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-073",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 10.05 km to metres.",
+    "options": [
+      "10050 m",
+      "5025 m",
+      "20100 m",
+      "12562.5 m"
+    ],
+    "answer_index": 0,
+    "explanation": "Multiply kilometres by 1000."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-074",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 6.95 m/s to km/h.",
+    "options": [
+      "12.51 km/h",
+      "50.04 km/h",
+      "31.27 km/h",
+      "25.02 km/h"
+    ],
+    "answer_index": 3,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-075",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Which is the correct scientific notation for 42500?",
+    "options": [
+      "4.25 × 10^5",
+      "42.5 × 10^4",
+      "4.25 × 10^4",
+      "4.25 × 10^3"
+    ],
+    "answer_index": 2,
+    "explanation": "Write the number as a coefficient between 1 and 10 multiplied by a power of ten."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-076",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 10.42 km to metres.",
+    "options": [
+      "13025 m",
+      "10420 m",
+      "5210 m",
+      "20840 m"
+    ],
+    "answer_index": 1,
+    "explanation": "Multiply kilometres by 1000."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-077",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 7.18 m/s to km/h.",
+    "options": [
+      "25.85 km/h",
+      "12.92 km/h",
+      "51.7 km/h",
+      "32.31 km/h"
+    ],
+    "answer_index": 0,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-078",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Which is the correct scientific notation for 436000?",
+    "options": [
+      "4.36 × 10^4",
+      "4.36 × 10^6",
+      "43.6 × 10^5",
+      "4.36 × 10^5"
+    ],
+    "answer_index": 3,
+    "explanation": "Write the number as a coefficient between 1 and 10 multiplied by a power of ten."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-079",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 10.79 km to metres.",
+    "options": [
+      "21580 m",
+      "13487.5 m",
+      "10790 m",
+      "5395 m"
+    ],
+    "answer_index": 2,
+    "explanation": "Multiply kilometres by 1000."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-080",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 7.41 m/s to km/h.",
+    "options": [
+      "33.34 km/h",
+      "26.68 km/h",
+      "13.34 km/h",
+      "53.35 km/h"
+    ],
+    "answer_index": 1,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-081",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Which is the correct scientific notation for 4470000?",
+    "options": [
+      "4.47 × 10^6",
+      "4.47 × 10^5",
+      "4.47 × 10^7",
+      "44.7 × 10^6"
+    ],
+    "answer_index": 0,
+    "explanation": "Write the number as a coefficient between 1 and 10 multiplied by a power of ten."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-082",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 11.16 km to metres.",
+    "options": [
+      "5580 m",
+      "22320 m",
+      "13950 m",
+      "11160 m"
+    ],
+    "answer_index": 3,
+    "explanation": "Multiply kilometres by 1000."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-083",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 7.64 m/s to km/h.",
+    "options": [
+      "55.01 km/h",
+      "34.38 km/h",
+      "27.5 km/h",
+      "13.75 km/h"
+    ],
+    "answer_index": 2,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-084",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Which is the correct scientific notation for 45800000?",
+    "options": [
+      "45.8 × 10^7",
+      "4.58 × 10^7",
+      "4.58 × 10^6",
+      "4.58 × 10^8"
+    ],
+    "answer_index": 1,
+    "explanation": "Write the number as a coefficient between 1 and 10 multiplied by a power of ten."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-085",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 11.53 km to metres.",
+    "options": [
+      "11530 m",
+      "5765 m",
+      "23060 m",
+      "14412.5 m"
+    ],
+    "answer_index": 0,
+    "explanation": "Multiply kilometres by 1000."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-086",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 7.87 m/s to km/h.",
+    "options": [
+      "14.17 km/h",
+      "56.66 km/h",
+      "35.41 km/h",
+      "28.33 km/h"
+    ],
+    "answer_index": 3,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-087",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Which is the correct scientific notation for 469000000?",
+    "options": [
+      "4.69 × 10^9",
+      "46.9 × 10^8",
+      "4.69 × 10^8",
+      "4.69 × 10^7"
+    ],
+    "answer_index": 2,
+    "explanation": "Write the number as a coefficient between 1 and 10 multiplied by a power of ten."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-088",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 11.9 km to metres.",
+    "options": [
+      "14875 m",
+      "11900 m",
+      "5950 m",
+      "23800 m"
+    ],
+    "answer_index": 1,
+    "explanation": "Multiply kilometres by 1000."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-089",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 8.1 m/s to km/h.",
+    "options": [
+      "29.16 km/h",
+      "14.58 km/h",
+      "58.32 km/h",
+      "36.45 km/h"
+    ],
+    "answer_index": 0,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-090",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Which is the correct scientific notation for 4800?",
+    "options": [
+      "4.8 × 10^2",
+      "4.8 × 10^4",
+      "48 × 10^3",
+      "4.8 × 10^3"
+    ],
+    "answer_index": 3,
+    "explanation": "Write the number as a coefficient between 1 and 10 multiplied by a power of ten."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-091",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 12.27 km to metres.",
+    "options": [
+      "24540 m",
+      "15337.5 m",
+      "12270 m",
+      "6135 m"
+    ],
+    "answer_index": 2,
+    "explanation": "Multiply kilometres by 1000."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-092",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 8.33 m/s to km/h.",
+    "options": [
+      "37.48 km/h",
+      "29.99 km/h",
+      "14.99 km/h",
+      "59.98 km/h"
+    ],
+    "answer_index": 1,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-093",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Which is the correct scientific notation for 49100?",
+    "options": [
+      "4.91 × 10^4",
+      "4.91 × 10^3",
+      "4.91 × 10^5",
+      "49.1 × 10^4"
+    ],
+    "answer_index": 0,
+    "explanation": "Write the number as a coefficient between 1 and 10 multiplied by a power of ten."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-094",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 12.64 km to metres.",
+    "options": [
+      "6320 m",
+      "25280 m",
+      "15800 m",
+      "12640 m"
+    ],
+    "answer_index": 3,
+    "explanation": "Multiply kilometres by 1000."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-095",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 8.56 m/s to km/h.",
+    "options": [
+      "61.63 km/h",
+      "38.52 km/h",
+      "30.82 km/h",
+      "15.41 km/h"
+    ],
+    "answer_index": 2,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-096",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Which is the correct scientific notation for 502000?",
+    "options": [
+      "50.2 × 10^5",
+      "5.02 × 10^5",
+      "5.02 × 10^4",
+      "5.02 × 10^6"
+    ],
+    "answer_index": 1,
+    "explanation": "Write the number as a coefficient between 1 and 10 multiplied by a power of ten."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-097",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 13.01 km to metres.",
+    "options": [
+      "13010 m",
+      "6505 m",
+      "26020 m",
+      "16262.5 m"
+    ],
+    "answer_index": 0,
+    "explanation": "Multiply kilometres by 1000."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-098",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 8.79 m/s to km/h.",
+    "options": [
+      "15.82 km/h",
+      "63.29 km/h",
+      "39.56 km/h",
+      "31.64 km/h"
+    ],
+    "answer_index": 3,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-099",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Which is the correct scientific notation for 5130000?",
+    "options": [
+      "5.13 × 10^7",
+      "51.3 × 10^6",
+      "5.13 × 10^6",
+      "5.13 × 10^5"
+    ],
+    "answer_index": 2,
+    "explanation": "Write the number as a coefficient between 1 and 10 multiplied by a power of ten."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-100",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 13.38 km to metres.",
+    "options": [
+      "16725 m",
+      "13380 m",
+      "6690 m",
+      "26760 m"
+    ],
+    "answer_index": 1,
+    "explanation": "Multiply kilometres by 1000."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-101",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 9.02 m/s to km/h.",
+    "options": [
+      "32.47 km/h",
+      "16.24 km/h",
+      "64.94 km/h",
+      "40.59 km/h"
+    ],
+    "answer_index": 0,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-102",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Which is the correct scientific notation for 52400000?",
+    "options": [
+      "5.24 × 10^6",
+      "5.24 × 10^8",
+      "52.4 × 10^7",
+      "5.24 × 10^7"
+    ],
+    "answer_index": 3,
+    "explanation": "Write the number as a coefficient between 1 and 10 multiplied by a power of ten."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-103",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 13.75 km to metres.",
+    "options": [
+      "27500 m",
+      "17187.5 m",
+      "13750 m",
+      "6875 m"
+    ],
+    "answer_index": 2,
+    "explanation": "Multiply kilometres by 1000."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-104",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 9.25 m/s to km/h.",
+    "options": [
+      "41.63 km/h",
+      "33.3 km/h",
+      "16.65 km/h",
+      "66.6 km/h"
+    ],
+    "answer_index": 1,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-105",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Which is the correct scientific notation for 535000000?",
+    "options": [
+      "5.35 × 10^8",
+      "5.35 × 10^7",
+      "5.35 × 10^9",
+      "53.5 × 10^8"
+    ],
+    "answer_index": 0,
+    "explanation": "Write the number as a coefficient between 1 and 10 multiplied by a power of ten."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-106",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 14.12 km to metres.",
+    "options": [
+      "7060 m",
+      "28240 m",
+      "17650 m",
+      "14120 m"
+    ],
+    "answer_index": 3,
+    "explanation": "Multiply kilometres by 1000."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-107",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 9.48 m/s to km/h.",
+    "options": [
+      "68.26 km/h",
+      "42.66 km/h",
+      "34.13 km/h",
+      "17.06 km/h"
+    ],
+    "answer_index": 2,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-108",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Which is the correct scientific notation for 5460?",
+    "options": [
+      "54.6 × 10^3",
+      "5.46 × 10^3",
+      "5.46 × 10^2",
+      "5.46 × 10^4"
+    ],
+    "answer_index": 1,
+    "explanation": "Write the number as a coefficient between 1 and 10 multiplied by a power of ten."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-109",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 14.49 km to metres.",
+    "options": [
+      "14490 m",
+      "7245 m",
+      "28980 m",
+      "18112.5 m"
+    ],
+    "answer_index": 0,
+    "explanation": "Multiply kilometres by 1000."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-110",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 9.71 m/s to km/h.",
+    "options": [
+      "17.48 km/h",
+      "69.91 km/h",
+      "43.69 km/h",
+      "34.96 km/h"
+    ],
+    "answer_index": 3,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-111",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Which is the correct scientific notation for 55700?",
+    "options": [
+      "5.57 × 10^5",
+      "55.7 × 10^4",
+      "5.57 × 10^4",
+      "5.57 × 10^3"
+    ],
+    "answer_index": 2,
+    "explanation": "Write the number as a coefficient between 1 and 10 multiplied by a power of ten."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-112",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 14.86 km to metres.",
+    "options": [
+      "18575 m",
+      "14860 m",
+      "7430 m",
+      "29720 m"
+    ],
+    "answer_index": 1,
+    "explanation": "Multiply kilometres by 1000."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-113",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 9.94 m/s to km/h.",
+    "options": [
+      "35.78 km/h",
+      "17.89 km/h",
+      "71.57 km/h",
+      "44.73 km/h"
+    ],
+    "answer_index": 0,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-114",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Which is the correct scientific notation for 568000?",
+    "options": [
+      "5.68 × 10^4",
+      "5.68 × 10^6",
+      "56.8 × 10^5",
+      "5.68 × 10^5"
+    ],
+    "answer_index": 3,
+    "explanation": "Write the number as a coefficient between 1 and 10 multiplied by a power of ten."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-115",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 15.23 km to metres.",
+    "options": [
+      "30460 m",
+      "19037.5 m",
+      "15230 m",
+      "7615 m"
+    ],
+    "answer_index": 2,
+    "explanation": "Multiply kilometres by 1000."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-116",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 10.17 m/s to km/h.",
+    "options": [
+      "45.77 km/h",
+      "36.61 km/h",
+      "18.31 km/h",
+      "73.22 km/h"
+    ],
+    "answer_index": 1,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-117",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Which is the correct scientific notation for 5790000?",
+    "options": [
+      "5.79 × 10^6",
+      "5.79 × 10^5",
+      "5.79 × 10^7",
+      "57.9 × 10^6"
+    ],
+    "answer_index": 0,
+    "explanation": "Write the number as a coefficient between 1 and 10 multiplied by a power of ten."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-118",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 15.6 km to metres.",
+    "options": [
+      "7800 m",
+      "31200 m",
+      "19500 m",
+      "15600 m"
+    ],
+    "answer_index": 3,
+    "explanation": "Multiply kilometres by 1000."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-119",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 10.4 m/s to km/h.",
+    "options": [
+      "74.88 km/h",
+      "46.8 km/h",
+      "37.44 km/h",
+      "18.72 km/h"
+    ],
+    "answer_index": 2,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-120",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Which is the correct scientific notation for 59000000?",
+    "options": [
+      "59 × 10^7",
+      "5.9 × 10^7",
+      "5.9 × 10^6",
+      "5.9 × 10^8"
+    ],
+    "answer_index": 1,
+    "explanation": "Write the number as a coefficient between 1 and 10 multiplied by a power of ten."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-121",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 15.97 km to metres.",
+    "options": [
+      "15970 m",
+      "7985 m",
+      "31940 m",
+      "19962.5 m"
+    ],
+    "answer_index": 0,
+    "explanation": "Multiply kilometres by 1000."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-122",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 10.63 m/s to km/h.",
+    "options": [
+      "19.13 km/h",
+      "76.54 km/h",
+      "47.84 km/h",
+      "38.27 km/h"
+    ],
+    "answer_index": 3,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-123",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Which is the correct scientific notation for 601000000?",
+    "options": [
+      "6.01 × 10^9",
+      "60.1 × 10^8",
+      "6.01 × 10^8",
+      "6.01 × 10^7"
+    ],
+    "answer_index": 2,
+    "explanation": "Write the number as a coefficient between 1 and 10 multiplied by a power of ten."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-124",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 16.34 km to metres.",
+    "options": [
+      "20425 m",
+      "16340 m",
+      "8170 m",
+      "32680 m"
+    ],
+    "answer_index": 1,
+    "explanation": "Multiply kilometres by 1000."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-125",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 10.86 m/s to km/h.",
+    "options": [
+      "39.1 km/h",
+      "19.55 km/h",
+      "78.19 km/h",
+      "48.87 km/h"
+    ],
+    "answer_index": 0,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-126",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Which is the correct scientific notation for 6120?",
+    "options": [
+      "6.12 × 10^2",
+      "6.12 × 10^4",
+      "61.2 × 10^3",
+      "6.12 × 10^3"
+    ],
+    "answer_index": 3,
+    "explanation": "Write the number as a coefficient between 1 and 10 multiplied by a power of ten."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-127",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 16.71 km to metres.",
+    "options": [
+      "33420 m",
+      "20887.5 m",
+      "16710 m",
+      "8355 m"
+    ],
+    "answer_index": 2,
+    "explanation": "Multiply kilometres by 1000."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-128",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 11.09 m/s to km/h.",
+    "options": [
+      "49.91 km/h",
+      "39.92 km/h",
+      "19.96 km/h",
+      "79.85 km/h"
+    ],
+    "answer_index": 1,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-129",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Which is the correct scientific notation for 62300?",
+    "options": [
+      "6.23 × 10^4",
+      "6.23 × 10^3",
+      "6.23 × 10^5",
+      "62.3 × 10^4"
+    ],
+    "answer_index": 0,
+    "explanation": "Write the number as a coefficient between 1 and 10 multiplied by a power of ten."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-130",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 17.08 km to metres.",
+    "options": [
+      "8540 m",
+      "34160 m",
+      "21350 m",
+      "17080 m"
+    ],
+    "answer_index": 3,
+    "explanation": "Multiply kilometres by 1000."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-131",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 11.32 m/s to km/h.",
+    "options": [
+      "81.5 km/h",
+      "50.94 km/h",
+      "40.75 km/h",
+      "20.38 km/h"
+    ],
+    "answer_index": 2,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-132",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Which is the correct scientific notation for 634000?",
+    "options": [
+      "63.4 × 10^5",
+      "6.34 × 10^5",
+      "6.34 × 10^4",
+      "6.34 × 10^6"
+    ],
+    "answer_index": 1,
+    "explanation": "Write the number as a coefficient between 1 and 10 multiplied by a power of ten."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-133",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 17.45 km to metres.",
+    "options": [
+      "17450 m",
+      "8725 m",
+      "34900 m",
+      "21812.5 m"
+    ],
+    "answer_index": 0,
+    "explanation": "Multiply kilometres by 1000."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-134",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 11.55 m/s to km/h.",
+    "options": [
+      "20.79 km/h",
+      "83.16 km/h",
+      "51.97 km/h",
+      "41.58 km/h"
+    ],
+    "answer_index": 3,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-135",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Which is the correct scientific notation for 6450000?",
+    "options": [
+      "6.45 × 10^7",
+      "64.5 × 10^6",
+      "6.45 × 10^6",
+      "6.45 × 10^5"
+    ],
+    "answer_index": 2,
+    "explanation": "Write the number as a coefficient between 1 and 10 multiplied by a power of ten."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-136",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 17.82 km to metres.",
+    "options": [
+      "22275 m",
+      "17820 m",
+      "8910 m",
+      "35640 m"
+    ],
+    "answer_index": 1,
+    "explanation": "Multiply kilometres by 1000."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-137",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 11.78 m/s to km/h.",
+    "options": [
+      "42.41 km/h",
+      "21.2 km/h",
+      "84.82 km/h",
+      "53.01 km/h"
+    ],
+    "answer_index": 0,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-138",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Which is the correct scientific notation for 65600000?",
+    "options": [
+      "6.56 × 10^6",
+      "6.56 × 10^8",
+      "65.6 × 10^7",
+      "6.56 × 10^7"
+    ],
+    "answer_index": 3,
+    "explanation": "Write the number as a coefficient between 1 and 10 multiplied by a power of ten."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-139",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 18.19 km to metres.",
+    "options": [
+      "36380 m",
+      "22737.5 m",
+      "18190 m",
+      "9095 m"
+    ],
+    "answer_index": 2,
+    "explanation": "Multiply kilometres by 1000."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-140",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 12.01 m/s to km/h.",
+    "options": [
+      "54.04 km/h",
+      "43.24 km/h",
+      "21.62 km/h",
+      "86.47 km/h"
+    ],
+    "answer_index": 1,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-141",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Which is the correct scientific notation for 667000000?",
+    "options": [
+      "6.67 × 10^8",
+      "6.67 × 10^7",
+      "6.67 × 10^9",
+      "66.7 × 10^8"
+    ],
+    "answer_index": 0,
+    "explanation": "Write the number as a coefficient between 1 and 10 multiplied by a power of ten."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-142",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 18.56 km to metres.",
+    "options": [
+      "9280 m",
+      "37120 m",
+      "23200 m",
+      "18560 m"
+    ],
+    "answer_index": 3,
+    "explanation": "Multiply kilometres by 1000."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-143",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 12.24 m/s to km/h.",
+    "options": [
+      "88.13 km/h",
+      "55.08 km/h",
+      "44.06 km/h",
+      "22.03 km/h"
+    ],
+    "answer_index": 2,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-144",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Which is the correct scientific notation for 6780?",
+    "options": [
+      "67.8 × 10^3",
+      "6.78 × 10^3",
+      "6.78 × 10^2",
+      "6.78 × 10^4"
+    ],
+    "answer_index": 1,
+    "explanation": "Write the number as a coefficient between 1 and 10 multiplied by a power of ten."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-145",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 18.93 km to metres.",
+    "options": [
+      "18930 m",
+      "9465 m",
+      "37860 m",
+      "23662.5 m"
+    ],
+    "answer_index": 0,
+    "explanation": "Multiply kilometres by 1000."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-146",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 12.47 m/s to km/h.",
+    "options": [
+      "22.45 km/h",
+      "89.78 km/h",
+      "56.12 km/h",
+      "44.89 km/h"
+    ],
+    "answer_index": 3,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-147",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Which is the correct scientific notation for 68900?",
+    "options": [
+      "6.89 × 10^5",
+      "68.9 × 10^4",
+      "6.89 × 10^4",
+      "6.89 × 10^3"
+    ],
+    "answer_index": 2,
+    "explanation": "Write the number as a coefficient between 1 and 10 multiplied by a power of ten."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-148",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 19.3 km to metres.",
+    "options": [
+      "24125 m",
+      "19300 m",
+      "9650 m",
+      "38600 m"
+    ],
+    "answer_index": 1,
+    "explanation": "Multiply kilometres by 1000."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-149",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Convert 12.7 m/s to km/h.",
+    "options": [
+      "45.72 km/h",
+      "22.86 km/h",
+      "91.44 km/h",
+      "57.15 km/h"
+    ],
+    "answer_index": 0,
+    "explanation": "Multiply m/s by 3.6."
+  },
+  {
+    "id": "IMAT-PHY-MEASUREMENTS-UNITS-150",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Measurements",
+    "subtopic": "Physical Quantities & Units",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "Which is the correct scientific notation for 700000?",
+    "options": [
+      "7 × 10^4",
+      "7 × 10^6",
+      "70 × 10^5",
+      "7 × 10^5"
+    ],
+    "answer_index": 3,
+    "explanation": "Write the number as a coefficient between 1 and 10 multiplied by a power of ten."
+  }
+]
