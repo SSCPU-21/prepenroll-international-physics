@@ -12,10 +12,12 @@
       "4.08",
       "2.04",
       "8.16",
-      "5.1"
+      "5.1",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Use √(x²+y²)."
+    "explanation": "Use √(x²+y²).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-002",
@@ -30,10 +32,12 @@
       "2.17 N",
       "8.7 N",
       "5.44 N",
-      "4.35 N"
+      "4.35 N",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Fx = F cos60° = F/2."
+    "explanation": "Fx = F cos60° = F/2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-003",
@@ -48,10 +52,12 @@
       "10.62 m",
       "6.64 m",
       "5.31 m",
-      "2.65 m"
+      "2.65 m",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "The displacements are perpendicular, so use Pythagoras."
+    "explanation": "The displacements are perpendicular, so use Pythagoras.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-004",
@@ -66,10 +72,12 @@
       "5.7",
       "4.56",
       "2.28",
-      "9.12"
+      "9.12",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Use √(x²+y²)."
+    "explanation": "Use √(x²+y²).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-005",
@@ -84,10 +92,12 @@
       "4.7 N",
       "2.35 N",
       "9.4 N",
-      "5.88 N"
+      "5.88 N",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Fx = F cos60° = F/2."
+    "explanation": "Fx = F cos60° = F/2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-006",
@@ -102,10 +112,12 @@
       "2.81 m",
       "11.24 m",
       "7.03 m",
-      "5.62 m"
+      "5.62 m",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "The displacements are perpendicular, so use Pythagoras."
+    "explanation": "The displacements are perpendicular, so use Pythagoras.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-007",
@@ -120,10 +132,12 @@
       "10.08",
       "6.3",
       "5.04",
-      "2.52"
+      "2.52",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Use √(x²+y²)."
+    "explanation": "Use √(x²+y²).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-008",
@@ -138,10 +152,12 @@
       "6.31 N",
       "5.05 N",
       "2.52 N",
-      "10.1 N"
+      "10.1 N",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Fx = F cos60° = F/2."
+    "explanation": "Fx = F cos60° = F/2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-009",
@@ -156,10 +172,12 @@
       "5.93 m",
       "2.96 m",
       "11.86 m",
-      "7.41 m"
+      "7.41 m",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "The displacements are perpendicular, so use Pythagoras."
+    "explanation": "The displacements are perpendicular, so use Pythagoras.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-010",
@@ -174,10 +192,12 @@
       "2.77",
       "11.06",
       "6.91",
-      "5.53"
+      "5.53",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Use √(x²+y²)."
+    "explanation": "Use √(x²+y²).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-011",
@@ -192,10 +212,12 @@
       "10.8 N",
       "6.75 N",
       "5.4 N",
-      "2.7 N"
+      "2.7 N",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Fx = F cos60° = F/2."
+    "explanation": "Fx = F cos60° = F/2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-012",
@@ -210,10 +232,12 @@
       "7.81 m",
       "6.25 m",
       "3.13 m",
-      "12.5 m"
+      "12.5 m",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "The displacements are perpendicular, so use Pythagoras."
+    "explanation": "The displacements are perpendicular, so use Pythagoras.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-013",
@@ -228,10 +252,12 @@
       "6.02",
       "3.01",
       "12.04",
-      "7.52"
+      "7.52",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Use √(x²+y²)."
+    "explanation": "Use √(x²+y²).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-014",
@@ -246,10 +272,12 @@
       "2.88 N",
       "11.5 N",
       "7.19 N",
-      "5.75 N"
+      "5.75 N",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Fx = F cos60° = F/2."
+    "explanation": "Fx = F cos60° = F/2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-015",
@@ -264,10 +292,12 @@
       "13.12 m",
       "8.2 m",
       "6.56 m",
-      "3.28 m"
+      "3.28 m",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "The displacements are perpendicular, so use Pythagoras."
+    "explanation": "The displacements are perpendicular, so use Pythagoras.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-016",
@@ -282,10 +312,12 @@
       "8.14",
       "6.51",
       "3.25",
-      "13.02"
+      "13.02",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Use √(x²+y²)."
+    "explanation": "Use √(x²+y²).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-017",
@@ -300,10 +332,12 @@
       "6.1 N",
       "3.05 N",
       "12.2 N",
-      "7.63 N"
+      "7.63 N",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Fx = F cos60° = F/2."
+    "explanation": "Fx = F cos60° = F/2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-018",
@@ -318,10 +352,12 @@
       "3.44 m",
       "13.76 m",
       "8.6 m",
-      "6.88 m"
+      "6.88 m",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "The displacements are perpendicular, so use Pythagoras."
+    "explanation": "The displacements are perpendicular, so use Pythagoras.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-019",
@@ -336,10 +372,12 @@
       "14",
       "8.75",
       "7",
-      "3.5"
+      "3.5",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Use √(x²+y²)."
+    "explanation": "Use √(x²+y²).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-020",
@@ -354,10 +392,12 @@
       "8.06 N",
       "6.45 N",
       "3.23 N",
-      "12.9 N"
+      "12.9 N",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Fx = F cos60° = F/2."
+    "explanation": "Fx = F cos60° = F/2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-021",
@@ -372,10 +412,12 @@
       "7.19 m",
       "3.6 m",
       "14.38 m",
-      "8.99 m"
+      "8.99 m",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "The displacements are perpendicular, so use Pythagoras."
+    "explanation": "The displacements are perpendicular, so use Pythagoras.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-022",
@@ -390,10 +432,12 @@
       "3.75",
       "15",
       "9.38",
-      "7.5"
+      "7.5",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Use √(x²+y²)."
+    "explanation": "Use √(x²+y²).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-023",
@@ -408,10 +452,12 @@
       "13.6 N",
       "8.5 N",
       "6.8 N",
-      "3.4 N"
+      "3.4 N",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Fx = F cos60° = F/2."
+    "explanation": "Fx = F cos60° = F/2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-024",
@@ -426,10 +472,12 @@
       "9.39 m",
       "7.51 m",
       "3.75 m",
-      "15.02 m"
+      "15.02 m",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "The displacements are perpendicular, so use Pythagoras."
+    "explanation": "The displacements are perpendicular, so use Pythagoras.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-025",
@@ -444,10 +492,12 @@
       "7.99",
       "4",
       "15.98",
-      "9.99"
+      "9.99",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Use √(x²+y²)."
+    "explanation": "Use √(x²+y²).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-026",
@@ -462,10 +512,12 @@
       "3.58 N",
       "14.3 N",
       "8.94 N",
-      "7.15 N"
+      "7.15 N",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Fx = F cos60° = F/2."
+    "explanation": "Fx = F cos60° = F/2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-027",
@@ -480,10 +532,12 @@
       "15.64 m",
       "9.78 m",
       "7.82 m",
-      "3.91 m"
+      "3.91 m",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "The displacements are perpendicular, so use Pythagoras."
+    "explanation": "The displacements are perpendicular, so use Pythagoras.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-028",
@@ -498,10 +552,12 @@
       "10.61",
       "8.49",
       "4.25",
-      "16.98"
+      "16.98",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Use √(x²+y²)."
+    "explanation": "Use √(x²+y²).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-029",
@@ -516,10 +572,12 @@
       "7.5 N",
       "3.75 N",
       "15 N",
-      "9.38 N"
+      "9.38 N",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Fx = F cos60° = F/2."
+    "explanation": "Fx = F cos60° = F/2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-030",
@@ -534,10 +592,12 @@
       "4.07 m",
       "16.28 m",
       "10.18 m",
-      "8.14 m"
+      "8.14 m",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "The displacements are perpendicular, so use Pythagoras."
+    "explanation": "The displacements are perpendicular, so use Pythagoras.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-031",
@@ -552,10 +612,12 @@
       "17.96",
       "11.23",
       "8.98",
-      "4.49"
+      "4.49",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Use √(x²+y²)."
+    "explanation": "Use √(x²+y²).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-032",
@@ -570,10 +632,12 @@
       "9.81 N",
       "7.85 N",
       "3.92 N",
-      "15.7 N"
+      "15.7 N",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Fx = F cos60° = F/2."
+    "explanation": "Fx = F cos60° = F/2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-033",
@@ -588,10 +652,12 @@
       "8.46 m",
       "4.23 m",
       "16.92 m",
-      "10.58 m"
+      "10.58 m",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "The displacements are perpendicular, so use Pythagoras."
+    "explanation": "The displacements are perpendicular, so use Pythagoras.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-034",
@@ -606,10 +672,12 @@
       "4.74",
       "18.96",
       "11.85",
-      "9.48"
+      "9.48",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Use √(x²+y²)."
+    "explanation": "Use √(x²+y²).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-035",
@@ -624,10 +692,12 @@
       "16.4 N",
       "10.25 N",
       "8.2 N",
-      "4.1 N"
+      "4.1 N",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Fx = F cos60° = F/2."
+    "explanation": "Fx = F cos60° = F/2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-036",
@@ -642,10 +712,12 @@
       "10.96 m",
       "8.77 m",
       "4.38 m",
-      "17.54 m"
+      "17.54 m",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "The displacements are perpendicular, so use Pythagoras."
+    "explanation": "The displacements are perpendicular, so use Pythagoras.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-037",
@@ -660,10 +732,12 @@
       "9.97",
       "4.99",
       "19.94",
-      "12.46"
+      "12.46",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Use √(x²+y²)."
+    "explanation": "Use √(x²+y²).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-038",
@@ -678,10 +752,12 @@
       "4.28 N",
       "17.1 N",
       "10.69 N",
-      "8.55 N"
+      "8.55 N",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Fx = F cos60° = F/2."
+    "explanation": "Fx = F cos60° = F/2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-039",
@@ -696,10 +772,12 @@
       "18.18 m",
       "11.36 m",
       "9.09 m",
-      "4.54 m"
+      "4.54 m",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "The displacements are perpendicular, so use Pythagoras."
+    "explanation": "The displacements are perpendicular, so use Pythagoras.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-040",
@@ -714,10 +792,12 @@
       "13.09",
       "10.47",
       "5.24",
-      "20.94"
+      "20.94",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Use √(x²+y²)."
+    "explanation": "Use √(x²+y²).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-041",
@@ -732,10 +812,12 @@
       "8.9 N",
       "4.45 N",
       "17.8 N",
-      "11.13 N"
+      "11.13 N",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Fx = F cos60° = F/2."
+    "explanation": "Fx = F cos60° = F/2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-042",
@@ -750,10 +832,12 @@
       "4.71 m",
       "18.82 m",
       "11.76 m",
-      "9.41 m"
+      "9.41 m",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "The displacements are perpendicular, so use Pythagoras."
+    "explanation": "The displacements are perpendicular, so use Pythagoras.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-043",
@@ -768,10 +852,12 @@
       "21.94",
       "13.71",
       "10.97",
-      "5.49"
+      "5.49",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Use √(x²+y²)."
+    "explanation": "Use √(x²+y²).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-044",
@@ -786,10 +872,12 @@
       "11.56 N",
       "9.25 N",
       "4.63 N",
-      "18.5 N"
+      "18.5 N",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Fx = F cos60° = F/2."
+    "explanation": "Fx = F cos60° = F/2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-045",
@@ -804,10 +892,12 @@
       "9.72 m",
       "4.86 m",
       "19.44 m",
-      "12.15 m"
+      "12.15 m",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "The displacements are perpendicular, so use Pythagoras."
+    "explanation": "The displacements are perpendicular, so use Pythagoras.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-046",
@@ -822,10 +912,12 @@
       "5.73",
       "22.92",
       "14.33",
-      "11.46"
+      "11.46",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Use √(x²+y²)."
+    "explanation": "Use √(x²+y²).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-047",
@@ -840,10 +932,12 @@
       "19.2 N",
       "12 N",
       "9.6 N",
-      "4.8 N"
+      "4.8 N",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Fx = F cos60° = F/2."
+    "explanation": "Fx = F cos60° = F/2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-048",
@@ -858,10 +952,12 @@
       "12.55 m",
       "10.04 m",
       "5.02 m",
-      "20.08 m"
+      "20.08 m",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "The displacements are perpendicular, so use Pythagoras."
+    "explanation": "The displacements are perpendicular, so use Pythagoras.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-049",
@@ -876,10 +972,12 @@
       "11.96",
       "5.98",
       "23.92",
-      "14.95"
+      "14.95",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Use √(x²+y²)."
+    "explanation": "Use √(x²+y²).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-050",
@@ -894,10 +992,12 @@
       "4.97 N",
       "19.9 N",
       "12.44 N",
-      "9.95 N"
+      "9.95 N",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Fx = F cos60° = F/2."
+    "explanation": "Fx = F cos60° = F/2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-051",
@@ -912,10 +1012,12 @@
       "20.72 m",
       "12.95 m",
       "10.36 m",
-      "5.18 m"
+      "5.18 m",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "The displacements are perpendicular, so use Pythagoras."
+    "explanation": "The displacements are perpendicular, so use Pythagoras.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-052",
@@ -930,10 +1032,12 @@
       "15.58",
       "12.46",
       "6.23",
-      "24.92"
+      "24.92",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Use √(x²+y²)."
+    "explanation": "Use √(x²+y²).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-053",
@@ -948,10 +1052,12 @@
       "10.3 N",
       "5.15 N",
       "20.6 N",
-      "12.88 N"
+      "12.88 N",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Fx = F cos60° = F/2."
+    "explanation": "Fx = F cos60° = F/2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-054",
@@ -966,10 +1072,12 @@
       "5.34 m",
       "21.36 m",
       "13.35 m",
-      "10.68 m"
+      "10.68 m",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "The displacements are perpendicular, so use Pythagoras."
+    "explanation": "The displacements are perpendicular, so use Pythagoras.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-055",
@@ -984,10 +1092,12 @@
       "25.92",
       "16.2",
       "12.96",
-      "6.48"
+      "6.48",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Use √(x²+y²)."
+    "explanation": "Use √(x²+y²).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-056",
@@ -1002,10 +1112,12 @@
       "13.31 N",
       "10.65 N",
       "5.33 N",
-      "21.3 N"
+      "21.3 N",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Fx = F cos60° = F/2."
+    "explanation": "Fx = F cos60° = F/2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-057",
@@ -1020,10 +1132,12 @@
       "11 m",
       "5.5 m",
       "22 m",
-      "13.75 m"
+      "13.75 m",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "The displacements are perpendicular, so use Pythagoras."
+    "explanation": "The displacements are perpendicular, so use Pythagoras.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-058",
@@ -1038,10 +1152,12 @@
       "6.72",
       "26.9",
       "16.81",
-      "13.45"
+      "13.45",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Use √(x²+y²)."
+    "explanation": "Use √(x²+y²).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-059",
@@ -1056,10 +1172,12 @@
       "22 N",
       "13.75 N",
       "11 N",
-      "5.5 N"
+      "5.5 N",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Fx = F cos60° = F/2."
+    "explanation": "Fx = F cos60° = F/2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-060",
@@ -1074,10 +1192,12 @@
       "14.14 m",
       "11.31 m",
       "5.66 m",
-      "22.62 m"
+      "22.62 m",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "The displacements are perpendicular, so use Pythagoras."
+    "explanation": "The displacements are perpendicular, so use Pythagoras.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-061",
@@ -1092,10 +1212,12 @@
       "13.95",
       "6.97",
       "27.9",
-      "17.44"
+      "17.44",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Use √(x²+y²)."
+    "explanation": "Use √(x²+y²).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-062",
@@ -1110,10 +1232,12 @@
       "5.67 N",
       "22.7 N",
       "14.19 N",
-      "11.35 N"
+      "11.35 N",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Fx = F cos60° = F/2."
+    "explanation": "Fx = F cos60° = F/2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-063",
@@ -1128,10 +1252,12 @@
       "23.26 m",
       "14.54 m",
       "11.63 m",
-      "5.82 m"
+      "5.82 m",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "The displacements are perpendicular, so use Pythagoras."
+    "explanation": "The displacements are perpendicular, so use Pythagoras.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-064",
@@ -1146,10 +1272,12 @@
       "18.06",
       "14.45",
       "7.22",
-      "28.9"
+      "28.9",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Use √(x²+y²)."
+    "explanation": "Use √(x²+y²).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-065",
@@ -1164,10 +1292,12 @@
       "11.7 N",
       "5.85 N",
       "23.4 N",
-      "14.63 N"
+      "14.63 N",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Fx = F cos60° = F/2."
+    "explanation": "Fx = F cos60° = F/2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-066",
@@ -1182,10 +1312,12 @@
       "5.97 m",
       "23.9 m",
       "14.94 m",
-      "11.95 m"
+      "11.95 m",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "The displacements are perpendicular, so use Pythagoras."
+    "explanation": "The displacements are perpendicular, so use Pythagoras.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-067",
@@ -1200,10 +1332,12 @@
       "29.9",
       "18.69",
       "14.95",
-      "7.47"
+      "7.47",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Use √(x²+y²)."
+    "explanation": "Use √(x²+y²).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-068",
@@ -1218,10 +1352,12 @@
       "15.06 N",
       "12.05 N",
       "6.03 N",
-      "24.1 N"
+      "24.1 N",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Fx = F cos60° = F/2."
+    "explanation": "Fx = F cos60° = F/2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-069",
@@ -1236,10 +1372,12 @@
       "12.27 m",
       "6.13 m",
       "24.54 m",
-      "15.34 m"
+      "15.34 m",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "The displacements are perpendicular, so use Pythagoras."
+    "explanation": "The displacements are perpendicular, so use Pythagoras.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-070",
@@ -1254,10 +1392,12 @@
       "7.72",
       "30.9",
       "19.31",
-      "15.45"
+      "15.45",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Use √(x²+y²)."
+    "explanation": "Use √(x²+y²).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-071",
@@ -1272,10 +1412,12 @@
       "24.8 N",
       "15.5 N",
       "12.4 N",
-      "6.2 N"
+      "6.2 N",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Fx = F cos60° = F/2."
+    "explanation": "Fx = F cos60° = F/2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-072",
@@ -1290,10 +1432,12 @@
       "15.74 m",
       "12.59 m",
       "6.29 m",
-      "25.18 m"
+      "25.18 m",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "The displacements are perpendicular, so use Pythagoras."
+    "explanation": "The displacements are perpendicular, so use Pythagoras.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-073",
@@ -1308,10 +1452,12 @@
       "15.95",
       "7.97",
       "31.9",
-      "19.94"
+      "19.94",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Use √(x²+y²)."
+    "explanation": "Use √(x²+y²).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-074",
@@ -1326,10 +1472,12 @@
       "6.38 N",
       "25.5 N",
       "15.94 N",
-      "12.75 N"
+      "12.75 N",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Fx = F cos60° = F/2."
+    "explanation": "Fx = F cos60° = F/2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-075",
@@ -1344,10 +1492,12 @@
       "25.82 m",
       "16.14 m",
       "12.91 m",
-      "6.46 m"
+      "6.46 m",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "The displacements are perpendicular, so use Pythagoras."
+    "explanation": "The displacements are perpendicular, so use Pythagoras.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-076",
@@ -1362,10 +1512,12 @@
       "20.55",
       "16.44",
       "8.22",
-      "32.88"
+      "32.88",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Use √(x²+y²)."
+    "explanation": "Use √(x²+y²).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-077",
@@ -1380,10 +1532,12 @@
       "13.1 N",
       "6.55 N",
       "26.2 N",
-      "16.38 N"
+      "16.38 N",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Fx = F cos60° = F/2."
+    "explanation": "Fx = F cos60° = F/2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-078",
@@ -1398,10 +1552,12 @@
       "6.61 m",
       "26.44 m",
       "16.53 m",
-      "13.22 m"
+      "13.22 m",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "The displacements are perpendicular, so use Pythagoras."
+    "explanation": "The displacements are perpendicular, so use Pythagoras.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-079",
@@ -1416,10 +1572,12 @@
       "33.88",
       "21.18",
       "16.94",
-      "8.47"
+      "8.47",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Use √(x²+y²)."
+    "explanation": "Use √(x²+y²).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-080",
@@ -1434,10 +1592,12 @@
       "16.81 N",
       "13.45 N",
       "6.72 N",
-      "26.9 N"
+      "26.9 N",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Fx = F cos60° = F/2."
+    "explanation": "Fx = F cos60° = F/2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-081",
@@ -1452,10 +1612,12 @@
       "13.54 m",
       "6.77 m",
       "27.08 m",
-      "16.92 m"
+      "16.92 m",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "The displacements are perpendicular, so use Pythagoras."
+    "explanation": "The displacements are perpendicular, so use Pythagoras.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-082",
@@ -1470,10 +1632,12 @@
       "8.72",
       "34.88",
       "21.8",
-      "17.44"
+      "17.44",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Use √(x²+y²)."
+    "explanation": "Use √(x²+y²).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-083",
@@ -1488,10 +1652,12 @@
       "27.6 N",
       "17.25 N",
       "13.8 N",
-      "6.9 N"
+      "6.9 N",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Fx = F cos60° = F/2."
+    "explanation": "Fx = F cos60° = F/2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-084",
@@ -1506,10 +1672,12 @@
       "17.32 m",
       "13.86 m",
       "6.93 m",
-      "27.72 m"
+      "27.72 m",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "The displacements are perpendicular, so use Pythagoras."
+    "explanation": "The displacements are perpendicular, so use Pythagoras.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-085",
@@ -1524,10 +1692,12 @@
       "17.94",
       "8.97",
       "35.88",
-      "22.43"
+      "22.43",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Use √(x²+y²)."
+    "explanation": "Use √(x²+y²).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-086",
@@ -1542,10 +1712,12 @@
       "7.08 N",
       "28.3 N",
       "17.69 N",
-      "14.15 N"
+      "14.15 N",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Fx = F cos60° = F/2."
+    "explanation": "Fx = F cos60° = F/2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-087",
@@ -1560,10 +1732,12 @@
       "28.36 m",
       "17.73 m",
       "14.18 m",
-      "7.09 m"
+      "7.09 m",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "The displacements are perpendicular, so use Pythagoras."
+    "explanation": "The displacements are perpendicular, so use Pythagoras.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-088",
@@ -1578,10 +1752,12 @@
       "23.05",
       "18.44",
       "9.22",
-      "36.88"
+      "36.88",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Use √(x²+y²)."
+    "explanation": "Use √(x²+y²).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-089",
@@ -1596,10 +1772,12 @@
       "14.5 N",
       "7.25 N",
       "29 N",
-      "18.13 N"
+      "18.13 N",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Fx = F cos60° = F/2."
+    "explanation": "Fx = F cos60° = F/2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-090",
@@ -1614,10 +1792,12 @@
       "7.25 m",
       "29 m",
       "18.13 m",
-      "14.5 m"
+      "14.5 m",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "The displacements are perpendicular, so use Pythagoras."
+    "explanation": "The displacements are perpendicular, so use Pythagoras.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-091",
@@ -1632,10 +1812,12 @@
       "37.88",
       "23.68",
       "18.94",
-      "9.47"
+      "9.47",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Use √(x²+y²)."
+    "explanation": "Use √(x²+y²).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-092",
@@ -1650,10 +1832,12 @@
       "18.56 N",
       "14.85 N",
       "7.42 N",
-      "29.7 N"
+      "29.7 N",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Fx = F cos60° = F/2."
+    "explanation": "Fx = F cos60° = F/2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-093",
@@ -1668,10 +1852,12 @@
       "14.82 m",
       "7.41 m",
       "29.64 m",
-      "18.52 m"
+      "18.52 m",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "The displacements are perpendicular, so use Pythagoras."
+    "explanation": "The displacements are perpendicular, so use Pythagoras.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-094",
@@ -1686,10 +1872,12 @@
       "9.72",
       "38.88",
       "24.3",
-      "19.44"
+      "19.44",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Use √(x²+y²)."
+    "explanation": "Use √(x²+y²).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-095",
@@ -1704,10 +1892,12 @@
       "30.4 N",
       "19 N",
       "15.2 N",
-      "7.6 N"
+      "7.6 N",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Fx = F cos60° = F/2."
+    "explanation": "Fx = F cos60° = F/2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-096",
@@ -1722,10 +1912,12 @@
       "18.93 m",
       "15.14 m",
       "7.57 m",
-      "30.28 m"
+      "30.28 m",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "The displacements are perpendicular, so use Pythagoras."
+    "explanation": "The displacements are perpendicular, so use Pythagoras.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-097",
@@ -1740,10 +1932,12 @@
       "19.94",
       "9.97",
       "39.88",
-      "24.93"
+      "24.93",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Use √(x²+y²)."
+    "explanation": "Use √(x²+y²).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-098",
@@ -1758,10 +1952,12 @@
       "7.78 N",
       "31.1 N",
       "19.44 N",
-      "15.55 N"
+      "15.55 N",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Fx = F cos60° = F/2."
+    "explanation": "Fx = F cos60° = F/2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-099",
@@ -1776,10 +1972,12 @@
       "30.92 m",
       "19.33 m",
       "15.46 m",
-      "7.73 m"
+      "7.73 m",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "The displacements are perpendicular, so use Pythagoras."
+    "explanation": "The displacements are perpendicular, so use Pythagoras.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-100",
@@ -1794,10 +1992,12 @@
       "25.55",
       "20.44",
       "10.22",
-      "40.88"
+      "40.88",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Use √(x²+y²)."
+    "explanation": "Use √(x²+y²).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-101",
@@ -1812,10 +2012,12 @@
       "15.9 N",
       "7.95 N",
       "31.8 N",
-      "19.88 N"
+      "19.88 N",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Fx = F cos60° = F/2."
+    "explanation": "Fx = F cos60° = F/2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-102",
@@ -1830,10 +2032,12 @@
       "7.89 m",
       "31.56 m",
       "19.72 m",
-      "15.78 m"
+      "15.78 m",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "The displacements are perpendicular, so use Pythagoras."
+    "explanation": "The displacements are perpendicular, so use Pythagoras.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-103",
@@ -1848,10 +2052,12 @@
       "41.86",
       "26.16",
       "20.93",
-      "10.46"
+      "10.46",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Use √(x²+y²)."
+    "explanation": "Use √(x²+y²).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-104",
@@ -1866,10 +2072,12 @@
       "20.31 N",
       "16.25 N",
       "8.13 N",
-      "32.5 N"
+      "32.5 N",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Fx = F cos60° = F/2."
+    "explanation": "Fx = F cos60° = F/2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-105",
@@ -1884,10 +2092,12 @@
       "16.1 m",
       "8.05 m",
       "32.2 m",
-      "20.13 m"
+      "20.13 m",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "The displacements are perpendicular, so use Pythagoras."
+    "explanation": "The displacements are perpendicular, so use Pythagoras.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-106",
@@ -1902,10 +2112,12 @@
       "10.71",
       "42.86",
       "26.79",
-      "21.43"
+      "21.43",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Use √(x²+y²)."
+    "explanation": "Use √(x²+y²).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-107",
@@ -1920,10 +2132,12 @@
       "33.2 N",
       "20.75 N",
       "16.6 N",
-      "8.3 N"
+      "8.3 N",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Fx = F cos60° = F/2."
+    "explanation": "Fx = F cos60° = F/2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-108",
@@ -1938,10 +2152,12 @@
       "20.51 m",
       "16.41 m",
       "8.21 m",
-      "32.82 m"
+      "32.82 m",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "The displacements are perpendicular, so use Pythagoras."
+    "explanation": "The displacements are perpendicular, so use Pythagoras.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-109",
@@ -1956,10 +2172,12 @@
       "21.93",
       "10.96",
       "43.86",
-      "27.41"
+      "27.41",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Use √(x²+y²)."
+    "explanation": "Use √(x²+y²).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-110",
@@ -1974,10 +2192,12 @@
       "8.47 N",
       "33.9 N",
       "21.19 N",
-      "16.95 N"
+      "16.95 N",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Fx = F cos60° = F/2."
+    "explanation": "Fx = F cos60° = F/2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-111",
@@ -1992,10 +2212,12 @@
       "33.46 m",
       "20.91 m",
       "16.73 m",
-      "8.37 m"
+      "8.37 m",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "The displacements are perpendicular, so use Pythagoras."
+    "explanation": "The displacements are perpendicular, so use Pythagoras.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-112",
@@ -2010,10 +2232,12 @@
       "28.04",
       "22.43",
       "11.21",
-      "44.86"
+      "44.86",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Use √(x²+y²)."
+    "explanation": "Use √(x²+y²).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-113",
@@ -2028,10 +2252,12 @@
       "17.3 N",
       "8.65 N",
       "34.6 N",
-      "21.63 N"
+      "21.63 N",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Fx = F cos60° = F/2."
+    "explanation": "Fx = F cos60° = F/2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-114",
@@ -2046,10 +2272,12 @@
       "8.53 m",
       "34.1 m",
       "21.31 m",
-      "17.05 m"
+      "17.05 m",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "The displacements are perpendicular, so use Pythagoras."
+    "explanation": "The displacements are perpendicular, so use Pythagoras.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-115",
@@ -2064,10 +2292,12 @@
       "45.86",
       "28.66",
       "22.93",
-      "11.46"
+      "11.46",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Use √(x²+y²)."
+    "explanation": "Use √(x²+y²).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-116",
@@ -2082,10 +2312,12 @@
       "22.06 N",
       "17.65 N",
       "8.82 N",
-      "35.3 N"
+      "35.3 N",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Fx = F cos60° = F/2."
+    "explanation": "Fx = F cos60° = F/2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-117",
@@ -2100,10 +2332,12 @@
       "17.37 m",
       "8.69 m",
       "34.74 m",
-      "21.71 m"
+      "21.71 m",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "The displacements are perpendicular, so use Pythagoras."
+    "explanation": "The displacements are perpendicular, so use Pythagoras.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-118",
@@ -2118,10 +2352,12 @@
       "11.71",
       "46.86",
       "29.29",
-      "23.43"
+      "23.43",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Use √(x²+y²)."
+    "explanation": "Use √(x²+y²).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-119",
@@ -2136,10 +2372,12 @@
       "36 N",
       "22.5 N",
       "18 N",
-      "9 N"
+      "9 N",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Fx = F cos60° = F/2."
+    "explanation": "Fx = F cos60° = F/2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-120",
@@ -2154,10 +2392,12 @@
       "22.11 m",
       "17.69 m",
       "8.85 m",
-      "35.38 m"
+      "35.38 m",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "The displacements are perpendicular, so use Pythagoras."
+    "explanation": "The displacements are perpendicular, so use Pythagoras.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-121",
@@ -2172,10 +2412,12 @@
       "23.93",
       "11.96",
       "47.86",
-      "29.91"
+      "29.91",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Use √(x²+y²)."
+    "explanation": "Use √(x²+y²).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-122",
@@ -2190,10 +2432,12 @@
       "9.18 N",
       "36.7 N",
       "22.94 N",
-      "18.35 N"
+      "18.35 N",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Fx = F cos60° = F/2."
+    "explanation": "Fx = F cos60° = F/2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-123",
@@ -2208,10 +2452,12 @@
       "36.02 m",
       "22.51 m",
       "18.01 m",
-      "9.01 m"
+      "9.01 m",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "The displacements are perpendicular, so use Pythagoras."
+    "explanation": "The displacements are perpendicular, so use Pythagoras.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-124",
@@ -2226,10 +2472,12 @@
       "30.54",
       "24.43",
       "12.21",
-      "48.86"
+      "48.86",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Use √(x²+y²)."
+    "explanation": "Use √(x²+y²).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-125",
@@ -2244,10 +2492,12 @@
       "18.7 N",
       "9.35 N",
       "37.4 N",
-      "23.38 N"
+      "23.38 N",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Fx = F cos60° = F/2."
+    "explanation": "Fx = F cos60° = F/2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-126",
@@ -2262,10 +2512,12 @@
       "9.16 m",
       "36.66 m",
       "22.91 m",
-      "18.33 m"
+      "18.33 m",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "The displacements are perpendicular, so use Pythagoras."
+    "explanation": "The displacements are perpendicular, so use Pythagoras.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-127",
@@ -2280,10 +2532,12 @@
       "49.86",
       "31.16",
       "24.93",
-      "12.46"
+      "12.46",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Use √(x²+y²)."
+    "explanation": "Use √(x²+y²).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-128",
@@ -2298,10 +2552,12 @@
       "23.81 N",
       "19.05 N",
       "9.53 N",
-      "38.1 N"
+      "38.1 N",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Fx = F cos60° = F/2."
+    "explanation": "Fx = F cos60° = F/2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-129",
@@ -2316,10 +2572,12 @@
       "18.65 m",
       "9.32 m",
       "37.3 m",
-      "23.31 m"
+      "23.31 m",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "The displacements are perpendicular, so use Pythagoras."
+    "explanation": "The displacements are perpendicular, so use Pythagoras.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-130",
@@ -2334,10 +2592,12 @@
       "12.71",
       "50.86",
       "31.79",
-      "25.43"
+      "25.43",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Use √(x²+y²)."
+    "explanation": "Use √(x²+y²).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-131",
@@ -2352,10 +2612,12 @@
       "38.8 N",
       "24.25 N",
       "19.4 N",
-      "9.7 N"
+      "9.7 N",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Fx = F cos60° = F/2."
+    "explanation": "Fx = F cos60° = F/2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-132",
@@ -2370,10 +2632,12 @@
       "23.71 m",
       "18.97 m",
       "9.48 m",
-      "37.94 m"
+      "37.94 m",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "The displacements are perpendicular, so use Pythagoras."
+    "explanation": "The displacements are perpendicular, so use Pythagoras.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-133",
@@ -2388,10 +2652,12 @@
       "25.93",
       "12.96",
       "51.86",
-      "32.41"
+      "32.41",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Use √(x²+y²)."
+    "explanation": "Use √(x²+y²).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-134",
@@ -2406,10 +2672,12 @@
       "9.88 N",
       "39.5 N",
       "24.69 N",
-      "19.75 N"
+      "19.75 N",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Fx = F cos60° = F/2."
+    "explanation": "Fx = F cos60° = F/2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-135",
@@ -2424,10 +2692,12 @@
       "38.58 m",
       "24.11 m",
       "19.29 m",
-      "9.64 m"
+      "9.64 m",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "The displacements are perpendicular, so use Pythagoras."
+    "explanation": "The displacements are perpendicular, so use Pythagoras.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-136",
@@ -2442,10 +2712,12 @@
       "33.04",
       "26.43",
       "13.21",
-      "52.86"
+      "52.86",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Use √(x²+y²)."
+    "explanation": "Use √(x²+y²).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-137",
@@ -2460,10 +2732,12 @@
       "20.1 N",
       "10.05 N",
       "40.2 N",
-      "25.13 N"
+      "25.13 N",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Fx = F cos60° = F/2."
+    "explanation": "Fx = F cos60° = F/2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-138",
@@ -2478,10 +2752,12 @@
       "9.8 m",
       "39.22 m",
       "24.51 m",
-      "19.61 m"
+      "19.61 m",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "The displacements are perpendicular, so use Pythagoras."
+    "explanation": "The displacements are perpendicular, so use Pythagoras.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-139",
@@ -2496,10 +2772,12 @@
       "53.86",
       "33.66",
       "26.93",
-      "13.46"
+      "13.46",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Use √(x²+y²)."
+    "explanation": "Use √(x²+y²).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-140",
@@ -2514,10 +2792,12 @@
       "25.56 N",
       "20.45 N",
       "10.22 N",
-      "40.9 N"
+      "40.9 N",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Fx = F cos60° = F/2."
+    "explanation": "Fx = F cos60° = F/2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-141",
@@ -2532,10 +2812,12 @@
       "19.93 m",
       "9.96 m",
       "39.86 m",
-      "24.91 m"
+      "24.91 m",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "The displacements are perpendicular, so use Pythagoras."
+    "explanation": "The displacements are perpendicular, so use Pythagoras.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-142",
@@ -2550,10 +2832,12 @@
       "13.71",
       "54.86",
       "34.29",
-      "27.43"
+      "27.43",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Use √(x²+y²)."
+    "explanation": "Use √(x²+y²).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-143",
@@ -2568,10 +2852,12 @@
       "41.6 N",
       "26 N",
       "20.8 N",
-      "10.4 N"
+      "10.4 N",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Fx = F cos60° = F/2."
+    "explanation": "Fx = F cos60° = F/2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-144",
@@ -2586,10 +2872,12 @@
       "25.31 m",
       "20.25 m",
       "10.13 m",
-      "40.5 m"
+      "40.5 m",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "The displacements are perpendicular, so use Pythagoras."
+    "explanation": "The displacements are perpendicular, so use Pythagoras.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-145",
@@ -2604,10 +2892,12 @@
       "27.93",
       "13.96",
       "55.86",
-      "34.91"
+      "34.91",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Use √(x²+y²)."
+    "explanation": "Use √(x²+y²).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-146",
@@ -2622,10 +2912,12 @@
       "10.57 N",
       "42.3 N",
       "26.44 N",
-      "21.15 N"
+      "21.15 N",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Fx = F cos60° = F/2."
+    "explanation": "Fx = F cos60° = F/2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-147",
@@ -2640,10 +2932,12 @@
       "41.14 m",
       "25.71 m",
       "20.57 m",
-      "10.29 m"
+      "10.29 m",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "The displacements are perpendicular, so use Pythagoras."
+    "explanation": "The displacements are perpendicular, so use Pythagoras.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-148",
@@ -2658,10 +2952,12 @@
       "35.54",
       "28.43",
       "14.21",
-      "56.86"
+      "56.86",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Use √(x²+y²)."
+    "explanation": "Use √(x²+y²).",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-149",
@@ -2676,10 +2972,12 @@
       "21.5 N",
       "10.75 N",
       "43 N",
-      "26.88 N"
+      "26.88 N",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Fx = F cos60° = F/2."
+    "explanation": "Fx = F cos60° = F/2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-VECTORS-150",
@@ -2694,9 +2992,11 @@
       "10.45 m",
       "41.78 m",
       "26.11 m",
-      "20.89 m"
+      "20.89 m",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "The displacements are perpendicular, so use Pythagoras."
+    "explanation": "The displacements are perpendicular, so use Pythagoras.",
+    "format": "single-best-answer-5"
   }
 ]
