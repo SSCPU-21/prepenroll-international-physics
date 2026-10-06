@@ -43,20 +43,22 @@ header{
 .navlinks{display:flex;align-items:center;gap:18px;font-size:12px;font-weight:700;color:#536174}
 .site{padding:9px 13px;border:1px solid var(--line);border-radius:999px;background:rgba(255,255,255,.92);box-shadow:0 8px 26px rgba(16,36,61,.05)}
 .hero{
-  max-width:1240px;margin:auto;
-  padding:88px 24px 64px;
-  min-height:600px;
+  max-width:1240px;
+  margin:auto;
+  padding:0 24px;
+  min-height:620px;
   display:grid;
-  grid-template-columns:1.08fr .92fr;
-  gap:50px;
-  align-items:center;
+  grid-template-columns:1.02fr .98fr;
+  gap:0;
+  align-items:stretch;
 }
-.hero-content{position:relative;z-index:3}
-.eyebrow{
-  display:inline-flex;align-items:center;gap:8px;
-  padding:7px 11px;border:1px solid rgba(16,36,61,.09);
-  border-radius:999px;background:rgba(255,255,255,.76);
-  font-size:10px;font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:#607083;
+.hero-content{
+  position:relative;
+  z-index:3;
+  padding:88px 52px 72px 0;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
 }
 .eyebrow:before{content:"";width:7px;height:7px;border-radius:50%;background:linear-gradient(135deg,var(--cyan),var(--blue))}
 h1{
@@ -82,20 +84,22 @@ h1 .grad{
 .hero-photo{
   margin:0;
   width:100%;
-  height:430px;
-  border-radius:28px;
+  min-height:620px;
+  height:auto;
   overflow:hidden;
-  border:1px solid var(--line);
-  box-shadow:0 22px 60px rgba(16,36,61,.10);
+  border:0;
+  border-radius:0;
+  box-shadow:none;
   background:#fff;
 }
 .hero-photo img{
   width:100%;
   height:100%;
+  min-height:620px;
   display:block;
   object-fit:cover;
   object-position:center;
-  filter:saturate(.92) contrast(.98) brightness(1.04);
+  filter:saturate(.94) contrast(.98) brightness(1.03);
 }
 .ticker-wrap{
   overflow:hidden;border-top:1px solid rgba(16,36,61,.08);border-bottom:1px solid rgba(16,36,61,.08);
@@ -170,7 +174,11 @@ h1 .grad{
 .pe-footer-legal{max-width:1180px;margin:20px auto 0;padding-top:15px;border-top:1px solid rgba(255,255,255,.12);font-size:.68rem;line-height:1.5;color:rgba(255,255,255,.56)}
 .pe-footer-legal strong{color:#fff}
 @media(max-width:900px){
-  .hero{grid-template-columns:1fr}.hero-photo{height:360px}
+  .hero{grid-template-columns:1fr;padding:0}
+  .hero-content{padding:64px 22px 48px}
+  .hero-photo,.hero-photo img{min-height:420px;height:420px}
+  .grid{grid-template-columns:1fr 1fr}.card.c1{grid-column:1/3}
+}.hero-photo{height:360px}
   .grid{grid-template-columns:1fr 1fr}.card.c1{grid-column:1/3}
 }
 @media(max-width:640px){
@@ -197,19 +205,19 @@ h1 .grad{
 
 <main>
 <section class="hero">
-  <figure class="hero-photo">
-    <img src="https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1600&q=88" alt="International students studying together in a bright academic space" onerror="this.onerror=null;this.src='https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1600&q=88';">
-  </figure>
-  <div class="hero-content">
-    <div class="eyebrow">International Practice Hub</div>
-    <h1>International practice<br><span class="grad">that feels focused.</span></h1>
-    <p>Choose your international entrance exam, open the right studio and build focused practice. IMAT Physics is live now, with SAT and UCAT planned inside the same PrepEnroll™ practice family.</p>
-    <div class="hero-actions">
-      <a class="btn primary" href="#live">Explore Live Studios</a>
-      <a class="btn secondary" href="#coming">View Upcoming Studios</a>
+    <div class="hero-content">
+      <div class="eyebrow">International Practice Hub</div>
+      <h1>International practice<br><span class="grad">that feels focused.</span></h1>
+      <p>Choose your international entrance exam, open the right studio and build focused practice. IMAT Physics is live now, with SAT and UCAT planned inside the same PrepEnroll™ practice family.</p>
+      <div class="hero-actions">
+        <a class="btn primary" href="#live">Explore Live Studios</a>
+        <a class="btn secondary" href="#coming">View Upcoming Studios</a>
+      </div>
     </div>
-  </div>
-</section>
+    <figure class="hero-photo">
+      <img src="data:image/jpeg;base64,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" alt="International students studying together in a bright academic space">
+    </figure>
+  </section>
 
 <div class="ticker-wrap">
   <div class="ticker">
