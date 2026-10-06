@@ -12,10 +12,12 @@
       "169.17 kPa",
       "84.59 kPa",
       "338.34 kPa",
-      "211.46 kPa"
+      "211.46 kPa",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Boyle's law: P1V1=P2V2."
+    "explanation": "Boyle's law: P1V1=P2V2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-002",
@@ -30,10 +32,12 @@
       "1.22 L",
       "4.89 L",
       "3.06 L",
-      "2.45 L"
+      "2.45 L",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Charles' law: V/T is constant."
+    "explanation": "Charles' law: V/T is constant.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-003",
@@ -48,10 +52,12 @@
       "768 J",
       "480 J",
       "384 J",
-      "192 J"
+      "192 J",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "First law: ΔU=Q-W."
+    "explanation": "First law: ΔU=Q-W.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-004",
@@ -66,10 +72,12 @@
       "214.6 kPa",
       "171.68 kPa",
       "85.84 kPa",
-      "343.37 kPa"
+      "343.37 kPa",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Boyle's law: P1V1=P2V2."
+    "explanation": "Boyle's law: P1V1=P2V2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-005",
@@ -84,10 +92,12 @@
       "2.48 L",
       "1.24 L",
       "4.96 L",
-      "3.1 L"
+      "3.1 L",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Charles' law: V/T is constant."
+    "explanation": "Charles' law: V/T is constant.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-006",
@@ -102,10 +112,12 @@
       "194 J",
       "776 J",
       "485 J",
-      "388 J"
+      "388 J",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "First law: ΔU=Q-W."
+    "explanation": "First law: ΔU=Q-W.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-007",
@@ -120,10 +132,12 @@
       "348.4 kPa",
       "217.75 kPa",
       "174.2 kPa",
-      "87.1 kPa"
+      "87.1 kPa",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Boyle's law: P1V1=P2V2."
+    "explanation": "Boyle's law: P1V1=P2V2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-008",
@@ -138,10 +152,12 @@
       "3.14 L",
       "2.51 L",
       "1.26 L",
-      "5.03 L"
+      "5.03 L",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Charles' law: V/T is constant."
+    "explanation": "Charles' law: V/T is constant.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-009",
@@ -156,10 +172,12 @@
       "392 J",
       "196 J",
       "784 J",
-      "490 J"
+      "490 J",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "First law: ΔU=Q-W."
+    "explanation": "First law: ΔU=Q-W.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-010",
@@ -174,10 +192,12 @@
       "88.36 kPa",
       "353.45 kPa",
       "220.91 kPa",
-      "176.73 kPa"
+      "176.73 kPa",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Boyle's law: P1V1=P2V2."
+    "explanation": "Boyle's law: P1V1=P2V2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-011",
@@ -192,10 +212,12 @@
       "5.09 L",
       "3.18 L",
       "2.55 L",
-      "1.27 L"
+      "1.27 L",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Charles' law: V/T is constant."
+    "explanation": "Charles' law: V/T is constant.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-012",
@@ -210,10 +232,12 @@
       "495 J",
       "396 J",
       "198 J",
-      "792 J"
+      "792 J",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "First law: ΔU=Q-W."
+    "explanation": "First law: ΔU=Q-W.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-013",
@@ -228,10 +252,12 @@
       "179.26 kPa",
       "89.63 kPa",
       "358.52 kPa",
-      "224.07 kPa"
+      "224.07 kPa",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Boyle's law: P1V1=P2V2."
+    "explanation": "Boyle's law: P1V1=P2V2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-014",
@@ -246,10 +272,12 @@
       "1.29 L",
       "5.16 L",
       "3.23 L",
-      "2.58 L"
+      "2.58 L",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Charles' law: V/T is constant."
+    "explanation": "Charles' law: V/T is constant.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-015",
@@ -264,10 +292,12 @@
       "800 J",
       "500 J",
       "400 J",
-      "200 J"
+      "200 J",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "First law: ΔU=Q-W."
+    "explanation": "First law: ΔU=Q-W.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-016",
@@ -282,10 +312,12 @@
       "227.25 kPa",
       "181.8 kPa",
       "90.9 kPa",
-      "363.59 kPa"
+      "363.59 kPa",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Boyle's law: P1V1=P2V2."
+    "explanation": "Boyle's law: P1V1=P2V2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-017",
@@ -300,10 +332,12 @@
       "2.61 L",
       "1.31 L",
       "5.23 L",
-      "3.27 L"
+      "3.27 L",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Charles' law: V/T is constant."
+    "explanation": "Charles' law: V/T is constant.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-018",
@@ -318,10 +352,12 @@
       "202 J",
       "808 J",
       "505 J",
-      "404 J"
+      "404 J",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "First law: ΔU=Q-W."
+    "explanation": "First law: ΔU=Q-W.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-019",
@@ -336,10 +372,12 @@
       "368.68 kPa",
       "230.43 kPa",
       "184.34 kPa",
-      "92.17 kPa"
+      "92.17 kPa",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Boyle's law: P1V1=P2V2."
+    "explanation": "Boyle's law: P1V1=P2V2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-020",
@@ -354,10 +392,12 @@
       "3.31 L",
       "2.65 L",
       "1.32 L",
-      "5.29 L"
+      "5.29 L",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Charles' law: V/T is constant."
+    "explanation": "Charles' law: V/T is constant.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-021",
@@ -372,10 +412,12 @@
       "408 J",
       "204 J",
       "816 J",
-      "510 J"
+      "510 J",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "First law: ΔU=Q-W."
+    "explanation": "First law: ΔU=Q-W.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-022",
@@ -390,10 +432,12 @@
       "93.44 kPa",
       "373.78 kPa",
       "233.61 kPa",
-      "186.89 kPa"
+      "186.89 kPa",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Boyle's law: P1V1=P2V2."
+    "explanation": "Boyle's law: P1V1=P2V2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-023",
@@ -408,10 +452,12 @@
       "5.36 L",
       "3.35 L",
       "2.68 L",
-      "1.34 L"
+      "1.34 L",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Charles' law: V/T is constant."
+    "explanation": "Charles' law: V/T is constant.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-024",
@@ -426,10 +472,12 @@
       "515 J",
       "412 J",
       "206 J",
-      "824 J"
+      "824 J",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "First law: ΔU=Q-W."
+    "explanation": "First law: ΔU=Q-W.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-025",
@@ -444,10 +492,12 @@
       "189.44 kPa",
       "94.72 kPa",
       "378.88 kPa",
-      "236.8 kPa"
+      "236.8 kPa",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Boyle's law: P1V1=P2V2."
+    "explanation": "Boyle's law: P1V1=P2V2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-026",
@@ -462,10 +512,12 @@
       "1.36 L",
       "5.42 L",
       "3.39 L",
-      "2.71 L"
+      "2.71 L",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Charles' law: V/T is constant."
+    "explanation": "Charles' law: V/T is constant.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-027",
@@ -480,10 +532,12 @@
       "832 J",
       "520 J",
       "416 J",
-      "208 J"
+      "208 J",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "First law: ΔU=Q-W."
+    "explanation": "First law: ΔU=Q-W.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-028",
@@ -498,10 +552,12 @@
       "240 kPa",
       "192 kPa",
       "96 kPa",
-      "384 kPa"
+      "384 kPa",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Boyle's law: P1V1=P2V2."
+    "explanation": "Boyle's law: P1V1=P2V2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-029",
@@ -516,10 +572,12 @@
       "2.75 L",
       "1.37 L",
       "5.49 L",
-      "3.43 L"
+      "3.43 L",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Charles' law: V/T is constant."
+    "explanation": "Charles' law: V/T is constant.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-030",
@@ -534,10 +592,12 @@
       "210 J",
       "840 J",
       "525 J",
-      "420 J"
+      "420 J",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "First law: ΔU=Q-W."
+    "explanation": "First law: ΔU=Q-W.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-031",
@@ -552,10 +612,12 @@
       "389.12 kPa",
       "243.2 kPa",
       "194.56 kPa",
-      "97.28 kPa"
+      "97.28 kPa",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Boyle's law: P1V1=P2V2."
+    "explanation": "Boyle's law: P1V1=P2V2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-032",
@@ -570,10 +632,12 @@
       "3.47 L",
       "2.78 L",
       "1.39 L",
-      "5.56 L"
+      "5.56 L",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Charles' law: V/T is constant."
+    "explanation": "Charles' law: V/T is constant.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-033",
@@ -588,10 +652,12 @@
       "424 J",
       "212 J",
       "848 J",
-      "530 J"
+      "530 J",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "First law: ΔU=Q-W."
+    "explanation": "First law: ΔU=Q-W.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-034",
@@ -606,10 +672,12 @@
       "98.56 kPa",
       "394.26 kPa",
       "246.41 kPa",
-      "197.13 kPa"
+      "197.13 kPa",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Boyle's law: P1V1=P2V2."
+    "explanation": "Boyle's law: P1V1=P2V2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-035",
@@ -624,10 +692,12 @@
       "5.62 L",
       "3.51 L",
       "2.81 L",
-      "1.41 L"
+      "1.41 L",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Charles' law: V/T is constant."
+    "explanation": "Charles' law: V/T is constant.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-036",
@@ -642,10 +712,12 @@
       "535 J",
       "428 J",
       "214 J",
-      "856 J"
+      "856 J",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "First law: ΔU=Q-W."
+    "explanation": "First law: ΔU=Q-W.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-037",
@@ -660,10 +732,12 @@
       "199.7 kPa",
       "99.85 kPa",
       "399.4 kPa",
-      "249.62 kPa"
+      "249.62 kPa",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Boyle's law: P1V1=P2V2."
+    "explanation": "Boyle's law: P1V1=P2V2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-038",
@@ -678,10 +752,12 @@
       "1.42 L",
       "5.69 L",
       "3.55 L",
-      "2.84 L"
+      "2.84 L",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Charles' law: V/T is constant."
+    "explanation": "Charles' law: V/T is constant.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-039",
@@ -696,10 +772,12 @@
       "864 J",
       "540 J",
       "432 J",
-      "216 J"
+      "216 J",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "First law: ΔU=Q-W."
+    "explanation": "First law: ΔU=Q-W.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-040",
@@ -714,10 +792,12 @@
       "252.84 kPa",
       "202.27 kPa",
       "101.14 kPa",
-      "404.54 kPa"
+      "404.54 kPa",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Boyle's law: P1V1=P2V2."
+    "explanation": "Boyle's law: P1V1=P2V2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-041",
@@ -732,10 +812,12 @@
       "2.88 L",
       "1.44 L",
       "5.75 L",
-      "3.6 L"
+      "3.6 L",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Charles' law: V/T is constant."
+    "explanation": "Charles' law: V/T is constant.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-042",
@@ -750,10 +832,12 @@
       "218 J",
       "872 J",
       "545 J",
-      "436 J"
+      "436 J",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "First law: ΔU=Q-W."
+    "explanation": "First law: ΔU=Q-W.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-043",
@@ -768,10 +852,12 @@
       "409.7 kPa",
       "256.06 kPa",
       "204.85 kPa",
-      "102.42 kPa"
+      "102.42 kPa",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Boyle's law: P1V1=P2V2."
+    "explanation": "Boyle's law: P1V1=P2V2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-044",
@@ -786,10 +872,12 @@
       "3.64 L",
       "2.91 L",
       "1.45 L",
-      "5.82 L"
+      "5.82 L",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Charles' law: V/T is constant."
+    "explanation": "Charles' law: V/T is constant.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-045",
@@ -804,10 +892,12 @@
       "440 J",
       "220 J",
       "880 J",
-      "550 J"
+      "550 J",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "First law: ΔU=Q-W."
+    "explanation": "First law: ΔU=Q-W.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-046",
@@ -822,10 +912,12 @@
       "103.71 kPa",
       "414.86 kPa",
       "259.29 kPa",
-      "207.43 kPa"
+      "207.43 kPa",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Boyle's law: P1V1=P2V2."
+    "explanation": "Boyle's law: P1V1=P2V2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-047",
@@ -840,10 +932,12 @@
       "5.88 L",
       "3.68 L",
       "2.94 L",
-      "1.47 L"
+      "1.47 L",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Charles' law: V/T is constant."
+    "explanation": "Charles' law: V/T is constant.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-048",
@@ -858,10 +952,12 @@
       "555 J",
       "444 J",
       "222 J",
-      "888 J"
+      "888 J",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "First law: ΔU=Q-W."
+    "explanation": "First law: ΔU=Q-W.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-049",
@@ -876,10 +972,12 @@
       "210.01 kPa",
       "105.01 kPa",
       "420.02 kPa",
-      "262.51 kPa"
+      "262.51 kPa",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Boyle's law: P1V1=P2V2."
+    "explanation": "Boyle's law: P1V1=P2V2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-050",
@@ -894,10 +992,12 @@
       "1.49 L",
       "5.95 L",
       "3.72 L",
-      "2.97 L"
+      "2.97 L",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Charles' law: V/T is constant."
+    "explanation": "Charles' law: V/T is constant.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-051",
@@ -912,10 +1012,12 @@
       "896 J",
       "560 J",
       "448 J",
-      "224 J"
+      "224 J",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "First law: ΔU=Q-W."
+    "explanation": "First law: ΔU=Q-W.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-052",
@@ -930,10 +1032,12 @@
       "265.75 kPa",
       "212.6 kPa",
       "106.3 kPa",
-      "425.2 kPa"
+      "425.2 kPa",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Boyle's law: P1V1=P2V2."
+    "explanation": "Boyle's law: P1V1=P2V2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-053",
@@ -948,10 +1052,12 @@
       "3.01 L",
       "1.5 L",
       "6.01 L",
-      "3.76 L"
+      "3.76 L",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Charles' law: V/T is constant."
+    "explanation": "Charles' law: V/T is constant.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-054",
@@ -966,10 +1072,12 @@
       "226 J",
       "904 J",
       "565 J",
-      "452 J"
+      "452 J",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "First law: ΔU=Q-W."
+    "explanation": "First law: ΔU=Q-W.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-055",
@@ -984,10 +1092,12 @@
       "430.37 kPa",
       "268.98 kPa",
       "215.19 kPa",
-      "107.59 kPa"
+      "107.59 kPa",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Boyle's law: P1V1=P2V2."
+    "explanation": "Boyle's law: P1V1=P2V2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-056",
@@ -1002,10 +1112,12 @@
       "3.8 L",
       "3.04 L",
       "1.52 L",
-      "6.08 L"
+      "6.08 L",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Charles' law: V/T is constant."
+    "explanation": "Charles' law: V/T is constant.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-057",
@@ -1020,10 +1132,12 @@
       "456 J",
       "228 J",
       "912 J",
-      "570 J"
+      "570 J",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "First law: ΔU=Q-W."
+    "explanation": "First law: ΔU=Q-W.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-058",
@@ -1038,10 +1152,12 @@
       "108.89 kPa",
       "435.56 kPa",
       "272.22 kPa",
-      "217.78 kPa"
+      "217.78 kPa",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Boyle's law: P1V1=P2V2."
+    "explanation": "Boyle's law: P1V1=P2V2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-059",
@@ -1056,10 +1172,12 @@
       "6.15 L",
       "3.84 L",
       "3.07 L",
-      "1.54 L"
+      "1.54 L",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Charles' law: V/T is constant."
+    "explanation": "Charles' law: V/T is constant.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-060",
@@ -1074,10 +1192,12 @@
       "575 J",
       "460 J",
       "230 J",
-      "920 J"
+      "920 J",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "First law: ΔU=Q-W."
+    "explanation": "First law: ΔU=Q-W.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-061",
@@ -1092,10 +1212,12 @@
       "220.37 kPa",
       "110.19 kPa",
       "440.74 kPa",
-      "275.46 kPa"
+      "275.46 kPa",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Boyle's law: P1V1=P2V2."
+    "explanation": "Boyle's law: P1V1=P2V2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-062",
@@ -1110,10 +1232,12 @@
       "1.55 L",
       "6.21 L",
       "3.88 L",
-      "3.11 L"
+      "3.11 L",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Charles' law: V/T is constant."
+    "explanation": "Charles' law: V/T is constant.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-063",
@@ -1128,10 +1252,12 @@
       "928 J",
       "580 J",
       "464 J",
-      "232 J"
+      "232 J",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "First law: ΔU=Q-W."
+    "explanation": "First law: ΔU=Q-W.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-064",
@@ -1146,10 +1272,12 @@
       "278.71 kPa",
       "222.97 kPa",
       "111.48 kPa",
-      "445.94 kPa"
+      "445.94 kPa",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Boyle's law: P1V1=P2V2."
+    "explanation": "Boyle's law: P1V1=P2V2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-065",
@@ -1164,10 +1292,12 @@
       "3.14 L",
       "1.57 L",
       "6.28 L",
-      "3.92 L"
+      "3.92 L",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Charles' law: V/T is constant."
+    "explanation": "Charles' law: V/T is constant.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-066",
@@ -1182,10 +1312,12 @@
       "234 J",
       "936 J",
       "585 J",
-      "468 J"
+      "468 J",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "First law: ΔU=Q-W."
+    "explanation": "First law: ΔU=Q-W.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-067",
@@ -1200,10 +1332,12 @@
       "451.13 kPa",
       "281.96 kPa",
       "225.57 kPa",
-      "112.78 kPa"
+      "112.78 kPa",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Boyle's law: P1V1=P2V2."
+    "explanation": "Boyle's law: P1V1=P2V2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-068",
@@ -1218,10 +1352,12 @@
       "3.96 L",
       "3.17 L",
       "1.59 L",
-      "6.34 L"
+      "6.34 L",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Charles' law: V/T is constant."
+    "explanation": "Charles' law: V/T is constant.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-069",
@@ -1236,10 +1372,12 @@
       "472 J",
       "236 J",
       "944 J",
-      "590 J"
+      "590 J",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "First law: ΔU=Q-W."
+    "explanation": "First law: ΔU=Q-W.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-070",
@@ -1254,10 +1392,12 @@
       "114.08 kPa",
       "456.33 kPa",
       "285.21 kPa",
-      "228.17 kPa"
+      "228.17 kPa",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Boyle's law: P1V1=P2V2."
+    "explanation": "Boyle's law: P1V1=P2V2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-071",
@@ -1272,10 +1412,12 @@
       "6.41 L",
       "4 L",
       "3.2 L",
-      "1.6 L"
+      "1.6 L",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Charles' law: V/T is constant."
+    "explanation": "Charles' law: V/T is constant.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-072",
@@ -1290,10 +1432,12 @@
       "595 J",
       "476 J",
       "238 J",
-      "952 J"
+      "952 J",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "First law: ΔU=Q-W."
+    "explanation": "First law: ΔU=Q-W.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-073",
@@ -1308,10 +1452,12 @@
       "230.77 kPa",
       "115.38 kPa",
       "461.54 kPa",
-      "288.46 kPa"
+      "288.46 kPa",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Boyle's law: P1V1=P2V2."
+    "explanation": "Boyle's law: P1V1=P2V2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-074",
@@ -1326,10 +1472,12 @@
       "1.62 L",
       "6.47 L",
       "4.04 L",
-      "3.24 L"
+      "3.24 L",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Charles' law: V/T is constant."
+    "explanation": "Charles' law: V/T is constant.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-075",
@@ -1344,10 +1492,12 @@
       "960 J",
       "600 J",
       "480 J",
-      "240 J"
+      "240 J",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "First law: ΔU=Q-W."
+    "explanation": "First law: ΔU=Q-W.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-076",
@@ -1362,10 +1512,12 @@
       "291.72 kPa",
       "233.37 kPa",
       "116.69 kPa",
-      "466.75 kPa"
+      "466.75 kPa",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Boyle's law: P1V1=P2V2."
+    "explanation": "Boyle's law: P1V1=P2V2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-077",
@@ -1380,10 +1532,12 @@
       "3.27 L",
       "1.63 L",
       "6.54 L",
-      "4.08 L"
+      "4.08 L",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Charles' law: V/T is constant."
+    "explanation": "Charles' law: V/T is constant.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-078",
@@ -1398,10 +1552,12 @@
       "242 J",
       "968 J",
       "605 J",
-      "484 J"
+      "484 J",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "First law: ΔU=Q-W."
+    "explanation": "First law: ΔU=Q-W.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-079",
@@ -1416,10 +1572,12 @@
       "471.96 kPa",
       "294.98 kPa",
       "235.98 kPa",
-      "117.99 kPa"
+      "117.99 kPa",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Boyle's law: P1V1=P2V2."
+    "explanation": "Boyle's law: P1V1=P2V2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-080",
@@ -1434,10 +1592,12 @@
       "4.13 L",
       "3.3 L",
       "1.65 L",
-      "6.6 L"
+      "6.6 L",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Charles' law: V/T is constant."
+    "explanation": "Charles' law: V/T is constant.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-081",
@@ -1452,10 +1612,12 @@
       "488 J",
       "244 J",
       "976 J",
-      "610 J"
+      "610 J",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "First law: ΔU=Q-W."
+    "explanation": "First law: ΔU=Q-W.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-082",
@@ -1470,10 +1632,12 @@
       "119.29 kPa",
       "477.18 kPa",
       "298.24 kPa",
-      "238.59 kPa"
+      "238.59 kPa",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Boyle's law: P1V1=P2V2."
+    "explanation": "Boyle's law: P1V1=P2V2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-083",
@@ -1488,10 +1652,12 @@
       "6.66 L",
       "4.17 L",
       "3.33 L",
-      "1.67 L"
+      "1.67 L",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Charles' law: V/T is constant."
+    "explanation": "Charles' law: V/T is constant.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-084",
@@ -1506,10 +1672,12 @@
       "615 J",
       "492 J",
       "246 J",
-      "984 J"
+      "984 J",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "First law: ΔU=Q-W."
+    "explanation": "First law: ΔU=Q-W.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-085",
@@ -1524,10 +1692,12 @@
       "241.2 kPa",
       "120.6 kPa",
       "482.4 kPa",
-      "301.5 kPa"
+      "301.5 kPa",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Boyle's law: P1V1=P2V2."
+    "explanation": "Boyle's law: P1V1=P2V2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-086",
@@ -1542,10 +1712,12 @@
       "1.68 L",
       "6.73 L",
       "4.21 L",
-      "3.36 L"
+      "3.36 L",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Charles' law: V/T is constant."
+    "explanation": "Charles' law: V/T is constant.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-087",
@@ -1560,10 +1732,12 @@
       "992 J",
       "620 J",
       "496 J",
-      "248 J"
+      "248 J",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "First law: ΔU=Q-W."
+    "explanation": "First law: ΔU=Q-W.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-088",
@@ -1578,10 +1752,12 @@
       "304.76 kPa",
       "243.81 kPa",
       "121.9 kPa",
-      "487.62 kPa"
+      "487.62 kPa",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Boyle's law: P1V1=P2V2."
+    "explanation": "Boyle's law: P1V1=P2V2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-089",
@@ -1596,10 +1772,12 @@
       "3.4 L",
       "1.7 L",
       "6.79 L",
-      "4.25 L"
+      "4.25 L",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Charles' law: V/T is constant."
+    "explanation": "Charles' law: V/T is constant.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-090",
@@ -1614,10 +1792,12 @@
       "250 J",
       "1000 J",
       "625 J",
-      "500 J"
+      "500 J",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "First law: ΔU=Q-W."
+    "explanation": "First law: ΔU=Q-W.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-091",
@@ -1632,10 +1812,12 @@
       "492.85 kPa",
       "308.03 kPa",
       "246.42 kPa",
-      "123.21 kPa"
+      "123.21 kPa",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Boyle's law: P1V1=P2V2."
+    "explanation": "Boyle's law: P1V1=P2V2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-092",
@@ -1650,10 +1832,12 @@
       "4.29 L",
       "3.43 L",
       "1.71 L",
-      "6.86 L"
+      "6.86 L",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Charles' law: V/T is constant."
+    "explanation": "Charles' law: V/T is constant.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-093",
@@ -1668,10 +1852,12 @@
       "504 J",
       "252 J",
       "1008 J",
-      "630 J"
+      "630 J",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "First law: ΔU=Q-W."
+    "explanation": "First law: ΔU=Q-W.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-094",
@@ -1686,10 +1872,12 @@
       "124.52 kPa",
       "498.07 kPa",
       "311.3 kPa",
-      "249.04 kPa"
+      "249.04 kPa",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Boyle's law: P1V1=P2V2."
+    "explanation": "Boyle's law: P1V1=P2V2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-095",
@@ -1704,10 +1892,12 @@
       "6.92 L",
       "4.33 L",
       "3.46 L",
-      "1.73 L"
+      "1.73 L",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Charles' law: V/T is constant."
+    "explanation": "Charles' law: V/T is constant.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-096",
@@ -1722,10 +1912,12 @@
       "635 J",
       "508 J",
       "254 J",
-      "1016 J"
+      "1016 J",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "First law: ΔU=Q-W."
+    "explanation": "First law: ΔU=Q-W.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-097",
@@ -1740,10 +1932,12 @@
       "251.65 kPa",
       "125.83 kPa",
       "503.31 kPa",
-      "314.57 kPa"
+      "314.57 kPa",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Boyle's law: P1V1=P2V2."
+    "explanation": "Boyle's law: P1V1=P2V2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-098",
@@ -1758,10 +1952,12 @@
       "1.75 L",
       "6.99 L",
       "4.37 L",
-      "3.49 L"
+      "3.49 L",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Charles' law: V/T is constant."
+    "explanation": "Charles' law: V/T is constant.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-099",
@@ -1776,10 +1972,12 @@
       "1024 J",
       "640 J",
       "512 J",
-      "256 J"
+      "256 J",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "First law: ΔU=Q-W."
+    "explanation": "First law: ΔU=Q-W.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-100",
@@ -1794,10 +1992,12 @@
       "317.84 kPa",
       "254.27 kPa",
       "127.14 kPa",
-      "508.54 kPa"
+      "508.54 kPa",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Boyle's law: P1V1=P2V2."
+    "explanation": "Boyle's law: P1V1=P2V2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-101",
@@ -1812,10 +2012,12 @@
       "3.53 L",
       "1.76 L",
       "7.05 L",
-      "4.41 L"
+      "4.41 L",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Charles' law: V/T is constant."
+    "explanation": "Charles' law: V/T is constant.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-102",
@@ -1830,10 +2032,12 @@
       "258 J",
       "1032 J",
       "645 J",
-      "516 J"
+      "516 J",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "First law: ΔU=Q-W."
+    "explanation": "First law: ΔU=Q-W.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-103",
@@ -1848,10 +2052,12 @@
       "513.78 kPa",
       "321.11 kPa",
       "256.89 kPa",
-      "128.44 kPa"
+      "128.44 kPa",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Boyle's law: P1V1=P2V2."
+    "explanation": "Boyle's law: P1V1=P2V2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-104",
@@ -1866,10 +2072,12 @@
       "4.45 L",
       "3.56 L",
       "1.78 L",
-      "7.12 L"
+      "7.12 L",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Charles' law: V/T is constant."
+    "explanation": "Charles' law: V/T is constant.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-105",
@@ -1884,10 +2092,12 @@
       "520 J",
       "260 J",
       "1040 J",
-      "650 J"
+      "650 J",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "First law: ΔU=Q-W."
+    "explanation": "First law: ΔU=Q-W.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-106",
@@ -1902,10 +2112,12 @@
       "129.75 kPa",
       "519.02 kPa",
       "324.39 kPa",
-      "259.51 kPa"
+      "259.51 kPa",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Boyle's law: P1V1=P2V2."
+    "explanation": "Boyle's law: P1V1=P2V2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-107",
@@ -1920,10 +2132,12 @@
       "7.18 L",
       "4.49 L",
       "3.59 L",
-      "1.8 L"
+      "1.8 L",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Charles' law: V/T is constant."
+    "explanation": "Charles' law: V/T is constant.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-108",
@@ -1938,10 +2152,12 @@
       "655 J",
       "524 J",
       "262 J",
-      "1048 J"
+      "1048 J",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "First law: ΔU=Q-W."
+    "explanation": "First law: ΔU=Q-W.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-109",
@@ -1956,10 +2172,12 @@
       "262.13 kPa",
       "131.06 kPa",
       "524.26 kPa",
-      "327.66 kPa"
+      "327.66 kPa",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Boyle's law: P1V1=P2V2."
+    "explanation": "Boyle's law: P1V1=P2V2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-110",
@@ -1974,10 +2192,12 @@
       "1.81 L",
       "7.25 L",
       "4.53 L",
-      "3.62 L"
+      "3.62 L",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Charles' law: V/T is constant."
+    "explanation": "Charles' law: V/T is constant.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-111",
@@ -1992,10 +2212,12 @@
       "1056 J",
       "660 J",
       "528 J",
-      "264 J"
+      "264 J",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "First law: ΔU=Q-W."
+    "explanation": "First law: ΔU=Q-W.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-112",
@@ -2010,10 +2232,12 @@
       "330.94 kPa",
       "264.75 kPa",
       "132.38 kPa",
-      "529.5 kPa"
+      "529.5 kPa",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Boyle's law: P1V1=P2V2."
+    "explanation": "Boyle's law: P1V1=P2V2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-113",
@@ -2028,10 +2252,12 @@
       "3.65 L",
       "1.83 L",
       "7.31 L",
-      "4.57 L"
+      "4.57 L",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Charles' law: V/T is constant."
+    "explanation": "Charles' law: V/T is constant.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-114",
@@ -2046,10 +2272,12 @@
       "266 J",
       "1064 J",
       "665 J",
-      "532 J"
+      "532 J",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "First law: ΔU=Q-W."
+    "explanation": "First law: ΔU=Q-W.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-115",
@@ -2064,10 +2292,12 @@
       "534.75 kPa",
       "334.22 kPa",
       "267.38 kPa",
-      "133.69 kPa"
+      "133.69 kPa",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Boyle's law: P1V1=P2V2."
+    "explanation": "Boyle's law: P1V1=P2V2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-116",
@@ -2082,10 +2312,12 @@
       "4.61 L",
       "3.69 L",
       "1.84 L",
-      "7.37 L"
+      "7.37 L",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Charles' law: V/T is constant."
+    "explanation": "Charles' law: V/T is constant.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-117",
@@ -2100,10 +2332,12 @@
       "536 J",
       "268 J",
       "1072 J",
-      "670 J"
+      "670 J",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "First law: ΔU=Q-W."
+    "explanation": "First law: ΔU=Q-W.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-118",
@@ -2118,10 +2352,12 @@
       "135 kPa",
       "540 kPa",
       "337.5 kPa",
-      "270 kPa"
+      "270 kPa",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Boyle's law: P1V1=P2V2."
+    "explanation": "Boyle's law: P1V1=P2V2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-119",
@@ -2136,10 +2372,12 @@
       "7.44 L",
       "4.65 L",
       "3.72 L",
-      "1.86 L"
+      "1.86 L",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Charles' law: V/T is constant."
+    "explanation": "Charles' law: V/T is constant.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-120",
@@ -2154,10 +2392,12 @@
       "675 J",
       "540 J",
       "270 J",
-      "1080 J"
+      "1080 J",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "First law: ΔU=Q-W."
+    "explanation": "First law: ΔU=Q-W.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-121",
@@ -2172,10 +2412,12 @@
       "272.63 kPa",
       "136.31 kPa",
       "545.25 kPa",
-      "340.78 kPa"
+      "340.78 kPa",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Boyle's law: P1V1=P2V2."
+    "explanation": "Boyle's law: P1V1=P2V2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-122",
@@ -2190,10 +2432,12 @@
       "1.88 L",
       "7.5 L",
       "4.69 L",
-      "3.75 L"
+      "3.75 L",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Charles' law: V/T is constant."
+    "explanation": "Charles' law: V/T is constant.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-123",
@@ -2208,10 +2452,12 @@
       "1088 J",
       "680 J",
       "544 J",
-      "272 J"
+      "272 J",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "First law: ΔU=Q-W."
+    "explanation": "First law: ΔU=Q-W.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-124",
@@ -2226,10 +2472,12 @@
       "344.07 kPa",
       "275.25 kPa",
       "137.63 kPa",
-      "550.5 kPa"
+      "550.5 kPa",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Boyle's law: P1V1=P2V2."
+    "explanation": "Boyle's law: P1V1=P2V2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-125",
@@ -2244,10 +2492,12 @@
       "3.78 L",
       "1.89 L",
       "7.57 L",
-      "4.73 L"
+      "4.73 L",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Charles' law: V/T is constant."
+    "explanation": "Charles' law: V/T is constant.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-126",
@@ -2262,10 +2512,12 @@
       "274 J",
       "1096 J",
       "685 J",
-      "548 J"
+      "548 J",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "First law: ΔU=Q-W."
+    "explanation": "First law: ΔU=Q-W.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-127",
@@ -2280,10 +2532,12 @@
       "555.76 kPa",
       "347.35 kPa",
       "277.88 kPa",
-      "138.94 kPa"
+      "138.94 kPa",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Boyle's law: P1V1=P2V2."
+    "explanation": "Boyle's law: P1V1=P2V2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-128",
@@ -2298,10 +2552,12 @@
       "4.77 L",
       "3.81 L",
       "1.91 L",
-      "7.63 L"
+      "7.63 L",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Charles' law: V/T is constant."
+    "explanation": "Charles' law: V/T is constant.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-129",
@@ -2316,10 +2572,12 @@
       "552 J",
       "276 J",
       "1104 J",
-      "690 J"
+      "690 J",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "First law: ΔU=Q-W."
+    "explanation": "First law: ΔU=Q-W.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-130",
@@ -2334,10 +2592,12 @@
       "140.25 kPa",
       "561.02 kPa",
       "350.63 kPa",
-      "280.51 kPa"
+      "280.51 kPa",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Boyle's law: P1V1=P2V2."
+    "explanation": "Boyle's law: P1V1=P2V2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-131",
@@ -2352,10 +2612,12 @@
       "7.69 L",
       "4.81 L",
       "3.85 L",
-      "1.92 L"
+      "1.92 L",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Charles' law: V/T is constant."
+    "explanation": "Charles' law: V/T is constant.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-132",
@@ -2370,10 +2632,12 @@
       "695 J",
       "556 J",
       "278 J",
-      "1112 J"
+      "1112 J",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "First law: ΔU=Q-W."
+    "explanation": "First law: ΔU=Q-W.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-133",
@@ -2388,10 +2652,12 @@
       "283.14 kPa",
       "141.57 kPa",
       "566.27 kPa",
-      "353.92 kPa"
+      "353.92 kPa",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Boyle's law: P1V1=P2V2."
+    "explanation": "Boyle's law: P1V1=P2V2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-134",
@@ -2406,10 +2672,12 @@
       "1.94 L",
       "7.76 L",
       "4.85 L",
-      "3.88 L"
+      "3.88 L",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Charles' law: V/T is constant."
+    "explanation": "Charles' law: V/T is constant.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-135",
@@ -2424,10 +2692,12 @@
       "1120 J",
       "700 J",
       "560 J",
-      "280 J"
+      "280 J",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "First law: ΔU=Q-W."
+    "explanation": "First law: ΔU=Q-W.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-136",
@@ -2442,10 +2712,12 @@
       "357.21 kPa",
       "285.77 kPa",
       "142.88 kPa",
-      "571.53 kPa"
+      "571.53 kPa",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Boyle's law: P1V1=P2V2."
+    "explanation": "Boyle's law: P1V1=P2V2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-137",
@@ -2460,10 +2732,12 @@
       "3.91 L",
       "1.96 L",
       "7.82 L",
-      "4.89 L"
+      "4.89 L",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Charles' law: V/T is constant."
+    "explanation": "Charles' law: V/T is constant.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-138",
@@ -2478,10 +2752,12 @@
       "282 J",
       "1128 J",
       "705 J",
-      "564 J"
+      "564 J",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "First law: ΔU=Q-W."
+    "explanation": "First law: ΔU=Q-W.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-139",
@@ -2496,10 +2772,12 @@
       "576.8 kPa",
       "360.5 kPa",
       "288.4 kPa",
-      "144.2 kPa"
+      "144.2 kPa",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Boyle's law: P1V1=P2V2."
+    "explanation": "Boyle's law: P1V1=P2V2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-140",
@@ -2514,10 +2792,12 @@
       "4.93 L",
       "3.94 L",
       "1.97 L",
-      "7.89 L"
+      "7.89 L",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Charles' law: V/T is constant."
+    "explanation": "Charles' law: V/T is constant.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-141",
@@ -2532,10 +2812,12 @@
       "568 J",
       "284 J",
       "1136 J",
-      "710 J"
+      "710 J",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "First law: ΔU=Q-W."
+    "explanation": "First law: ΔU=Q-W.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-142",
@@ -2550,10 +2832,12 @@
       "145.52 kPa",
       "582.06 kPa",
       "363.79 kPa",
-      "291.03 kPa"
+      "291.03 kPa",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Boyle's law: P1V1=P2V2."
+    "explanation": "Boyle's law: P1V1=P2V2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-143",
@@ -2568,10 +2852,12 @@
       "7.95 L",
       "4.97 L",
       "3.97 L",
-      "1.99 L"
+      "1.99 L",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "Charles' law: V/T is constant."
+    "explanation": "Charles' law: V/T is constant.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-144",
@@ -2586,10 +2872,12 @@
       "715 J",
       "572 J",
       "286 J",
-      "1144 J"
+      "1144 J",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "First law: ΔU=Q-W."
+    "explanation": "First law: ΔU=Q-W.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-145",
@@ -2604,10 +2892,12 @@
       "293.66 kPa",
       "146.83 kPa",
       "587.33 kPa",
-      "367.08 kPa"
+      "367.08 kPa",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Boyle's law: P1V1=P2V2."
+    "explanation": "Boyle's law: P1V1=P2V2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-146",
@@ -2622,10 +2912,12 @@
       "2 L",
       "8.01 L",
       "5.01 L",
-      "4.01 L"
+      "4.01 L",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "Charles' law: V/T is constant."
+    "explanation": "Charles' law: V/T is constant.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-147",
@@ -2640,10 +2932,12 @@
       "1152 J",
       "720 J",
       "576 J",
-      "288 J"
+      "288 J",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "First law: ΔU=Q-W."
+    "explanation": "First law: ΔU=Q-W.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-148",
@@ -2658,10 +2952,12 @@
       "370.37 kPa",
       "296.3 kPa",
       "148.15 kPa",
-      "592.59 kPa"
+      "592.59 kPa",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "Boyle's law: P1V1=P2V2."
+    "explanation": "Boyle's law: P1V1=P2V2.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-149",
@@ -2676,10 +2972,12 @@
       "4.04 L",
       "2.02 L",
       "8.08 L",
-      "5.05 L"
+      "5.05 L",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "Charles' law: V/T is constant."
+    "explanation": "Charles' law: V/T is constant.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-150",
@@ -2694,9 +2992,11 @@
       "290 J",
       "1160 J",
       "725 J",
-      "580 J"
+      "580 J",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "First law: ΔU=Q-W."
+    "explanation": "First law: ΔU=Q-W.",
+    "format": "single-best-answer-5"
   }
 ]
