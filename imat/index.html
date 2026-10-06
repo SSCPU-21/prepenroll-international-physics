@@ -1,0 +1,154 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>IMAT Physics Practice Studio | PrepEnroll™</title>
+<meta name="description" content="PrepEnroll IMAT Physics Practice Studio with topic filters, generated practice sets, scoring, topic breakdown and full review.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+<header class="top">
+  <div>
+    <div class="brand">Prep<span>Enroll</span>™</div>
+    <span class="tagline">PREP · LEARN · GO</span>
+  </div>
+  <div class="top-right">
+    <span class="exam-chip">IMAT Physics</span>
+    <a class="hub-link" href="https://sscpu-21.github.io/prepenroll-practice/">Practice Hub ↗</a>
+  </div>
+</header>
+
+<div class="shell">
+  <aside class="sidebar">
+    <div class="side-title">Select topics</div>
+    <div class="select-actions">
+      <button id="selectAll" class="text-btn">Select all</button>
+      <button id="clearAll" class="text-btn">Clear</button>
+    </div>
+    <div id="topicList"></div>
+  </aside>
+
+  <main class="main">
+    <div class="controls">
+      <div class="control-group">
+        <span class="lbl">Difficulty</span>
+        <button class="chip diff active" data-diff="all">Mixed</button>
+        <button class="chip diff" data-diff="Foundation">Foundation</button>
+        <button class="chip diff" data-diff="Standard">Standard</button>
+        <button class="chip diff" data-diff="Challenge">Challenge</button>
+      </div>
+      <div class="control-group">
+        <label class="lbl" for="setSize">Questions</label>
+        <select id="setSize">
+          <option value="10">10</option>
+          <option value="15" selected>15</option>
+          <option value="20">20</option>
+          <option value="30">30</option>
+        </select>
+      </div>
+      <button id="generateBtn" class="gen-btn">Generate Practice</button>
+    </div>
+
+    <div class="content">
+      <section id="welcomeScreen" class="screen active">
+        <div class="welcome">
+          <span class="eyebrow">IMAT Physics Studio</span>
+          <h1>Choose topics.<br><span>Build your practice.</span></h1>
+          <p>Select one or more IMAT Physics topics from the left. Choose difficulty and set length, then generate a focused practice test. Questions appear one at a time and your scorecard is created after submission.</p>
+          <div class="feature-grid">
+            <div><b>Topic-wise</b><span>Choose exactly what you want to practise.</span></div>
+            <div><b>5-option MCQ</b><span>Aligned to the current IMAT single-best-answer format.</span></div>
+            <div><b>Scorecard</b><span>See total score and topic-wise performance.</span></div>
+            <div><b>Full review</b><span>Revisit every answer with explanations.</span></div>
+          </div>
+          <button id="welcomeStart" class="primary big">Start with selected topics</button>
+        </div>
+      </section>
+
+      <section id="practiceScreen" class="screen">
+        <div class="practice-head">
+          <div>
+            <span class="eyebrow">Practice set</span>
+            <h2 id="practiceTitle">IMAT Physics Practice</h2>
+          </div>
+          <div class="progress-box"><b id="progressText">1 / 15</b><span id="answeredText">0 answered</span></div>
+        </div>
+
+        <div class="qcard">
+          <div class="qmeta" id="qMeta"></div>
+          <h3 id="qStem"></h3>
+          <div id="qOptions" class="options"></div>
+          <div class="navrow">
+            <button id="prevBtn" class="secondary">← Previous</button>
+            <div class="navbtns">
+              <button id="flagBtn" class="secondary">Flag</button>
+              <button id="nextBtn" class="primary">Next →</button>
+              <button id="submitBtn" class="submit">Submit Practice</button>
+            </div>
+          </div>
+          <div id="qNav" class="qnav"></div>
+        </div>
+      </section>
+
+      <section id="resultsScreen" class="screen">
+        <div class="results-header">
+          <span class="eyebrow">Practice complete</span>
+          <h2>Your IMAT Physics Scorecard</h2>
+          <p class="results-meta" id="resultsMeta"></p>
+        </div>
+
+        <div class="score-card">
+          <div class="score-pct" id="scorePct">0%</div>
+          <div class="score-sub" id="scoreSub"></div>
+          <div class="score-note">Calculated from the selected practice set.</div>
+        </div>
+
+        <div class="breakdown">
+          <h3>Topic-wise performance</h3>
+          <div id="breakdownRows"></div>
+        </div>
+
+        <div class="results-btns">
+          <button id="reviewBtn" class="primary">Review answers</button>
+          <button id="newSetBtn" class="secondary">Create new practice</button>
+        </div>
+      </section>
+
+      <section id="reviewScreen" class="screen">
+        <div class="review-head">
+          <div><span class="eyebrow">Answer review</span><h2>Review your practice</h2></div>
+          <button id="backResults" class="secondary">← Scorecard</button>
+        </div>
+        <div id="reviewList"></div>
+      </section>
+    </div>
+  </main>
+</div>
+
+<button class="pe-calc-toggle" id="calcToggle">Calculator</button>
+<div class="pe-calc" id="calc">
+  <div class="pe-calc-head"><span>Mini calculator</span><button class="pe-calc-close" id="calcClose">×</button></div>
+  <input class="pe-calc-screen" id="calcScreen" value="" readonly>
+  <div class="pe-calc-grid" id="calcGrid"></div>
+</div>
+
+<footer class="pe-global-footer">
+  <div class="pe-footer-inner">
+    <div>
+      <div class="pe-footer-brand">Prep<span>Enroll</span>™</div>
+      <p>Focused international exam practice designed for deliberate, topic-wise preparation.</p>
+    </div>
+    <div class="pe-footer-links">
+      <a href="https://www.prepenroll.com" target="_blank" rel="noopener">PrepEnroll.com</a>
+      <a href="mailto:info@prepenroll.com">Contact</a>
+    </div>
+  </div>
+  <div class="pe-footer-legal">© 2026 PrepEnroll™. All Rights Reserved. Original practice content. Official exam names belong to their respective owners.</div>
+</footer>
+<script src="../app.js"></script>
+</body>
+</html>
