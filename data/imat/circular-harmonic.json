@@ -12,10 +12,12 @@
       "6.52 m/s²",
       "3.26 m/s²",
       "13.04 m/s²",
-      "8.15 m/s²"
+      "8.15 m/s²",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "a_c=v²/R."
+    "explanation": "a_c=v²/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-002",
@@ -30,10 +32,12 @@
       "0.926 s",
       "3.7 s",
       "2.31 s",
-      "1.85 s"
+      "1.85 s",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-003",
@@ -48,10 +52,12 @@
       "0.992 m/s",
       "0.62 m/s",
       "0.496 m/s",
-      "0.248 m/s"
+      "0.248 m/s",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "v_max=ωA."
+    "explanation": "v_max=ωA.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-004",
@@ -66,10 +72,12 @@
       "8.8 m/s²",
       "7.04 m/s²",
       "3.52 m/s²",
-      "14.08 m/s²"
+      "14.08 m/s²",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "a_c=v²/R."
+    "explanation": "a_c=v²/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-005",
@@ -84,10 +92,12 @@
       "1.72 s",
       "0.862 s",
       "3.45 s",
-      "2.15 s"
+      "2.15 s",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-006",
@@ -102,10 +112,12 @@
       "0.272 m/s",
       "1.09 m/s",
       "0.68 m/s",
-      "0.544 m/s"
+      "0.544 m/s",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "v_max=ωA."
+    "explanation": "v_max=ωA.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-007",
@@ -120,10 +132,12 @@
       "15.12 m/s²",
       "9.45 m/s²",
       "7.56 m/s²",
-      "3.78 m/s²"
+      "3.78 m/s²",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "a_c=v²/R."
+    "explanation": "a_c=v²/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-008",
@@ -138,10 +152,12 @@
       "2.02 s",
       "1.61 s",
       "0.8065 s",
-      "3.23 s"
+      "3.23 s",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-009",
@@ -156,10 +172,12 @@
       "0.594 m/s",
       "0.297 m/s",
       "1.19 m/s",
-      "0.7425 m/s"
+      "0.7425 m/s",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "v_max=ωA."
+    "explanation": "v_max=ωA.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-010",
@@ -174,10 +192,12 @@
       "4.04 m/s²",
       "16.16 m/s²",
       "10.1 m/s²",
-      "8.08 m/s²"
+      "8.08 m/s²",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "a_c=v²/R."
+    "explanation": "a_c=v²/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-011",
@@ -192,10 +212,12 @@
       "3.03 s",
       "1.89 s",
       "1.51 s",
-      "0.7575 s"
+      "0.7575 s",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-012",
@@ -210,10 +232,12 @@
       "0.8075 m/s",
       "0.646 m/s",
       "0.323 m/s",
-      "1.29 m/s"
+      "1.29 m/s",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "v_max=ωA."
+    "explanation": "v_max=ωA.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-013",
@@ -228,10 +252,12 @@
       "8.6 m/s²",
       "4.3 m/s²",
       "17.2 m/s²",
-      "10.75 m/s²"
+      "10.75 m/s²",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "a_c=v²/R."
+    "explanation": "a_c=v²/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-014",
@@ -246,10 +272,12 @@
       "0.7145 s",
       "2.86 s",
       "1.79 s",
-      "1.43 s"
+      "1.43 s",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-015",
@@ -264,10 +292,12 @@
       "1.4 m/s",
       "0.875 m/s",
       "0.7 m/s",
-      "0.35 m/s"
+      "0.35 m/s",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "v_max=ωA."
+    "explanation": "v_max=ωA.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-016",
@@ -282,10 +312,12 @@
       "11.4 m/s²",
       "9.12 m/s²",
       "4.56 m/s²",
-      "18.24 m/s²"
+      "18.24 m/s²",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "a_c=v²/R."
+    "explanation": "a_c=v²/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-017",
@@ -300,10 +332,12 @@
       "1.35 s",
       "0.6755 s",
       "2.7 s",
-      "1.69 s"
+      "1.69 s",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-018",
@@ -318,10 +352,12 @@
       "0.378 m/s",
       "1.51 m/s",
       "0.945 m/s",
-      "0.756 m/s"
+      "0.756 m/s",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "v_max=ωA."
+    "explanation": "v_max=ωA.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-019",
@@ -336,10 +372,12 @@
       "19.28 m/s²",
       "12.05 m/s²",
       "9.64 m/s²",
-      "4.82 m/s²"
+      "4.82 m/s²",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "a_c=v²/R."
+    "explanation": "a_c=v²/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-020",
@@ -354,10 +392,12 @@
       "1.6 s",
       "1.28 s",
       "0.641 s",
-      "2.56 s"
+      "2.56 s",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-021",
@@ -372,10 +412,12 @@
       "0.814 m/s",
       "0.407 m/s",
       "1.63 m/s",
-      "1.02 m/s"
+      "1.02 m/s",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "v_max=ωA."
+    "explanation": "v_max=ωA.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-022",
@@ -390,10 +432,12 @@
       "5.08 m/s²",
       "20.32 m/s²",
       "12.7 m/s²",
-      "10.16 m/s²"
+      "10.16 m/s²",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "a_c=v²/R."
+    "explanation": "a_c=v²/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-023",
@@ -408,10 +452,12 @@
       "2.44 s",
       "1.52 s",
       "1.22 s",
-      "0.61 s"
+      "0.61 s",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-024",
@@ -426,10 +472,12 @@
       "1.09 m/s",
       "0.874 m/s",
       "0.437 m/s",
-      "1.75 m/s"
+      "1.75 m/s",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "v_max=ωA."
+    "explanation": "v_max=ωA.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-025",
@@ -444,10 +492,12 @@
       "10.68 m/s²",
       "5.34 m/s²",
       "21.36 m/s²",
-      "13.35 m/s²"
+      "13.35 m/s²",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "a_c=v²/R."
+    "explanation": "a_c=v²/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-026",
@@ -462,10 +512,12 @@
       "0.5815 s",
       "2.33 s",
       "1.45 s",
-      "1.16 s"
+      "1.16 s",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-027",
@@ -480,10 +532,12 @@
       "1.87 m/s",
       "1.17 m/s",
       "0.936 m/s",
-      "0.468 m/s"
+      "0.468 m/s",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "v_max=ωA."
+    "explanation": "v_max=ωA.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-028",
@@ -498,10 +552,12 @@
       "14 m/s²",
       "11.2 m/s²",
       "5.6 m/s²",
-      "22.4 m/s²"
+      "22.4 m/s²",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "a_c=v²/R."
+    "explanation": "a_c=v²/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-029",
@@ -516,10 +572,12 @@
       "1.11 s",
       "0.5555 s",
       "2.22 s",
-      "1.39 s"
+      "1.39 s",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-030",
@@ -534,10 +592,12 @@
       "0.5 m/s",
       "2 m/s",
       "1.25 m/s",
-      "1 m/s"
+      "1 m/s",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "v_max=ωA."
+    "explanation": "v_max=ωA.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-031",
@@ -552,10 +612,12 @@
       "23.44 m/s²",
       "14.65 m/s²",
       "11.72 m/s²",
-      "5.86 m/s²"
+      "5.86 m/s²",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "a_c=v²/R."
+    "explanation": "a_c=v²/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-032",
@@ -570,10 +632,12 @@
       "1.33 s",
       "1.06 s",
       "0.532 s",
-      "2.13 s"
+      "2.13 s",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-033",
@@ -588,10 +652,12 @@
       "1.07 m/s",
       "0.533 m/s",
       "2.13 m/s",
-      "1.33 m/s"
+      "1.33 m/s",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "v_max=ωA."
+    "explanation": "v_max=ωA.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-034",
@@ -606,10 +672,12 @@
       "6.12 m/s²",
       "24.48 m/s²",
       "15.3 m/s²",
-      "12.24 m/s²"
+      "12.24 m/s²",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "a_c=v²/R."
+    "explanation": "a_c=v²/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-035",
@@ -624,10 +692,12 @@
       "2.04 s",
       "1.27 s",
       "1.02 s",
-      "0.51 s"
+      "0.51 s",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-036",
@@ -642,10 +712,12 @@
       "1.42 m/s",
       "1.13 m/s",
       "0.567 m/s",
-      "2.27 m/s"
+      "2.27 m/s",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "v_max=ωA."
+    "explanation": "v_max=ωA.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-037",
@@ -660,10 +732,12 @@
       "12.77 m/s²",
       "6.38 m/s²",
       "25.54 m/s²",
-      "15.96 m/s²"
+      "15.96 m/s²",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "a_c=v²/R."
+    "explanation": "a_c=v²/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-038",
@@ -678,10 +752,12 @@
       "0.49 s",
       "1.96 s",
       "1.23 s",
-      "0.98 s"
+      "0.98 s",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-039",
@@ -696,10 +772,12 @@
       "2.41 m/s",
       "1.5 m/s",
       "1.2 m/s",
-      "0.602 m/s"
+      "0.602 m/s",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "v_max=ωA."
+    "explanation": "v_max=ωA.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-040",
@@ -714,10 +792,12 @@
       "16.61 m/s²",
       "13.29 m/s²",
       "6.64 m/s²",
-      "26.58 m/s²"
+      "26.58 m/s²",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "a_c=v²/R."
+    "explanation": "a_c=v²/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-041",
@@ -732,10 +812,12 @@
       "0.943 s",
       "0.4715 s",
       "1.89 s",
-      "1.18 s"
+      "1.18 s",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-042",
@@ -750,10 +832,12 @@
       "0.638 m/s",
       "2.55 m/s",
       "1.59 m/s",
-      "1.28 m/s"
+      "1.28 m/s",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "v_max=ωA."
+    "explanation": "v_max=ωA.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-043",
@@ -768,10 +852,12 @@
       "27.62 m/s²",
       "17.26 m/s²",
       "13.81 m/s²",
-      "6.91 m/s²"
+      "6.91 m/s²",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "a_c=v²/R."
+    "explanation": "a_c=v²/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-044",
@@ -786,10 +872,12 @@
       "1.14 s",
       "0.909 s",
       "0.4545 s",
-      "1.82 s"
+      "1.82 s",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-045",
@@ -804,10 +892,12 @@
       "1.35 m/s",
       "0.675 m/s",
       "2.7 m/s",
-      "1.69 m/s"
+      "1.69 m/s",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "v_max=ωA."
+    "explanation": "v_max=ωA.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-046",
@@ -822,10 +912,12 @@
       "7.17 m/s²",
       "28.66 m/s²",
       "17.91 m/s²",
-      "14.33 m/s²"
+      "14.33 m/s²",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "a_c=v²/R."
+    "explanation": "a_c=v²/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-047",
@@ -840,10 +932,12 @@
       "1.75 s",
       "1.1 s",
       "0.877 s",
-      "0.4385 s"
+      "0.4385 s",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-048",
@@ -858,10 +952,12 @@
       "1.78 m/s",
       "1.43 m/s",
       "0.713 m/s",
-      "2.85 m/s"
+      "2.85 m/s",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "v_max=ωA."
+    "explanation": "v_max=ωA.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-049",
@@ -876,10 +972,12 @@
       "14.85 m/s²",
       "7.42 m/s²",
       "29.7 m/s²",
-      "18.56 m/s²"
+      "18.56 m/s²",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "a_c=v²/R."
+    "explanation": "a_c=v²/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-050",
@@ -894,10 +992,12 @@
       "0.4235 s",
       "1.69 s",
       "1.06 s",
-      "0.847 s"
+      "0.847 s",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-051",
@@ -912,10 +1012,12 @@
       "3.01 m/s",
       "1.88 m/s",
       "1.5 m/s",
-      "0.752 m/s"
+      "0.752 m/s",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "v_max=ωA."
+    "explanation": "v_max=ωA.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-052",
@@ -930,10 +1032,12 @@
       "19.21 m/s²",
       "15.37 m/s²",
       "7.68 m/s²",
-      "30.74 m/s²"
+      "30.74 m/s²",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "a_c=v²/R."
+    "explanation": "a_c=v²/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-053",
@@ -948,10 +1052,12 @@
       "0.82 s",
       "0.41 s",
       "1.64 s",
-      "1.02 s"
+      "1.02 s",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-054",
@@ -966,10 +1072,12 @@
       "0.792 m/s",
       "3.17 m/s",
       "1.98 m/s",
-      "1.58 m/s"
+      "1.58 m/s",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "v_max=ωA."
+    "explanation": "v_max=ωA.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-055",
@@ -984,10 +1092,12 @@
       "31.78 m/s²",
       "19.86 m/s²",
       "15.89 m/s²",
-      "7.95 m/s²"
+      "7.95 m/s²",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "a_c=v²/R."
+    "explanation": "a_c=v²/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-056",
@@ -1002,10 +1112,12 @@
       "0.9925 s",
       "0.794 s",
       "0.397 s",
-      "1.59 s"
+      "1.59 s",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-057",
@@ -1020,10 +1132,12 @@
       "1.67 m/s",
       "0.833 m/s",
       "3.33 m/s",
-      "2.08 m/s"
+      "2.08 m/s",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "v_max=ωA."
+    "explanation": "v_max=ωA.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-058",
@@ -1038,10 +1152,12 @@
       "8.21 m/s²",
       "32.82 m/s²",
       "20.51 m/s²",
-      "16.41 m/s²"
+      "16.41 m/s²",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "a_c=v²/R."
+    "explanation": "a_c=v²/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-059",
@@ -1056,10 +1172,12 @@
       "1.54 s",
       "0.9613 s",
       "0.769 s",
-      "0.3845 s"
+      "0.3845 s",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-060",
@@ -1074,10 +1192,12 @@
       "2.19 m/s",
       "1.75 m/s",
       "0.875 m/s",
-      "3.5 m/s"
+      "3.5 m/s",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "v_max=ωA."
+    "explanation": "v_max=ωA.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-061",
@@ -1092,10 +1212,12 @@
       "16.93 m/s²",
       "8.46 m/s²",
       "33.86 m/s²",
-      "21.16 m/s²"
+      "21.16 m/s²",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "a_c=v²/R."
+    "explanation": "a_c=v²/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-062",
@@ -1110,10 +1232,12 @@
       "0.373 s",
       "1.49 s",
       "0.9325 s",
-      "0.746 s"
+      "0.746 s",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-063",
@@ -1128,10 +1252,12 @@
       "3.67 m/s",
       "2.29 m/s",
       "1.84 m/s",
-      "0.918 m/s"
+      "0.918 m/s",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "v_max=ωA."
+    "explanation": "v_max=ωA.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-064",
@@ -1146,10 +1272,12 @@
       "21.81 m/s²",
       "17.45 m/s²",
       "8.72 m/s²",
-      "34.9 m/s²"
+      "34.9 m/s²",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "a_c=v²/R."
+    "explanation": "a_c=v²/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-065",
@@ -1164,10 +1292,12 @@
       "0.725 s",
       "0.3625 s",
       "1.45 s",
-      "0.9063 s"
+      "0.9063 s",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-066",
@@ -1182,10 +1312,12 @@
       "0.962 m/s",
       "3.85 m/s",
       "2.4 m/s",
-      "1.92 m/s"
+      "1.92 m/s",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "v_max=ωA."
+    "explanation": "v_max=ωA.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-067",
@@ -1200,10 +1332,12 @@
       "35.94 m/s²",
       "22.46 m/s²",
       "17.97 m/s²",
-      "8.98 m/s²"
+      "8.98 m/s²",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "a_c=v²/R."
+    "explanation": "a_c=v²/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-068",
@@ -1218,10 +1352,12 @@
       "0.88 s",
       "0.704 s",
       "0.352 s",
-      "1.41 s"
+      "1.41 s",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-069",
@@ -1236,10 +1372,12 @@
       "2.01 m/s",
       "1.01 m/s",
       "4.03 m/s",
-      "2.52 m/s"
+      "2.52 m/s",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "v_max=ωA."
+    "explanation": "v_max=ωA.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-070",
@@ -1254,10 +1392,12 @@
       "9.24 m/s²",
       "36.98 m/s²",
       "23.11 m/s²",
-      "18.49 m/s²"
+      "18.49 m/s²",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "a_c=v²/R."
+    "explanation": "a_c=v²/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-071",
@@ -1272,10 +1412,12 @@
       "1.37 s",
       "0.8563 s",
       "0.685 s",
-      "0.3425 s"
+      "0.3425 s",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-072",
@@ -1290,10 +1432,12 @@
       "2.63 m/s",
       "2.11 m/s",
       "1.05 m/s",
-      "4.21 m/s"
+      "4.21 m/s",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "v_max=ωA."
+    "explanation": "v_max=ωA.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-073",
@@ -1308,10 +1452,12 @@
       "19.01 m/s²",
       "9.51 m/s²",
       "38.02 m/s²",
-      "23.76 m/s²"
+      "23.76 m/s²",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "a_c=v²/R."
+    "explanation": "a_c=v²/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-074",
@@ -1326,10 +1472,12 @@
       "0.3335 s",
       "1.33 s",
       "0.8337 s",
-      "0.667 s"
+      "0.667 s",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-075",
@@ -1344,10 +1492,12 @@
       "4.4 m/s",
       "2.75 m/s",
       "2.2 m/s",
-      "1.1 m/s"
+      "1.1 m/s",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "v_max=ωA."
+    "explanation": "v_max=ωA.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-076",
@@ -1362,10 +1512,12 @@
       "24.41 m/s²",
       "19.53 m/s²",
       "9.77 m/s²",
-      "39.06 m/s²"
+      "39.06 m/s²",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "a_c=v²/R."
+    "explanation": "a_c=v²/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-077",
@@ -1380,10 +1532,12 @@
       "0.649 s",
       "0.3245 s",
       "1.3 s",
-      "0.8113 s"
+      "0.8113 s",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-078",
@@ -1398,10 +1552,12 @@
       "1.15 m/s",
       "4.59 m/s",
       "2.87 m/s",
-      "2.3 m/s"
+      "2.3 m/s",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "v_max=ωA."
+    "explanation": "v_max=ωA.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-079",
@@ -1416,10 +1572,12 @@
       "40.12 m/s²",
       "25.07 m/s²",
       "20.06 m/s²",
-      "10.03 m/s²"
+      "10.03 m/s²",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "a_c=v²/R."
+    "explanation": "a_c=v²/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-080",
@@ -1434,10 +1592,12 @@
       "0.7913 s",
       "0.633 s",
       "0.3165 s",
-      "1.27 s"
+      "1.27 s",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-081",
@@ -1452,10 +1612,12 @@
       "2.39 m/s",
       "1.2 m/s",
       "4.79 m/s",
-      "2.99 m/s"
+      "2.99 m/s",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "v_max=ωA."
+    "explanation": "v_max=ωA.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-082",
@@ -1470,10 +1632,12 @@
       "10.29 m/s²",
       "41.16 m/s²",
       "25.72 m/s²",
-      "20.58 m/s²"
+      "20.58 m/s²",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "a_c=v²/R."
+    "explanation": "a_c=v²/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-083",
@@ -1488,10 +1652,12 @@
       "1.23 s",
       "0.7712 s",
       "0.617 s",
-      "0.3085 s"
+      "0.3085 s",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-084",
@@ -1506,10 +1672,12 @@
       "3.12 m/s",
       "2.49 m/s",
       "1.25 m/s",
-      "4.99 m/s"
+      "4.99 m/s",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "v_max=ωA."
+    "explanation": "v_max=ωA.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-085",
@@ -1524,10 +1692,12 @@
       "21.1 m/s²",
       "10.55 m/s²",
       "42.2 m/s²",
-      "26.38 m/s²"
+      "26.38 m/s²",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "a_c=v²/R."
+    "explanation": "a_c=v²/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-086",
@@ -1542,10 +1712,12 @@
       "0.301 s",
       "1.2 s",
       "0.7525 s",
-      "0.602 s"
+      "0.602 s",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-087",
@@ -1560,10 +1732,12 @@
       "5.19 m/s",
       "3.25 m/s",
       "2.6 m/s",
-      "1.3 m/s"
+      "1.3 m/s",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "v_max=ωA."
+    "explanation": "v_max=ωA.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-088",
@@ -1578,10 +1752,12 @@
       "27.03 m/s²",
       "21.62 m/s²",
       "10.81 m/s²",
-      "43.24 m/s²"
+      "43.24 m/s²",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "a_c=v²/R."
+    "explanation": "a_c=v²/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-089",
@@ -1596,10 +1772,12 @@
       "0.588 s",
       "0.294 s",
       "1.18 s",
-      "0.735 s"
+      "0.735 s",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-090",
@@ -1614,10 +1792,12 @@
       "1.35 m/s",
       "5.4 m/s",
       "3.38 m/s",
-      "2.7 m/s"
+      "2.7 m/s",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "v_max=ωA."
+    "explanation": "v_max=ωA.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-091",
@@ -1632,10 +1812,12 @@
       "44.28 m/s²",
       "27.68 m/s²",
       "22.14 m/s²",
-      "11.07 m/s²"
+      "11.07 m/s²",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "a_c=v²/R."
+    "explanation": "a_c=v²/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-092",
@@ -1650,10 +1832,12 @@
       "0.7188 s",
       "0.575 s",
       "0.2875 s",
-      "1.15 s"
+      "1.15 s",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-093",
@@ -1668,10 +1852,12 @@
       "2.81 m/s",
       "1.4 m/s",
       "5.61 m/s",
-      "3.51 m/s"
+      "3.51 m/s",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "v_max=ωA."
+    "explanation": "v_max=ωA.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-094",
@@ -1686,10 +1872,12 @@
       "11.33 m/s²",
       "45.32 m/s²",
       "28.32 m/s²",
-      "22.66 m/s²"
+      "22.66 m/s²",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "a_c=v²/R."
+    "explanation": "a_c=v²/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-095",
@@ -1704,10 +1892,12 @@
       "1.12 s",
       "0.7025 s",
       "0.562 s",
-      "0.281 s"
+      "0.281 s",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-096",
@@ -1722,10 +1912,12 @@
       "3.64 m/s",
       "2.91 m/s",
       "1.46 m/s",
-      "5.83 m/s"
+      "5.83 m/s",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "v_max=ωA."
+    "explanation": "v_max=ωA.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-097",
@@ -1740,10 +1932,12 @@
       "23.18 m/s²",
       "11.59 m/s²",
       "46.36 m/s²",
-      "28.98 m/s²"
+      "28.98 m/s²",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "a_c=v²/R."
+    "explanation": "a_c=v²/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-098",
@@ -1758,10 +1952,12 @@
       "0.2745 s",
       "1.1 s",
       "0.6863 s",
-      "0.549 s"
+      "0.549 s",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-099",
@@ -1776,10 +1972,12 @@
       "6.05 m/s",
       "3.78 m/s",
       "3.02 m/s",
-      "1.51 m/s"
+      "1.51 m/s",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "v_max=ωA."
+    "explanation": "v_max=ωA.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-100",
@@ -1794,10 +1992,12 @@
       "29.63 m/s²",
       "23.7 m/s²",
       "11.85 m/s²",
-      "47.4 m/s²"
+      "47.4 m/s²",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "a_c=v²/R."
+    "explanation": "a_c=v²/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-101",
@@ -1812,10 +2012,12 @@
       "0.538 s",
       "0.269 s",
       "1.08 s",
-      "0.6725 s"
+      "0.6725 s",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-102",
@@ -1830,10 +2032,12 @@
       "1.57 m/s",
       "6.27 m/s",
       "3.92 m/s",
-      "3.14 m/s"
+      "3.14 m/s",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "v_max=ωA."
+    "explanation": "v_max=ωA.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-103",
@@ -1848,10 +2052,12 @@
       "48.44 m/s²",
       "30.27 m/s²",
       "24.22 m/s²",
-      "12.11 m/s²"
+      "12.11 m/s²",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "a_c=v²/R."
+    "explanation": "a_c=v²/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-104",
@@ -1866,10 +2072,12 @@
       "0.6575 s",
       "0.526 s",
       "0.263 s",
-      "1.05 s"
+      "1.05 s",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-105",
@@ -1884,10 +2092,12 @@
       "3.25 m/s",
       "1.63 m/s",
       "6.5 m/s",
-      "4.06 m/s"
+      "4.06 m/s",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "v_max=ωA."
+    "explanation": "v_max=ωA.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-106",
@@ -1902,10 +2112,12 @@
       "12.37 m/s²",
       "49.48 m/s²",
       "30.92 m/s²",
-      "24.74 m/s²"
+      "24.74 m/s²",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "a_c=v²/R."
+    "explanation": "a_c=v²/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-107",
@@ -1920,10 +2132,12 @@
       "1.03 s",
       "0.6438 s",
       "0.515 s",
-      "0.2575 s"
+      "0.2575 s",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-108",
@@ -1938,10 +2152,12 @@
       "4.21 m/s",
       "3.37 m/s",
       "1.68 m/s",
-      "6.73 m/s"
+      "6.73 m/s",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "v_max=ωA."
+    "explanation": "v_max=ωA.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-109",
@@ -1956,10 +2172,12 @@
       "25.26 m/s²",
       "12.63 m/s²",
       "50.52 m/s²",
-      "31.58 m/s²"
+      "31.58 m/s²",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "a_c=v²/R."
+    "explanation": "a_c=v²/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-110",
@@ -1974,10 +2192,12 @@
       "0.2525 s",
       "1.01 s",
       "0.6312 s",
-      "0.505 s"
+      "0.505 s",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-111",
@@ -1992,10 +2212,12 @@
       "6.97 m/s",
       "4.36 m/s",
       "3.48 m/s",
-      "1.74 m/s"
+      "1.74 m/s",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "v_max=ωA."
+    "explanation": "v_max=ωA.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-112",
@@ -2010,10 +2232,12 @@
       "32.23 m/s²",
       "25.78 m/s²",
       "12.89 m/s²",
-      "51.56 m/s²"
+      "51.56 m/s²",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "a_c=v²/R."
+    "explanation": "a_c=v²/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-113",
@@ -2028,10 +2252,12 @@
       "0.495 s",
       "0.2475 s",
       "0.99 s",
-      "0.6188 s"
+      "0.6188 s",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-114",
@@ -2046,10 +2272,12 @@
       "1.8 m/s",
       "7.21 m/s",
       "4.5 m/s",
-      "3.6 m/s"
+      "3.6 m/s",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "v_max=ωA."
+    "explanation": "v_max=ωA.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-115",
@@ -2064,10 +2292,12 @@
       "52.6 m/s²",
       "32.88 m/s²",
       "26.3 m/s²",
-      "13.15 m/s²"
+      "13.15 m/s²",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "a_c=v²/R."
+    "explanation": "a_c=v²/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-116",
@@ -2082,10 +2312,12 @@
       "0.6062 s",
       "0.485 s",
       "0.2425 s",
-      "0.97 s"
+      "0.97 s",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-117",
@@ -2100,10 +2332,12 @@
       "3.73 m/s",
       "1.86 m/s",
       "7.45 m/s",
-      "4.66 m/s"
+      "4.66 m/s",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "v_max=ωA."
+    "explanation": "v_max=ωA.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-118",
@@ -2118,10 +2352,12 @@
       "13.41 m/s²",
       "53.66 m/s²",
       "33.54 m/s²",
-      "26.83 m/s²"
+      "26.83 m/s²",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "a_c=v²/R."
+    "explanation": "a_c=v²/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-119",
@@ -2136,10 +2372,12 @@
       "0.952 s",
       "0.595 s",
       "0.476 s",
-      "0.238 s"
+      "0.238 s",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-120",
@@ -2154,10 +2392,12 @@
       "4.81 m/s",
       "3.85 m/s",
       "1.93 m/s",
-      "7.7 m/s"
+      "7.7 m/s",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "v_max=ωA."
+    "explanation": "v_max=ωA.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-121",
@@ -2172,10 +2412,12 @@
       "27.35 m/s²",
       "13.68 m/s²",
       "54.7 m/s²",
-      "34.19 m/s²"
+      "34.19 m/s²",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "a_c=v²/R."
+    "explanation": "a_c=v²/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-122",
@@ -2190,10 +2432,12 @@
       "0.2335 s",
       "0.934 s",
       "0.5837 s",
-      "0.467 s"
+      "0.467 s",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-123",
@@ -2208,10 +2452,12 @@
       "7.95 m/s",
       "4.97 m/s",
       "3.98 m/s",
-      "1.99 m/s"
+      "1.99 m/s",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "v_max=ωA."
+    "explanation": "v_max=ωA.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-124",
@@ -2226,10 +2472,12 @@
       "34.84 m/s²",
       "27.87 m/s²",
       "13.94 m/s²",
-      "55.74 m/s²"
+      "55.74 m/s²",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "a_c=v²/R."
+    "explanation": "a_c=v²/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-125",
@@ -2244,10 +2492,12 @@
       "0.459 s",
       "0.2295 s",
       "0.918 s",
-      "0.5737 s"
+      "0.5737 s",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-126",
@@ -2262,10 +2512,12 @@
       "2.05 m/s",
       "8.21 m/s",
       "5.13 m/s",
-      "4.1 m/s"
+      "4.1 m/s",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "v_max=ωA."
+    "explanation": "v_max=ωA.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-127",
@@ -2280,10 +2532,12 @@
       "56.78 m/s²",
       "35.49 m/s²",
       "28.39 m/s²",
-      "14.2 m/s²"
+      "14.2 m/s²",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "a_c=v²/R."
+    "explanation": "a_c=v²/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-128",
@@ -2298,10 +2552,12 @@
       "0.5625 s",
       "0.45 s",
       "0.225 s",
-      "0.9 s"
+      "0.9 s",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-129",
@@ -2316,10 +2572,12 @@
       "4.23 m/s",
       "2.12 m/s",
       "8.47 m/s",
-      "5.29 m/s"
+      "5.29 m/s",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "v_max=ωA."
+    "explanation": "v_max=ωA.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-130",
@@ -2334,10 +2592,12 @@
       "14.46 m/s²",
       "57.82 m/s²",
       "36.14 m/s²",
-      "28.91 m/s²"
+      "28.91 m/s²",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "a_c=v²/R."
+    "explanation": "a_c=v²/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-131",
@@ -2352,10 +2612,12 @@
       "0.884 s",
       "0.5525 s",
       "0.442 s",
-      "0.221 s"
+      "0.221 s",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-132",
@@ -2370,10 +2632,12 @@
       "5.46 m/s",
       "4.37 m/s",
       "2.18 m/s",
-      "8.73 m/s"
+      "8.73 m/s",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "v_max=ωA."
+    "explanation": "v_max=ωA.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-133",
@@ -2388,10 +2652,12 @@
       "29.43 m/s²",
       "14.71 m/s²",
       "58.86 m/s²",
-      "36.79 m/s²"
+      "36.79 m/s²",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "a_c=v²/R."
+    "explanation": "a_c=v²/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-134",
@@ -2406,10 +2672,12 @@
       "0.2175 s",
       "0.87 s",
       "0.5437 s",
-      "0.435 s"
+      "0.435 s",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-135",
@@ -2424,10 +2692,12 @@
       "9 m/s",
       "5.63 m/s",
       "4.5 m/s",
-      "2.25 m/s"
+      "2.25 m/s",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "v_max=ωA."
+    "explanation": "v_max=ωA.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-136",
@@ -2442,10 +2712,12 @@
       "37.44 m/s²",
       "29.95 m/s²",
       "14.97 m/s²",
-      "59.9 m/s²"
+      "59.9 m/s²",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "a_c=v²/R."
+    "explanation": "a_c=v²/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-137",
@@ -2460,10 +2732,12 @@
       "0.427 s",
       "0.2135 s",
       "0.854 s",
-      "0.5337 s"
+      "0.5337 s",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-138",
@@ -2478,10 +2752,12 @@
       "2.32 m/s",
       "9.27 m/s",
       "5.79 m/s",
-      "4.64 m/s"
+      "4.64 m/s",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "v_max=ωA."
+    "explanation": "v_max=ωA.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-139",
@@ -2496,10 +2772,12 @@
       "60.94 m/s²",
       "38.09 m/s²",
       "30.47 m/s²",
-      "15.23 m/s²"
+      "15.23 m/s²",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "a_c=v²/R."
+    "explanation": "a_c=v²/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-140",
@@ -2514,10 +2792,12 @@
       "0.525 s",
       "0.42 s",
       "0.21 s",
-      "0.84 s"
+      "0.84 s",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-141",
@@ -2532,10 +2812,12 @@
       "4.77 m/s",
       "2.39 m/s",
       "9.55 m/s",
-      "5.97 m/s"
+      "5.97 m/s",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "v_max=ωA."
+    "explanation": "v_max=ωA.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-142",
@@ -2550,10 +2832,12 @@
       "15.49 m/s²",
       "61.98 m/s²",
       "38.74 m/s²",
-      "30.99 m/s²"
+      "30.99 m/s²",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "a_c=v²/R."
+    "explanation": "a_c=v²/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-143",
@@ -2568,10 +2852,12 @@
       "0.826 s",
       "0.5162 s",
       "0.413 s",
-      "0.2065 s"
+      "0.2065 s",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-144",
@@ -2586,10 +2872,12 @@
       "6.14 m/s",
       "4.91 m/s",
       "2.46 m/s",
-      "9.83 m/s"
+      "9.83 m/s",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "v_max=ωA."
+    "explanation": "v_max=ωA.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-145",
@@ -2604,10 +2892,12 @@
       "31.51 m/s²",
       "15.76 m/s²",
       "63.02 m/s²",
-      "39.39 m/s²"
+      "39.39 m/s²",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "a_c=v²/R."
+    "explanation": "a_c=v²/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-146",
@@ -2622,10 +2912,12 @@
       "0.2035 s",
       "0.814 s",
       "0.5087 s",
-      "0.407 s"
+      "0.407 s",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-147",
@@ -2640,10 +2932,12 @@
       "10.11 m/s",
       "6.32 m/s",
       "5.06 m/s",
-      "2.53 m/s"
+      "2.53 m/s",
+      "None of the other options"
     ],
     "answer_index": 2,
-    "explanation": "v_max=ωA."
+    "explanation": "v_max=ωA.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-148",
@@ -2658,10 +2952,12 @@
       "40.04 m/s²",
       "32.03 m/s²",
       "16.02 m/s²",
-      "64.06 m/s²"
+      "64.06 m/s²",
+      "None of the other options"
     ],
     "answer_index": 1,
-    "explanation": "a_c=v²/R."
+    "explanation": "a_c=v²/R.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-149",
@@ -2676,10 +2972,12 @@
       "0.4 s",
       "0.2 s",
       "0.8 s",
-      "0.5 s"
+      "0.5 s",
+      "None of the other options"
     ],
     "answer_index": 0,
-    "explanation": "T=1/f."
+    "explanation": "T=1/f.",
+    "format": "single-best-answer-5"
   },
   {
     "id": "IMAT-PHY-CIRCULAR-HARMONIC-150",
@@ -2694,9 +2992,11 @@
       "2.6 m/s",
       "10.4 m/s",
       "6.5 m/s",
-      "5.2 m/s"
+      "5.2 m/s",
+      "None of the other options"
     ],
     "answer_index": 3,
-    "explanation": "v_max=ωA."
+    "explanation": "v_max=ωA.",
+    "format": "single-best-answer-5"
   }
 ]
