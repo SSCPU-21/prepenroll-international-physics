@@ -1,0 +1,98 @@
+[
+  {
+    "slug": "measurements-units",
+    "title": "Physical Quantities & Units",
+    "unit": "Measurements",
+    "count": 150
+  },
+  {
+    "slug": "vectors",
+    "title": "Scalars & Vectors",
+    "unit": "Measurements",
+    "count": 150
+  },
+  {
+    "slug": "linear-kinematics",
+    "title": "Linear Kinematics",
+    "unit": "Kinematics",
+    "count": 150
+  },
+  {
+    "slug": "circular-harmonic",
+    "title": "Circular & Harmonic Motion",
+    "unit": "Kinematics",
+    "count": 150
+  },
+  {
+    "slug": "newtons-laws-forces",
+    "title": "Newton's Laws & Forces",
+    "unit": "Dynamics",
+    "count": 150
+  },
+  {
+    "slug": "momentum-impulse",
+    "title": "Momentum & Impulse",
+    "unit": "Dynamics",
+    "count": 150
+  },
+  {
+    "slug": "work-energy-power",
+    "title": "Work, Energy & Power",
+    "unit": "Dynamics",
+    "count": 150
+  },
+  {
+    "slug": "torque-angular-gravitation",
+    "title": "Torque, Angular Ideas & Gravitation",
+    "unit": "Dynamics",
+    "count": 150
+  },
+  {
+    "slug": "fluids-hydrostatics",
+    "title": "Fluid Statics",
+    "unit": "Fluid Mechanics",
+    "count": 150
+  },
+  {
+    "slug": "fluid-dynamics",
+    "title": "Fluid Dynamics",
+    "unit": "Fluid Mechanics",
+    "count": 150
+  },
+  {
+    "slug": "thermal-calorimetry",
+    "title": "Thermal Physics & Calorimetry",
+    "unit": "Thermodynamics",
+    "count": 150
+  },
+  {
+    "slug": "gas-laws-thermodynamics",
+    "title": "Gas Laws & Thermodynamics",
+    "unit": "Thermodynamics",
+    "count": 150
+  },
+  {
+    "slug": "electrostatics",
+    "title": "Electrostatics",
+    "unit": "Electricity & Electromagnetism",
+    "count": 150
+  },
+  {
+    "slug": "capacitance",
+    "title": "Capacitance",
+    "unit": "Electricity & Electromagnetism",
+    "count": 150
+  },
+  {
+    "slug": "current-circuits",
+    "title": "Current Electricity & Circuits",
+    "unit": "Electricity & Electromagnetism",
+    "count": 150
+  },
+  {
+    "slug": "magnetism-emi-ac",
+    "title": "Magnetism, EMI & AC",
+    "unit": "Electricity & Electromagnetism",
+    "count": 150
+  }
+]
