@@ -94,5 +94,17 @@
     "title": "Magnetism, EMI & AC",
     "unit": "Electricity & Electromagnetism",
     "count": 150
+  },
+  {
+    "slug": "relative-motion-frames",
+    "title": "Relative Motion & Frames",
+    "unit": "Kinematics",
+    "count": 150
+  },
+  {
+    "slug": "waves-coherence",
+    "title": "Waves & Coherence",
+    "unit": "Oscillations & Waves",
+    "count": 150
   }
 ]
