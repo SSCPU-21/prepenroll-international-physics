@@ -61,13 +61,26 @@ function renderQuestion(){
   $('answeredText').textContent=`${Object.keys(state.answers).length} answered`;
   $('qMeta').textContent=`${q.unit} • ${q.subtopic} • ${q.difficulty}`;
   $('qStem').textContent=q.stem;
-  $('qOptions').innerHTML=q.options.map((o,i)=>`
-    <button class="opt ${state.answers[q.id]===i?'sel':''}" data-i="${i}">
+  const chosen=state.answers[q.id];
+  $('qOptions').innerHTML=q.options.map((o,i)=>{
+    const cls = chosen===undefined ? '' :
+      (i===q.answer_index ? 'correct-now' : (i===chosen ? 'wrong-now' : ''));
+    return `<button class="opt ${chosen===i?'sel':''} ${cls}" data-i="${i}">
       <span class="letter">${String.fromCharCode(65+i)}</span><span>${o}</span>
-    </button>`).join('');
+    </button>`;
+  }).join('');
   $('qOptions').querySelectorAll('.opt').forEach(btn=>btn.onclick=()=>{
     state.answers[q.id]=Number(btn.dataset.i);renderQuestion();
   });
+  const fb=$('instantFeedback');
+  if(chosen===undefined){
+    fb.className='instant-feedback';
+    fb.innerHTML='';
+  } else {
+    const ok=chosen===q.answer_index;
+    fb.className='instant-feedback show '+(ok?'correct':'wrong');
+    fb.innerHTML=`<b>${ok?'Correct':'Correct answer: '+String.fromCharCode(65+q.answer_index)+'. '+q.options[q.answer_index]}</b><br>${q.explanation}`;
+  }
   $('prevBtn').disabled=state.index===0;
   $('nextBtn').style.display=state.index===state.questions.length-1?'none':'inline-block';
   $('submitBtn').style.display=state.index===state.questions.length-1?'inline-block':'none';
