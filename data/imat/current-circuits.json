@@ -1,0 +1,2702 @@
+[
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-001",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 2.05 Ω resistor has 10.3 V across it. Current?",
+    "options": [
+      "5.02 A",
+      "2.51 A",
+      "10.05 A",
+      "6.28 A"
+    ],
+    "answer_index": 0,
+    "explanation": "I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-002",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 2.04 Ω and 3.05 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "0.6112 Ω",
+      "2.44 Ω",
+      "1.53 Ω",
+      "1.22 Ω"
+    ],
+    "answer_index": 3,
+    "explanation": "Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-003",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 12.2 V and 1.53 A. Power?",
+    "options": [
+      "37.33 W",
+      "23.33 W",
+      "18.67 W",
+      "9.33 W"
+    ],
+    "answer_index": 2,
+    "explanation": "P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-004",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 2.1 Ω resistor has 10.6 V across it. Current?",
+    "options": [
+      "6.31 A",
+      "5.05 A",
+      "2.52 A",
+      "10.1 A"
+    ],
+    "answer_index": 1,
+    "explanation": "I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-005",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 2.08 Ω and 3.1 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "1.24 Ω",
+      "0.6224 Ω",
+      "2.49 Ω",
+      "1.56 Ω"
+    ],
+    "answer_index": 0,
+    "explanation": "Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-006",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 12.4 V and 1.56 A. Power?",
+    "options": [
+      "9.67 W",
+      "38.69 W",
+      "24.18 W",
+      "19.34 W"
+    ],
+    "answer_index": 3,
+    "explanation": "P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-007",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 2.15 Ω resistor has 10.9 V across it. Current?",
+    "options": [
+      "10.14 A",
+      "6.34 A",
+      "5.07 A",
+      "2.53 A"
+    ],
+    "answer_index": 2,
+    "explanation": "I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-008",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 2.12 Ω and 3.15 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "1.58 Ω",
+      "1.27 Ω",
+      "0.6336 Ω",
+      "2.53 Ω"
+    ],
+    "answer_index": 1,
+    "explanation": "Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-009",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 12.6 V and 1.59 A. Power?",
+    "options": [
+      "20.03 W",
+      "10.02 W",
+      "40.07 W",
+      "25.04 W"
+    ],
+    "answer_index": 0,
+    "explanation": "P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-010",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 2.2 Ω resistor has 11.2 V across it. Current?",
+    "options": [
+      "2.55 A",
+      "10.18 A",
+      "6.36 A",
+      "5.09 A"
+    ],
+    "answer_index": 3,
+    "explanation": "I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-011",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 2.16 Ω and 3.2 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "2.58 Ω",
+      "1.61 Ω",
+      "1.29 Ω",
+      "0.6448 Ω"
+    ],
+    "answer_index": 2,
+    "explanation": "Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-012",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 12.8 V and 1.62 A. Power?",
+    "options": [
+      "25.92 W",
+      "20.74 W",
+      "10.37 W",
+      "41.47 W"
+    ],
+    "answer_index": 1,
+    "explanation": "P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-013",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 2.25 Ω resistor has 11.5 V across it. Current?",
+    "options": [
+      "5.11 A",
+      "2.56 A",
+      "10.22 A",
+      "6.39 A"
+    ],
+    "answer_index": 0,
+    "explanation": "I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-014",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 2.2 Ω and 3.25 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "0.656 Ω",
+      "2.62 Ω",
+      "1.64 Ω",
+      "1.31 Ω"
+    ],
+    "answer_index": 3,
+    "explanation": "Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-015",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 13 V and 1.65 A. Power?",
+    "options": [
+      "42.9 W",
+      "26.81 W",
+      "21.45 W",
+      "10.72 W"
+    ],
+    "answer_index": 2,
+    "explanation": "P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-016",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 2.3 Ω resistor has 11.8 V across it. Current?",
+    "options": [
+      "6.41 A",
+      "5.13 A",
+      "2.57 A",
+      "10.26 A"
+    ],
+    "answer_index": 1,
+    "explanation": "I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-017",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 2.24 Ω and 3.3 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "1.33 Ω",
+      "0.6671 Ω",
+      "2.67 Ω",
+      "1.67 Ω"
+    ],
+    "answer_index": 0,
+    "explanation": "Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-018",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 13.2 V and 1.68 A. Power?",
+    "options": [
+      "11.09 W",
+      "44.35 W",
+      "27.72 W",
+      "22.18 W"
+    ],
+    "answer_index": 3,
+    "explanation": "P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-019",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 2.35 Ω resistor has 12.1 V across it. Current?",
+    "options": [
+      "10.3 A",
+      "6.44 A",
+      "5.15 A",
+      "2.57 A"
+    ],
+    "answer_index": 2,
+    "explanation": "I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-020",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 2.28 Ω and 3.35 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "1.7 Ω",
+      "1.36 Ω",
+      "0.6783 Ω",
+      "2.71 Ω"
+    ],
+    "answer_index": 1,
+    "explanation": "Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-021",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 13.4 V and 1.71 A. Power?",
+    "options": [
+      "22.91 W",
+      "11.46 W",
+      "45.83 W",
+      "28.64 W"
+    ],
+    "answer_index": 0,
+    "explanation": "P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-022",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 2.4 Ω resistor has 12.4 V across it. Current?",
+    "options": [
+      "2.58 A",
+      "10.33 A",
+      "6.46 A",
+      "5.17 A"
+    ],
+    "answer_index": 3,
+    "explanation": "I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-023",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 2.32 Ω and 3.4 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "2.76 Ω",
+      "1.72 Ω",
+      "1.38 Ω",
+      "0.6895 Ω"
+    ],
+    "answer_index": 2,
+    "explanation": "Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-024",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 13.6 V and 1.74 A. Power?",
+    "options": [
+      "29.58 W",
+      "23.66 W",
+      "11.83 W",
+      "47.33 W"
+    ],
+    "answer_index": 1,
+    "explanation": "P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-025",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 2.45 Ω resistor has 12.7 V across it. Current?",
+    "options": [
+      "5.18 A",
+      "2.59 A",
+      "10.37 A",
+      "6.48 A"
+    ],
+    "answer_index": 0,
+    "explanation": "I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-026",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 2.36 Ω and 3.45 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "0.7007 Ω",
+      "2.8 Ω",
+      "1.75 Ω",
+      "1.4 Ω"
+    ],
+    "answer_index": 3,
+    "explanation": "Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-027",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 13.8 V and 1.77 A. Power?",
+    "options": [
+      "48.85 W",
+      "30.53 W",
+      "24.43 W",
+      "12.21 W"
+    ],
+    "answer_index": 2,
+    "explanation": "P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-028",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 2.5 Ω resistor has 13 V across it. Current?",
+    "options": [
+      "6.5 A",
+      "5.2 A",
+      "2.6 A",
+      "10.4 A"
+    ],
+    "answer_index": 1,
+    "explanation": "I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-029",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 2.4 Ω and 3.5 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "1.42 Ω",
+      "0.7119 Ω",
+      "2.85 Ω",
+      "1.78 Ω"
+    ],
+    "answer_index": 0,
+    "explanation": "Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-030",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 14 V and 1.8 A. Power?",
+    "options": [
+      "12.6 W",
+      "50.4 W",
+      "31.5 W",
+      "25.2 W"
+    ],
+    "answer_index": 3,
+    "explanation": "P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-031",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 2.55 Ω resistor has 13.3 V across it. Current?",
+    "options": [
+      "10.43 A",
+      "6.52 A",
+      "5.22 A",
+      "2.61 A"
+    ],
+    "answer_index": 2,
+    "explanation": "I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-032",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 2.44 Ω and 3.55 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "1.81 Ω",
+      "1.45 Ω",
+      "0.723 Ω",
+      "2.89 Ω"
+    ],
+    "answer_index": 1,
+    "explanation": "Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-033",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 14.2 V and 1.83 A. Power?",
+    "options": [
+      "25.99 W",
+      "12.99 W",
+      "51.97 W",
+      "32.48 W"
+    ],
+    "answer_index": 0,
+    "explanation": "P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-034",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 2.6 Ω resistor has 13.6 V across it. Current?",
+    "options": [
+      "2.62 A",
+      "10.46 A",
+      "6.54 A",
+      "5.23 A"
+    ],
+    "answer_index": 3,
+    "explanation": "I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-035",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 2.48 Ω and 3.6 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "2.94 Ω",
+      "1.84 Ω",
+      "1.47 Ω",
+      "0.7342 Ω"
+    ],
+    "answer_index": 2,
+    "explanation": "Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-036",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 14.4 V and 1.86 A. Power?",
+    "options": [
+      "33.48 W",
+      "26.78 W",
+      "13.39 W",
+      "53.57 W"
+    ],
+    "answer_index": 1,
+    "explanation": "P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-037",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 2.65 Ω resistor has 13.9 V across it. Current?",
+    "options": [
+      "5.25 A",
+      "2.62 A",
+      "10.49 A",
+      "6.56 A"
+    ],
+    "answer_index": 0,
+    "explanation": "I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-038",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 2.52 Ω and 3.65 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "0.7454 Ω",
+      "2.98 Ω",
+      "1.86 Ω",
+      "1.49 Ω"
+    ],
+    "answer_index": 3,
+    "explanation": "Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-039",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 14.6 V and 1.89 A. Power?",
+    "options": [
+      "55.19 W",
+      "34.49 W",
+      "27.59 W",
+      "13.8 W"
+    ],
+    "answer_index": 2,
+    "explanation": "P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-040",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 2.7 Ω resistor has 14.2 V across it. Current?",
+    "options": [
+      "6.57 A",
+      "5.26 A",
+      "2.63 A",
+      "10.52 A"
+    ],
+    "answer_index": 1,
+    "explanation": "I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-041",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 2.56 Ω and 3.7 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "1.51 Ω",
+      "0.7565 Ω",
+      "3.03 Ω",
+      "1.89 Ω"
+    ],
+    "answer_index": 0,
+    "explanation": "Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-042",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 14.8 V and 1.92 A. Power?",
+    "options": [
+      "14.21 W",
+      "56.83 W",
+      "35.52 W",
+      "28.42 W"
+    ],
+    "answer_index": 3,
+    "explanation": "P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-043",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 2.75 Ω resistor has 14.5 V across it. Current?",
+    "options": [
+      "10.55 A",
+      "6.59 A",
+      "5.27 A",
+      "2.64 A"
+    ],
+    "answer_index": 2,
+    "explanation": "I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-044",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 2.6 Ω and 3.75 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "1.92 Ω",
+      "1.54 Ω",
+      "0.7677 Ω",
+      "3.07 Ω"
+    ],
+    "answer_index": 1,
+    "explanation": "Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-045",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 15 V and 1.95 A. Power?",
+    "options": [
+      "29.25 W",
+      "14.63 W",
+      "58.5 W",
+      "36.56 W"
+    ],
+    "answer_index": 0,
+    "explanation": "P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-046",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 2.8 Ω resistor has 14.8 V across it. Current?",
+    "options": [
+      "2.64 A",
+      "10.57 A",
+      "6.61 A",
+      "5.29 A"
+    ],
+    "answer_index": 3,
+    "explanation": "I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-047",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 2.64 Ω and 3.8 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "3.12 Ω",
+      "1.95 Ω",
+      "1.56 Ω",
+      "0.7789 Ω"
+    ],
+    "answer_index": 2,
+    "explanation": "Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-048",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 15.2 V and 1.98 A. Power?",
+    "options": [
+      "37.62 W",
+      "30.1 W",
+      "15.05 W",
+      "60.19 W"
+    ],
+    "answer_index": 1,
+    "explanation": "P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-049",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 2.85 Ω resistor has 15.1 V across it. Current?",
+    "options": [
+      "5.3 A",
+      "2.65 A",
+      "10.6 A",
+      "6.62 A"
+    ],
+    "answer_index": 0,
+    "explanation": "I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-050",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 2.68 Ω and 3.85 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "0.79 Ω",
+      "3.16 Ω",
+      "1.98 Ω",
+      "1.58 Ω"
+    ],
+    "answer_index": 3,
+    "explanation": "Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-051",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 15.4 V and 2.01 A. Power?",
+    "options": [
+      "61.91 W",
+      "38.69 W",
+      "30.95 W",
+      "15.48 W"
+    ],
+    "answer_index": 2,
+    "explanation": "P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-052",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 2.9 Ω resistor has 15.4 V across it. Current?",
+    "options": [
+      "6.64 A",
+      "5.31 A",
+      "2.66 A",
+      "10.62 A"
+    ],
+    "answer_index": 1,
+    "explanation": "I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-053",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 2.72 Ω and 3.9 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "1.6 Ω",
+      "0.8012 Ω",
+      "3.2 Ω",
+      "2 Ω"
+    ],
+    "answer_index": 0,
+    "explanation": "Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-054",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 15.6 V and 2.04 A. Power?",
+    "options": [
+      "15.91 W",
+      "63.65 W",
+      "39.78 W",
+      "31.82 W"
+    ],
+    "answer_index": 3,
+    "explanation": "P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-055",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 2.95 Ω resistor has 15.7 V across it. Current?",
+    "options": [
+      "10.64 A",
+      "6.65 A",
+      "5.32 A",
+      "2.66 A"
+    ],
+    "answer_index": 2,
+    "explanation": "I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-056",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 2.76 Ω and 3.95 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "2.03 Ω",
+      "1.62 Ω",
+      "0.8124 Ω",
+      "3.25 Ω"
+    ],
+    "answer_index": 1,
+    "explanation": "Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-057",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 15.8 V and 2.07 A. Power?",
+    "options": [
+      "32.71 W",
+      "16.35 W",
+      "65.41 W",
+      "40.88 W"
+    ],
+    "answer_index": 0,
+    "explanation": "P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-058",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 3 Ω resistor has 16 V across it. Current?",
+    "options": [
+      "2.67 A",
+      "10.67 A",
+      "6.67 A",
+      "5.33 A"
+    ],
+    "answer_index": 3,
+    "explanation": "I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-059",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 2.8 Ω and 4 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "3.29 Ω",
+      "2.06 Ω",
+      "1.65 Ω",
+      "0.8235 Ω"
+    ],
+    "answer_index": 2,
+    "explanation": "Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-060",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 16 V and 2.1 A. Power?",
+    "options": [
+      "42 W",
+      "33.6 W",
+      "16.8 W",
+      "67.2 W"
+    ],
+    "answer_index": 1,
+    "explanation": "P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-061",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 3.05 Ω resistor has 16.3 V across it. Current?",
+    "options": [
+      "5.34 A",
+      "2.67 A",
+      "10.69 A",
+      "6.68 A"
+    ],
+    "answer_index": 0,
+    "explanation": "I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-062",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 2.84 Ω and 4.05 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "0.8347 Ω",
+      "3.34 Ω",
+      "2.09 Ω",
+      "1.67 Ω"
+    ],
+    "answer_index": 3,
+    "explanation": "Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-063",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 16.2 V and 2.13 A. Power?",
+    "options": [
+      "69.01 W",
+      "43.13 W",
+      "34.51 W",
+      "17.25 W"
+    ],
+    "answer_index": 2,
+    "explanation": "P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-064",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 3.1 Ω resistor has 16.6 V across it. Current?",
+    "options": [
+      "6.69 A",
+      "5.35 A",
+      "2.68 A",
+      "10.71 A"
+    ],
+    "answer_index": 1,
+    "explanation": "I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-065",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 2.88 Ω and 4.1 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "1.69 Ω",
+      "0.8458 Ω",
+      "3.38 Ω",
+      "2.11 Ω"
+    ],
+    "answer_index": 0,
+    "explanation": "Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-066",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 16.4 V and 2.16 A. Power?",
+    "options": [
+      "17.71 W",
+      "70.85 W",
+      "44.28 W",
+      "35.42 W"
+    ],
+    "answer_index": 3,
+    "explanation": "P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-067",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 3.15 Ω resistor has 16.9 V across it. Current?",
+    "options": [
+      "10.73 A",
+      "6.71 A",
+      "5.37 A",
+      "2.68 A"
+    ],
+    "answer_index": 2,
+    "explanation": "I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-068",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 2.92 Ω and 4.15 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "2.14 Ω",
+      "1.71 Ω",
+      "0.857 Ω",
+      "3.43 Ω"
+    ],
+    "answer_index": 1,
+    "explanation": "Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-069",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 16.6 V and 2.19 A. Power?",
+    "options": [
+      "36.35 W",
+      "18.18 W",
+      "72.71 W",
+      "45.44 W"
+    ],
+    "answer_index": 0,
+    "explanation": "P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-070",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 3.2 Ω resistor has 17.2 V across it. Current?",
+    "options": [
+      "2.69 A",
+      "10.75 A",
+      "6.72 A",
+      "5.37 A"
+    ],
+    "answer_index": 3,
+    "explanation": "I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-071",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 2.96 Ω and 4.2 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "3.47 Ω",
+      "2.17 Ω",
+      "1.74 Ω",
+      "0.8682 Ω"
+    ],
+    "answer_index": 2,
+    "explanation": "Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-072",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 16.8 V and 2.22 A. Power?",
+    "options": [
+      "46.62 W",
+      "37.3 W",
+      "18.65 W",
+      "74.59 W"
+    ],
+    "answer_index": 1,
+    "explanation": "P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-073",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 3.25 Ω resistor has 17.5 V across it. Current?",
+    "options": [
+      "5.38 A",
+      "2.69 A",
+      "10.77 A",
+      "6.73 A"
+    ],
+    "answer_index": 0,
+    "explanation": "I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-074",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 3 Ω and 4.25 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "0.8793 Ω",
+      "3.52 Ω",
+      "2.2 Ω",
+      "1.76 Ω"
+    ],
+    "answer_index": 3,
+    "explanation": "Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-075",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 17 V and 2.25 A. Power?",
+    "options": [
+      "76.5 W",
+      "47.81 W",
+      "38.25 W",
+      "19.13 W"
+    ],
+    "answer_index": 2,
+    "explanation": "P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-076",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 3.3 Ω resistor has 17.8 V across it. Current?",
+    "options": [
+      "6.74 A",
+      "5.39 A",
+      "2.7 A",
+      "10.79 A"
+    ],
+    "answer_index": 1,
+    "explanation": "I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-077",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 3.04 Ω and 4.3 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "1.78 Ω",
+      "0.8905 Ω",
+      "3.56 Ω",
+      "2.23 Ω"
+    ],
+    "answer_index": 0,
+    "explanation": "Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-078",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 17.2 V and 2.28 A. Power?",
+    "options": [
+      "19.61 W",
+      "78.43 W",
+      "49.02 W",
+      "39.22 W"
+    ],
+    "answer_index": 3,
+    "explanation": "P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-079",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 3.35 Ω resistor has 18.1 V across it. Current?",
+    "options": [
+      "10.81 A",
+      "6.75 A",
+      "5.4 A",
+      "2.7 A"
+    ],
+    "answer_index": 2,
+    "explanation": "I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-080",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 3.08 Ω and 4.35 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "2.25 Ω",
+      "1.8 Ω",
+      "0.9016 Ω",
+      "3.61 Ω"
+    ],
+    "answer_index": 1,
+    "explanation": "Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-081",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 17.4 V and 2.31 A. Power?",
+    "options": [
+      "40.19 W",
+      "20.1 W",
+      "80.39 W",
+      "50.24 W"
+    ],
+    "answer_index": 0,
+    "explanation": "P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-082",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 3.4 Ω resistor has 18.4 V across it. Current?",
+    "options": [
+      "2.71 A",
+      "10.82 A",
+      "6.76 A",
+      "5.41 A"
+    ],
+    "answer_index": 3,
+    "explanation": "I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-083",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 3.12 Ω and 4.4 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "3.65 Ω",
+      "2.28 Ω",
+      "1.83 Ω",
+      "0.9128 Ω"
+    ],
+    "answer_index": 2,
+    "explanation": "Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-084",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 17.6 V and 2.34 A. Power?",
+    "options": [
+      "51.48 W",
+      "41.18 W",
+      "20.59 W",
+      "82.37 W"
+    ],
+    "answer_index": 1,
+    "explanation": "P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-085",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 3.45 Ω resistor has 18.7 V across it. Current?",
+    "options": [
+      "5.42 A",
+      "2.71 A",
+      "10.84 A",
+      "6.78 A"
+    ],
+    "answer_index": 0,
+    "explanation": "I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-086",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 3.16 Ω and 4.45 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "0.9239 Ω",
+      "3.7 Ω",
+      "2.31 Ω",
+      "1.85 Ω"
+    ],
+    "answer_index": 3,
+    "explanation": "Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-087",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 17.8 V and 2.37 A. Power?",
+    "options": [
+      "84.37 W",
+      "52.73 W",
+      "42.19 W",
+      "21.09 W"
+    ],
+    "answer_index": 2,
+    "explanation": "P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-088",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 3.5 Ω resistor has 19 V across it. Current?",
+    "options": [
+      "6.79 A",
+      "5.43 A",
+      "2.71 A",
+      "10.86 A"
+    ],
+    "answer_index": 1,
+    "explanation": "I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-089",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 3.2 Ω and 4.5 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "1.87 Ω",
+      "0.9351 Ω",
+      "3.74 Ω",
+      "2.34 Ω"
+    ],
+    "answer_index": 0,
+    "explanation": "Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-090",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 18 V and 2.4 A. Power?",
+    "options": [
+      "21.6 W",
+      "86.4 W",
+      "54 W",
+      "43.2 W"
+    ],
+    "answer_index": 3,
+    "explanation": "P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-091",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 3.55 Ω resistor has 19.3 V across it. Current?",
+    "options": [
+      "10.87 A",
+      "6.8 A",
+      "5.44 A",
+      "2.72 A"
+    ],
+    "answer_index": 2,
+    "explanation": "I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-092",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 3.24 Ω and 4.55 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "2.37 Ω",
+      "1.89 Ω",
+      "0.9462 Ω",
+      "3.78 Ω"
+    ],
+    "answer_index": 1,
+    "explanation": "Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-093",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 18.2 V and 2.43 A. Power?",
+    "options": [
+      "44.23 W",
+      "22.11 W",
+      "88.45 W",
+      "55.28 W"
+    ],
+    "answer_index": 0,
+    "explanation": "P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-094",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 3.6 Ω resistor has 19.6 V across it. Current?",
+    "options": [
+      "2.72 A",
+      "10.89 A",
+      "6.81 A",
+      "5.44 A"
+    ],
+    "answer_index": 3,
+    "explanation": "I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-095",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 3.28 Ω and 4.6 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "3.83 Ω",
+      "2.39 Ω",
+      "1.91 Ω",
+      "0.9574 Ω"
+    ],
+    "answer_index": 2,
+    "explanation": "Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-096",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 18.4 V and 2.46 A. Power?",
+    "options": [
+      "56.58 W",
+      "45.26 W",
+      "22.63 W",
+      "90.53 W"
+    ],
+    "answer_index": 1,
+    "explanation": "P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-097",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 3.65 Ω resistor has 19.9 V across it. Current?",
+    "options": [
+      "5.45 A",
+      "2.73 A",
+      "10.9 A",
+      "6.82 A"
+    ],
+    "answer_index": 0,
+    "explanation": "I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-098",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 3.32 Ω and 4.65 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "0.9685 Ω",
+      "3.87 Ω",
+      "2.42 Ω",
+      "1.94 Ω"
+    ],
+    "answer_index": 3,
+    "explanation": "Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-099",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 18.6 V and 2.49 A. Power?",
+    "options": [
+      "92.63 W",
+      "57.89 W",
+      "46.31 W",
+      "23.16 W"
+    ],
+    "answer_index": 2,
+    "explanation": "P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-100",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 3.7 Ω resistor has 20.2 V across it. Current?",
+    "options": [
+      "6.82 A",
+      "5.46 A",
+      "2.73 A",
+      "10.92 A"
+    ],
+    "answer_index": 1,
+    "explanation": "I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-101",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 3.36 Ω and 4.7 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "1.96 Ω",
+      "0.9797 Ω",
+      "3.92 Ω",
+      "2.45 Ω"
+    ],
+    "answer_index": 0,
+    "explanation": "Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-102",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 18.8 V and 2.52 A. Power?",
+    "options": [
+      "23.69 W",
+      "94.75 W",
+      "59.22 W",
+      "47.38 W"
+    ],
+    "answer_index": 3,
+    "explanation": "P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-103",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 3.75 Ω resistor has 20.5 V across it. Current?",
+    "options": [
+      "10.93 A",
+      "6.83 A",
+      "5.47 A",
+      "2.73 A"
+    ],
+    "answer_index": 2,
+    "explanation": "I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-104",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 3.4 Ω and 4.75 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "2.48 Ω",
+      "1.98 Ω",
+      "0.9908 Ω",
+      "3.96 Ω"
+    ],
+    "answer_index": 1,
+    "explanation": "Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-105",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 19 V and 2.55 A. Power?",
+    "options": [
+      "48.45 W",
+      "24.22 W",
+      "96.9 W",
+      "60.56 W"
+    ],
+    "answer_index": 0,
+    "explanation": "P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-106",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 3.8 Ω resistor has 20.8 V across it. Current?",
+    "options": [
+      "2.74 A",
+      "10.95 A",
+      "6.84 A",
+      "5.47 A"
+    ],
+    "answer_index": 3,
+    "explanation": "I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-107",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 3.44 Ω and 4.8 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "4.01 Ω",
+      "2.5 Ω",
+      "2 Ω",
+      "1 Ω"
+    ],
+    "answer_index": 2,
+    "explanation": "Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-108",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 19.2 V and 2.58 A. Power?",
+    "options": [
+      "61.92 W",
+      "49.54 W",
+      "24.77 W",
+      "99.07 W"
+    ],
+    "answer_index": 1,
+    "explanation": "P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-109",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 3.85 Ω resistor has 21.1 V across it. Current?",
+    "options": [
+      "5.48 A",
+      "2.74 A",
+      "10.96 A",
+      "6.85 A"
+    ],
+    "answer_index": 0,
+    "explanation": "I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-110",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 3.48 Ω and 4.85 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "1.01 Ω",
+      "4.05 Ω",
+      "2.53 Ω",
+      "2.03 Ω"
+    ],
+    "answer_index": 3,
+    "explanation": "Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-111",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 19.4 V and 2.61 A. Power?",
+    "options": [
+      "101.27 W",
+      "63.29 W",
+      "50.63 W",
+      "25.32 W"
+    ],
+    "answer_index": 2,
+    "explanation": "P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-112",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 3.9 Ω resistor has 21.4 V across it. Current?",
+    "options": [
+      "6.86 A",
+      "5.49 A",
+      "2.74 A",
+      "10.97 A"
+    ],
+    "answer_index": 1,
+    "explanation": "I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-113",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 3.52 Ω and 4.9 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "2.05 Ω",
+      "1.02 Ω",
+      "4.1 Ω",
+      "2.56 Ω"
+    ],
+    "answer_index": 0,
+    "explanation": "Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-114",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 19.6 V and 2.64 A. Power?",
+    "options": [
+      "25.87 W",
+      "103.49 W",
+      "64.68 W",
+      "51.74 W"
+    ],
+    "answer_index": 3,
+    "explanation": "P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-115",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 3.95 Ω resistor has 21.7 V across it. Current?",
+    "options": [
+      "10.99 A",
+      "6.87 A",
+      "5.49 A",
+      "2.75 A"
+    ],
+    "answer_index": 2,
+    "explanation": "I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-116",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 3.56 Ω and 4.95 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "2.59 Ω",
+      "2.07 Ω",
+      "1.04 Ω",
+      "4.14 Ω"
+    ],
+    "answer_index": 1,
+    "explanation": "Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-117",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 19.8 V and 2.67 A. Power?",
+    "options": [
+      "52.87 W",
+      "26.43 W",
+      "105.73 W",
+      "66.08 W"
+    ],
+    "answer_index": 0,
+    "explanation": "P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-118",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4 Ω resistor has 22 V across it. Current?",
+    "options": [
+      "2.75 A",
+      "11 A",
+      "6.88 A",
+      "5.5 A"
+    ],
+    "answer_index": 3,
+    "explanation": "I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-119",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 3.6 Ω and 5 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "4.19 Ω",
+      "2.62 Ω",
+      "2.09 Ω",
+      "1.05 Ω"
+    ],
+    "answer_index": 2,
+    "explanation": "Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-120",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 20 V and 2.7 A. Power?",
+    "options": [
+      "67.5 W",
+      "54 W",
+      "27 W",
+      "108 W"
+    ],
+    "answer_index": 1,
+    "explanation": "P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-121",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4.05 Ω resistor has 22.3 V across it. Current?",
+    "options": [
+      "5.51 A",
+      "2.75 A",
+      "11.01 A",
+      "6.88 A"
+    ],
+    "answer_index": 0,
+    "explanation": "I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-122",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 3.64 Ω and 5.05 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "1.06 Ω",
+      "4.23 Ω",
+      "2.64 Ω",
+      "2.12 Ω"
+    ],
+    "answer_index": 3,
+    "explanation": "Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-123",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 20.2 V and 2.73 A. Power?",
+    "options": [
+      "110.29 W",
+      "68.93 W",
+      "55.15 W",
+      "27.57 W"
+    ],
+    "answer_index": 2,
+    "explanation": "P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-124",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4.1 Ω resistor has 22.6 V across it. Current?",
+    "options": [
+      "6.89 A",
+      "5.51 A",
+      "2.76 A",
+      "11.02 A"
+    ],
+    "answer_index": 1,
+    "explanation": "I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-125",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 3.68 Ω and 5.1 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "2.14 Ω",
+      "1.07 Ω",
+      "4.28 Ω",
+      "2.67 Ω"
+    ],
+    "answer_index": 0,
+    "explanation": "Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-126",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 20.4 V and 2.76 A. Power?",
+    "options": [
+      "28.15 W",
+      "112.61 W",
+      "70.38 W",
+      "56.3 W"
+    ],
+    "answer_index": 3,
+    "explanation": "P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-127",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4.15 Ω resistor has 22.9 V across it. Current?",
+    "options": [
+      "11.04 A",
+      "6.9 A",
+      "5.52 A",
+      "2.76 A"
+    ],
+    "answer_index": 2,
+    "explanation": "I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-128",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 3.72 Ω and 5.15 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "2.7 Ω",
+      "2.16 Ω",
+      "1.08 Ω",
+      "4.32 Ω"
+    ],
+    "answer_index": 1,
+    "explanation": "Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-129",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 20.6 V and 2.79 A. Power?",
+    "options": [
+      "57.47 W",
+      "28.74 W",
+      "114.95 W",
+      "71.84 W"
+    ],
+    "answer_index": 0,
+    "explanation": "P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-130",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4.2 Ω resistor has 23.2 V across it. Current?",
+    "options": [
+      "2.76 A",
+      "11.05 A",
+      "6.9 A",
+      "5.52 A"
+    ],
+    "answer_index": 3,
+    "explanation": "I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-131",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 3.76 Ω and 5.2 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "4.36 Ω",
+      "2.73 Ω",
+      "2.18 Ω",
+      "1.09 Ω"
+    ],
+    "answer_index": 2,
+    "explanation": "Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-132",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 20.8 V and 2.82 A. Power?",
+    "options": [
+      "73.32 W",
+      "58.66 W",
+      "29.33 W",
+      "117.31 W"
+    ],
+    "answer_index": 1,
+    "explanation": "P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-133",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4.25 Ω resistor has 23.5 V across it. Current?",
+    "options": [
+      "5.53 A",
+      "2.76 A",
+      "11.06 A",
+      "6.91 A"
+    ],
+    "answer_index": 0,
+    "explanation": "I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-134",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 3.8 Ω and 5.25 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "1.1 Ω",
+      "4.41 Ω",
+      "2.76 Ω",
+      "2.2 Ω"
+    ],
+    "answer_index": 3,
+    "explanation": "Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-135",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 21 V and 2.85 A. Power?",
+    "options": [
+      "119.7 W",
+      "74.81 W",
+      "59.85 W",
+      "29.92 W"
+    ],
+    "answer_index": 2,
+    "explanation": "P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-136",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4.3 Ω resistor has 23.8 V across it. Current?",
+    "options": [
+      "6.92 A",
+      "5.53 A",
+      "2.77 A",
+      "11.07 A"
+    ],
+    "answer_index": 1,
+    "explanation": "I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-137",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 3.84 Ω and 5.3 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "2.23 Ω",
+      "1.11 Ω",
+      "4.45 Ω",
+      "2.78 Ω"
+    ],
+    "answer_index": 0,
+    "explanation": "Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-138",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 21.2 V and 2.88 A. Power?",
+    "options": [
+      "30.53 W",
+      "122.11 W",
+      "76.32 W",
+      "61.06 W"
+    ],
+    "answer_index": 3,
+    "explanation": "P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-139",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4.35 Ω resistor has 24.1 V across it. Current?",
+    "options": [
+      "11.08 A",
+      "6.93 A",
+      "5.54 A",
+      "2.77 A"
+    ],
+    "answer_index": 2,
+    "explanation": "I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-140",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 3.88 Ω and 5.35 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "2.81 Ω",
+      "2.25 Ω",
+      "1.12 Ω",
+      "4.5 Ω"
+    ],
+    "answer_index": 1,
+    "explanation": "Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-141",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 21.4 V and 2.91 A. Power?",
+    "options": [
+      "62.27 W",
+      "31.14 W",
+      "124.55 W",
+      "77.84 W"
+    ],
+    "answer_index": 0,
+    "explanation": "P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-142",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4.4 Ω resistor has 24.4 V across it. Current?",
+    "options": [
+      "2.77 A",
+      "11.09 A",
+      "6.93 A",
+      "5.55 A"
+    ],
+    "answer_index": 3,
+    "explanation": "I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-143",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 3.92 Ω and 5.4 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "4.54 Ω",
+      "2.84 Ω",
+      "2.27 Ω",
+      "1.14 Ω"
+    ],
+    "answer_index": 2,
+    "explanation": "Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-144",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 21.6 V and 2.94 A. Power?",
+    "options": [
+      "79.38 W",
+      "63.5 W",
+      "31.75 W",
+      "127.01 W"
+    ],
+    "answer_index": 1,
+    "explanation": "P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-145",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4.45 Ω resistor has 24.7 V across it. Current?",
+    "options": [
+      "5.55 A",
+      "2.78 A",
+      "11.1 A",
+      "6.94 A"
+    ],
+    "answer_index": 0,
+    "explanation": "I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-146",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 3.96 Ω and 5.45 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "1.15 Ω",
+      "4.59 Ω",
+      "2.87 Ω",
+      "2.29 Ω"
+    ],
+    "answer_index": 3,
+    "explanation": "Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-147",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 21.8 V and 2.97 A. Power?",
+    "options": [
+      "129.49 W",
+      "80.93 W",
+      "64.75 W",
+      "32.37 W"
+    ],
+    "answer_index": 2,
+    "explanation": "P=VI."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-148",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4.5 Ω resistor has 25 V across it. Current?",
+    "options": [
+      "6.94 A",
+      "5.56 A",
+      "2.78 A",
+      "11.11 A"
+    ],
+    "answer_index": 1,
+    "explanation": "I=V/R."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-149",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "Resistors 4 Ω and 5.5 Ω are in parallel. Equivalent resistance?",
+    "options": [
+      "2.32 Ω",
+      "1.16 Ω",
+      "4.63 Ω",
+      "2.89 Ω"
+    ],
+    "answer_index": 0,
+    "explanation": "Req=R1R2/(R1+R2)."
+  },
+  {
+    "id": "IMAT-PHY-CURRENT-CIRCUITS-150",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Electricity & Electromagnetism",
+    "subtopic": "Current Electricity & Circuits",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A device operates at 22 V and 3 A. Power?",
+    "options": [
+      "33 W",
+      "132 W",
+      "82.5 W",
+      "66 W"
+    ],
+    "answer_index": 3,
+    "explanation": "P=VI."
+  }
+]
