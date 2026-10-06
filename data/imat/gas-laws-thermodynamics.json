@@ -1,0 +1,2702 @@
+[
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-001",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant temperature, P1=102 kPa, V1=2.04 L, V2=1.23 L. Find P2.",
+    "options": [
+      "169.17 kPa",
+      "84.59 kPa",
+      "338.34 kPa",
+      "211.46 kPa"
+    ],
+    "answer_index": 0,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-002",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, V1=2.03 L at 292 K. Find volume at 352 K.",
+    "options": [
+      "1.22 L",
+      "4.89 L",
+      "3.06 L",
+      "2.45 L"
+    ],
+    "answer_index": 3,
+    "explanation": "Charles' law: V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-003",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 507 J and does 123 J of work. Change in internal energy?",
+    "options": [
+      "768 J",
+      "480 J",
+      "384 J",
+      "192 J"
+    ],
+    "answer_index": 2,
+    "explanation": "First law: ΔU=Q-W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-004",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant temperature, P1=104 kPa, V1=2.08 L, V2=1.26 L. Find P2.",
+    "options": [
+      "214.6 kPa",
+      "171.68 kPa",
+      "85.84 kPa",
+      "343.37 kPa"
+    ],
+    "answer_index": 1,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-005",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, V1=2.06 L at 294 K. Find volume at 354 K.",
+    "options": [
+      "2.48 L",
+      "1.24 L",
+      "4.96 L",
+      "3.1 L"
+    ],
+    "answer_index": 0,
+    "explanation": "Charles' law: V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-006",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 514 J and does 126 J of work. Change in internal energy?",
+    "options": [
+      "194 J",
+      "776 J",
+      "485 J",
+      "388 J"
+    ],
+    "answer_index": 3,
+    "explanation": "First law: ΔU=Q-W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-007",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant temperature, P1=106 kPa, V1=2.12 L, V2=1.29 L. Find P2.",
+    "options": [
+      "348.4 kPa",
+      "217.75 kPa",
+      "174.2 kPa",
+      "87.1 kPa"
+    ],
+    "answer_index": 2,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-008",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, V1=2.09 L at 296 K. Find volume at 356 K.",
+    "options": [
+      "3.14 L",
+      "2.51 L",
+      "1.26 L",
+      "5.03 L"
+    ],
+    "answer_index": 1,
+    "explanation": "Charles' law: V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-009",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 521 J and does 129 J of work. Change in internal energy?",
+    "options": [
+      "392 J",
+      "196 J",
+      "784 J",
+      "490 J"
+    ],
+    "answer_index": 0,
+    "explanation": "First law: ΔU=Q-W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-010",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant temperature, P1=108 kPa, V1=2.16 L, V2=1.32 L. Find P2.",
+    "options": [
+      "88.36 kPa",
+      "353.45 kPa",
+      "220.91 kPa",
+      "176.73 kPa"
+    ],
+    "answer_index": 3,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-011",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, V1=2.12 L at 298 K. Find volume at 358 K.",
+    "options": [
+      "5.09 L",
+      "3.18 L",
+      "2.55 L",
+      "1.27 L"
+    ],
+    "answer_index": 2,
+    "explanation": "Charles' law: V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-012",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 528 J and does 132 J of work. Change in internal energy?",
+    "options": [
+      "495 J",
+      "396 J",
+      "198 J",
+      "792 J"
+    ],
+    "answer_index": 1,
+    "explanation": "First law: ΔU=Q-W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-013",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant temperature, P1=110 kPa, V1=2.2 L, V2=1.35 L. Find P2.",
+    "options": [
+      "179.26 kPa",
+      "89.63 kPa",
+      "358.52 kPa",
+      "224.07 kPa"
+    ],
+    "answer_index": 0,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-014",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, V1=2.15 L at 300 K. Find volume at 360 K.",
+    "options": [
+      "1.29 L",
+      "5.16 L",
+      "3.23 L",
+      "2.58 L"
+    ],
+    "answer_index": 3,
+    "explanation": "Charles' law: V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-015",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 535 J and does 135 J of work. Change in internal energy?",
+    "options": [
+      "800 J",
+      "500 J",
+      "400 J",
+      "200 J"
+    ],
+    "answer_index": 2,
+    "explanation": "First law: ΔU=Q-W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-016",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant temperature, P1=112 kPa, V1=2.24 L, V2=1.38 L. Find P2.",
+    "options": [
+      "227.25 kPa",
+      "181.8 kPa",
+      "90.9 kPa",
+      "363.59 kPa"
+    ],
+    "answer_index": 1,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-017",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, V1=2.18 L at 302 K. Find volume at 362 K.",
+    "options": [
+      "2.61 L",
+      "1.31 L",
+      "5.23 L",
+      "3.27 L"
+    ],
+    "answer_index": 0,
+    "explanation": "Charles' law: V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-018",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 542 J and does 138 J of work. Change in internal energy?",
+    "options": [
+      "202 J",
+      "808 J",
+      "505 J",
+      "404 J"
+    ],
+    "answer_index": 3,
+    "explanation": "First law: ΔU=Q-W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-019",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant temperature, P1=114 kPa, V1=2.28 L, V2=1.41 L. Find P2.",
+    "options": [
+      "368.68 kPa",
+      "230.43 kPa",
+      "184.34 kPa",
+      "92.17 kPa"
+    ],
+    "answer_index": 2,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-020",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, V1=2.21 L at 304 K. Find volume at 364 K.",
+    "options": [
+      "3.31 L",
+      "2.65 L",
+      "1.32 L",
+      "5.29 L"
+    ],
+    "answer_index": 1,
+    "explanation": "Charles' law: V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-021",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 549 J and does 141 J of work. Change in internal energy?",
+    "options": [
+      "408 J",
+      "204 J",
+      "816 J",
+      "510 J"
+    ],
+    "answer_index": 0,
+    "explanation": "First law: ΔU=Q-W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-022",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant temperature, P1=116 kPa, V1=2.32 L, V2=1.44 L. Find P2.",
+    "options": [
+      "93.44 kPa",
+      "373.78 kPa",
+      "233.61 kPa",
+      "186.89 kPa"
+    ],
+    "answer_index": 3,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-023",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, V1=2.24 L at 306 K. Find volume at 366 K.",
+    "options": [
+      "5.36 L",
+      "3.35 L",
+      "2.68 L",
+      "1.34 L"
+    ],
+    "answer_index": 2,
+    "explanation": "Charles' law: V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-024",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 556 J and does 144 J of work. Change in internal energy?",
+    "options": [
+      "515 J",
+      "412 J",
+      "206 J",
+      "824 J"
+    ],
+    "answer_index": 1,
+    "explanation": "First law: ΔU=Q-W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-025",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant temperature, P1=118 kPa, V1=2.36 L, V2=1.47 L. Find P2.",
+    "options": [
+      "189.44 kPa",
+      "94.72 kPa",
+      "378.88 kPa",
+      "236.8 kPa"
+    ],
+    "answer_index": 0,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-026",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, V1=2.27 L at 308 K. Find volume at 368 K.",
+    "options": [
+      "1.36 L",
+      "5.42 L",
+      "3.39 L",
+      "2.71 L"
+    ],
+    "answer_index": 3,
+    "explanation": "Charles' law: V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-027",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 563 J and does 147 J of work. Change in internal energy?",
+    "options": [
+      "832 J",
+      "520 J",
+      "416 J",
+      "208 J"
+    ],
+    "answer_index": 2,
+    "explanation": "First law: ΔU=Q-W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-028",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant temperature, P1=120 kPa, V1=2.4 L, V2=1.5 L. Find P2.",
+    "options": [
+      "240 kPa",
+      "192 kPa",
+      "96 kPa",
+      "384 kPa"
+    ],
+    "answer_index": 1,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-029",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, V1=2.3 L at 310 K. Find volume at 370 K.",
+    "options": [
+      "2.75 L",
+      "1.37 L",
+      "5.49 L",
+      "3.43 L"
+    ],
+    "answer_index": 0,
+    "explanation": "Charles' law: V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-030",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 570 J and does 150 J of work. Change in internal energy?",
+    "options": [
+      "210 J",
+      "840 J",
+      "525 J",
+      "420 J"
+    ],
+    "answer_index": 3,
+    "explanation": "First law: ΔU=Q-W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-031",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant temperature, P1=122 kPa, V1=2.44 L, V2=1.53 L. Find P2.",
+    "options": [
+      "389.12 kPa",
+      "243.2 kPa",
+      "194.56 kPa",
+      "97.28 kPa"
+    ],
+    "answer_index": 2,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-032",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, V1=2.33 L at 312 K. Find volume at 372 K.",
+    "options": [
+      "3.47 L",
+      "2.78 L",
+      "1.39 L",
+      "5.56 L"
+    ],
+    "answer_index": 1,
+    "explanation": "Charles' law: V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-033",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 577 J and does 153 J of work. Change in internal energy?",
+    "options": [
+      "424 J",
+      "212 J",
+      "848 J",
+      "530 J"
+    ],
+    "answer_index": 0,
+    "explanation": "First law: ΔU=Q-W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-034",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant temperature, P1=124 kPa, V1=2.48 L, V2=1.56 L. Find P2.",
+    "options": [
+      "98.56 kPa",
+      "394.26 kPa",
+      "246.41 kPa",
+      "197.13 kPa"
+    ],
+    "answer_index": 3,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-035",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, V1=2.36 L at 314 K. Find volume at 374 K.",
+    "options": [
+      "5.62 L",
+      "3.51 L",
+      "2.81 L",
+      "1.41 L"
+    ],
+    "answer_index": 2,
+    "explanation": "Charles' law: V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-036",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 584 J and does 156 J of work. Change in internal energy?",
+    "options": [
+      "535 J",
+      "428 J",
+      "214 J",
+      "856 J"
+    ],
+    "answer_index": 1,
+    "explanation": "First law: ΔU=Q-W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-037",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant temperature, P1=126 kPa, V1=2.52 L, V2=1.59 L. Find P2.",
+    "options": [
+      "199.7 kPa",
+      "99.85 kPa",
+      "399.4 kPa",
+      "249.62 kPa"
+    ],
+    "answer_index": 0,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-038",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, V1=2.39 L at 316 K. Find volume at 376 K.",
+    "options": [
+      "1.42 L",
+      "5.69 L",
+      "3.55 L",
+      "2.84 L"
+    ],
+    "answer_index": 3,
+    "explanation": "Charles' law: V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-039",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 591 J and does 159 J of work. Change in internal energy?",
+    "options": [
+      "864 J",
+      "540 J",
+      "432 J",
+      "216 J"
+    ],
+    "answer_index": 2,
+    "explanation": "First law: ΔU=Q-W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-040",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant temperature, P1=128 kPa, V1=2.56 L, V2=1.62 L. Find P2.",
+    "options": [
+      "252.84 kPa",
+      "202.27 kPa",
+      "101.14 kPa",
+      "404.54 kPa"
+    ],
+    "answer_index": 1,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-041",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, V1=2.42 L at 318 K. Find volume at 378 K.",
+    "options": [
+      "2.88 L",
+      "1.44 L",
+      "5.75 L",
+      "3.6 L"
+    ],
+    "answer_index": 0,
+    "explanation": "Charles' law: V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-042",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 598 J and does 162 J of work. Change in internal energy?",
+    "options": [
+      "218 J",
+      "872 J",
+      "545 J",
+      "436 J"
+    ],
+    "answer_index": 3,
+    "explanation": "First law: ΔU=Q-W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-043",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant temperature, P1=130 kPa, V1=2.6 L, V2=1.65 L. Find P2.",
+    "options": [
+      "409.7 kPa",
+      "256.06 kPa",
+      "204.85 kPa",
+      "102.42 kPa"
+    ],
+    "answer_index": 2,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-044",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, V1=2.45 L at 320 K. Find volume at 380 K.",
+    "options": [
+      "3.64 L",
+      "2.91 L",
+      "1.45 L",
+      "5.82 L"
+    ],
+    "answer_index": 1,
+    "explanation": "Charles' law: V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-045",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 605 J and does 165 J of work. Change in internal energy?",
+    "options": [
+      "440 J",
+      "220 J",
+      "880 J",
+      "550 J"
+    ],
+    "answer_index": 0,
+    "explanation": "First law: ΔU=Q-W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-046",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant temperature, P1=132 kPa, V1=2.64 L, V2=1.68 L. Find P2.",
+    "options": [
+      "103.71 kPa",
+      "414.86 kPa",
+      "259.29 kPa",
+      "207.43 kPa"
+    ],
+    "answer_index": 3,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-047",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, V1=2.48 L at 322 K. Find volume at 382 K.",
+    "options": [
+      "5.88 L",
+      "3.68 L",
+      "2.94 L",
+      "1.47 L"
+    ],
+    "answer_index": 2,
+    "explanation": "Charles' law: V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-048",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 612 J and does 168 J of work. Change in internal energy?",
+    "options": [
+      "555 J",
+      "444 J",
+      "222 J",
+      "888 J"
+    ],
+    "answer_index": 1,
+    "explanation": "First law: ΔU=Q-W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-049",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant temperature, P1=134 kPa, V1=2.68 L, V2=1.71 L. Find P2.",
+    "options": [
+      "210.01 kPa",
+      "105.01 kPa",
+      "420.02 kPa",
+      "262.51 kPa"
+    ],
+    "answer_index": 0,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-050",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, V1=2.51 L at 324 K. Find volume at 384 K.",
+    "options": [
+      "1.49 L",
+      "5.95 L",
+      "3.72 L",
+      "2.97 L"
+    ],
+    "answer_index": 3,
+    "explanation": "Charles' law: V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-051",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 619 J and does 171 J of work. Change in internal energy?",
+    "options": [
+      "896 J",
+      "560 J",
+      "448 J",
+      "224 J"
+    ],
+    "answer_index": 2,
+    "explanation": "First law: ΔU=Q-W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-052",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant temperature, P1=136 kPa, V1=2.72 L, V2=1.74 L. Find P2.",
+    "options": [
+      "265.75 kPa",
+      "212.6 kPa",
+      "106.3 kPa",
+      "425.2 kPa"
+    ],
+    "answer_index": 1,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-053",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, V1=2.54 L at 326 K. Find volume at 386 K.",
+    "options": [
+      "3.01 L",
+      "1.5 L",
+      "6.01 L",
+      "3.76 L"
+    ],
+    "answer_index": 0,
+    "explanation": "Charles' law: V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-054",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 626 J and does 174 J of work. Change in internal energy?",
+    "options": [
+      "226 J",
+      "904 J",
+      "565 J",
+      "452 J"
+    ],
+    "answer_index": 3,
+    "explanation": "First law: ΔU=Q-W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-055",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant temperature, P1=138 kPa, V1=2.76 L, V2=1.77 L. Find P2.",
+    "options": [
+      "430.37 kPa",
+      "268.98 kPa",
+      "215.19 kPa",
+      "107.59 kPa"
+    ],
+    "answer_index": 2,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-056",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, V1=2.57 L at 328 K. Find volume at 388 K.",
+    "options": [
+      "3.8 L",
+      "3.04 L",
+      "1.52 L",
+      "6.08 L"
+    ],
+    "answer_index": 1,
+    "explanation": "Charles' law: V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-057",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 633 J and does 177 J of work. Change in internal energy?",
+    "options": [
+      "456 J",
+      "228 J",
+      "912 J",
+      "570 J"
+    ],
+    "answer_index": 0,
+    "explanation": "First law: ΔU=Q-W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-058",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant temperature, P1=140 kPa, V1=2.8 L, V2=1.8 L. Find P2.",
+    "options": [
+      "108.89 kPa",
+      "435.56 kPa",
+      "272.22 kPa",
+      "217.78 kPa"
+    ],
+    "answer_index": 3,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-059",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, V1=2.6 L at 330 K. Find volume at 390 K.",
+    "options": [
+      "6.15 L",
+      "3.84 L",
+      "3.07 L",
+      "1.54 L"
+    ],
+    "answer_index": 2,
+    "explanation": "Charles' law: V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-060",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 640 J and does 180 J of work. Change in internal energy?",
+    "options": [
+      "575 J",
+      "460 J",
+      "230 J",
+      "920 J"
+    ],
+    "answer_index": 1,
+    "explanation": "First law: ΔU=Q-W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-061",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant temperature, P1=142 kPa, V1=2.84 L, V2=1.83 L. Find P2.",
+    "options": [
+      "220.37 kPa",
+      "110.19 kPa",
+      "440.74 kPa",
+      "275.46 kPa"
+    ],
+    "answer_index": 0,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-062",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, V1=2.63 L at 332 K. Find volume at 392 K.",
+    "options": [
+      "1.55 L",
+      "6.21 L",
+      "3.88 L",
+      "3.11 L"
+    ],
+    "answer_index": 3,
+    "explanation": "Charles' law: V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-063",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 647 J and does 183 J of work. Change in internal energy?",
+    "options": [
+      "928 J",
+      "580 J",
+      "464 J",
+      "232 J"
+    ],
+    "answer_index": 2,
+    "explanation": "First law: ΔU=Q-W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-064",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant temperature, P1=144 kPa, V1=2.88 L, V2=1.86 L. Find P2.",
+    "options": [
+      "278.71 kPa",
+      "222.97 kPa",
+      "111.48 kPa",
+      "445.94 kPa"
+    ],
+    "answer_index": 1,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-065",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, V1=2.66 L at 334 K. Find volume at 394 K.",
+    "options": [
+      "3.14 L",
+      "1.57 L",
+      "6.28 L",
+      "3.92 L"
+    ],
+    "answer_index": 0,
+    "explanation": "Charles' law: V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-066",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 654 J and does 186 J of work. Change in internal energy?",
+    "options": [
+      "234 J",
+      "936 J",
+      "585 J",
+      "468 J"
+    ],
+    "answer_index": 3,
+    "explanation": "First law: ΔU=Q-W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-067",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant temperature, P1=146 kPa, V1=2.92 L, V2=1.89 L. Find P2.",
+    "options": [
+      "451.13 kPa",
+      "281.96 kPa",
+      "225.57 kPa",
+      "112.78 kPa"
+    ],
+    "answer_index": 2,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-068",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, V1=2.69 L at 336 K. Find volume at 396 K.",
+    "options": [
+      "3.96 L",
+      "3.17 L",
+      "1.59 L",
+      "6.34 L"
+    ],
+    "answer_index": 1,
+    "explanation": "Charles' law: V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-069",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 661 J and does 189 J of work. Change in internal energy?",
+    "options": [
+      "472 J",
+      "236 J",
+      "944 J",
+      "590 J"
+    ],
+    "answer_index": 0,
+    "explanation": "First law: ΔU=Q-W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-070",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant temperature, P1=148 kPa, V1=2.96 L, V2=1.92 L. Find P2.",
+    "options": [
+      "114.08 kPa",
+      "456.33 kPa",
+      "285.21 kPa",
+      "228.17 kPa"
+    ],
+    "answer_index": 3,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-071",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, V1=2.72 L at 338 K. Find volume at 398 K.",
+    "options": [
+      "6.41 L",
+      "4 L",
+      "3.2 L",
+      "1.6 L"
+    ],
+    "answer_index": 2,
+    "explanation": "Charles' law: V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-072",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 668 J and does 192 J of work. Change in internal energy?",
+    "options": [
+      "595 J",
+      "476 J",
+      "238 J",
+      "952 J"
+    ],
+    "answer_index": 1,
+    "explanation": "First law: ΔU=Q-W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-073",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant temperature, P1=150 kPa, V1=3 L, V2=1.95 L. Find P2.",
+    "options": [
+      "230.77 kPa",
+      "115.38 kPa",
+      "461.54 kPa",
+      "288.46 kPa"
+    ],
+    "answer_index": 0,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-074",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, V1=2.75 L at 340 K. Find volume at 400 K.",
+    "options": [
+      "1.62 L",
+      "6.47 L",
+      "4.04 L",
+      "3.24 L"
+    ],
+    "answer_index": 3,
+    "explanation": "Charles' law: V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-075",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 675 J and does 195 J of work. Change in internal energy?",
+    "options": [
+      "960 J",
+      "600 J",
+      "480 J",
+      "240 J"
+    ],
+    "answer_index": 2,
+    "explanation": "First law: ΔU=Q-W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-076",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant temperature, P1=152 kPa, V1=3.04 L, V2=1.98 L. Find P2.",
+    "options": [
+      "291.72 kPa",
+      "233.37 kPa",
+      "116.69 kPa",
+      "466.75 kPa"
+    ],
+    "answer_index": 1,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-077",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, V1=2.78 L at 342 K. Find volume at 402 K.",
+    "options": [
+      "3.27 L",
+      "1.63 L",
+      "6.54 L",
+      "4.08 L"
+    ],
+    "answer_index": 0,
+    "explanation": "Charles' law: V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-078",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 682 J and does 198 J of work. Change in internal energy?",
+    "options": [
+      "242 J",
+      "968 J",
+      "605 J",
+      "484 J"
+    ],
+    "answer_index": 3,
+    "explanation": "First law: ΔU=Q-W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-079",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant temperature, P1=154 kPa, V1=3.08 L, V2=2.01 L. Find P2.",
+    "options": [
+      "471.96 kPa",
+      "294.98 kPa",
+      "235.98 kPa",
+      "117.99 kPa"
+    ],
+    "answer_index": 2,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-080",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, V1=2.81 L at 344 K. Find volume at 404 K.",
+    "options": [
+      "4.13 L",
+      "3.3 L",
+      "1.65 L",
+      "6.6 L"
+    ],
+    "answer_index": 1,
+    "explanation": "Charles' law: V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-081",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 689 J and does 201 J of work. Change in internal energy?",
+    "options": [
+      "488 J",
+      "244 J",
+      "976 J",
+      "610 J"
+    ],
+    "answer_index": 0,
+    "explanation": "First law: ΔU=Q-W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-082",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant temperature, P1=156 kPa, V1=3.12 L, V2=2.04 L. Find P2.",
+    "options": [
+      "119.29 kPa",
+      "477.18 kPa",
+      "298.24 kPa",
+      "238.59 kPa"
+    ],
+    "answer_index": 3,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-083",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, V1=2.84 L at 346 K. Find volume at 406 K.",
+    "options": [
+      "6.66 L",
+      "4.17 L",
+      "3.33 L",
+      "1.67 L"
+    ],
+    "answer_index": 2,
+    "explanation": "Charles' law: V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-084",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 696 J and does 204 J of work. Change in internal energy?",
+    "options": [
+      "615 J",
+      "492 J",
+      "246 J",
+      "984 J"
+    ],
+    "answer_index": 1,
+    "explanation": "First law: ΔU=Q-W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-085",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant temperature, P1=158 kPa, V1=3.16 L, V2=2.07 L. Find P2.",
+    "options": [
+      "241.2 kPa",
+      "120.6 kPa",
+      "482.4 kPa",
+      "301.5 kPa"
+    ],
+    "answer_index": 0,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-086",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, V1=2.87 L at 348 K. Find volume at 408 K.",
+    "options": [
+      "1.68 L",
+      "6.73 L",
+      "4.21 L",
+      "3.36 L"
+    ],
+    "answer_index": 3,
+    "explanation": "Charles' law: V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-087",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 703 J and does 207 J of work. Change in internal energy?",
+    "options": [
+      "992 J",
+      "620 J",
+      "496 J",
+      "248 J"
+    ],
+    "answer_index": 2,
+    "explanation": "First law: ΔU=Q-W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-088",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant temperature, P1=160 kPa, V1=3.2 L, V2=2.1 L. Find P2.",
+    "options": [
+      "304.76 kPa",
+      "243.81 kPa",
+      "121.9 kPa",
+      "487.62 kPa"
+    ],
+    "answer_index": 1,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-089",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, V1=2.9 L at 350 K. Find volume at 410 K.",
+    "options": [
+      "3.4 L",
+      "1.7 L",
+      "6.79 L",
+      "4.25 L"
+    ],
+    "answer_index": 0,
+    "explanation": "Charles' law: V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-090",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 710 J and does 210 J of work. Change in internal energy?",
+    "options": [
+      "250 J",
+      "1000 J",
+      "625 J",
+      "500 J"
+    ],
+    "answer_index": 3,
+    "explanation": "First law: ΔU=Q-W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-091",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant temperature, P1=162 kPa, V1=3.24 L, V2=2.13 L. Find P2.",
+    "options": [
+      "492.85 kPa",
+      "308.03 kPa",
+      "246.42 kPa",
+      "123.21 kPa"
+    ],
+    "answer_index": 2,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-092",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, V1=2.93 L at 352 K. Find volume at 412 K.",
+    "options": [
+      "4.29 L",
+      "3.43 L",
+      "1.71 L",
+      "6.86 L"
+    ],
+    "answer_index": 1,
+    "explanation": "Charles' law: V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-093",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 717 J and does 213 J of work. Change in internal energy?",
+    "options": [
+      "504 J",
+      "252 J",
+      "1008 J",
+      "630 J"
+    ],
+    "answer_index": 0,
+    "explanation": "First law: ΔU=Q-W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-094",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant temperature, P1=164 kPa, V1=3.28 L, V2=2.16 L. Find P2.",
+    "options": [
+      "124.52 kPa",
+      "498.07 kPa",
+      "311.3 kPa",
+      "249.04 kPa"
+    ],
+    "answer_index": 3,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-095",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, V1=2.96 L at 354 K. Find volume at 414 K.",
+    "options": [
+      "6.92 L",
+      "4.33 L",
+      "3.46 L",
+      "1.73 L"
+    ],
+    "answer_index": 2,
+    "explanation": "Charles' law: V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-096",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 724 J and does 216 J of work. Change in internal energy?",
+    "options": [
+      "635 J",
+      "508 J",
+      "254 J",
+      "1016 J"
+    ],
+    "answer_index": 1,
+    "explanation": "First law: ΔU=Q-W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-097",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant temperature, P1=166 kPa, V1=3.32 L, V2=2.19 L. Find P2.",
+    "options": [
+      "251.65 kPa",
+      "125.83 kPa",
+      "503.31 kPa",
+      "314.57 kPa"
+    ],
+    "answer_index": 0,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-098",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, V1=2.99 L at 356 K. Find volume at 416 K.",
+    "options": [
+      "1.75 L",
+      "6.99 L",
+      "4.37 L",
+      "3.49 L"
+    ],
+    "answer_index": 3,
+    "explanation": "Charles' law: V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-099",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 731 J and does 219 J of work. Change in internal energy?",
+    "options": [
+      "1024 J",
+      "640 J",
+      "512 J",
+      "256 J"
+    ],
+    "answer_index": 2,
+    "explanation": "First law: ΔU=Q-W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-100",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant temperature, P1=168 kPa, V1=3.36 L, V2=2.22 L. Find P2.",
+    "options": [
+      "317.84 kPa",
+      "254.27 kPa",
+      "127.14 kPa",
+      "508.54 kPa"
+    ],
+    "answer_index": 1,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-101",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, V1=3.02 L at 358 K. Find volume at 418 K.",
+    "options": [
+      "3.53 L",
+      "1.76 L",
+      "7.05 L",
+      "4.41 L"
+    ],
+    "answer_index": 0,
+    "explanation": "Charles' law: V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-102",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 738 J and does 222 J of work. Change in internal energy?",
+    "options": [
+      "258 J",
+      "1032 J",
+      "645 J",
+      "516 J"
+    ],
+    "answer_index": 3,
+    "explanation": "First law: ΔU=Q-W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-103",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant temperature, P1=170 kPa, V1=3.4 L, V2=2.25 L. Find P2.",
+    "options": [
+      "513.78 kPa",
+      "321.11 kPa",
+      "256.89 kPa",
+      "128.44 kPa"
+    ],
+    "answer_index": 2,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-104",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, V1=3.05 L at 360 K. Find volume at 420 K.",
+    "options": [
+      "4.45 L",
+      "3.56 L",
+      "1.78 L",
+      "7.12 L"
+    ],
+    "answer_index": 1,
+    "explanation": "Charles' law: V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-105",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 745 J and does 225 J of work. Change in internal energy?",
+    "options": [
+      "520 J",
+      "260 J",
+      "1040 J",
+      "650 J"
+    ],
+    "answer_index": 0,
+    "explanation": "First law: ΔU=Q-W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-106",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant temperature, P1=172 kPa, V1=3.44 L, V2=2.28 L. Find P2.",
+    "options": [
+      "129.75 kPa",
+      "519.02 kPa",
+      "324.39 kPa",
+      "259.51 kPa"
+    ],
+    "answer_index": 3,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-107",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, V1=3.08 L at 362 K. Find volume at 422 K.",
+    "options": [
+      "7.18 L",
+      "4.49 L",
+      "3.59 L",
+      "1.8 L"
+    ],
+    "answer_index": 2,
+    "explanation": "Charles' law: V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-108",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 752 J and does 228 J of work. Change in internal energy?",
+    "options": [
+      "655 J",
+      "524 J",
+      "262 J",
+      "1048 J"
+    ],
+    "answer_index": 1,
+    "explanation": "First law: ΔU=Q-W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-109",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant temperature, P1=174 kPa, V1=3.48 L, V2=2.31 L. Find P2.",
+    "options": [
+      "262.13 kPa",
+      "131.06 kPa",
+      "524.26 kPa",
+      "327.66 kPa"
+    ],
+    "answer_index": 0,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-110",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, V1=3.11 L at 364 K. Find volume at 424 K.",
+    "options": [
+      "1.81 L",
+      "7.25 L",
+      "4.53 L",
+      "3.62 L"
+    ],
+    "answer_index": 3,
+    "explanation": "Charles' law: V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-111",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 759 J and does 231 J of work. Change in internal energy?",
+    "options": [
+      "1056 J",
+      "660 J",
+      "528 J",
+      "264 J"
+    ],
+    "answer_index": 2,
+    "explanation": "First law: ΔU=Q-W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-112",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant temperature, P1=176 kPa, V1=3.52 L, V2=2.34 L. Find P2.",
+    "options": [
+      "330.94 kPa",
+      "264.75 kPa",
+      "132.38 kPa",
+      "529.5 kPa"
+    ],
+    "answer_index": 1,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-113",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, V1=3.14 L at 366 K. Find volume at 426 K.",
+    "options": [
+      "3.65 L",
+      "1.83 L",
+      "7.31 L",
+      "4.57 L"
+    ],
+    "answer_index": 0,
+    "explanation": "Charles' law: V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-114",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 766 J and does 234 J of work. Change in internal energy?",
+    "options": [
+      "266 J",
+      "1064 J",
+      "665 J",
+      "532 J"
+    ],
+    "answer_index": 3,
+    "explanation": "First law: ΔU=Q-W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-115",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant temperature, P1=178 kPa, V1=3.56 L, V2=2.37 L. Find P2.",
+    "options": [
+      "534.75 kPa",
+      "334.22 kPa",
+      "267.38 kPa",
+      "133.69 kPa"
+    ],
+    "answer_index": 2,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-116",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, V1=3.17 L at 368 K. Find volume at 428 K.",
+    "options": [
+      "4.61 L",
+      "3.69 L",
+      "1.84 L",
+      "7.37 L"
+    ],
+    "answer_index": 1,
+    "explanation": "Charles' law: V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-117",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 773 J and does 237 J of work. Change in internal energy?",
+    "options": [
+      "536 J",
+      "268 J",
+      "1072 J",
+      "670 J"
+    ],
+    "answer_index": 0,
+    "explanation": "First law: ΔU=Q-W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-118",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant temperature, P1=180 kPa, V1=3.6 L, V2=2.4 L. Find P2.",
+    "options": [
+      "135 kPa",
+      "540 kPa",
+      "337.5 kPa",
+      "270 kPa"
+    ],
+    "answer_index": 3,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-119",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, V1=3.2 L at 370 K. Find volume at 430 K.",
+    "options": [
+      "7.44 L",
+      "4.65 L",
+      "3.72 L",
+      "1.86 L"
+    ],
+    "answer_index": 2,
+    "explanation": "Charles' law: V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-120",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 780 J and does 240 J of work. Change in internal energy?",
+    "options": [
+      "675 J",
+      "540 J",
+      "270 J",
+      "1080 J"
+    ],
+    "answer_index": 1,
+    "explanation": "First law: ΔU=Q-W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-121",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant temperature, P1=182 kPa, V1=3.64 L, V2=2.43 L. Find P2.",
+    "options": [
+      "272.63 kPa",
+      "136.31 kPa",
+      "545.25 kPa",
+      "340.78 kPa"
+    ],
+    "answer_index": 0,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-122",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, V1=3.23 L at 372 K. Find volume at 432 K.",
+    "options": [
+      "1.88 L",
+      "7.5 L",
+      "4.69 L",
+      "3.75 L"
+    ],
+    "answer_index": 3,
+    "explanation": "Charles' law: V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-123",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 787 J and does 243 J of work. Change in internal energy?",
+    "options": [
+      "1088 J",
+      "680 J",
+      "544 J",
+      "272 J"
+    ],
+    "answer_index": 2,
+    "explanation": "First law: ΔU=Q-W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-124",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant temperature, P1=184 kPa, V1=3.68 L, V2=2.46 L. Find P2.",
+    "options": [
+      "344.07 kPa",
+      "275.25 kPa",
+      "137.63 kPa",
+      "550.5 kPa"
+    ],
+    "answer_index": 1,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-125",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, V1=3.26 L at 374 K. Find volume at 434 K.",
+    "options": [
+      "3.78 L",
+      "1.89 L",
+      "7.57 L",
+      "4.73 L"
+    ],
+    "answer_index": 0,
+    "explanation": "Charles' law: V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-126",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 794 J and does 246 J of work. Change in internal energy?",
+    "options": [
+      "274 J",
+      "1096 J",
+      "685 J",
+      "548 J"
+    ],
+    "answer_index": 3,
+    "explanation": "First law: ΔU=Q-W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-127",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant temperature, P1=186 kPa, V1=3.72 L, V2=2.49 L. Find P2.",
+    "options": [
+      "555.76 kPa",
+      "347.35 kPa",
+      "277.88 kPa",
+      "138.94 kPa"
+    ],
+    "answer_index": 2,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-128",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, V1=3.29 L at 376 K. Find volume at 436 K.",
+    "options": [
+      "4.77 L",
+      "3.81 L",
+      "1.91 L",
+      "7.63 L"
+    ],
+    "answer_index": 1,
+    "explanation": "Charles' law: V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-129",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 801 J and does 249 J of work. Change in internal energy?",
+    "options": [
+      "552 J",
+      "276 J",
+      "1104 J",
+      "690 J"
+    ],
+    "answer_index": 0,
+    "explanation": "First law: ΔU=Q-W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-130",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant temperature, P1=188 kPa, V1=3.76 L, V2=2.52 L. Find P2.",
+    "options": [
+      "140.25 kPa",
+      "561.02 kPa",
+      "350.63 kPa",
+      "280.51 kPa"
+    ],
+    "answer_index": 3,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-131",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, V1=3.32 L at 378 K. Find volume at 438 K.",
+    "options": [
+      "7.69 L",
+      "4.81 L",
+      "3.85 L",
+      "1.92 L"
+    ],
+    "answer_index": 2,
+    "explanation": "Charles' law: V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-132",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 808 J and does 252 J of work. Change in internal energy?",
+    "options": [
+      "695 J",
+      "556 J",
+      "278 J",
+      "1112 J"
+    ],
+    "answer_index": 1,
+    "explanation": "First law: ΔU=Q-W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-133",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant temperature, P1=190 kPa, V1=3.8 L, V2=2.55 L. Find P2.",
+    "options": [
+      "283.14 kPa",
+      "141.57 kPa",
+      "566.27 kPa",
+      "353.92 kPa"
+    ],
+    "answer_index": 0,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-134",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, V1=3.35 L at 380 K. Find volume at 440 K.",
+    "options": [
+      "1.94 L",
+      "7.76 L",
+      "4.85 L",
+      "3.88 L"
+    ],
+    "answer_index": 3,
+    "explanation": "Charles' law: V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-135",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 815 J and does 255 J of work. Change in internal energy?",
+    "options": [
+      "1120 J",
+      "700 J",
+      "560 J",
+      "280 J"
+    ],
+    "answer_index": 2,
+    "explanation": "First law: ΔU=Q-W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-136",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant temperature, P1=192 kPa, V1=3.84 L, V2=2.58 L. Find P2.",
+    "options": [
+      "357.21 kPa",
+      "285.77 kPa",
+      "142.88 kPa",
+      "571.53 kPa"
+    ],
+    "answer_index": 1,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-137",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, V1=3.38 L at 382 K. Find volume at 442 K.",
+    "options": [
+      "3.91 L",
+      "1.96 L",
+      "7.82 L",
+      "4.89 L"
+    ],
+    "answer_index": 0,
+    "explanation": "Charles' law: V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-138",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 822 J and does 258 J of work. Change in internal energy?",
+    "options": [
+      "282 J",
+      "1128 J",
+      "705 J",
+      "564 J"
+    ],
+    "answer_index": 3,
+    "explanation": "First law: ΔU=Q-W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-139",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant temperature, P1=194 kPa, V1=3.88 L, V2=2.61 L. Find P2.",
+    "options": [
+      "576.8 kPa",
+      "360.5 kPa",
+      "288.4 kPa",
+      "144.2 kPa"
+    ],
+    "answer_index": 2,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-140",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, V1=3.41 L at 384 K. Find volume at 444 K.",
+    "options": [
+      "4.93 L",
+      "3.94 L",
+      "1.97 L",
+      "7.89 L"
+    ],
+    "answer_index": 1,
+    "explanation": "Charles' law: V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-141",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 829 J and does 261 J of work. Change in internal energy?",
+    "options": [
+      "568 J",
+      "284 J",
+      "1136 J",
+      "710 J"
+    ],
+    "answer_index": 0,
+    "explanation": "First law: ΔU=Q-W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-142",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant temperature, P1=196 kPa, V1=3.92 L, V2=2.64 L. Find P2.",
+    "options": [
+      "145.52 kPa",
+      "582.06 kPa",
+      "363.79 kPa",
+      "291.03 kPa"
+    ],
+    "answer_index": 3,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-143",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, V1=3.44 L at 386 K. Find volume at 446 K.",
+    "options": [
+      "7.95 L",
+      "4.97 L",
+      "3.97 L",
+      "1.99 L"
+    ],
+    "answer_index": 2,
+    "explanation": "Charles' law: V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-144",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 836 J and does 264 J of work. Change in internal energy?",
+    "options": [
+      "715 J",
+      "572 J",
+      "286 J",
+      "1144 J"
+    ],
+    "answer_index": 1,
+    "explanation": "First law: ΔU=Q-W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-145",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant temperature, P1=198 kPa, V1=3.96 L, V2=2.67 L. Find P2.",
+    "options": [
+      "293.66 kPa",
+      "146.83 kPa",
+      "587.33 kPa",
+      "367.08 kPa"
+    ],
+    "answer_index": 0,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-146",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, V1=3.47 L at 388 K. Find volume at 448 K.",
+    "options": [
+      "2 L",
+      "8.01 L",
+      "5.01 L",
+      "4.01 L"
+    ],
+    "answer_index": 3,
+    "explanation": "Charles' law: V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-147",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 843 J and does 267 J of work. Change in internal energy?",
+    "options": [
+      "1152 J",
+      "720 J",
+      "576 J",
+      "288 J"
+    ],
+    "answer_index": 2,
+    "explanation": "First law: ΔU=Q-W."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-148",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant temperature, P1=200 kPa, V1=4 L, V2=2.7 L. Find P2.",
+    "options": [
+      "370.37 kPa",
+      "296.3 kPa",
+      "148.15 kPa",
+      "592.59 kPa"
+    ],
+    "answer_index": 1,
+    "explanation": "Boyle's law: P1V1=P2V2."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-149",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "At constant pressure, V1=3.5 L at 390 K. Find volume at 450 K.",
+    "options": [
+      "4.04 L",
+      "2.02 L",
+      "8.08 L",
+      "5.05 L"
+    ],
+    "answer_index": 0,
+    "explanation": "Charles' law: V/T is constant."
+  },
+  {
+    "id": "IMAT-PHY-GAS-LAWS-THERMODYNAMICS-150",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Thermodynamics",
+    "subtopic": "Gas Laws & Thermodynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "A gas absorbs 850 J and does 270 J of work. Change in internal energy?",
+    "options": [
+      "290 J",
+      "1160 J",
+      "725 J",
+      "580 J"
+    ],
+    "answer_index": 3,
+    "explanation": "First law: ΔU=Q-W."
+  }
+]
