@@ -1,0 +1,2702 @@
+[
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-001",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 8.6 N force acts perpendicular at 0.53 m from a pivot. Torque?",
+    "options": [
+      "4.56 N·m",
+      "2.28 N·m",
+      "9.12 N·m",
+      "5.7 N·m"
+    ],
+    "answer_index": 0,
+    "explanation": "τ=Fd."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-002",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 1.1 kg point mass moves perpendicular to radius 0.82 m at 2.11 m/s. Angular momentum magnitude?",
+    "options": [
+      "0.95 kg·m²/s",
+      "3.8 kg·m²/s",
+      "2.38 kg·m²/s",
+      "1.9 kg·m²/s"
+    ],
+    "answer_index": 3,
+    "explanation": "L=mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-003",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "At a distance 1.52 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
+    "options": [
+      "8.48 m/s²",
+      "5.3 m/s²",
+      "4.24 m/s²",
+      "2.12 m/s²"
+    ],
+    "answer_index": 2,
+    "explanation": "g scales as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-004",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 9.2 N force acts perpendicular at 0.56 m from a pivot. Torque?",
+    "options": [
+      "6.44 N·m",
+      "5.15 N·m",
+      "2.58 N·m",
+      "10.3 N·m"
+    ],
+    "answer_index": 1,
+    "explanation": "τ=Fd."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-005",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 1.2 kg point mass moves perpendicular to radius 0.84 m at 2.22 m/s. Angular momentum magnitude?",
+    "options": [
+      "2.24 kg·m²/s",
+      "1.12 kg·m²/s",
+      "4.48 kg·m²/s",
+      "2.8 kg·m²/s"
+    ],
+    "answer_index": 0,
+    "explanation": "L=mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-006",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "At a distance 1.54 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
+    "options": [
+      "2.07 m/s²",
+      "8.26 m/s²",
+      "5.16 m/s²",
+      "4.13 m/s²"
+    ],
+    "answer_index": 3,
+    "explanation": "g scales as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-007",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 9.8 N force acts perpendicular at 0.59 m from a pivot. Torque?",
+    "options": [
+      "11.56 N·m",
+      "7.23 N·m",
+      "5.78 N·m",
+      "2.89 N·m"
+    ],
+    "answer_index": 2,
+    "explanation": "τ=Fd."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-008",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 1.3 kg point mass moves perpendicular to radius 0.86 m at 2.33 m/s. Angular momentum magnitude?",
+    "options": [
+      "3.25 kg·m²/s",
+      "2.6 kg·m²/s",
+      "1.3 kg·m²/s",
+      "5.2 kg·m²/s"
+    ],
+    "answer_index": 1,
+    "explanation": "L=mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-009",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "At a distance 1.56 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
+    "options": [
+      "4.03 m/s²",
+      "2.01 m/s²",
+      "8.05 m/s²",
+      "5.03 m/s²"
+    ],
+    "answer_index": 0,
+    "explanation": "g scales as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-010",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 10.4 N force acts perpendicular at 0.62 m from a pivot. Torque?",
+    "options": [
+      "3.23 N·m",
+      "12.9 N·m",
+      "8.06 N·m",
+      "6.45 N·m"
+    ],
+    "answer_index": 3,
+    "explanation": "τ=Fd."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-011",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 1.4 kg point mass moves perpendicular to radius 0.88 m at 2.44 m/s. Angular momentum magnitude?",
+    "options": [
+      "6.02 kg·m²/s",
+      "3.76 kg·m²/s",
+      "3.01 kg·m²/s",
+      "1.5 kg·m²/s"
+    ],
+    "answer_index": 2,
+    "explanation": "L=mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-012",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "At a distance 1.58 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
+    "options": [
+      "4.91 m/s²",
+      "3.93 m/s²",
+      "1.96 m/s²",
+      "7.85 m/s²"
+    ],
+    "answer_index": 1,
+    "explanation": "g scales as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-013",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 11 N force acts perpendicular at 0.65 m from a pivot. Torque?",
+    "options": [
+      "7.15 N·m",
+      "3.58 N·m",
+      "14.3 N·m",
+      "8.94 N·m"
+    ],
+    "answer_index": 0,
+    "explanation": "τ=Fd."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-014",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 1.5 kg point mass moves perpendicular to radius 0.9 m at 2.55 m/s. Angular momentum magnitude?",
+    "options": [
+      "1.72 kg·m²/s",
+      "6.88 kg·m²/s",
+      "4.3 kg·m²/s",
+      "3.44 kg·m²/s"
+    ],
+    "answer_index": 3,
+    "explanation": "L=mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-015",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "At a distance 1.6 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
+    "options": [
+      "7.66 m/s²",
+      "4.79 m/s²",
+      "3.83 m/s²",
+      "1.91 m/s²"
+    ],
+    "answer_index": 2,
+    "explanation": "g scales as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-016",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 11.6 N force acts perpendicular at 0.68 m from a pivot. Torque?",
+    "options": [
+      "9.86 N·m",
+      "7.89 N·m",
+      "3.94 N·m",
+      "15.78 N·m"
+    ],
+    "answer_index": 1,
+    "explanation": "τ=Fd."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-017",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 1.6 kg point mass moves perpendicular to radius 0.92 m at 2.66 m/s. Angular momentum magnitude?",
+    "options": [
+      "3.92 kg·m²/s",
+      "1.96 kg·m²/s",
+      "7.84 kg·m²/s",
+      "4.9 kg·m²/s"
+    ],
+    "answer_index": 0,
+    "explanation": "L=mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-018",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "At a distance 1.62 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
+    "options": [
+      "1.87 m/s²",
+      "7.47 m/s²",
+      "4.67 m/s²",
+      "3.73 m/s²"
+    ],
+    "answer_index": 3,
+    "explanation": "g scales as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-019",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 12.2 N force acts perpendicular at 0.71 m from a pivot. Torque?",
+    "options": [
+      "17.32 N·m",
+      "10.82 N·m",
+      "8.66 N·m",
+      "4.33 N·m"
+    ],
+    "answer_index": 2,
+    "explanation": "τ=Fd."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-020",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 1.7 kg point mass moves perpendicular to radius 0.94 m at 2.77 m/s. Angular momentum magnitude?",
+    "options": [
+      "5.54 kg·m²/s",
+      "4.43 kg·m²/s",
+      "2.21 kg·m²/s",
+      "8.86 kg·m²/s"
+    ],
+    "answer_index": 1,
+    "explanation": "L=mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-021",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "At a distance 1.64 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
+    "options": [
+      "3.64 m/s²",
+      "1.82 m/s²",
+      "7.29 m/s²",
+      "4.55 m/s²"
+    ],
+    "answer_index": 0,
+    "explanation": "g scales as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-022",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 12.8 N force acts perpendicular at 0.74 m from a pivot. Torque?",
+    "options": [
+      "4.74 N·m",
+      "18.94 N·m",
+      "11.84 N·m",
+      "9.47 N·m"
+    ],
+    "answer_index": 3,
+    "explanation": "τ=Fd."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-023",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 1.8 kg point mass moves perpendicular to radius 0.96 m at 2.88 m/s. Angular momentum magnitude?",
+    "options": [
+      "9.96 kg·m²/s",
+      "6.23 kg·m²/s",
+      "4.98 kg·m²/s",
+      "2.49 kg·m²/s"
+    ],
+    "answer_index": 2,
+    "explanation": "L=mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-024",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "At a distance 1.66 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
+    "options": [
+      "4.45 m/s²",
+      "3.56 m/s²",
+      "1.78 m/s²",
+      "7.11 m/s²"
+    ],
+    "answer_index": 1,
+    "explanation": "g scales as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-025",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 13.4 N force acts perpendicular at 0.77 m from a pivot. Torque?",
+    "options": [
+      "10.32 N·m",
+      "5.16 N·m",
+      "20.64 N·m",
+      "12.9 N·m"
+    ],
+    "answer_index": 0,
+    "explanation": "τ=Fd."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-026",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 1.9 kg point mass moves perpendicular to radius 0.98 m at 2.99 m/s. Angular momentum magnitude?",
+    "options": [
+      "2.79 kg·m²/s",
+      "11.14 kg·m²/s",
+      "6.96 kg·m²/s",
+      "5.57 kg·m²/s"
+    ],
+    "answer_index": 3,
+    "explanation": "L=mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-027",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "At a distance 1.68 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
+    "options": [
+      "6.94 m/s²",
+      "4.34 m/s²",
+      "3.47 m/s²",
+      "1.74 m/s²"
+    ],
+    "answer_index": 2,
+    "explanation": "g scales as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-028",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 14 N force acts perpendicular at 0.8 m from a pivot. Torque?",
+    "options": [
+      "14 N·m",
+      "11.2 N·m",
+      "5.6 N·m",
+      "22.4 N·m"
+    ],
+    "answer_index": 1,
+    "explanation": "τ=Fd."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-029",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 2 kg point mass moves perpendicular to radius 1 m at 3.1 m/s. Angular momentum magnitude?",
+    "options": [
+      "6.2 kg·m²/s",
+      "3.1 kg·m²/s",
+      "12.4 kg·m²/s",
+      "7.75 kg·m²/s"
+    ],
+    "answer_index": 0,
+    "explanation": "L=mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-030",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "At a distance 1.7 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
+    "options": [
+      "1.7 m/s²",
+      "6.78 m/s²",
+      "4.24 m/s²",
+      "3.39 m/s²"
+    ],
+    "answer_index": 3,
+    "explanation": "g scales as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-031",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 14.6 N force acts perpendicular at 0.83 m from a pivot. Torque?",
+    "options": [
+      "24.24 N·m",
+      "15.15 N·m",
+      "12.12 N·m",
+      "6.06 N·m"
+    ],
+    "answer_index": 2,
+    "explanation": "τ=Fd."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-032",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 2.1 kg point mass moves perpendicular to radius 1.02 m at 3.21 m/s. Angular momentum magnitude?",
+    "options": [
+      "8.6 kg·m²/s",
+      "6.88 kg·m²/s",
+      "3.44 kg·m²/s",
+      "13.76 kg·m²/s"
+    ],
+    "answer_index": 1,
+    "explanation": "L=mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-033",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "At a distance 1.72 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
+    "options": [
+      "3.31 m/s²",
+      "1.66 m/s²",
+      "6.63 m/s²",
+      "4.14 m/s²"
+    ],
+    "answer_index": 0,
+    "explanation": "g scales as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-034",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 15.2 N force acts perpendicular at 0.86 m from a pivot. Torque?",
+    "options": [
+      "6.54 N·m",
+      "26.14 N·m",
+      "16.34 N·m",
+      "13.07 N·m"
+    ],
+    "answer_index": 3,
+    "explanation": "τ=Fd."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-035",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 2.2 kg point mass moves perpendicular to radius 1.04 m at 3.32 m/s. Angular momentum magnitude?",
+    "options": [
+      "15.2 kg·m²/s",
+      "9.5 kg·m²/s",
+      "7.6 kg·m²/s",
+      "3.8 kg·m²/s"
+    ],
+    "answer_index": 2,
+    "explanation": "L=mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-036",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "At a distance 1.74 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
+    "options": [
+      "4.05 m/s²",
+      "3.24 m/s²",
+      "1.62 m/s²",
+      "6.47 m/s²"
+    ],
+    "answer_index": 1,
+    "explanation": "g scales as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-037",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 15.8 N force acts perpendicular at 0.89 m from a pivot. Torque?",
+    "options": [
+      "14.06 N·m",
+      "7.03 N·m",
+      "28.12 N·m",
+      "17.57 N·m"
+    ],
+    "answer_index": 0,
+    "explanation": "τ=Fd."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-038",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 2.3 kg point mass moves perpendicular to radius 1.06 m at 3.43 m/s. Angular momentum magnitude?",
+    "options": [
+      "4.18 kg·m²/s",
+      "16.72 kg·m²/s",
+      "10.45 kg·m²/s",
+      "8.36 kg·m²/s"
+    ],
+    "answer_index": 3,
+    "explanation": "L=mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-039",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "At a distance 1.76 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
+    "options": [
+      "6.33 m/s²",
+      "3.96 m/s²",
+      "3.16 m/s²",
+      "1.58 m/s²"
+    ],
+    "answer_index": 2,
+    "explanation": "g scales as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-040",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 16.4 N force acts perpendicular at 0.92 m from a pivot. Torque?",
+    "options": [
+      "18.86 N·m",
+      "15.09 N·m",
+      "7.54 N·m",
+      "30.18 N·m"
+    ],
+    "answer_index": 1,
+    "explanation": "τ=Fd."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-041",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 2.4 kg point mass moves perpendicular to radius 1.08 m at 3.54 m/s. Angular momentum magnitude?",
+    "options": [
+      "9.18 kg·m²/s",
+      "4.59 kg·m²/s",
+      "18.36 kg·m²/s",
+      "11.47 kg·m²/s"
+    ],
+    "answer_index": 0,
+    "explanation": "L=mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-042",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "At a distance 1.78 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
+    "options": [
+      "1.55 m/s²",
+      "6.19 m/s²",
+      "3.87 m/s²",
+      "3.09 m/s²"
+    ],
+    "answer_index": 3,
+    "explanation": "g scales as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-043",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 17 N force acts perpendicular at 0.95 m from a pivot. Torque?",
+    "options": [
+      "32.3 N·m",
+      "20.19 N·m",
+      "16.15 N·m",
+      "8.07 N·m"
+    ],
+    "answer_index": 2,
+    "explanation": "τ=Fd."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-044",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 2.5 kg point mass moves perpendicular to radius 1.1 m at 3.65 m/s. Angular momentum magnitude?",
+    "options": [
+      "12.55 kg·m²/s",
+      "10.04 kg·m²/s",
+      "5.02 kg·m²/s",
+      "20.08 kg·m²/s"
+    ],
+    "answer_index": 1,
+    "explanation": "L=mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-045",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "At a distance 1.8 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
+    "options": [
+      "3.02 m/s²",
+      "1.51 m/s²",
+      "6.05 m/s²",
+      "3.78 m/s²"
+    ],
+    "answer_index": 0,
+    "explanation": "g scales as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-046",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 17.6 N force acts perpendicular at 0.98 m from a pivot. Torque?",
+    "options": [
+      "8.63 N·m",
+      "34.5 N·m",
+      "21.56 N·m",
+      "17.25 N·m"
+    ],
+    "answer_index": 3,
+    "explanation": "τ=Fd."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-047",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 2.6 kg point mass moves perpendicular to radius 1.12 m at 3.76 m/s. Angular momentum magnitude?",
+    "options": [
+      "21.9 kg·m²/s",
+      "13.69 kg·m²/s",
+      "10.95 kg·m²/s",
+      "5.47 kg·m²/s"
+    ],
+    "answer_index": 2,
+    "explanation": "L=mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-048",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "At a distance 1.82 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
+    "options": [
+      "3.7 m/s²",
+      "2.96 m/s²",
+      "1.48 m/s²",
+      "5.92 m/s²"
+    ],
+    "answer_index": 1,
+    "explanation": "g scales as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-049",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 18.2 N force acts perpendicular at 1.01 m from a pivot. Torque?",
+    "options": [
+      "18.38 N·m",
+      "9.19 N·m",
+      "36.76 N·m",
+      "22.97 N·m"
+    ],
+    "answer_index": 0,
+    "explanation": "τ=Fd."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-050",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 2.7 kg point mass moves perpendicular to radius 1.14 m at 3.87 m/s. Angular momentum magnitude?",
+    "options": [
+      "5.96 kg·m²/s",
+      "23.82 kg·m²/s",
+      "14.89 kg·m²/s",
+      "11.91 kg·m²/s"
+    ],
+    "answer_index": 3,
+    "explanation": "L=mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-051",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "At a distance 1.84 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
+    "options": [
+      "5.79 m/s²",
+      "3.62 m/s²",
+      "2.9 m/s²",
+      "1.45 m/s²"
+    ],
+    "answer_index": 2,
+    "explanation": "g scales as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-052",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 18.8 N force acts perpendicular at 1.04 m from a pivot. Torque?",
+    "options": [
+      "24.44 N·m",
+      "19.55 N·m",
+      "9.78 N·m",
+      "39.1 N·m"
+    ],
+    "answer_index": 1,
+    "explanation": "τ=Fd."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-053",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 2.8 kg point mass moves perpendicular to radius 1.16 m at 3.98 m/s. Angular momentum magnitude?",
+    "options": [
+      "12.93 kg·m²/s",
+      "6.46 kg·m²/s",
+      "25.86 kg·m²/s",
+      "16.16 kg·m²/s"
+    ],
+    "answer_index": 0,
+    "explanation": "L=mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-054",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "At a distance 1.86 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
+    "options": [
+      "1.42 m/s²",
+      "5.67 m/s²",
+      "3.54 m/s²",
+      "2.83 m/s²"
+    ],
+    "answer_index": 3,
+    "explanation": "g scales as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-055",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 19.4 N force acts perpendicular at 1.07 m from a pivot. Torque?",
+    "options": [
+      "41.52 N·m",
+      "25.95 N·m",
+      "20.76 N·m",
+      "10.38 N·m"
+    ],
+    "answer_index": 2,
+    "explanation": "τ=Fd."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-056",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 2.9 kg point mass moves perpendicular to radius 1.18 m at 4.09 m/s. Angular momentum magnitude?",
+    "options": [
+      "17.5 kg·m²/s",
+      "14 kg·m²/s",
+      "7 kg·m²/s",
+      "28 kg·m²/s"
+    ],
+    "answer_index": 1,
+    "explanation": "L=mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-057",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "At a distance 1.88 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
+    "options": [
+      "2.77 m/s²",
+      "1.39 m/s²",
+      "5.55 m/s²",
+      "3.47 m/s²"
+    ],
+    "answer_index": 0,
+    "explanation": "g scales as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-058",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 20 N force acts perpendicular at 1.1 m from a pivot. Torque?",
+    "options": [
+      "11 N·m",
+      "44 N·m",
+      "27.5 N·m",
+      "22 N·m"
+    ],
+    "answer_index": 3,
+    "explanation": "τ=Fd."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-059",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 3 kg point mass moves perpendicular to radius 1.2 m at 4.2 m/s. Angular momentum magnitude?",
+    "options": [
+      "30.24 kg·m²/s",
+      "18.9 kg·m²/s",
+      "15.12 kg·m²/s",
+      "7.56 kg·m²/s"
+    ],
+    "answer_index": 2,
+    "explanation": "L=mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-060",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "At a distance 1.9 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
+    "options": [
+      "3.39 m/s²",
+      "2.71 m/s²",
+      "1.36 m/s²",
+      "5.43 m/s²"
+    ],
+    "answer_index": 1,
+    "explanation": "g scales as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-061",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 20.6 N force acts perpendicular at 1.13 m from a pivot. Torque?",
+    "options": [
+      "23.28 N·m",
+      "11.64 N·m",
+      "46.56 N·m",
+      "29.1 N·m"
+    ],
+    "answer_index": 0,
+    "explanation": "τ=Fd."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-062",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 3.1 kg point mass moves perpendicular to radius 1.22 m at 4.31 m/s. Angular momentum magnitude?",
+    "options": [
+      "8.15 kg·m²/s",
+      "32.6 kg·m²/s",
+      "20.38 kg·m²/s",
+      "16.3 kg·m²/s"
+    ],
+    "answer_index": 3,
+    "explanation": "L=mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-063",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "At a distance 1.92 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
+    "options": [
+      "5.32 m/s²",
+      "3.32 m/s²",
+      "2.66 m/s²",
+      "1.33 m/s²"
+    ],
+    "answer_index": 2,
+    "explanation": "g scales as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-064",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 21.2 N force acts perpendicular at 1.16 m from a pivot. Torque?",
+    "options": [
+      "30.74 N·m",
+      "24.59 N·m",
+      "12.29 N·m",
+      "49.18 N·m"
+    ],
+    "answer_index": 1,
+    "explanation": "τ=Fd."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-065",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 3.2 kg point mass moves perpendicular to radius 1.24 m at 4.42 m/s. Angular momentum magnitude?",
+    "options": [
+      "17.54 kg·m²/s",
+      "8.77 kg·m²/s",
+      "35.08 kg·m²/s",
+      "21.92 kg·m²/s"
+    ],
+    "answer_index": 0,
+    "explanation": "L=mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-066",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "At a distance 1.94 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
+    "options": [
+      "1.3 m/s²",
+      "5.21 m/s²",
+      "3.25 m/s²",
+      "2.6 m/s²"
+    ],
+    "answer_index": 3,
+    "explanation": "g scales as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-067",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 21.8 N force acts perpendicular at 1.19 m from a pivot. Torque?",
+    "options": [
+      "51.88 N·m",
+      "32.43 N·m",
+      "25.94 N·m",
+      "12.97 N·m"
+    ],
+    "answer_index": 2,
+    "explanation": "τ=Fd."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-068",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 3.3 kg point mass moves perpendicular to radius 1.26 m at 4.53 m/s. Angular momentum magnitude?",
+    "options": [
+      "23.55 kg·m²/s",
+      "18.84 kg·m²/s",
+      "9.42 kg·m²/s",
+      "37.68 kg·m²/s"
+    ],
+    "answer_index": 1,
+    "explanation": "L=mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-069",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "At a distance 1.96 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
+    "options": [
+      "2.55 m/s²",
+      "1.28 m/s²",
+      "5.1 m/s²",
+      "3.19 m/s²"
+    ],
+    "answer_index": 0,
+    "explanation": "g scales as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-070",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 22.4 N force acts perpendicular at 1.22 m from a pivot. Torque?",
+    "options": [
+      "13.66 N·m",
+      "54.66 N·m",
+      "34.16 N·m",
+      "27.33 N·m"
+    ],
+    "answer_index": 3,
+    "explanation": "τ=Fd."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-071",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 3.4 kg point mass moves perpendicular to radius 1.28 m at 4.64 m/s. Angular momentum magnitude?",
+    "options": [
+      "40.38 kg·m²/s",
+      "25.24 kg·m²/s",
+      "20.19 kg·m²/s",
+      "10.1 kg·m²/s"
+    ],
+    "answer_index": 2,
+    "explanation": "L=mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-072",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "At a distance 1.98 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
+    "options": [
+      "3.13 m/s²",
+      "2.5 m/s²",
+      "1.25 m/s²",
+      "5 m/s²"
+    ],
+    "answer_index": 1,
+    "explanation": "g scales as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-073",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 23 N force acts perpendicular at 1.25 m from a pivot. Torque?",
+    "options": [
+      "28.75 N·m",
+      "14.38 N·m",
+      "57.5 N·m",
+      "35.94 N·m"
+    ],
+    "answer_index": 0,
+    "explanation": "τ=Fd."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-074",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 3.5 kg point mass moves perpendicular to radius 1.3 m at 4.75 m/s. Angular momentum magnitude?",
+    "options": [
+      "10.8 kg·m²/s",
+      "43.22 kg·m²/s",
+      "27.01 kg·m²/s",
+      "21.61 kg·m²/s"
+    ],
+    "answer_index": 3,
+    "explanation": "L=mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-075",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "At a distance 2 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
+    "options": [
+      "4.9 m/s²",
+      "3.06 m/s²",
+      "2.45 m/s²",
+      "1.23 m/s²"
+    ],
+    "answer_index": 2,
+    "explanation": "g scales as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-076",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 23.6 N force acts perpendicular at 1.28 m from a pivot. Torque?",
+    "options": [
+      "37.76 N·m",
+      "30.21 N·m",
+      "15.11 N·m",
+      "60.42 N·m"
+    ],
+    "answer_index": 1,
+    "explanation": "τ=Fd."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-077",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 3.6 kg point mass moves perpendicular to radius 1.32 m at 4.86 m/s. Angular momentum magnitude?",
+    "options": [
+      "23.09 kg·m²/s",
+      "11.54 kg·m²/s",
+      "46.18 kg·m²/s",
+      "28.86 kg·m²/s"
+    ],
+    "answer_index": 0,
+    "explanation": "L=mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-078",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "At a distance 2.02 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
+    "options": [
+      "1.2 m/s²",
+      "4.8 m/s²",
+      "3 m/s²",
+      "2.4 m/s²"
+    ],
+    "answer_index": 3,
+    "explanation": "g scales as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-079",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 24.2 N force acts perpendicular at 1.31 m from a pivot. Torque?",
+    "options": [
+      "63.4 N·m",
+      "39.63 N·m",
+      "31.7 N·m",
+      "15.85 N·m"
+    ],
+    "answer_index": 2,
+    "explanation": "τ=Fd."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-080",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 3.7 kg point mass moves perpendicular to radius 1.34 m at 4.97 m/s. Angular momentum magnitude?",
+    "options": [
+      "30.8 kg·m²/s",
+      "24.64 kg·m²/s",
+      "12.32 kg·m²/s",
+      "49.28 kg·m²/s"
+    ],
+    "answer_index": 1,
+    "explanation": "L=mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-081",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "At a distance 2.04 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
+    "options": [
+      "2.35 m/s²",
+      "1.18 m/s²",
+      "4.71 m/s²",
+      "2.94 m/s²"
+    ],
+    "answer_index": 0,
+    "explanation": "g scales as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-082",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 24.8 N force acts perpendicular at 1.34 m from a pivot. Torque?",
+    "options": [
+      "16.61 N·m",
+      "66.46 N·m",
+      "41.54 N·m",
+      "33.23 N·m"
+    ],
+    "answer_index": 3,
+    "explanation": "τ=Fd."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-083",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 3.8 kg point mass moves perpendicular to radius 1.36 m at 5.08 m/s. Angular momentum magnitude?",
+    "options": [
+      "52.5 kg·m²/s",
+      "32.81 kg·m²/s",
+      "26.25 kg·m²/s",
+      "13.13 kg·m²/s"
+    ],
+    "answer_index": 2,
+    "explanation": "L=mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-084",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "At a distance 2.06 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
+    "options": [
+      "2.89 m/s²",
+      "2.31 m/s²",
+      "1.15 m/s²",
+      "4.62 m/s²"
+    ],
+    "answer_index": 1,
+    "explanation": "g scales as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-085",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 25.4 N force acts perpendicular at 1.37 m from a pivot. Torque?",
+    "options": [
+      "34.8 N·m",
+      "17.4 N·m",
+      "69.6 N·m",
+      "43.5 N·m"
+    ],
+    "answer_index": 0,
+    "explanation": "τ=Fd."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-086",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 3.9 kg point mass moves perpendicular to radius 1.38 m at 5.19 m/s. Angular momentum magnitude?",
+    "options": [
+      "13.96 kg·m²/s",
+      "55.86 kg·m²/s",
+      "34.91 kg·m²/s",
+      "27.93 kg·m²/s"
+    ],
+    "answer_index": 3,
+    "explanation": "L=mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-087",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "At a distance 2.08 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
+    "options": [
+      "4.53 m/s²",
+      "2.83 m/s²",
+      "2.27 m/s²",
+      "1.13 m/s²"
+    ],
+    "answer_index": 2,
+    "explanation": "g scales as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-088",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 26 N force acts perpendicular at 1.4 m from a pivot. Torque?",
+    "options": [
+      "45.5 N·m",
+      "36.4 N·m",
+      "18.2 N·m",
+      "72.8 N·m"
+    ],
+    "answer_index": 1,
+    "explanation": "τ=Fd."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-089",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4 kg point mass moves perpendicular to radius 1.4 m at 5.3 m/s. Angular momentum magnitude?",
+    "options": [
+      "29.68 kg·m²/s",
+      "14.84 kg·m²/s",
+      "59.36 kg·m²/s",
+      "37.1 kg·m²/s"
+    ],
+    "answer_index": 0,
+    "explanation": "L=mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-090",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "At a distance 2.1 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
+    "options": [
+      "1.11 m/s²",
+      "4.44 m/s²",
+      "2.78 m/s²",
+      "2.22 m/s²"
+    ],
+    "answer_index": 3,
+    "explanation": "g scales as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-091",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 26.6 N force acts perpendicular at 1.43 m from a pivot. Torque?",
+    "options": [
+      "76.08 N·m",
+      "47.55 N·m",
+      "38.04 N·m",
+      "19.02 N·m"
+    ],
+    "answer_index": 2,
+    "explanation": "τ=Fd."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-092",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4.1 kg point mass moves perpendicular to radius 1.42 m at 5.41 m/s. Angular momentum magnitude?",
+    "options": [
+      "39.38 kg·m²/s",
+      "31.5 kg·m²/s",
+      "15.75 kg·m²/s",
+      "63 kg·m²/s"
+    ],
+    "answer_index": 1,
+    "explanation": "L=mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-093",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "At a distance 2.12 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
+    "options": [
+      "2.18 m/s²",
+      "1.09 m/s²",
+      "4.36 m/s²",
+      "2.73 m/s²"
+    ],
+    "answer_index": 0,
+    "explanation": "g scales as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-094",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 27.2 N force acts perpendicular at 1.46 m from a pivot. Torque?",
+    "options": [
+      "19.86 N·m",
+      "79.42 N·m",
+      "49.64 N·m",
+      "39.71 N·m"
+    ],
+    "answer_index": 3,
+    "explanation": "τ=Fd."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-095",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4.2 kg point mass moves perpendicular to radius 1.44 m at 5.52 m/s. Angular momentum magnitude?",
+    "options": [
+      "66.76 kg·m²/s",
+      "41.73 kg·m²/s",
+      "33.38 kg·m²/s",
+      "16.69 kg·m²/s"
+    ],
+    "answer_index": 2,
+    "explanation": "L=mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-096",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "At a distance 2.14 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
+    "options": [
+      "2.68 m/s²",
+      "2.14 m/s²",
+      "1.07 m/s²",
+      "4.28 m/s²"
+    ],
+    "answer_index": 1,
+    "explanation": "g scales as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-097",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 27.8 N force acts perpendicular at 1.49 m from a pivot. Torque?",
+    "options": [
+      "41.42 N·m",
+      "20.71 N·m",
+      "82.84 N·m",
+      "51.78 N·m"
+    ],
+    "answer_index": 0,
+    "explanation": "τ=Fd."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-098",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4.3 kg point mass moves perpendicular to radius 1.46 m at 5.63 m/s. Angular momentum magnitude?",
+    "options": [
+      "17.68 kg·m²/s",
+      "70.7 kg·m²/s",
+      "44.19 kg·m²/s",
+      "35.35 kg·m²/s"
+    ],
+    "answer_index": 3,
+    "explanation": "L=mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-099",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "At a distance 2.16 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
+    "options": [
+      "4.2 m/s²",
+      "2.63 m/s²",
+      "2.1 m/s²",
+      "1.05 m/s²"
+    ],
+    "answer_index": 2,
+    "explanation": "g scales as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-100",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 28.4 N force acts perpendicular at 1.52 m from a pivot. Torque?",
+    "options": [
+      "53.96 N·m",
+      "43.17 N·m",
+      "21.59 N·m",
+      "86.34 N·m"
+    ],
+    "answer_index": 1,
+    "explanation": "τ=Fd."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-101",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4.4 kg point mass moves perpendicular to radius 1.48 m at 5.74 m/s. Angular momentum magnitude?",
+    "options": [
+      "37.38 kg·m²/s",
+      "18.69 kg·m²/s",
+      "74.76 kg·m²/s",
+      "46.73 kg·m²/s"
+    ],
+    "answer_index": 0,
+    "explanation": "L=mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-102",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "At a distance 2.18 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
+    "options": [
+      "1.03 m/s²",
+      "4.12 m/s²",
+      "2.58 m/s²",
+      "2.06 m/s²"
+    ],
+    "answer_index": 3,
+    "explanation": "g scales as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-103",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 29 N force acts perpendicular at 1.55 m from a pivot. Torque?",
+    "options": [
+      "89.9 N·m",
+      "56.19 N·m",
+      "44.95 N·m",
+      "22.48 N·m"
+    ],
+    "answer_index": 2,
+    "explanation": "τ=Fd."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-104",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4.5 kg point mass moves perpendicular to radius 1.5 m at 5.85 m/s. Angular momentum magnitude?",
+    "options": [
+      "49.36 kg·m²/s",
+      "39.49 kg·m²/s",
+      "19.75 kg·m²/s",
+      "78.98 kg·m²/s"
+    ],
+    "answer_index": 1,
+    "explanation": "L=mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-105",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "At a distance 2.2 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
+    "options": [
+      "2.02 m/s²",
+      "1.01 m/s²",
+      "4.05 m/s²",
+      "2.53 m/s²"
+    ],
+    "answer_index": 0,
+    "explanation": "g scales as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-106",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 29.6 N force acts perpendicular at 1.58 m from a pivot. Torque?",
+    "options": [
+      "23.39 N·m",
+      "93.54 N·m",
+      "58.46 N·m",
+      "46.77 N·m"
+    ],
+    "answer_index": 3,
+    "explanation": "τ=Fd."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-107",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4.6 kg point mass moves perpendicular to radius 1.52 m at 5.96 m/s. Angular momentum magnitude?",
+    "options": [
+      "83.34 kg·m²/s",
+      "52.09 kg·m²/s",
+      "41.67 kg·m²/s",
+      "20.84 kg·m²/s"
+    ],
+    "answer_index": 2,
+    "explanation": "L=mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-108",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "At a distance 2.22 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
+    "options": [
+      "2.48 m/s²",
+      "1.99 m/s²",
+      "0.994 m/s²",
+      "3.98 m/s²"
+    ],
+    "answer_index": 1,
+    "explanation": "g scales as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-109",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 30.2 N force acts perpendicular at 1.61 m from a pivot. Torque?",
+    "options": [
+      "48.62 N·m",
+      "24.31 N·m",
+      "97.24 N·m",
+      "60.77 N·m"
+    ],
+    "answer_index": 0,
+    "explanation": "τ=Fd."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-110",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4.7 kg point mass moves perpendicular to radius 1.54 m at 6.07 m/s. Angular momentum magnitude?",
+    "options": [
+      "21.96 kg·m²/s",
+      "87.86 kg·m²/s",
+      "54.91 kg·m²/s",
+      "43.93 kg·m²/s"
+    ],
+    "answer_index": 3,
+    "explanation": "L=mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-111",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "At a distance 2.24 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
+    "options": [
+      "3.91 m/s²",
+      "2.44 m/s²",
+      "1.95 m/s²",
+      "0.9765 m/s²"
+    ],
+    "answer_index": 2,
+    "explanation": "g scales as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-112",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 30.8 N force acts perpendicular at 1.64 m from a pivot. Torque?",
+    "options": [
+      "63.14 N·m",
+      "50.51 N·m",
+      "25.25 N·m",
+      "101.02 N·m"
+    ],
+    "answer_index": 1,
+    "explanation": "τ=Fd."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-113",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4.8 kg point mass moves perpendicular to radius 1.56 m at 6.18 m/s. Angular momentum magnitude?",
+    "options": [
+      "46.28 kg·m²/s",
+      "23.14 kg·m²/s",
+      "92.56 kg·m²/s",
+      "57.85 kg·m²/s"
+    ],
+    "answer_index": 0,
+    "explanation": "L=mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-114",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "At a distance 2.26 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
+    "options": [
+      "0.9595 m/s²",
+      "3.84 m/s²",
+      "2.4 m/s²",
+      "1.92 m/s²"
+    ],
+    "answer_index": 3,
+    "explanation": "g scales as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-115",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 31.4 N force acts perpendicular at 1.67 m from a pivot. Torque?",
+    "options": [
+      "104.88 N·m",
+      "65.55 N·m",
+      "52.44 N·m",
+      "26.22 N·m"
+    ],
+    "answer_index": 2,
+    "explanation": "τ=Fd."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-116",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 4.9 kg point mass moves perpendicular to radius 1.58 m at 6.29 m/s. Angular momentum magnitude?",
+    "options": [
+      "60.88 kg·m²/s",
+      "48.7 kg·m²/s",
+      "24.35 kg·m²/s",
+      "97.4 kg·m²/s"
+    ],
+    "answer_index": 1,
+    "explanation": "L=mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-117",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "At a distance 2.28 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
+    "options": [
+      "1.89 m/s²",
+      "0.9425 m/s²",
+      "3.77 m/s²",
+      "2.36 m/s²"
+    ],
+    "answer_index": 0,
+    "explanation": "g scales as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-118",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 32 N force acts perpendicular at 1.7 m from a pivot. Torque?",
+    "options": [
+      "27.2 N·m",
+      "108.8 N·m",
+      "68 N·m",
+      "54.4 N·m"
+    ],
+    "answer_index": 3,
+    "explanation": "τ=Fd."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-119",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 5 kg point mass moves perpendicular to radius 1.6 m at 6.4 m/s. Angular momentum magnitude?",
+    "options": [
+      "102.4 kg·m²/s",
+      "64 kg·m²/s",
+      "51.2 kg·m²/s",
+      "25.6 kg·m²/s"
+    ],
+    "answer_index": 2,
+    "explanation": "L=mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-120",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "At a distance 2.3 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
+    "options": [
+      "2.32 m/s²",
+      "1.85 m/s²",
+      "0.9265 m/s²",
+      "3.71 m/s²"
+    ],
+    "answer_index": 1,
+    "explanation": "g scales as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-121",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 32.6 N force acts perpendicular at 1.73 m from a pivot. Torque?",
+    "options": [
+      "56.4 N·m",
+      "28.2 N·m",
+      "112.8 N·m",
+      "70.5 N·m"
+    ],
+    "answer_index": 0,
+    "explanation": "τ=Fd."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-122",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 5.1 kg point mass moves perpendicular to radius 1.62 m at 6.51 m/s. Angular momentum magnitude?",
+    "options": [
+      "26.89 kg·m²/s",
+      "107.58 kg·m²/s",
+      "67.24 kg·m²/s",
+      "53.79 kg·m²/s"
+    ],
+    "answer_index": 3,
+    "explanation": "L=mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-123",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "At a distance 2.32 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
+    "options": [
+      "3.64 m/s²",
+      "2.28 m/s²",
+      "1.82 m/s²",
+      "0.9105 m/s²"
+    ],
+    "answer_index": 2,
+    "explanation": "g scales as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-124",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 33.2 N force acts perpendicular at 1.76 m from a pivot. Torque?",
+    "options": [
+      "73.04 N·m",
+      "58.43 N·m",
+      "29.21 N·m",
+      "116.86 N·m"
+    ],
+    "answer_index": 1,
+    "explanation": "τ=Fd."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-125",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 5.2 kg point mass moves perpendicular to radius 1.64 m at 6.62 m/s. Angular momentum magnitude?",
+    "options": [
+      "56.46 kg·m²/s",
+      "28.23 kg·m²/s",
+      "112.92 kg·m²/s",
+      "70.58 kg·m²/s"
+    ],
+    "answer_index": 0,
+    "explanation": "L=mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-126",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "At a distance 2.34 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
+    "options": [
+      "0.895 m/s²",
+      "3.58 m/s²",
+      "2.24 m/s²",
+      "1.79 m/s²"
+    ],
+    "answer_index": 3,
+    "explanation": "g scales as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-127",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 33.8 N force acts perpendicular at 1.79 m from a pivot. Torque?",
+    "options": [
+      "121 N·m",
+      "75.63 N·m",
+      "60.5 N·m",
+      "30.25 N·m"
+    ],
+    "answer_index": 2,
+    "explanation": "τ=Fd."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-128",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 5.3 kg point mass moves perpendicular to radius 1.66 m at 6.73 m/s. Angular momentum magnitude?",
+    "options": [
+      "74.01 kg·m²/s",
+      "59.21 kg·m²/s",
+      "29.61 kg·m²/s",
+      "118.42 kg·m²/s"
+    ],
+    "answer_index": 1,
+    "explanation": "L=mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-129",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "At a distance 2.36 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
+    "options": [
+      "1.76 m/s²",
+      "0.88 m/s²",
+      "3.52 m/s²",
+      "2.2 m/s²"
+    ],
+    "answer_index": 0,
+    "explanation": "g scales as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-130",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 34.4 N force acts perpendicular at 1.82 m from a pivot. Torque?",
+    "options": [
+      "31.3 N·m",
+      "125.22 N·m",
+      "78.26 N·m",
+      "62.61 N·m"
+    ],
+    "answer_index": 3,
+    "explanation": "τ=Fd."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-131",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 5.4 kg point mass moves perpendicular to radius 1.68 m at 6.84 m/s. Angular momentum magnitude?",
+    "options": [
+      "124.1 kg·m²/s",
+      "77.56 kg·m²/s",
+      "62.05 kg·m²/s",
+      "31.02 kg·m²/s"
+    ],
+    "answer_index": 2,
+    "explanation": "L=mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-132",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "At a distance 2.38 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
+    "options": [
+      "2.16 m/s²",
+      "1.73 m/s²",
+      "0.865 m/s²",
+      "3.46 m/s²"
+    ],
+    "answer_index": 1,
+    "explanation": "g scales as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-133",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 35 N force acts perpendicular at 1.85 m from a pivot. Torque?",
+    "options": [
+      "64.75 N·m",
+      "32.38 N·m",
+      "129.5 N·m",
+      "80.94 N·m"
+    ],
+    "answer_index": 0,
+    "explanation": "τ=Fd."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-134",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 5.5 kg point mass moves perpendicular to radius 1.7 m at 6.95 m/s. Angular momentum magnitude?",
+    "options": [
+      "32.49 kg·m²/s",
+      "129.96 kg·m²/s",
+      "81.23 kg·m²/s",
+      "64.98 kg·m²/s"
+    ],
+    "answer_index": 3,
+    "explanation": "L=mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-135",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "At a distance 2.4 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
+    "options": [
+      "3.4 m/s²",
+      "2.13 m/s²",
+      "1.7 m/s²",
+      "0.8505 m/s²"
+    ],
+    "answer_index": 2,
+    "explanation": "g scales as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-136",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 35.6 N force acts perpendicular at 1.88 m from a pivot. Torque?",
+    "options": [
+      "83.66 N·m",
+      "66.93 N·m",
+      "33.47 N·m",
+      "133.86 N·m"
+    ],
+    "answer_index": 1,
+    "explanation": "τ=Fd."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-137",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 5.6 kg point mass moves perpendicular to radius 1.72 m at 7.06 m/s. Angular momentum magnitude?",
+    "options": [
+      "68 kg·m²/s",
+      "34 kg·m²/s",
+      "136 kg·m²/s",
+      "85 kg·m²/s"
+    ],
+    "answer_index": 0,
+    "explanation": "L=mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-138",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "At a distance 2.42 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
+    "options": [
+      "0.8365 m/s²",
+      "3.35 m/s²",
+      "2.09 m/s²",
+      "1.67 m/s²"
+    ],
+    "answer_index": 3,
+    "explanation": "g scales as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-139",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 36.2 N force acts perpendicular at 1.91 m from a pivot. Torque?",
+    "options": [
+      "138.28 N·m",
+      "86.42 N·m",
+      "69.14 N·m",
+      "34.57 N·m"
+    ],
+    "answer_index": 2,
+    "explanation": "τ=Fd."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-140",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 5.7 kg point mass moves perpendicular to radius 1.74 m at 7.17 m/s. Angular momentum magnitude?",
+    "options": [
+      "88.89 kg·m²/s",
+      "71.11 kg·m²/s",
+      "35.55 kg·m²/s",
+      "142.22 kg·m²/s"
+    ],
+    "answer_index": 1,
+    "explanation": "L=mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-141",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "At a distance 2.44 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
+    "options": [
+      "1.65 m/s²",
+      "0.823 m/s²",
+      "3.29 m/s²",
+      "2.06 m/s²"
+    ],
+    "answer_index": 0,
+    "explanation": "g scales as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-142",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 36.8 N force acts perpendicular at 1.94 m from a pivot. Torque?",
+    "options": [
+      "35.7 N·m",
+      "142.78 N·m",
+      "89.24 N·m",
+      "71.39 N·m"
+    ],
+    "answer_index": 3,
+    "explanation": "τ=Fd."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-143",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 5.8 kg point mass moves perpendicular to radius 1.76 m at 7.28 m/s. Angular momentum magnitude?",
+    "options": [
+      "148.62 kg·m²/s",
+      "92.89 kg·m²/s",
+      "74.31 kg·m²/s",
+      "37.16 kg·m²/s"
+    ],
+    "answer_index": 2,
+    "explanation": "L=mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-144",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "At a distance 2.46 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
+    "options": [
+      "2.02 m/s²",
+      "1.62 m/s²",
+      "0.8095 m/s²",
+      "3.24 m/s²"
+    ],
+    "answer_index": 1,
+    "explanation": "g scales as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-145",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 37.4 N force acts perpendicular at 1.97 m from a pivot. Torque?",
+    "options": [
+      "73.68 N·m",
+      "36.84 N·m",
+      "147.36 N·m",
+      "92.1 N·m"
+    ],
+    "answer_index": 0,
+    "explanation": "τ=Fd."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-146",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 5.9 kg point mass moves perpendicular to radius 1.78 m at 7.39 m/s. Angular momentum magnitude?",
+    "options": [
+      "38.8 kg·m²/s",
+      "155.22 kg·m²/s",
+      "97.01 kg·m²/s",
+      "77.61 kg·m²/s"
+    ],
+    "answer_index": 3,
+    "explanation": "L=mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-147",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "At a distance 2.48 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
+    "options": [
+      "3.19 m/s²",
+      "1.99 m/s²",
+      "1.59 m/s²",
+      "0.7965 m/s²"
+    ],
+    "answer_index": 2,
+    "explanation": "g scales as 1/r²."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-148",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A 38 N force acts perpendicular at 2 m from a pivot. Torque?",
+    "options": [
+      "95 N·m",
+      "76 N·m",
+      "38 N·m",
+      "152 N·m"
+    ],
+    "answer_index": 1,
+    "explanation": "τ=Fd."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-149",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A 6 kg point mass moves perpendicular to radius 1.8 m at 7.5 m/s. Angular momentum magnitude?",
+    "options": [
+      "81 kg·m²/s",
+      "40.5 kg·m²/s",
+      "162 kg·m²/s",
+      "101.25 kg·m²/s"
+    ],
+    "answer_index": 0,
+    "explanation": "L=mvr for perpendicular motion."
+  },
+  {
+    "id": "IMAT-PHY-TORQUE-ANGULAR-GRAVITATION-150",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Dynamics",
+    "subtopic": "Torque, Angular Ideas & Gravitation",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "At a distance 2.5 times Earth's radius from Earth's centre, approximate gravitational field if surface g=9.8 m/s².",
+    "options": [
+      "0.784 m/s²",
+      "3.14 m/s²",
+      "1.96 m/s²",
+      "1.57 m/s²"
+    ],
+    "answer_index": 3,
+    "explanation": "g scales as 1/r²."
+  }
+]
