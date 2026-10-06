@@ -1,0 +1,2702 @@
+[
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-001",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Fluid flows through area 0.21 m² at 1.55 m/s. Volume flow rate?",
+    "options": [
+      "0.326 m³/s",
+      "0.163 m³/s",
+      "0.652 m³/s",
+      "0.4075 m³/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Q=Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-002",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In incompressible flow, A1=4.05, A2=2.02 and v1=1.53 m/s. Find v2.",
+    "options": [
+      "1.53 m/s",
+      "6.14 m/s",
+      "3.84 m/s",
+      "3.07 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Continuity: A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-003",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In horizontal ideal flow of water, speed rises from 1.02 to 2.03 m/s. Pressure drop magnitude?",
+    "options": [
+      "3080.4 Pa",
+      "1925.25 Pa",
+      "1540.2 Pa",
+      "770.1 Pa"
+    ],
+    "answer_index": 2,
+    "explanation": "Bernoulli: ΔP=½ρ(v2²-v1²)."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-004",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Fluid flows through area 0.22 m² at 1.6 m/s. Volume flow rate?",
+    "options": [
+      "0.44 m³/s",
+      "0.352 m³/s",
+      "0.176 m³/s",
+      "0.704 m³/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Q=Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-005",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In incompressible flow, A1=4.1, A2=2.04 and v1=1.56 m/s. Find v2.",
+    "options": [
+      "3.14 m/s",
+      "1.57 m/s",
+      "6.28 m/s",
+      "3.93 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Continuity: A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-006",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In horizontal ideal flow of water, speed rises from 1.04 to 2.06 m/s. Pressure drop magnitude?",
+    "options": [
+      "790.5 Pa",
+      "3162 Pa",
+      "1976.25 Pa",
+      "1581 Pa"
+    ],
+    "answer_index": 3,
+    "explanation": "Bernoulli: ΔP=½ρ(v2²-v1²)."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-007",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Fluid flows through area 0.23 m² at 1.65 m/s. Volume flow rate?",
+    "options": [
+      "0.76 m³/s",
+      "0.475 m³/s",
+      "0.38 m³/s",
+      "0.19 m³/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Q=Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-008",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In incompressible flow, A1=4.15, A2=2.06 and v1=1.59 m/s. Find v2.",
+    "options": [
+      "4 m/s",
+      "3.2 m/s",
+      "1.6 m/s",
+      "6.4 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Continuity: A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-009",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In horizontal ideal flow of water, speed rises from 1.06 to 2.09 m/s. Pressure drop magnitude?",
+    "options": [
+      "1622.2 Pa",
+      "811.1 Pa",
+      "3244.4 Pa",
+      "2027.75 Pa"
+    ],
+    "answer_index": 0,
+    "explanation": "Bernoulli: ΔP=½ρ(v2²-v1²)."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-010",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Fluid flows through area 0.24 m² at 1.7 m/s. Volume flow rate?",
+    "options": [
+      "0.204 m³/s",
+      "0.816 m³/s",
+      "0.51 m³/s",
+      "0.408 m³/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Q=Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-011",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In incompressible flow, A1=4.2, A2=2.08 and v1=1.62 m/s. Find v2.",
+    "options": [
+      "6.54 m/s",
+      "4.09 m/s",
+      "3.27 m/s",
+      "1.64 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Continuity: A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-012",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In horizontal ideal flow of water, speed rises from 1.08 to 2.12 m/s. Pressure drop magnitude?",
+    "options": [
+      "2080 Pa",
+      "1664 Pa",
+      "832 Pa",
+      "3328 Pa"
+    ],
+    "answer_index": 1,
+    "explanation": "Bernoulli: ΔP=½ρ(v2²-v1²)."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-013",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Fluid flows through area 0.25 m² at 1.75 m/s. Volume flow rate?",
+    "options": [
+      "0.438 m³/s",
+      "0.219 m³/s",
+      "0.876 m³/s",
+      "0.5475 m³/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Q=Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-014",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In incompressible flow, A1=4.25, A2=2.1 and v1=1.65 m/s. Find v2.",
+    "options": [
+      "1.67 m/s",
+      "6.68 m/s",
+      "4.17 m/s",
+      "3.34 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Continuity: A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-015",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In horizontal ideal flow of water, speed rises from 1.1 to 2.15 m/s. Pressure drop magnitude?",
+    "options": [
+      "3412.4 Pa",
+      "2132.75 Pa",
+      "1706.2 Pa",
+      "853.1 Pa"
+    ],
+    "answer_index": 2,
+    "explanation": "Bernoulli: ΔP=½ρ(v2²-v1²)."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-016",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Fluid flows through area 0.26 m² at 1.8 m/s. Volume flow rate?",
+    "options": [
+      "0.585 m³/s",
+      "0.468 m³/s",
+      "0.234 m³/s",
+      "0.936 m³/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Q=Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-017",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In incompressible flow, A1=4.3, A2=2.12 and v1=1.68 m/s. Find v2.",
+    "options": [
+      "3.41 m/s",
+      "1.71 m/s",
+      "6.82 m/s",
+      "4.26 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Continuity: A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-018",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In horizontal ideal flow of water, speed rises from 1.12 to 2.18 m/s. Pressure drop magnitude?",
+    "options": [
+      "874.5 Pa",
+      "3498 Pa",
+      "2186.25 Pa",
+      "1749 Pa"
+    ],
+    "answer_index": 3,
+    "explanation": "Bernoulli: ΔP=½ρ(v2²-v1²)."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-019",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Fluid flows through area 0.27 m² at 1.85 m/s. Volume flow rate?",
+    "options": [
+      "1 m³/s",
+      "0.625 m³/s",
+      "0.5 m³/s",
+      "0.25 m³/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Q=Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-020",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In incompressible flow, A1=4.35, A2=2.14 and v1=1.71 m/s. Find v2.",
+    "options": [
+      "4.35 m/s",
+      "3.48 m/s",
+      "1.74 m/s",
+      "6.96 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Continuity: A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-021",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In horizontal ideal flow of water, speed rises from 1.14 to 2.21 m/s. Pressure drop magnitude?",
+    "options": [
+      "1792.3 Pa",
+      "896.15 Pa",
+      "3584.6 Pa",
+      "2240.38 Pa"
+    ],
+    "answer_index": 0,
+    "explanation": "Bernoulli: ΔP=½ρ(v2²-v1²)."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-022",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Fluid flows through area 0.28 m² at 1.9 m/s. Volume flow rate?",
+    "options": [
+      "0.266 m³/s",
+      "1.06 m³/s",
+      "0.665 m³/s",
+      "0.532 m³/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Q=Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-023",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In incompressible flow, A1=4.4, A2=2.16 and v1=1.74 m/s. Find v2.",
+    "options": [
+      "7.08 m/s",
+      "4.42 m/s",
+      "3.54 m/s",
+      "1.77 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Continuity: A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-024",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In horizontal ideal flow of water, speed rises from 1.16 to 2.24 m/s. Pressure drop magnitude?",
+    "options": [
+      "2295 Pa",
+      "1836 Pa",
+      "918 Pa",
+      "3672 Pa"
+    ],
+    "answer_index": 1,
+    "explanation": "Bernoulli: ΔP=½ρ(v2²-v1²)."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-025",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Fluid flows through area 0.29 m² at 1.95 m/s. Volume flow rate?",
+    "options": [
+      "0.566 m³/s",
+      "0.283 m³/s",
+      "1.13 m³/s",
+      "0.7075 m³/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Q=Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-026",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In incompressible flow, A1=4.45, A2=2.18 and v1=1.77 m/s. Find v2.",
+    "options": [
+      "1.8 m/s",
+      "7.22 m/s",
+      "4.51 m/s",
+      "3.61 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Continuity: A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-027",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In horizontal ideal flow of water, speed rises from 1.18 to 2.27 m/s. Pressure drop magnitude?",
+    "options": [
+      "3760.6 Pa",
+      "2350.38 Pa",
+      "1880.3 Pa",
+      "940.15 Pa"
+    ],
+    "answer_index": 2,
+    "explanation": "Bernoulli: ΔP=½ρ(v2²-v1²)."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-028",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Fluid flows through area 0.3 m² at 2 m/s. Volume flow rate?",
+    "options": [
+      "0.75 m³/s",
+      "0.6 m³/s",
+      "0.3 m³/s",
+      "1.2 m³/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Q=Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-029",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In incompressible flow, A1=4.5, A2=2.2 and v1=1.8 m/s. Find v2.",
+    "options": [
+      "3.68 m/s",
+      "1.84 m/s",
+      "7.36 m/s",
+      "4.6 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Continuity: A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-030",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In horizontal ideal flow of water, speed rises from 1.2 to 2.3 m/s. Pressure drop magnitude?",
+    "options": [
+      "962.5 Pa",
+      "3850 Pa",
+      "2406.25 Pa",
+      "1925 Pa"
+    ],
+    "answer_index": 3,
+    "explanation": "Bernoulli: ΔP=½ρ(v2²-v1²)."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-031",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Fluid flows through area 0.31 m² at 2.05 m/s. Volume flow rate?",
+    "options": [
+      "1.27 m³/s",
+      "0.7937 m³/s",
+      "0.635 m³/s",
+      "0.3175 m³/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Q=Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-032",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In incompressible flow, A1=4.55, A2=2.22 and v1=1.83 m/s. Find v2.",
+    "options": [
+      "4.69 m/s",
+      "3.75 m/s",
+      "1.88 m/s",
+      "7.5 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Continuity: A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-033",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In horizontal ideal flow of water, speed rises from 1.22 to 2.33 m/s. Pressure drop magnitude?",
+    "options": [
+      "1970.3 Pa",
+      "985.15 Pa",
+      "3940.6 Pa",
+      "2462.88 Pa"
+    ],
+    "answer_index": 0,
+    "explanation": "Bernoulli: ΔP=½ρ(v2²-v1²)."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-034",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Fluid flows through area 0.32 m² at 2.1 m/s. Volume flow rate?",
+    "options": [
+      "0.336 m³/s",
+      "1.34 m³/s",
+      "0.84 m³/s",
+      "0.672 m³/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Q=Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-035",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In incompressible flow, A1=4.6, A2=2.24 and v1=1.86 m/s. Find v2.",
+    "options": [
+      "7.64 m/s",
+      "4.77 m/s",
+      "3.82 m/s",
+      "1.91 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Continuity: A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-036",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In horizontal ideal flow of water, speed rises from 1.24 to 2.36 m/s. Pressure drop magnitude?",
+    "options": [
+      "2520 Pa",
+      "2016 Pa",
+      "1008 Pa",
+      "4032 Pa"
+    ],
+    "answer_index": 1,
+    "explanation": "Bernoulli: ΔP=½ρ(v2²-v1²)."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-037",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Fluid flows through area 0.33 m² at 2.15 m/s. Volume flow rate?",
+    "options": [
+      "0.71 m³/s",
+      "0.355 m³/s",
+      "1.42 m³/s",
+      "0.8875 m³/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Q=Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-038",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In incompressible flow, A1=4.65, A2=2.26 and v1=1.89 m/s. Find v2.",
+    "options": [
+      "1.95 m/s",
+      "7.78 m/s",
+      "4.86 m/s",
+      "3.89 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Continuity: A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-039",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In horizontal ideal flow of water, speed rises from 1.26 to 2.39 m/s. Pressure drop magnitude?",
+    "options": [
+      "4124.6 Pa",
+      "2577.88 Pa",
+      "2062.3 Pa",
+      "1031.15 Pa"
+    ],
+    "answer_index": 2,
+    "explanation": "Bernoulli: ΔP=½ρ(v2²-v1²)."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-040",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Fluid flows through area 0.34 m² at 2.2 m/s. Volume flow rate?",
+    "options": [
+      "0.935 m³/s",
+      "0.748 m³/s",
+      "0.374 m³/s",
+      "1.5 m³/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Q=Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-041",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In incompressible flow, A1=4.7, A2=2.28 and v1=1.92 m/s. Find v2.",
+    "options": [
+      "3.96 m/s",
+      "1.98 m/s",
+      "7.92 m/s",
+      "4.95 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Continuity: A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-042",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In horizontal ideal flow of water, speed rises from 1.28 to 2.42 m/s. Pressure drop magnitude?",
+    "options": [
+      "1054.5 Pa",
+      "4218 Pa",
+      "2636.25 Pa",
+      "2109 Pa"
+    ],
+    "answer_index": 3,
+    "explanation": "Bernoulli: ΔP=½ρ(v2²-v1²)."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-043",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Fluid flows through area 0.35 m² at 2.25 m/s. Volume flow rate?",
+    "options": [
+      "1.57 m³/s",
+      "0.9838 m³/s",
+      "0.787 m³/s",
+      "0.3935 m³/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Q=Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-044",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In incompressible flow, A1=4.75, A2=2.3 and v1=1.95 m/s. Find v2.",
+    "options": [
+      "5.04 m/s",
+      "4.03 m/s",
+      "2.02 m/s",
+      "8.06 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Continuity: A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-045",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In horizontal ideal flow of water, speed rises from 1.3 to 2.45 m/s. Pressure drop magnitude?",
+    "options": [
+      "2156.3 Pa",
+      "1078.15 Pa",
+      "4312.6 Pa",
+      "2695.38 Pa"
+    ],
+    "answer_index": 0,
+    "explanation": "Bernoulli: ΔP=½ρ(v2²-v1²)."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-046",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Fluid flows through area 0.36 m² at 2.3 m/s. Volume flow rate?",
+    "options": [
+      "0.414 m³/s",
+      "1.66 m³/s",
+      "1.03 m³/s",
+      "0.828 m³/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Q=Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-047",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In incompressible flow, A1=4.8, A2=2.32 and v1=1.98 m/s. Find v2.",
+    "options": [
+      "8.2 m/s",
+      "5.13 m/s",
+      "4.1 m/s",
+      "2.05 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Continuity: A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-048",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In horizontal ideal flow of water, speed rises from 1.32 to 2.48 m/s. Pressure drop magnitude?",
+    "options": [
+      "2755 Pa",
+      "2204 Pa",
+      "1102 Pa",
+      "4408 Pa"
+    ],
+    "answer_index": 1,
+    "explanation": "Bernoulli: ΔP=½ρ(v2²-v1²)."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-049",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Fluid flows through area 0.37 m² at 2.35 m/s. Volume flow rate?",
+    "options": [
+      "0.87 m³/s",
+      "0.435 m³/s",
+      "1.74 m³/s",
+      "1.09 m³/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Q=Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-050",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In incompressible flow, A1=4.85, A2=2.34 and v1=2.01 m/s. Find v2.",
+    "options": [
+      "2.08 m/s",
+      "8.34 m/s",
+      "5.21 m/s",
+      "4.17 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Continuity: A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-051",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In horizontal ideal flow of water, speed rises from 1.34 to 2.51 m/s. Pressure drop magnitude?",
+    "options": [
+      "4504.4 Pa",
+      "2815.25 Pa",
+      "2252.2 Pa",
+      "1126.1 Pa"
+    ],
+    "answer_index": 2,
+    "explanation": "Bernoulli: ΔP=½ρ(v2²-v1²)."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-052",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Fluid flows through area 0.38 m² at 2.4 m/s. Volume flow rate?",
+    "options": [
+      "1.14 m³/s",
+      "0.912 m³/s",
+      "0.456 m³/s",
+      "1.82 m³/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Q=Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-053",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In incompressible flow, A1=4.9, A2=2.36 and v1=2.04 m/s. Find v2.",
+    "options": [
+      "4.24 m/s",
+      "2.12 m/s",
+      "8.48 m/s",
+      "5.3 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Continuity: A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-054",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In horizontal ideal flow of water, speed rises from 1.36 to 2.54 m/s. Pressure drop magnitude?",
+    "options": [
+      "1150.5 Pa",
+      "4602 Pa",
+      "2876.25 Pa",
+      "2301 Pa"
+    ],
+    "answer_index": 3,
+    "explanation": "Bernoulli: ΔP=½ρ(v2²-v1²)."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-055",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Fluid flows through area 0.39 m² at 2.45 m/s. Volume flow rate?",
+    "options": [
+      "1.91 m³/s",
+      "1.19 m³/s",
+      "0.956 m³/s",
+      "0.478 m³/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Q=Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-056",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In incompressible flow, A1=4.95, A2=2.38 and v1=2.07 m/s. Find v2.",
+    "options": [
+      "5.39 m/s",
+      "4.31 m/s",
+      "2.15 m/s",
+      "8.62 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Continuity: A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-057",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In horizontal ideal flow of water, speed rises from 1.38 to 2.57 m/s. Pressure drop magnitude?",
+    "options": [
+      "2350.2 Pa",
+      "1175.1 Pa",
+      "4700.4 Pa",
+      "2937.75 Pa"
+    ],
+    "answer_index": 0,
+    "explanation": "Bernoulli: ΔP=½ρ(v2²-v1²)."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-058",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Fluid flows through area 0.4 m² at 2.5 m/s. Volume flow rate?",
+    "options": [
+      "0.5 m³/s",
+      "2 m³/s",
+      "1.25 m³/s",
+      "1 m³/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Q=Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-059",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In incompressible flow, A1=5, A2=2.4 and v1=2.1 m/s. Find v2.",
+    "options": [
+      "8.76 m/s",
+      "5.47 m/s",
+      "4.38 m/s",
+      "2.19 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Continuity: A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-060",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In horizontal ideal flow of water, speed rises from 1.4 to 2.6 m/s. Pressure drop magnitude?",
+    "options": [
+      "3000 Pa",
+      "2400 Pa",
+      "1200 Pa",
+      "4800 Pa"
+    ],
+    "answer_index": 1,
+    "explanation": "Bernoulli: ΔP=½ρ(v2²-v1²)."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-061",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Fluid flows through area 0.41 m² at 2.55 m/s. Volume flow rate?",
+    "options": [
+      "1.05 m³/s",
+      "0.523 m³/s",
+      "2.09 m³/s",
+      "1.31 m³/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Q=Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-062",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In incompressible flow, A1=5.05, A2=2.42 and v1=2.13 m/s. Find v2.",
+    "options": [
+      "2.22 m/s",
+      "8.88 m/s",
+      "5.55 m/s",
+      "4.44 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Continuity: A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-063",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In horizontal ideal flow of water, speed rises from 1.42 to 2.63 m/s. Pressure drop magnitude?",
+    "options": [
+      "4900.4 Pa",
+      "3062.75 Pa",
+      "2450.2 Pa",
+      "1225.1 Pa"
+    ],
+    "answer_index": 2,
+    "explanation": "Bernoulli: ΔP=½ρ(v2²-v1²)."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-064",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Fluid flows through area 0.42 m² at 2.6 m/s. Volume flow rate?",
+    "options": [
+      "1.37 m³/s",
+      "1.09 m³/s",
+      "0.546 m³/s",
+      "2.18 m³/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Q=Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-065",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In incompressible flow, A1=5.1, A2=2.44 and v1=2.16 m/s. Find v2.",
+    "options": [
+      "4.51 m/s",
+      "2.25 m/s",
+      "9.02 m/s",
+      "5.64 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Continuity: A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-066",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In horizontal ideal flow of water, speed rises from 1.44 to 2.66 m/s. Pressure drop magnitude?",
+    "options": [
+      "1250.5 Pa",
+      "5002 Pa",
+      "3126.25 Pa",
+      "2501 Pa"
+    ],
+    "answer_index": 3,
+    "explanation": "Bernoulli: ΔP=½ρ(v2²-v1²)."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-067",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Fluid flows through area 0.43 m² at 2.65 m/s. Volume flow rate?",
+    "options": [
+      "2.28 m³/s",
+      "1.42 m³/s",
+      "1.14 m³/s",
+      "0.57 m³/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Q=Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-068",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In incompressible flow, A1=5.15, A2=2.46 and v1=2.19 m/s. Find v2.",
+    "options": [
+      "5.72 m/s",
+      "4.58 m/s",
+      "2.29 m/s",
+      "9.16 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Continuity: A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-069",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In horizontal ideal flow of water, speed rises from 1.46 to 2.69 m/s. Pressure drop magnitude?",
+    "options": [
+      "2552.3 Pa",
+      "1276.15 Pa",
+      "5104.6 Pa",
+      "3190.38 Pa"
+    ],
+    "answer_index": 0,
+    "explanation": "Bernoulli: ΔP=½ρ(v2²-v1²)."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-070",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Fluid flows through area 0.44 m² at 2.7 m/s. Volume flow rate?",
+    "options": [
+      "0.594 m³/s",
+      "2.38 m³/s",
+      "1.48 m³/s",
+      "1.19 m³/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Q=Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-071",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In incompressible flow, A1=5.2, A2=2.48 and v1=2.22 m/s. Find v2.",
+    "options": [
+      "9.3 m/s",
+      "5.81 m/s",
+      "4.65 m/s",
+      "2.33 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Continuity: A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-072",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In horizontal ideal flow of water, speed rises from 1.48 to 2.72 m/s. Pressure drop magnitude?",
+    "options": [
+      "3255 Pa",
+      "2604 Pa",
+      "1302 Pa",
+      "5208 Pa"
+    ],
+    "answer_index": 1,
+    "explanation": "Bernoulli: ΔP=½ρ(v2²-v1²)."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-073",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Fluid flows through area 0.45 m² at 2.75 m/s. Volume flow rate?",
+    "options": [
+      "1.24 m³/s",
+      "0.619 m³/s",
+      "2.48 m³/s",
+      "1.55 m³/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Q=Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-074",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In incompressible flow, A1=5.25, A2=2.5 and v1=2.25 m/s. Find v2.",
+    "options": [
+      "2.36 m/s",
+      "9.44 m/s",
+      "5.9 m/s",
+      "4.72 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Continuity: A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-075",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In horizontal ideal flow of water, speed rises from 1.5 to 2.75 m/s. Pressure drop magnitude?",
+    "options": [
+      "5312.6 Pa",
+      "3320.38 Pa",
+      "2656.3 Pa",
+      "1328.15 Pa"
+    ],
+    "answer_index": 2,
+    "explanation": "Bernoulli: ΔP=½ρ(v2²-v1²)."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-076",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Fluid flows through area 0.46 m² at 2.8 m/s. Volume flow rate?",
+    "options": [
+      "1.61 m³/s",
+      "1.29 m³/s",
+      "0.644 m³/s",
+      "2.58 m³/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Q=Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-077",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In incompressible flow, A1=5.3, A2=2.52 and v1=2.28 m/s. Find v2.",
+    "options": [
+      "4.8 m/s",
+      "2.4 m/s",
+      "9.6 m/s",
+      "6 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Continuity: A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-078",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In horizontal ideal flow of water, speed rises from 1.52 to 2.78 m/s. Pressure drop magnitude?",
+    "options": [
+      "1354.5 Pa",
+      "5418 Pa",
+      "3386.25 Pa",
+      "2709 Pa"
+    ],
+    "answer_index": 3,
+    "explanation": "Bernoulli: ΔP=½ρ(v2²-v1²)."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-079",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Fluid flows through area 0.47 m² at 2.85 m/s. Volume flow rate?",
+    "options": [
+      "2.68 m³/s",
+      "1.68 m³/s",
+      "1.34 m³/s",
+      "0.67 m³/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Q=Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-080",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In incompressible flow, A1=5.35, A2=2.54 and v1=2.31 m/s. Find v2.",
+    "options": [
+      "6.09 m/s",
+      "4.87 m/s",
+      "2.44 m/s",
+      "9.74 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Continuity: A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-081",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In horizontal ideal flow of water, speed rises from 1.54 to 2.81 m/s. Pressure drop magnitude?",
+    "options": [
+      "2762.3 Pa",
+      "1381.15 Pa",
+      "5524.6 Pa",
+      "3452.88 Pa"
+    ],
+    "answer_index": 0,
+    "explanation": "Bernoulli: ΔP=½ρ(v2²-v1²)."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-082",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Fluid flows through area 0.48 m² at 2.9 m/s. Volume flow rate?",
+    "options": [
+      "0.696 m³/s",
+      "2.78 m³/s",
+      "1.74 m³/s",
+      "1.39 m³/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Q=Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-083",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In incompressible flow, A1=5.4, A2=2.56 and v1=2.34 m/s. Find v2.",
+    "options": [
+      "9.88 m/s",
+      "6.18 m/s",
+      "4.94 m/s",
+      "2.47 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Continuity: A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-084",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In horizontal ideal flow of water, speed rises from 1.56 to 2.84 m/s. Pressure drop magnitude?",
+    "options": [
+      "3520 Pa",
+      "2816 Pa",
+      "1408 Pa",
+      "5632 Pa"
+    ],
+    "answer_index": 1,
+    "explanation": "Bernoulli: ΔP=½ρ(v2²-v1²)."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-085",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Fluid flows through area 0.49 m² at 2.95 m/s. Volume flow rate?",
+    "options": [
+      "1.45 m³/s",
+      "0.723 m³/s",
+      "2.89 m³/s",
+      "1.81 m³/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Q=Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-086",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In incompressible flow, A1=5.45, A2=2.58 and v1=2.37 m/s. Find v2.",
+    "options": [
+      "2.5 m/s",
+      "10.02 m/s",
+      "6.26 m/s",
+      "5.01 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Continuity: A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-087",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In horizontal ideal flow of water, speed rises from 1.58 to 2.87 m/s. Pressure drop magnitude?",
+    "options": [
+      "5740.6 Pa",
+      "3587.88 Pa",
+      "2870.3 Pa",
+      "1435.15 Pa"
+    ],
+    "answer_index": 2,
+    "explanation": "Bernoulli: ΔP=½ρ(v2²-v1²)."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-088",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Fluid flows through area 0.5 m² at 3 m/s. Volume flow rate?",
+    "options": [
+      "1.88 m³/s",
+      "1.5 m³/s",
+      "0.75 m³/s",
+      "3 m³/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Q=Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-089",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In incompressible flow, A1=5.5, A2=2.6 and v1=2.4 m/s. Find v2.",
+    "options": [
+      "5.08 m/s",
+      "2.54 m/s",
+      "10.16 m/s",
+      "6.35 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Continuity: A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-090",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In horizontal ideal flow of water, speed rises from 1.6 to 2.9 m/s. Pressure drop magnitude?",
+    "options": [
+      "1462.5 Pa",
+      "5850 Pa",
+      "3656.25 Pa",
+      "2925 Pa"
+    ],
+    "answer_index": 3,
+    "explanation": "Bernoulli: ΔP=½ρ(v2²-v1²)."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-091",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Fluid flows through area 0.51 m² at 3.05 m/s. Volume flow rate?",
+    "options": [
+      "3.11 m³/s",
+      "1.94 m³/s",
+      "1.55 m³/s",
+      "0.7775 m³/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Q=Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-092",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In incompressible flow, A1=5.55, A2=2.62 and v1=2.43 m/s. Find v2.",
+    "options": [
+      "6.44 m/s",
+      "5.15 m/s",
+      "2.58 m/s",
+      "10.3 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Continuity: A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-093",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In horizontal ideal flow of water, speed rises from 1.62 to 2.93 m/s. Pressure drop magnitude?",
+    "options": [
+      "2980.2 Pa",
+      "1490.1 Pa",
+      "5960.4 Pa",
+      "3725.25 Pa"
+    ],
+    "answer_index": 0,
+    "explanation": "Bernoulli: ΔP=½ρ(v2²-v1²)."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-094",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Fluid flows through area 0.52 m² at 3.1 m/s. Volume flow rate?",
+    "options": [
+      "0.806 m³/s",
+      "3.22 m³/s",
+      "2.02 m³/s",
+      "1.61 m³/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Q=Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-095",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In incompressible flow, A1=5.6, A2=2.64 and v1=2.46 m/s. Find v2.",
+    "options": [
+      "10.44 m/s",
+      "6.52 m/s",
+      "5.22 m/s",
+      "2.61 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Continuity: A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-096",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In horizontal ideal flow of water, speed rises from 1.64 to 2.96 m/s. Pressure drop magnitude?",
+    "options": [
+      "3795 Pa",
+      "3036 Pa",
+      "1518 Pa",
+      "6072 Pa"
+    ],
+    "answer_index": 1,
+    "explanation": "Bernoulli: ΔP=½ρ(v2²-v1²)."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-097",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Fluid flows through area 0.53 m² at 3.15 m/s. Volume flow rate?",
+    "options": [
+      "1.67 m³/s",
+      "0.835 m³/s",
+      "3.34 m³/s",
+      "2.09 m³/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Q=Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-098",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In incompressible flow, A1=5.65, A2=2.66 and v1=2.49 m/s. Find v2.",
+    "options": [
+      "2.65 m/s",
+      "10.58 m/s",
+      "6.61 m/s",
+      "5.29 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Continuity: A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-099",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In horizontal ideal flow of water, speed rises from 1.66 to 2.99 m/s. Pressure drop magnitude?",
+    "options": [
+      "6184.6 Pa",
+      "3865.38 Pa",
+      "3092.3 Pa",
+      "1546.15 Pa"
+    ],
+    "answer_index": 2,
+    "explanation": "Bernoulli: ΔP=½ρ(v2²-v1²)."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-100",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Fluid flows through area 0.54 m² at 3.2 m/s. Volume flow rate?",
+    "options": [
+      "2.16 m³/s",
+      "1.73 m³/s",
+      "0.864 m³/s",
+      "3.46 m³/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Q=Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-101",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In incompressible flow, A1=5.7, A2=2.68 and v1=2.52 m/s. Find v2.",
+    "options": [
+      "5.36 m/s",
+      "2.68 m/s",
+      "10.72 m/s",
+      "6.7 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Continuity: A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-102",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In horizontal ideal flow of water, speed rises from 1.68 to 3.02 m/s. Pressure drop magnitude?",
+    "options": [
+      "1574.5 Pa",
+      "6298 Pa",
+      "3936.25 Pa",
+      "3149 Pa"
+    ],
+    "answer_index": 3,
+    "explanation": "Bernoulli: ΔP=½ρ(v2²-v1²)."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-103",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Fluid flows through area 0.55 m² at 3.25 m/s. Volume flow rate?",
+    "options": [
+      "3.58 m³/s",
+      "2.23 m³/s",
+      "1.79 m³/s",
+      "0.894 m³/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Q=Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-104",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In incompressible flow, A1=5.75, A2=2.7 and v1=2.55 m/s. Find v2.",
+    "options": [
+      "6.79 m/s",
+      "5.43 m/s",
+      "2.71 m/s",
+      "10.86 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Continuity: A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-105",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In horizontal ideal flow of water, speed rises from 1.7 to 3.05 m/s. Pressure drop magnitude?",
+    "options": [
+      "3206.2 Pa",
+      "1603.1 Pa",
+      "6412.4 Pa",
+      "4007.75 Pa"
+    ],
+    "answer_index": 0,
+    "explanation": "Bernoulli: ΔP=½ρ(v2²-v1²)."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-106",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Fluid flows through area 0.56 m² at 3.3 m/s. Volume flow rate?",
+    "options": [
+      "0.924 m³/s",
+      "3.7 m³/s",
+      "2.31 m³/s",
+      "1.85 m³/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Q=Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-107",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In incompressible flow, A1=5.8, A2=2.72 and v1=2.58 m/s. Find v2.",
+    "options": [
+      "11 m/s",
+      "6.88 m/s",
+      "5.5 m/s",
+      "2.75 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Continuity: A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-108",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In horizontal ideal flow of water, speed rises from 1.72 to 3.08 m/s. Pressure drop magnitude?",
+    "options": [
+      "4080 Pa",
+      "3264 Pa",
+      "1632 Pa",
+      "6528 Pa"
+    ],
+    "answer_index": 1,
+    "explanation": "Bernoulli: ΔP=½ρ(v2²-v1²)."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-109",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Fluid flows through area 0.57 m² at 3.35 m/s. Volume flow rate?",
+    "options": [
+      "1.91 m³/s",
+      "0.955 m³/s",
+      "3.82 m³/s",
+      "2.39 m³/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Q=Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-110",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In incompressible flow, A1=5.85, A2=2.74 and v1=2.61 m/s. Find v2.",
+    "options": [
+      "2.79 m/s",
+      "11.14 m/s",
+      "6.96 m/s",
+      "5.57 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Continuity: A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-111",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In horizontal ideal flow of water, speed rises from 1.74 to 3.11 m/s. Pressure drop magnitude?",
+    "options": [
+      "6644.4 Pa",
+      "4152.75 Pa",
+      "3322.2 Pa",
+      "1661.1 Pa"
+    ],
+    "answer_index": 2,
+    "explanation": "Bernoulli: ΔP=½ρ(v2²-v1²)."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-112",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Fluid flows through area 0.58 m² at 3.4 m/s. Volume flow rate?",
+    "options": [
+      "2.46 m³/s",
+      "1.97 m³/s",
+      "0.986 m³/s",
+      "3.94 m³/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Q=Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-113",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In incompressible flow, A1=5.9, A2=2.76 and v1=2.64 m/s. Find v2.",
+    "options": [
+      "5.64 m/s",
+      "2.82 m/s",
+      "11.28 m/s",
+      "7.05 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Continuity: A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-114",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In horizontal ideal flow of water, speed rises from 1.76 to 3.14 m/s. Pressure drop magnitude?",
+    "options": [
+      "1690.5 Pa",
+      "6762 Pa",
+      "4226.25 Pa",
+      "3381 Pa"
+    ],
+    "answer_index": 3,
+    "explanation": "Bernoulli: ΔP=½ρ(v2²-v1²)."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-115",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Fluid flows through area 0.59 m² at 3.45 m/s. Volume flow rate?",
+    "options": [
+      "4.07 m³/s",
+      "2.54 m³/s",
+      "2.04 m³/s",
+      "1.02 m³/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Q=Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-116",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In incompressible flow, A1=5.95, A2=2.78 and v1=2.67 m/s. Find v2.",
+    "options": [
+      "7.14 m/s",
+      "5.71 m/s",
+      "2.85 m/s",
+      "11.42 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Continuity: A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-117",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In horizontal ideal flow of water, speed rises from 1.78 to 3.17 m/s. Pressure drop magnitude?",
+    "options": [
+      "3440.3 Pa",
+      "1720.15 Pa",
+      "6880.6 Pa",
+      "4300.38 Pa"
+    ],
+    "answer_index": 0,
+    "explanation": "Bernoulli: ΔP=½ρ(v2²-v1²)."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-118",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Fluid flows through area 0.6 m² at 3.5 m/s. Volume flow rate?",
+    "options": [
+      "1.05 m³/s",
+      "4.2 m³/s",
+      "2.63 m³/s",
+      "2.1 m³/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Q=Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-119",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In incompressible flow, A1=6, A2=2.8 and v1=2.7 m/s. Find v2.",
+    "options": [
+      "11.58 m/s",
+      "7.24 m/s",
+      "5.79 m/s",
+      "2.9 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Continuity: A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-120",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In horizontal ideal flow of water, speed rises from 1.8 to 3.2 m/s. Pressure drop magnitude?",
+    "options": [
+      "4375 Pa",
+      "3500 Pa",
+      "1750 Pa",
+      "7000 Pa"
+    ],
+    "answer_index": 1,
+    "explanation": "Bernoulli: ΔP=½ρ(v2²-v1²)."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-121",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Fluid flows through area 0.61 m² at 3.55 m/s. Volume flow rate?",
+    "options": [
+      "2.17 m³/s",
+      "1.08 m³/s",
+      "4.33 m³/s",
+      "2.71 m³/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Q=Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-122",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In incompressible flow, A1=6.05, A2=2.82 and v1=2.73 m/s. Find v2.",
+    "options": [
+      "2.93 m/s",
+      "11.72 m/s",
+      "7.33 m/s",
+      "5.86 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Continuity: A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-123",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In horizontal ideal flow of water, speed rises from 1.82 to 3.23 m/s. Pressure drop magnitude?",
+    "options": [
+      "7120.6 Pa",
+      "4450.38 Pa",
+      "3560.3 Pa",
+      "1780.15 Pa"
+    ],
+    "answer_index": 2,
+    "explanation": "Bernoulli: ΔP=½ρ(v2²-v1²)."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-124",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Fluid flows through area 0.62 m² at 3.6 m/s. Volume flow rate?",
+    "options": [
+      "2.79 m³/s",
+      "2.23 m³/s",
+      "1.12 m³/s",
+      "4.46 m³/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Q=Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-125",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In incompressible flow, A1=6.1, A2=2.84 and v1=2.76 m/s. Find v2.",
+    "options": [
+      "5.93 m/s",
+      "2.96 m/s",
+      "11.86 m/s",
+      "7.41 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Continuity: A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-126",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In horizontal ideal flow of water, speed rises from 1.84 to 3.26 m/s. Pressure drop magnitude?",
+    "options": [
+      "1810.5 Pa",
+      "7242 Pa",
+      "4526.25 Pa",
+      "3621 Pa"
+    ],
+    "answer_index": 3,
+    "explanation": "Bernoulli: ΔP=½ρ(v2²-v1²)."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-127",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Fluid flows through area 0.63 m² at 3.65 m/s. Volume flow rate?",
+    "options": [
+      "4.6 m³/s",
+      "2.88 m³/s",
+      "2.3 m³/s",
+      "1.15 m³/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Q=Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-128",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In incompressible flow, A1=6.15, A2=2.86 and v1=2.79 m/s. Find v2.",
+    "options": [
+      "7.5 m/s",
+      "6 m/s",
+      "3 m/s",
+      "12 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Continuity: A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-129",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In horizontal ideal flow of water, speed rises from 1.86 to 3.29 m/s. Pressure drop magnitude?",
+    "options": [
+      "3682.3 Pa",
+      "1841.15 Pa",
+      "7364.6 Pa",
+      "4602.88 Pa"
+    ],
+    "answer_index": 0,
+    "explanation": "Bernoulli: ΔP=½ρ(v2²-v1²)."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-130",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Fluid flows through area 0.64 m² at 3.7 m/s. Volume flow rate?",
+    "options": [
+      "1.18 m³/s",
+      "4.74 m³/s",
+      "2.96 m³/s",
+      "2.37 m³/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Q=Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-131",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In incompressible flow, A1=6.2, A2=2.88 and v1=2.82 m/s. Find v2.",
+    "options": [
+      "12.14 m/s",
+      "7.59 m/s",
+      "6.07 m/s",
+      "3.04 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Continuity: A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-132",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In horizontal ideal flow of water, speed rises from 1.88 to 3.32 m/s. Pressure drop magnitude?",
+    "options": [
+      "4680 Pa",
+      "3744 Pa",
+      "1872 Pa",
+      "7488 Pa"
+    ],
+    "answer_index": 1,
+    "explanation": "Bernoulli: ΔP=½ρ(v2²-v1²)."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-133",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Fluid flows through area 0.65 m² at 3.75 m/s. Volume flow rate?",
+    "options": [
+      "2.44 m³/s",
+      "1.22 m³/s",
+      "4.88 m³/s",
+      "3.05 m³/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Q=Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-134",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In incompressible flow, A1=6.25, A2=2.9 and v1=2.85 m/s. Find v2.",
+    "options": [
+      "3.07 m/s",
+      "12.28 m/s",
+      "7.67 m/s",
+      "6.14 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Continuity: A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-135",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In horizontal ideal flow of water, speed rises from 1.9 to 3.35 m/s. Pressure drop magnitude?",
+    "options": [
+      "7612.4 Pa",
+      "4757.75 Pa",
+      "3806.2 Pa",
+      "1903.1 Pa"
+    ],
+    "answer_index": 2,
+    "explanation": "Bernoulli: ΔP=½ρ(v2²-v1²)."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-136",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Fluid flows through area 0.66 m² at 3.8 m/s. Volume flow rate?",
+    "options": [
+      "3.13 m³/s",
+      "2.51 m³/s",
+      "1.25 m³/s",
+      "5.02 m³/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Q=Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-137",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In incompressible flow, A1=6.3, A2=2.92 and v1=2.88 m/s. Find v2.",
+    "options": [
+      "6.21 m/s",
+      "3.1 m/s",
+      "12.42 m/s",
+      "7.76 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Continuity: A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-138",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In horizontal ideal flow of water, speed rises from 1.92 to 3.38 m/s. Pressure drop magnitude?",
+    "options": [
+      "1934.5 Pa",
+      "7738 Pa",
+      "4836.25 Pa",
+      "3869 Pa"
+    ],
+    "answer_index": 3,
+    "explanation": "Bernoulli: ΔP=½ρ(v2²-v1²)."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-139",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Fluid flows through area 0.67 m² at 3.85 m/s. Volume flow rate?",
+    "options": [
+      "5.16 m³/s",
+      "3.23 m³/s",
+      "2.58 m³/s",
+      "1.29 m³/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Q=Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-140",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In incompressible flow, A1=6.35, A2=2.94 and v1=2.91 m/s. Find v2.",
+    "options": [
+      "7.86 m/s",
+      "6.29 m/s",
+      "3.15 m/s",
+      "12.58 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Continuity: A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-141",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In horizontal ideal flow of water, speed rises from 1.94 to 3.41 m/s. Pressure drop magnitude?",
+    "options": [
+      "3932.3 Pa",
+      "1966.15 Pa",
+      "7864.6 Pa",
+      "4915.38 Pa"
+    ],
+    "answer_index": 0,
+    "explanation": "Bernoulli: ΔP=½ρ(v2²-v1²)."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-142",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Fluid flows through area 0.68 m² at 3.9 m/s. Volume flow rate?",
+    "options": [
+      "1.33 m³/s",
+      "5.3 m³/s",
+      "3.32 m³/s",
+      "2.65 m³/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Q=Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-143",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In incompressible flow, A1=6.4, A2=2.96 and v1=2.94 m/s. Find v2.",
+    "options": [
+      "12.72 m/s",
+      "7.95 m/s",
+      "6.36 m/s",
+      "3.18 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "Continuity: A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-144",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In horizontal ideal flow of water, speed rises from 1.96 to 3.44 m/s. Pressure drop magnitude?",
+    "options": [
+      "4995 Pa",
+      "3996 Pa",
+      "1998 Pa",
+      "7992 Pa"
+    ],
+    "answer_index": 1,
+    "explanation": "Bernoulli: ΔP=½ρ(v2²-v1²)."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-145",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Fluid flows through area 0.69 m² at 3.95 m/s. Volume flow rate?",
+    "options": [
+      "2.73 m³/s",
+      "1.36 m³/s",
+      "5.45 m³/s",
+      "3.41 m³/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Q=Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-146",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In incompressible flow, A1=6.45, A2=2.98 and v1=2.97 m/s. Find v2.",
+    "options": [
+      "3.21 m/s",
+      "12.86 m/s",
+      "8.04 m/s",
+      "6.43 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "Continuity: A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-147",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In horizontal ideal flow of water, speed rises from 1.98 to 3.47 m/s. Pressure drop magnitude?",
+    "options": [
+      "8120.6 Pa",
+      "5075.38 Pa",
+      "4060.3 Pa",
+      "2030.15 Pa"
+    ],
+    "answer_index": 2,
+    "explanation": "Bernoulli: ΔP=½ρ(v2²-v1²)."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-148",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "Fluid flows through area 0.7 m² at 4 m/s. Volume flow rate?",
+    "options": [
+      "3.5 m³/s",
+      "2.8 m³/s",
+      "1.4 m³/s",
+      "5.6 m³/s"
+    ],
+    "answer_index": 1,
+    "explanation": "Q=Av."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-149",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "In incompressible flow, A1=6.5, A2=3 and v1=3 m/s. Find v2.",
+    "options": [
+      "6.5 m/s",
+      "3.25 m/s",
+      "13 m/s",
+      "8.13 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "Continuity: A1v1=A2v2."
+  },
+  {
+    "id": "IMAT-PHY-FLUID-DYNAMICS-150",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Fluid Mechanics",
+    "subtopic": "Fluid Dynamics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "In horizontal ideal flow of water, speed rises from 2 to 3.5 m/s. Pressure drop magnitude?",
+    "options": [
+      "2062.5 Pa",
+      "8250 Pa",
+      "5156.25 Pa",
+      "4125 Pa"
+    ],
+    "answer_index": 3,
+    "explanation": "Bernoulli: ΔP=½ρ(v2²-v1²)."
+  }
+]
