@@ -1,0 +1,2702 @@
+[
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-001",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves uniformly at 3.35 m/s for 2.2 s. Distance?",
+    "options": [
+      "7.37 m",
+      "3.69 m",
+      "14.74 m",
+      "9.21 m"
+    ],
+    "answer_index": 0,
+    "explanation": "For uniform motion, s=vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-002",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 1.2 m/s and accelerates at 0.85 m/s² for 2.1 s. Final speed?",
+    "options": [
+      "1.5 m/s",
+      "5.98 m/s",
+      "3.74 m/s",
+      "2.99 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "v=u+at."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-003",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For u=1.1 m/s, a=1.03 m/s² and t=2.08 s, find displacement.",
+    "options": [
+      "9.04 m",
+      "5.65 m",
+      "4.52 m",
+      "2.26 m"
+    ],
+    "answer_index": 2,
+    "explanation": "Use s=ut+½at²."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-004",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves uniformly at 3.7 m/s for 2.4 s. Distance?",
+    "options": [
+      "11.1 m",
+      "8.88 m",
+      "4.44 m",
+      "17.76 m"
+    ],
+    "answer_index": 1,
+    "explanation": "For uniform motion, s=vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-005",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 1.4 m/s and accelerates at 0.9 m/s² for 2.2 s. Final speed?",
+    "options": [
+      "3.38 m/s",
+      "1.69 m/s",
+      "6.76 m/s",
+      "4.22 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "v=u+at."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-006",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For u=1.2 m/s, a=1.06 m/s² and t=2.16 s, find displacement.",
+    "options": [
+      "2.53 m",
+      "10.12 m",
+      "6.32 m",
+      "5.06 m"
+    ],
+    "answer_index": 3,
+    "explanation": "Use s=ut+½at²."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-007",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves uniformly at 4.05 m/s for 2.6 s. Distance?",
+    "options": [
+      "21.06 m",
+      "13.16 m",
+      "10.53 m",
+      "5.26 m"
+    ],
+    "answer_index": 2,
+    "explanation": "For uniform motion, s=vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-008",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 1.6 m/s and accelerates at 0.95 m/s² for 2.3 s. Final speed?",
+    "options": [
+      "4.74 m/s",
+      "3.79 m/s",
+      "1.9 m/s",
+      "7.58 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "v=u+at."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-009",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For u=1.3 m/s, a=1.09 m/s² and t=2.24 s, find displacement.",
+    "options": [
+      "5.65 m",
+      "2.83 m",
+      "11.3 m",
+      "7.06 m"
+    ],
+    "answer_index": 0,
+    "explanation": "Use s=ut+½at²."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-010",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves uniformly at 4.4 m/s for 2.8 s. Distance?",
+    "options": [
+      "6.16 m",
+      "24.64 m",
+      "15.4 m",
+      "12.32 m"
+    ],
+    "answer_index": 3,
+    "explanation": "For uniform motion, s=vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-011",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 1.8 m/s and accelerates at 1 m/s² for 2.4 s. Final speed?",
+    "options": [
+      "8.4 m/s",
+      "5.25 m/s",
+      "4.2 m/s",
+      "2.1 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "v=u+at."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-012",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For u=1.4 m/s, a=1.12 m/s² and t=2.32 s, find displacement.",
+    "options": [
+      "7.82 m",
+      "6.26 m",
+      "3.13 m",
+      "12.52 m"
+    ],
+    "answer_index": 1,
+    "explanation": "Use s=ut+½at²."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-013",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves uniformly at 4.75 m/s for 3 s. Distance?",
+    "options": [
+      "14.25 m",
+      "7.13 m",
+      "28.5 m",
+      "17.81 m"
+    ],
+    "answer_index": 0,
+    "explanation": "For uniform motion, s=vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-014",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 2 m/s and accelerates at 1.05 m/s² for 2.5 s. Final speed?",
+    "options": [
+      "2.31 m/s",
+      "9.26 m/s",
+      "5.79 m/s",
+      "4.63 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "v=u+at."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-015",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For u=1.5 m/s, a=1.15 m/s² and t=2.4 s, find displacement.",
+    "options": [
+      "13.82 m",
+      "8.64 m",
+      "6.91 m",
+      "3.46 m"
+    ],
+    "answer_index": 2,
+    "explanation": "Use s=ut+½at²."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-016",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves uniformly at 5.1 m/s for 3.2 s. Distance?",
+    "options": [
+      "20.4 m",
+      "16.32 m",
+      "8.16 m",
+      "32.64 m"
+    ],
+    "answer_index": 1,
+    "explanation": "For uniform motion, s=vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-017",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 2.2 m/s and accelerates at 1.1 m/s² for 2.6 s. Final speed?",
+    "options": [
+      "5.06 m/s",
+      "2.53 m/s",
+      "10.12 m/s",
+      "6.32 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "v=u+at."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-018",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For u=1.6 m/s, a=1.18 m/s² and t=2.48 s, find displacement.",
+    "options": [
+      "3.8 m",
+      "15.2 m",
+      "9.5 m",
+      "7.6 m"
+    ],
+    "answer_index": 3,
+    "explanation": "Use s=ut+½at²."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-019",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves uniformly at 5.45 m/s for 3.4 s. Distance?",
+    "options": [
+      "37.06 m",
+      "23.16 m",
+      "18.53 m",
+      "9.27 m"
+    ],
+    "answer_index": 2,
+    "explanation": "For uniform motion, s=vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-020",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 2.4 m/s and accelerates at 1.15 m/s² for 2.7 s. Final speed?",
+    "options": [
+      "6.89 m/s",
+      "5.51 m/s",
+      "2.75 m/s",
+      "11.02 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "v=u+at."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-021",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For u=1.7 m/s, a=1.21 m/s² and t=2.56 s, find displacement.",
+    "options": [
+      "8.32 m",
+      "4.16 m",
+      "16.64 m",
+      "10.4 m"
+    ],
+    "answer_index": 0,
+    "explanation": "Use s=ut+½at²."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-022",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves uniformly at 5.8 m/s for 3.6 s. Distance?",
+    "options": [
+      "10.44 m",
+      "41.76 m",
+      "26.1 m",
+      "20.88 m"
+    ],
+    "answer_index": 3,
+    "explanation": "For uniform motion, s=vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-023",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 2.6 m/s and accelerates at 1.2 m/s² for 2.8 s. Final speed?",
+    "options": [
+      "11.92 m/s",
+      "7.45 m/s",
+      "5.96 m/s",
+      "2.98 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "v=u+at."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-024",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For u=1.8 m/s, a=1.24 m/s² and t=2.64 s, find displacement.",
+    "options": [
+      "11.34 m",
+      "9.07 m",
+      "4.54 m",
+      "18.14 m"
+    ],
+    "answer_index": 1,
+    "explanation": "Use s=ut+½at²."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-025",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves uniformly at 6.15 m/s for 3.8 s. Distance?",
+    "options": [
+      "23.37 m",
+      "11.69 m",
+      "46.74 m",
+      "29.21 m"
+    ],
+    "answer_index": 0,
+    "explanation": "For uniform motion, s=vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-026",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 2.8 m/s and accelerates at 1.25 m/s² for 2.9 s. Final speed?",
+    "options": [
+      "3.21 m/s",
+      "12.84 m/s",
+      "8.03 m/s",
+      "6.42 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "v=u+at."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-027",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For u=1.9 m/s, a=1.27 m/s² and t=2.72 s, find displacement.",
+    "options": [
+      "19.74 m",
+      "12.34 m",
+      "9.87 m",
+      "4.93 m"
+    ],
+    "answer_index": 2,
+    "explanation": "Use s=ut+½at²."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-028",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves uniformly at 6.5 m/s for 4 s. Distance?",
+    "options": [
+      "32.5 m",
+      "26 m",
+      "13 m",
+      "52 m"
+    ],
+    "answer_index": 1,
+    "explanation": "For uniform motion, s=vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-029",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 3 m/s and accelerates at 1.3 m/s² for 3 s. Final speed?",
+    "options": [
+      "6.9 m/s",
+      "3.45 m/s",
+      "13.8 m/s",
+      "8.63 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "v=u+at."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-030",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For u=2 m/s, a=1.3 m/s² and t=2.8 s, find displacement.",
+    "options": [
+      "5.35 m",
+      "21.4 m",
+      "13.38 m",
+      "10.7 m"
+    ],
+    "answer_index": 3,
+    "explanation": "Use s=ut+½at²."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-031",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves uniformly at 6.85 m/s for 4.2 s. Distance?",
+    "options": [
+      "57.54 m",
+      "35.96 m",
+      "28.77 m",
+      "14.38 m"
+    ],
+    "answer_index": 2,
+    "explanation": "For uniform motion, s=vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-032",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 3.2 m/s and accelerates at 1.35 m/s² for 3.1 s. Final speed?",
+    "options": [
+      "9.24 m/s",
+      "7.39 m/s",
+      "3.69 m/s",
+      "14.78 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "v=u+at."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-033",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For u=2.1 m/s, a=1.33 m/s² and t=2.88 s, find displacement.",
+    "options": [
+      "11.56 m",
+      "5.78 m",
+      "23.12 m",
+      "14.45 m"
+    ],
+    "answer_index": 0,
+    "explanation": "Use s=ut+½at²."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-034",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves uniformly at 7.2 m/s for 4.4 s. Distance?",
+    "options": [
+      "15.84 m",
+      "63.36 m",
+      "39.6 m",
+      "31.68 m"
+    ],
+    "answer_index": 3,
+    "explanation": "For uniform motion, s=vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-035",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 3.4 m/s and accelerates at 1.4 m/s² for 3.2 s. Final speed?",
+    "options": [
+      "15.76 m/s",
+      "9.85 m/s",
+      "7.88 m/s",
+      "3.94 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "v=u+at."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-036",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For u=2.2 m/s, a=1.36 m/s² and t=2.96 s, find displacement.",
+    "options": [
+      "15.59 m",
+      "12.47 m",
+      "6.24 m",
+      "24.94 m"
+    ],
+    "answer_index": 1,
+    "explanation": "Use s=ut+½at²."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-037",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves uniformly at 7.55 m/s for 4.6 s. Distance?",
+    "options": [
+      "34.73 m",
+      "17.36 m",
+      "69.46 m",
+      "43.41 m"
+    ],
+    "answer_index": 0,
+    "explanation": "For uniform motion, s=vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-038",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 3.6 m/s and accelerates at 1.45 m/s² for 3.3 s. Final speed?",
+    "options": [
+      "4.19 m/s",
+      "16.76 m/s",
+      "10.48 m/s",
+      "8.38 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "v=u+at."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-039",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For u=2.3 m/s, a=1.39 m/s² and t=3.04 s, find displacement.",
+    "options": [
+      "26.82 m",
+      "16.76 m",
+      "13.41 m",
+      "6.71 m"
+    ],
+    "answer_index": 2,
+    "explanation": "Use s=ut+½at²."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-040",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves uniformly at 7.9 m/s for 4.8 s. Distance?",
+    "options": [
+      "47.4 m",
+      "37.92 m",
+      "18.96 m",
+      "75.84 m"
+    ],
+    "answer_index": 1,
+    "explanation": "For uniform motion, s=vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-041",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 3.8 m/s and accelerates at 1.5 m/s² for 3.4 s. Final speed?",
+    "options": [
+      "8.9 m/s",
+      "4.45 m/s",
+      "17.8 m/s",
+      "11.13 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "v=u+at."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-042",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For u=2.4 m/s, a=1.42 m/s² and t=3.12 s, find displacement.",
+    "options": [
+      "7.2 m",
+      "28.8 m",
+      "18 m",
+      "14.4 m"
+    ],
+    "answer_index": 3,
+    "explanation": "Use s=ut+½at²."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-043",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves uniformly at 8.25 m/s for 5 s. Distance?",
+    "options": [
+      "82.5 m",
+      "51.56 m",
+      "41.25 m",
+      "20.63 m"
+    ],
+    "answer_index": 2,
+    "explanation": "For uniform motion, s=vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-044",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 4 m/s and accelerates at 1.55 m/s² for 3.5 s. Final speed?",
+    "options": [
+      "11.79 m/s",
+      "9.43 m/s",
+      "4.71 m/s",
+      "18.86 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "v=u+at."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-045",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For u=2.5 m/s, a=1.45 m/s² and t=3.2 s, find displacement.",
+    "options": [
+      "15.42 m",
+      "7.71 m",
+      "30.84 m",
+      "19.27 m"
+    ],
+    "answer_index": 0,
+    "explanation": "Use s=ut+½at²."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-046",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves uniformly at 8.6 m/s for 5.2 s. Distance?",
+    "options": [
+      "22.36 m",
+      "89.44 m",
+      "55.9 m",
+      "44.72 m"
+    ],
+    "answer_index": 3,
+    "explanation": "For uniform motion, s=vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-047",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 4.2 m/s and accelerates at 1.6 m/s² for 3.6 s. Final speed?",
+    "options": [
+      "19.92 m/s",
+      "12.45 m/s",
+      "9.96 m/s",
+      "4.98 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "v=u+at."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-048",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For u=2.6 m/s, a=1.48 m/s² and t=3.28 s, find displacement.",
+    "options": [
+      "20.61 m",
+      "16.49 m",
+      "8.24 m",
+      "32.98 m"
+    ],
+    "answer_index": 1,
+    "explanation": "Use s=ut+½at²."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-049",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves uniformly at 8.95 m/s for 5.4 s. Distance?",
+    "options": [
+      "48.33 m",
+      "24.16 m",
+      "96.66 m",
+      "60.41 m"
+    ],
+    "answer_index": 0,
+    "explanation": "For uniform motion, s=vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-050",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 4.4 m/s and accelerates at 1.65 m/s² for 3.7 s. Final speed?",
+    "options": [
+      "5.25 m/s",
+      "21.02 m/s",
+      "13.14 m/s",
+      "10.51 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "v=u+at."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-051",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For u=2.7 m/s, a=1.51 m/s² and t=3.36 s, find displacement.",
+    "options": [
+      "35.2 m",
+      "22 m",
+      "17.6 m",
+      "8.8 m"
+    ],
+    "answer_index": 2,
+    "explanation": "Use s=ut+½at²."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-052",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves uniformly at 9.3 m/s for 5.6 s. Distance?",
+    "options": [
+      "65.1 m",
+      "52.08 m",
+      "26.04 m",
+      "104.16 m"
+    ],
+    "answer_index": 1,
+    "explanation": "For uniform motion, s=vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-053",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 4.6 m/s and accelerates at 1.7 m/s² for 3.8 s. Final speed?",
+    "options": [
+      "11.06 m/s",
+      "5.53 m/s",
+      "22.12 m/s",
+      "13.83 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "v=u+at."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-054",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For u=2.8 m/s, a=1.54 m/s² and t=3.44 s, find displacement.",
+    "options": [
+      "9.37 m",
+      "37.48 m",
+      "23.42 m",
+      "18.74 m"
+    ],
+    "answer_index": 3,
+    "explanation": "Use s=ut+½at²."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-055",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves uniformly at 9.65 m/s for 5.8 s. Distance?",
+    "options": [
+      "111.94 m",
+      "69.96 m",
+      "55.97 m",
+      "27.98 m"
+    ],
+    "answer_index": 2,
+    "explanation": "For uniform motion, s=vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-056",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 4.8 m/s and accelerates at 1.75 m/s² for 3.9 s. Final speed?",
+    "options": [
+      "14.54 m/s",
+      "11.63 m/s",
+      "5.82 m/s",
+      "23.26 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "v=u+at."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-057",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For u=2.9 m/s, a=1.57 m/s² and t=3.52 s, find displacement.",
+    "options": [
+      "19.93 m",
+      "9.96 m",
+      "39.86 m",
+      "24.91 m"
+    ],
+    "answer_index": 0,
+    "explanation": "Use s=ut+½at²."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-058",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves uniformly at 10 m/s for 6 s. Distance?",
+    "options": [
+      "30 m",
+      "120 m",
+      "75 m",
+      "60 m"
+    ],
+    "answer_index": 3,
+    "explanation": "For uniform motion, s=vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-059",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 5 m/s and accelerates at 1.8 m/s² for 4 s. Final speed?",
+    "options": [
+      "24.4 m/s",
+      "15.25 m/s",
+      "12.2 m/s",
+      "6.1 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "v=u+at."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-060",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For u=3 m/s, a=1.6 m/s² and t=3.6 s, find displacement.",
+    "options": [
+      "26.46 m",
+      "21.17 m",
+      "10.59 m",
+      "42.34 m"
+    ],
+    "answer_index": 1,
+    "explanation": "Use s=ut+½at²."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-061",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves uniformly at 10.35 m/s for 6.2 s. Distance?",
+    "options": [
+      "64.17 m",
+      "32.09 m",
+      "128.34 m",
+      "80.21 m"
+    ],
+    "answer_index": 0,
+    "explanation": "For uniform motion, s=vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-062",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 5.2 m/s and accelerates at 1.85 m/s² for 4.1 s. Final speed?",
+    "options": [
+      "6.39 m/s",
+      "25.58 m/s",
+      "15.99 m/s",
+      "12.79 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "v=u+at."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-063",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For u=3.1 m/s, a=1.63 m/s² and t=3.68 s, find displacement.",
+    "options": [
+      "44.9 m",
+      "28.06 m",
+      "22.45 m",
+      "11.22 m"
+    ],
+    "answer_index": 2,
+    "explanation": "Use s=ut+½at²."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-064",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves uniformly at 10.7 m/s for 6.4 s. Distance?",
+    "options": [
+      "85.6 m",
+      "68.48 m",
+      "34.24 m",
+      "136.96 m"
+    ],
+    "answer_index": 1,
+    "explanation": "For uniform motion, s=vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-065",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 5.4 m/s and accelerates at 1.9 m/s² for 4.2 s. Final speed?",
+    "options": [
+      "13.38 m/s",
+      "6.69 m/s",
+      "26.76 m/s",
+      "16.73 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "v=u+at."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-066",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For u=3.2 m/s, a=1.66 m/s² and t=3.76 s, find displacement.",
+    "options": [
+      "11.88 m",
+      "47.54 m",
+      "29.71 m",
+      "23.77 m"
+    ],
+    "answer_index": 3,
+    "explanation": "Use s=ut+½at²."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-067",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves uniformly at 11.05 m/s for 6.6 s. Distance?",
+    "options": [
+      "145.86 m",
+      "91.16 m",
+      "72.93 m",
+      "36.47 m"
+    ],
+    "answer_index": 2,
+    "explanation": "For uniform motion, s=vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-068",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 5.6 m/s and accelerates at 1.95 m/s² for 4.3 s. Final speed?",
+    "options": [
+      "17.49 m/s",
+      "13.99 m/s",
+      "7 m/s",
+      "27.98 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "v=u+at."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-069",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For u=3.3 m/s, a=1.69 m/s² and t=3.84 s, find displacement.",
+    "options": [
+      "25.13 m",
+      "12.56 m",
+      "50.26 m",
+      "31.41 m"
+    ],
+    "answer_index": 0,
+    "explanation": "Use s=ut+½at²."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-070",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves uniformly at 11.4 m/s for 6.8 s. Distance?",
+    "options": [
+      "38.76 m",
+      "155.04 m",
+      "96.9 m",
+      "77.52 m"
+    ],
+    "answer_index": 3,
+    "explanation": "For uniform motion, s=vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-071",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 5.8 m/s and accelerates at 2 m/s² for 4.4 s. Final speed?",
+    "options": [
+      "29.2 m/s",
+      "18.25 m/s",
+      "14.6 m/s",
+      "7.3 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "v=u+at."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-072",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For u=3.4 m/s, a=1.72 m/s² and t=3.92 s, find displacement.",
+    "options": [
+      "33.17 m",
+      "26.54 m",
+      "13.27 m",
+      "53.08 m"
+    ],
+    "answer_index": 1,
+    "explanation": "Use s=ut+½at²."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-073",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves uniformly at 11.75 m/s for 7 s. Distance?",
+    "options": [
+      "82.25 m",
+      "41.13 m",
+      "164.5 m",
+      "102.81 m"
+    ],
+    "answer_index": 0,
+    "explanation": "For uniform motion, s=vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-074",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 6 m/s and accelerates at 2.05 m/s² for 4.5 s. Final speed?",
+    "options": [
+      "7.61 m/s",
+      "30.44 m/s",
+      "19.03 m/s",
+      "15.22 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "v=u+at."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-075",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For u=3.5 m/s, a=1.75 m/s² and t=4 s, find displacement.",
+    "options": [
+      "56 m",
+      "35 m",
+      "28 m",
+      "14 m"
+    ],
+    "answer_index": 2,
+    "explanation": "Use s=ut+½at²."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-076",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves uniformly at 12.1 m/s for 7.2 s. Distance?",
+    "options": [
+      "108.9 m",
+      "87.12 m",
+      "43.56 m",
+      "174.24 m"
+    ],
+    "answer_index": 1,
+    "explanation": "For uniform motion, s=vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-077",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 6.2 m/s and accelerates at 2.1 m/s² for 4.6 s. Final speed?",
+    "options": [
+      "15.86 m/s",
+      "7.93 m/s",
+      "31.72 m/s",
+      "19.82 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "v=u+at."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-078",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For u=3.6 m/s, a=1.78 m/s² and t=4.08 s, find displacement.",
+    "options": [
+      "14.75 m",
+      "59 m",
+      "36.88 m",
+      "29.5 m"
+    ],
+    "answer_index": 3,
+    "explanation": "Use s=ut+½at²."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-079",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves uniformly at 12.45 m/s for 7.4 s. Distance?",
+    "options": [
+      "184.26 m",
+      "115.16 m",
+      "92.13 m",
+      "46.06 m"
+    ],
+    "answer_index": 2,
+    "explanation": "For uniform motion, s=vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-080",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 6.4 m/s and accelerates at 2.15 m/s² for 4.7 s. Final speed?",
+    "options": [
+      "20.64 m/s",
+      "16.51 m/s",
+      "8.26 m/s",
+      "33.02 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "v=u+at."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-081",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For u=3.7 m/s, a=1.81 m/s² and t=4.16 s, find displacement.",
+    "options": [
+      "31.05 m",
+      "15.53 m",
+      "62.1 m",
+      "38.81 m"
+    ],
+    "answer_index": 0,
+    "explanation": "Use s=ut+½at²."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-082",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves uniformly at 12.8 m/s for 7.6 s. Distance?",
+    "options": [
+      "48.64 m",
+      "194.56 m",
+      "121.6 m",
+      "97.28 m"
+    ],
+    "answer_index": 3,
+    "explanation": "For uniform motion, s=vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-083",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 6.6 m/s and accelerates at 2.2 m/s² for 4.8 s. Final speed?",
+    "options": [
+      "34.32 m/s",
+      "21.45 m/s",
+      "17.16 m/s",
+      "8.58 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "v=u+at."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-084",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For u=3.8 m/s, a=1.84 m/s² and t=4.24 s, find displacement.",
+    "options": [
+      "40.81 m",
+      "32.65 m",
+      "16.32 m",
+      "65.3 m"
+    ],
+    "answer_index": 1,
+    "explanation": "Use s=ut+½at²."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-085",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves uniformly at 13.15 m/s for 7.8 s. Distance?",
+    "options": [
+      "102.57 m",
+      "51.28 m",
+      "205.14 m",
+      "128.21 m"
+    ],
+    "answer_index": 0,
+    "explanation": "For uniform motion, s=vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-086",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 6.8 m/s and accelerates at 2.25 m/s² for 4.9 s. Final speed?",
+    "options": [
+      "8.91 m/s",
+      "35.66 m/s",
+      "22.29 m/s",
+      "17.83 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "v=u+at."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-087",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For u=3.9 m/s, a=1.87 m/s² and t=4.32 s, find displacement.",
+    "options": [
+      "68.6 m",
+      "42.88 m",
+      "34.3 m",
+      "17.15 m"
+    ],
+    "answer_index": 2,
+    "explanation": "Use s=ut+½at²."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-088",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves uniformly at 13.5 m/s for 8 s. Distance?",
+    "options": [
+      "135 m",
+      "108 m",
+      "54 m",
+      "216 m"
+    ],
+    "answer_index": 1,
+    "explanation": "For uniform motion, s=vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-089",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 7 m/s and accelerates at 2.3 m/s² for 5 s. Final speed?",
+    "options": [
+      "18.5 m/s",
+      "9.25 m/s",
+      "37 m/s",
+      "23.13 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "v=u+at."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-090",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For u=4 m/s, a=1.9 m/s² and t=4.4 s, find displacement.",
+    "options": [
+      "18 m",
+      "71.98 m",
+      "44.99 m",
+      "35.99 m"
+    ],
+    "answer_index": 3,
+    "explanation": "Use s=ut+½at²."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-091",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves uniformly at 13.85 m/s for 8.2 s. Distance?",
+    "options": [
+      "227.14 m",
+      "141.96 m",
+      "113.57 m",
+      "56.78 m"
+    ],
+    "answer_index": 2,
+    "explanation": "For uniform motion, s=vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-092",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 7.2 m/s and accelerates at 2.35 m/s² for 5.1 s. Final speed?",
+    "options": [
+      "23.98 m/s",
+      "19.18 m/s",
+      "9.59 m/s",
+      "38.36 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "v=u+at."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-093",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For u=4.1 m/s, a=1.93 m/s² and t=4.48 s, find displacement.",
+    "options": [
+      "37.74 m",
+      "18.87 m",
+      "75.48 m",
+      "47.18 m"
+    ],
+    "answer_index": 0,
+    "explanation": "Use s=ut+½at²."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-094",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves uniformly at 14.2 m/s for 8.4 s. Distance?",
+    "options": [
+      "59.64 m",
+      "238.56 m",
+      "149.1 m",
+      "119.28 m"
+    ],
+    "answer_index": 3,
+    "explanation": "For uniform motion, s=vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-095",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 7.4 m/s and accelerates at 2.4 m/s² for 5.2 s. Final speed?",
+    "options": [
+      "39.76 m/s",
+      "24.85 m/s",
+      "19.88 m/s",
+      "9.94 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "v=u+at."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-096",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For u=4.2 m/s, a=1.96 m/s² and t=4.56 s, find displacement.",
+    "options": [
+      "49.41 m",
+      "39.53 m",
+      "19.77 m",
+      "79.06 m"
+    ],
+    "answer_index": 1,
+    "explanation": "Use s=ut+½at²."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-097",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves uniformly at 14.55 m/s for 8.6 s. Distance?",
+    "options": [
+      "125.13 m",
+      "62.56 m",
+      "250.26 m",
+      "156.41 m"
+    ],
+    "answer_index": 0,
+    "explanation": "For uniform motion, s=vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-098",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 7.6 m/s and accelerates at 2.45 m/s² for 5.3 s. Final speed?",
+    "options": [
+      "10.29 m/s",
+      "41.18 m/s",
+      "25.74 m/s",
+      "20.59 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "v=u+at."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-099",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For u=4.3 m/s, a=1.99 m/s² and t=4.64 s, find displacement.",
+    "options": [
+      "82.74 m",
+      "51.71 m",
+      "41.37 m",
+      "20.68 m"
+    ],
+    "answer_index": 2,
+    "explanation": "Use s=ut+½at²."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-100",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves uniformly at 14.9 m/s for 8.8 s. Distance?",
+    "options": [
+      "163.9 m",
+      "131.12 m",
+      "65.56 m",
+      "262.24 m"
+    ],
+    "answer_index": 1,
+    "explanation": "For uniform motion, s=vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-101",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 7.8 m/s and accelerates at 2.5 m/s² for 5.4 s. Final speed?",
+    "options": [
+      "21.3 m/s",
+      "10.65 m/s",
+      "42.6 m/s",
+      "26.63 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "v=u+at."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-102",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For u=4.4 m/s, a=2.02 m/s² and t=4.72 s, find displacement.",
+    "options": [
+      "21.64 m",
+      "86.54 m",
+      "54.09 m",
+      "43.27 m"
+    ],
+    "answer_index": 3,
+    "explanation": "Use s=ut+½at²."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-103",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves uniformly at 15.25 m/s for 9 s. Distance?",
+    "options": [
+      "274.5 m",
+      "171.56 m",
+      "137.25 m",
+      "68.63 m"
+    ],
+    "answer_index": 2,
+    "explanation": "For uniform motion, s=vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-104",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 8 m/s and accelerates at 2.55 m/s² for 5.5 s. Final speed?",
+    "options": [
+      "27.52 m/s",
+      "22.02 m/s",
+      "11.01 m/s",
+      "44.04 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "v=u+at."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-105",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For u=4.5 m/s, a=2.05 m/s² and t=4.8 s, find displacement.",
+    "options": [
+      "45.22 m",
+      "22.61 m",
+      "90.44 m",
+      "56.52 m"
+    ],
+    "answer_index": 0,
+    "explanation": "Use s=ut+½at²."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-106",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves uniformly at 15.6 m/s for 9.2 s. Distance?",
+    "options": [
+      "71.76 m",
+      "287.04 m",
+      "179.4 m",
+      "143.52 m"
+    ],
+    "answer_index": 3,
+    "explanation": "For uniform motion, s=vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-107",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 8.2 m/s and accelerates at 2.6 m/s² for 5.6 s. Final speed?",
+    "options": [
+      "45.52 m/s",
+      "28.45 m/s",
+      "22.76 m/s",
+      "11.38 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "v=u+at."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-108",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For u=4.6 m/s, a=2.08 m/s² and t=4.88 s, find displacement.",
+    "options": [
+      "59.01 m",
+      "47.21 m",
+      "23.61 m",
+      "94.42 m"
+    ],
+    "answer_index": 1,
+    "explanation": "Use s=ut+½at²."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-109",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves uniformly at 15.95 m/s for 9.4 s. Distance?",
+    "options": [
+      "149.93 m",
+      "74.97 m",
+      "299.86 m",
+      "187.41 m"
+    ],
+    "answer_index": 0,
+    "explanation": "For uniform motion, s=vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-110",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 8.4 m/s and accelerates at 2.65 m/s² for 5.7 s. Final speed?",
+    "options": [
+      "11.76 m/s",
+      "47.02 m/s",
+      "29.39 m/s",
+      "23.51 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "v=u+at."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-111",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For u=4.7 m/s, a=2.11 m/s² and t=4.96 s, find displacement.",
+    "options": [
+      "98.54 m",
+      "61.59 m",
+      "49.27 m",
+      "24.64 m"
+    ],
+    "answer_index": 2,
+    "explanation": "Use s=ut+½at²."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-112",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves uniformly at 16.3 m/s for 9.6 s. Distance?",
+    "options": [
+      "195.6 m",
+      "156.48 m",
+      "78.24 m",
+      "312.96 m"
+    ],
+    "answer_index": 1,
+    "explanation": "For uniform motion, s=vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-113",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 8.6 m/s and accelerates at 2.7 m/s² for 5.8 s. Final speed?",
+    "options": [
+      "24.26 m/s",
+      "12.13 m/s",
+      "48.52 m/s",
+      "30.33 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "v=u+at."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-114",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For u=4.8 m/s, a=2.14 m/s² and t=5.04 s, find displacement.",
+    "options": [
+      "25.68 m",
+      "102.74 m",
+      "64.21 m",
+      "51.37 m"
+    ],
+    "answer_index": 3,
+    "explanation": "Use s=ut+½at²."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-115",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves uniformly at 16.65 m/s for 9.8 s. Distance?",
+    "options": [
+      "326.34 m",
+      "203.96 m",
+      "163.17 m",
+      "81.58 m"
+    ],
+    "answer_index": 2,
+    "explanation": "For uniform motion, s=vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-116",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 8.8 m/s and accelerates at 2.75 m/s² for 5.9 s. Final speed?",
+    "options": [
+      "31.29 m/s",
+      "25.03 m/s",
+      "12.52 m/s",
+      "50.06 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "v=u+at."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-117",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For u=4.9 m/s, a=2.17 m/s² and t=5.12 s, find displacement.",
+    "options": [
+      "53.53 m",
+      "26.77 m",
+      "107.06 m",
+      "66.91 m"
+    ],
+    "answer_index": 0,
+    "explanation": "Use s=ut+½at²."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-118",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves uniformly at 17 m/s for 10 s. Distance?",
+    "options": [
+      "85 m",
+      "340 m",
+      "212.5 m",
+      "170 m"
+    ],
+    "answer_index": 3,
+    "explanation": "For uniform motion, s=vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-119",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 9 m/s and accelerates at 2.8 m/s² for 6 s. Final speed?",
+    "options": [
+      "51.6 m/s",
+      "32.25 m/s",
+      "25.8 m/s",
+      "12.9 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "v=u+at."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-120",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For u=5 m/s, a=2.2 m/s² and t=5.2 s, find displacement.",
+    "options": [
+      "69.67 m",
+      "55.74 m",
+      "27.87 m",
+      "111.48 m"
+    ],
+    "answer_index": 1,
+    "explanation": "Use s=ut+½at²."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-121",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves uniformly at 17.35 m/s for 10.2 s. Distance?",
+    "options": [
+      "176.97 m",
+      "88.48 m",
+      "353.94 m",
+      "221.21 m"
+    ],
+    "answer_index": 0,
+    "explanation": "For uniform motion, s=vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-122",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 9.2 m/s and accelerates at 2.85 m/s² for 6.1 s. Final speed?",
+    "options": [
+      "13.29 m/s",
+      "53.18 m/s",
+      "33.24 m/s",
+      "26.59 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "v=u+at."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-123",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For u=5.1 m/s, a=2.23 m/s² and t=5.28 s, find displacement.",
+    "options": [
+      "116.02 m",
+      "72.51 m",
+      "58.01 m",
+      "29 m"
+    ],
+    "answer_index": 2,
+    "explanation": "Use s=ut+½at²."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-124",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves uniformly at 17.7 m/s for 10.4 s. Distance?",
+    "options": [
+      "230.1 m",
+      "184.08 m",
+      "92.04 m",
+      "368.16 m"
+    ],
+    "answer_index": 1,
+    "explanation": "For uniform motion, s=vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-125",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 9.4 m/s and accelerates at 2.9 m/s² for 6.2 s. Final speed?",
+    "options": [
+      "27.38 m/s",
+      "13.69 m/s",
+      "54.76 m/s",
+      "34.23 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "v=u+at."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-126",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For u=5.2 m/s, a=2.26 m/s² and t=5.36 s, find displacement.",
+    "options": [
+      "30.17 m",
+      "120.68 m",
+      "75.43 m",
+      "60.34 m"
+    ],
+    "answer_index": 3,
+    "explanation": "Use s=ut+½at²."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-127",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves uniformly at 18.05 m/s for 10.6 s. Distance?",
+    "options": [
+      "382.66 m",
+      "239.16 m",
+      "191.33 m",
+      "95.67 m"
+    ],
+    "answer_index": 2,
+    "explanation": "For uniform motion, s=vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-128",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 9.6 m/s and accelerates at 2.95 m/s² for 6.3 s. Final speed?",
+    "options": [
+      "35.24 m/s",
+      "28.19 m/s",
+      "14.1 m/s",
+      "56.38 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "v=u+at."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-129",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For u=5.3 m/s, a=2.29 m/s² and t=5.44 s, find displacement.",
+    "options": [
+      "62.72 m",
+      "31.36 m",
+      "125.44 m",
+      "78.4 m"
+    ],
+    "answer_index": 0,
+    "explanation": "Use s=ut+½at²."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-130",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves uniformly at 18.4 m/s for 10.8 s. Distance?",
+    "options": [
+      "99.36 m",
+      "397.44 m",
+      "248.4 m",
+      "198.72 m"
+    ],
+    "answer_index": 3,
+    "explanation": "For uniform motion, s=vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-131",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 9.8 m/s and accelerates at 3 m/s² for 6.4 s. Final speed?",
+    "options": [
+      "58 m/s",
+      "36.25 m/s",
+      "29 m/s",
+      "14.5 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "v=u+at."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-132",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For u=5.4 m/s, a=2.32 m/s² and t=5.52 s, find displacement.",
+    "options": [
+      "81.44 m",
+      "65.15 m",
+      "32.58 m",
+      "130.3 m"
+    ],
+    "answer_index": 1,
+    "explanation": "Use s=ut+½at²."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-133",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves uniformly at 18.75 m/s for 11 s. Distance?",
+    "options": [
+      "206.25 m",
+      "103.13 m",
+      "412.5 m",
+      "257.81 m"
+    ],
+    "answer_index": 0,
+    "explanation": "For uniform motion, s=vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-134",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 10 m/s and accelerates at 3.05 m/s² for 6.5 s. Final speed?",
+    "options": [
+      "14.91 m/s",
+      "59.64 m/s",
+      "37.27 m/s",
+      "29.82 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "v=u+at."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-135",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For u=5.5 m/s, a=2.35 m/s² and t=5.6 s, find displacement.",
+    "options": [
+      "135.3 m",
+      "84.56 m",
+      "67.65 m",
+      "33.83 m"
+    ],
+    "answer_index": 2,
+    "explanation": "Use s=ut+½at²."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-136",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves uniformly at 19.1 m/s for 11.2 s. Distance?",
+    "options": [
+      "267.4 m",
+      "213.92 m",
+      "106.96 m",
+      "427.84 m"
+    ],
+    "answer_index": 1,
+    "explanation": "For uniform motion, s=vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-137",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 10.2 m/s and accelerates at 3.1 m/s² for 6.6 s. Final speed?",
+    "options": [
+      "30.66 m/s",
+      "15.33 m/s",
+      "61.32 m/s",
+      "38.33 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "v=u+at."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-138",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For u=5.6 m/s, a=2.38 m/s² and t=5.68 s, find displacement.",
+    "options": [
+      "35.1 m",
+      "140.4 m",
+      "87.75 m",
+      "70.2 m"
+    ],
+    "answer_index": 3,
+    "explanation": "Use s=ut+½at²."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-139",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves uniformly at 19.45 m/s for 11.4 s. Distance?",
+    "options": [
+      "443.46 m",
+      "277.16 m",
+      "221.73 m",
+      "110.86 m"
+    ],
+    "answer_index": 2,
+    "explanation": "For uniform motion, s=vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-140",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 10.4 m/s and accelerates at 3.15 m/s² for 6.7 s. Final speed?",
+    "options": [
+      "39.39 m/s",
+      "31.51 m/s",
+      "15.76 m/s",
+      "63.02 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "v=u+at."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-141",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For u=5.7 m/s, a=2.41 m/s² and t=5.76 s, find displacement.",
+    "options": [
+      "72.81 m",
+      "36.41 m",
+      "145.62 m",
+      "91.01 m"
+    ],
+    "answer_index": 0,
+    "explanation": "Use s=ut+½at²."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-142",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves uniformly at 19.8 m/s for 11.6 s. Distance?",
+    "options": [
+      "114.84 m",
+      "459.36 m",
+      "287.1 m",
+      "229.68 m"
+    ],
+    "answer_index": 3,
+    "explanation": "For uniform motion, s=vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-143",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 10.6 m/s and accelerates at 3.2 m/s² for 6.8 s. Final speed?",
+    "options": [
+      "64.72 m/s",
+      "40.45 m/s",
+      "32.36 m/s",
+      "16.18 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "v=u+at."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-144",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For u=5.8 m/s, a=2.44 m/s² and t=5.84 s, find displacement.",
+    "options": [
+      "94.35 m",
+      "75.48 m",
+      "37.74 m",
+      "150.96 m"
+    ],
+    "answer_index": 1,
+    "explanation": "Use s=ut+½at²."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-145",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves uniformly at 20.15 m/s for 11.8 s. Distance?",
+    "options": [
+      "237.77 m",
+      "118.89 m",
+      "475.54 m",
+      "297.21 m"
+    ],
+    "answer_index": 0,
+    "explanation": "For uniform motion, s=vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-146",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 10.8 m/s and accelerates at 3.25 m/s² for 6.9 s. Final speed?",
+    "options": [
+      "16.61 m/s",
+      "66.46 m/s",
+      "41.54 m/s",
+      "33.23 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "v=u+at."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-147",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For u=5.9 m/s, a=2.47 m/s² and t=5.92 s, find displacement.",
+    "options": [
+      "156.42 m",
+      "97.76 m",
+      "78.21 m",
+      "39.1 m"
+    ],
+    "answer_index": 2,
+    "explanation": "Use s=ut+½at²."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-148",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "An object moves uniformly at 20.5 m/s for 12 s. Distance?",
+    "options": [
+      "307.5 m",
+      "246 m",
+      "123 m",
+      "492 m"
+    ],
+    "answer_index": 1,
+    "explanation": "For uniform motion, s=vt."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-149",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "A body starts at 11 m/s and accelerates at 3.3 m/s² for 7 s. Final speed?",
+    "options": [
+      "34.1 m/s",
+      "17.05 m/s",
+      "68.2 m/s",
+      "42.63 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "v=u+at."
+  },
+  {
+    "id": "IMAT-PHY-LINEAR-KINEMATICS-150",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Linear Kinematics",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For u=6 m/s, a=2.5 m/s² and t=6 s, find displacement.",
+    "options": [
+      "40.5 m",
+      "162 m",
+      "101.25 m",
+      "81 m"
+    ],
+    "answer_index": 3,
+    "explanation": "Use s=ut+½at²."
+  }
+]
