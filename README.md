@@ -1,31 +1,32 @@
 # Prepenroll International Physics Practice
 
-Bootstrap workspace for the standalone repository `prepenroll-international-physics`.
+Standalone international entrance-exam physics practice platform by Prepenroll™.
 
-## Product
-**Prepenroll International Physics Practice**
-
-Initial live exam:
+## Live exam
 - IMAT Physics
 
-Designed to expand later to:
-- SAT quantitative/physics-adjacent practice
+## Planned expansion
+- SAT quantitative practice
 - UCAT quantitative reasoning
-- Other international entrance-physics pathways
+- Additional international entrance-physics pathways
 
-## IMAT content basis
-The topic map is derived from the current IMAT 2026 Physics scope published under MUR D.M. 1005/2026 and the official IMAT portal. The bank contains **original IMAT-style questions**, not copied past-paper text.
+## IMAT Physics bank
+- 16 practice subtopics
+- 150 original questions per subtopic
+- 2,400 original IMAT-style MCQs
+- Foundation, Standard and Challenge difficulty levels
+- Four-option single-best-answer format
+- Concise explanation with every question
 
-Official references:
+The question bank is original practice content inspired by the current IMAT Physics scope. It does not reproduce copyrighted past-paper text.
+
+## Official references
 - https://www.mur.gov.it/it/atti-e-normativa/decreto-ministeriale-n-1005-del-06-08-2026
 - https://accessoprogrammato.mur.gov.it/2026/index.php?pag=IMT
 
-## Question-bank design
-Each practice subtopic has 150 original single-best-answer MCQs with:
-- difficulty tag
-- four options
-- correct answer
-- concise explanation
-- source type
-
-Question data is separated from the UI so future exams can reuse the same engine.
+## Structure
+- `index.html` — landing page and practice UI
+- `app.js` — shared practice engine
+- `styles.css` — visual system
+- `data/imat/topics.json` — IMAT topic manifest
+- `data/imat/*.json` — topic-wise question banks
