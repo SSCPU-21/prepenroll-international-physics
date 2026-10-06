@@ -3,152 +3,48 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>IMAT Physics Practice Studio | PrepEnroll™</title>
-<meta name="description" content="PrepEnroll IMAT Physics Practice Studio with topic filters, generated practice sets, scoring, topic breakdown and full review.">
+<title>PrepEnroll™ International Practice</title>
+<meta name="description" content="PrepEnroll International Practice for global entrance exams. IMAT Physics is live now.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="styles.css">
+<style>
+:root{--navy:#173654;--green:#4f8d5f;--cyan:#4cc7df;--violet:#6f78c8;--ink:#17232e;--muted:#687386;--line:#e1e9ee}
+*{box-sizing:border-box}body{margin:0;font-family:Manrope,system-ui,sans-serif;color:var(--ink);background:radial-gradient(circle at 88% 8%,rgba(76,199,223,.12),transparent 25%),radial-gradient(circle at 8% 82%,rgba(79,141,95,.09),transparent 28%),#fff}a{text-decoration:none;color:inherit}
+header{height:72px;display:flex;align-items:center;justify-content:space-between;padding:0 28px;border-bottom:1px solid var(--line);background:rgba(255,255,255,.94);position:sticky;top:0;z-index:20;backdrop-filter:blur(14px)}
+.brand{font-size:22px;font-weight:800;letter-spacing:-.045em;color:var(--navy)}.brand span{color:var(--green)}.hub{font-size:12px;font-weight:800;border:1px solid var(--line);padding:9px 13px;border-radius:999px;color:var(--navy)}
+.hero{max-width:1180px;margin:auto;padding:92px 24px 58px}.eyebrow{display:inline-block;padding:7px 10px;border-radius:999px;background:#eef8f0;color:var(--green);font-size:11px;font-weight:800;letter-spacing:.08em;text-transform:uppercase}
+h1{font-size:clamp(54px,8vw,92px);line-height:.94;letter-spacing:-.065em;color:var(--navy);margin:20px 0 22px;max-width:980px}h1 span{background:linear-gradient(90deg,var(--green),var(--violet),var(--cyan));-webkit-background-clip:text;background-clip:text;color:transparent}
+.hero p{max-width:720px;font-size:17px;line-height:1.75;color:var(--muted);margin:0}.hero-actions{display:flex;gap:11px;flex-wrap:wrap;margin-top:28px}.btn{display:inline-flex;padding:12px 18px;border-radius:999px;font-size:13px;font-weight:800}.primary{background:linear-gradient(90deg,var(--navy),var(--green));color:#fff}.secondary{border:1px solid var(--line);background:#fff;color:var(--navy)}
+.section{max-width:1180px;margin:auto;padding:56px 24px 84px}.section-head{display:flex;justify-content:space-between;align-items:end;gap:24px;margin-bottom:24px}.section-head h2{font-size:38px;letter-spacing:-.045em;color:var(--navy);margin:10px 0 0}.section-head p{max-width:500px;color:var(--muted);font-size:13px;line-height:1.65;margin:0}
+.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}.card{min-height:250px;border:1px solid var(--line);border-radius:24px;padding:24px;background:#fff;display:flex;flex-direction:column;justify-content:space-between;box-shadow:0 12px 36px rgba(23,54,84,.07);transition:.2s}.card:hover{transform:translateY(-4px);box-shadow:0 18px 44px rgba(23,54,84,.12)}.card.live{background:linear-gradient(145deg,#173654,#244e70 62%,#3d7650);color:#fff;border:0}.tag{font-size:10px;font-weight:800;letter-spacing:.09em;text-transform:uppercase;color:var(--green)}.card.live .tag{color:#9ee58f}.card h3{font-size:30px;letter-spacing:-.04em;margin:34px 0 9px}.card p{font-size:12px;line-height:1.65;color:var(--muted);margin:0}.card.live p{color:rgba(255,255,255,.76)}.open{font-size:12px;font-weight:800;margin-top:22px}.card.live .open{color:#d6ffc8}.planned{opacity:.64}
+.note{margin-top:18px;border:1px solid var(--line);background:#fbfcfd;border-radius:16px;padding:16px 18px;font-size:12px;color:var(--muted);line-height:1.6}
+footer{border-top:1px solid var(--line);padding:28px 24px;text-align:center;color:var(--muted);font-size:11px}
+@media(max-width:800px){.grid{grid-template-columns:1fr}.section-head{align-items:flex-start;flex-direction:column}.hero{padding-top:62px}h1{font-size:54px}}
+</style>
 </head>
 <body>
-<header class="top">
-  <div>
-    <div class="brand">Prep<span>Enroll</span>™</div>
-    <span class="tagline">PREP · LEARN · GO</span>
-  </div>
-  <div class="top-right">
-    <span class="exam-chip">IMAT Physics</span>
-    <a class="hub-link" href="https://sscpu-21.github.io/prepenroll-practice/">Practice Hub ↗</a>
-  </div>
+<header>
+<a class="brand" href="./">Prep<span>Enroll</span>™ International</a>
+<a class="hub" href="https://sscpu-21.github.io/prepenroll-practice/">Main Practice Hub ↗</a>
 </header>
-
-<div class="shell">
-  <aside class="sidebar">
-    <div class="side-title">Select topics</div>
-    <div class="select-actions">
-      <button id="selectAll" class="text-btn">Select all</button>
-      <button id="clearAll" class="text-btn">Clear</button>
-    </div>
-    <div id="topicList"></div>
-  </aside>
-
-  <main class="main">
-    <div class="controls">
-      <div class="control-group">
-        <span class="lbl">Difficulty</span>
-        <button class="chip diff active" data-diff="all">Mixed</button>
-        <button class="chip diff" data-diff="Foundation">Foundation</button>
-        <button class="chip diff" data-diff="Standard">Standard</button>
-        <button class="chip diff" data-diff="Challenge">Challenge</button>
-      </div>
-      <div class="control-group">
-        <label class="lbl" for="setSize">Questions</label>
-        <select id="setSize">
-          <option value="10">10</option>
-          <option value="15" selected>15</option>
-          <option value="20">20</option>
-          <option value="30">30</option>
-        </select>
-      </div>
-      <button id="generateBtn" class="gen-btn">Generate Practice</button>
-    </div>
-
-    <div class="content">
-      <section id="welcomeScreen" class="screen active">
-        <div class="welcome">
-          <span class="eyebrow">IMAT Physics Studio</span>
-          <h1>Choose topics.<br><span>Build your practice.</span></h1>
-          <p>Select one or more IMAT Physics topics from the left. Choose difficulty and set length, then generate a focused practice test. Questions appear one at a time and your scorecard is created after submission.</p>
-          <div class="feature-grid">
-            <div><b>Topic-wise</b><span>Choose exactly what you want to practise.</span></div>
-            <div><b>5-option MCQ</b><span>Aligned to the current IMAT single-best-answer format.</span></div>
-            <div><b>Scorecard</b><span>See total score and topic-wise performance.</span></div>
-            <div><b>Full review</b><span>Revisit every answer with explanations.</span></div>
-          </div>
-          <button id="welcomeStart" class="primary big">Start with selected topics</button>
-        </div>
-      </section>
-
-      <section id="practiceScreen" class="screen">
-        <div class="practice-head">
-          <div>
-            <span class="eyebrow">Practice set</span>
-            <h2 id="practiceTitle">IMAT Physics Practice</h2>
-          </div>
-          <div class="progress-box"><b id="progressText">1 / 15</b><span id="answeredText">0 answered</span></div>
-        </div>
-
-        <div class="qcard">
-          <div class="qmeta" id="qMeta"></div>
-          <h3 id="qStem"></h3>
-          <div id="qOptions" class="options"></div>
-          <div class="navrow">
-            <button id="prevBtn" class="secondary">← Previous</button>
-            <div class="navbtns">
-              <button id="flagBtn" class="secondary">Flag</button>
-              <button id="nextBtn" class="primary">Next →</button>
-              <button id="submitBtn" class="submit">Submit Practice</button>
-            </div>
-          </div>
-          <div id="qNav" class="qnav"></div>
-        </div>
-      </section>
-
-      <section id="resultsScreen" class="screen">
-        <div class="results-header">
-          <span class="eyebrow">Practice complete</span>
-          <h2>Your IMAT Physics Scorecard</h2>
-          <p class="results-meta" id="resultsMeta"></p>
-        </div>
-
-        <div class="score-card">
-          <div class="score-pct" id="scorePct">0%</div>
-          <div class="score-sub" id="scoreSub"></div>
-          <div class="score-note">Calculated from the selected practice set.</div>
-        </div>
-
-        <div class="breakdown">
-          <h3>Topic-wise performance</h3>
-          <div id="breakdownRows"></div>
-        </div>
-
-        <div class="results-btns">
-          <button id="reviewBtn" class="primary">Review answers</button>
-          <button id="newSetBtn" class="secondary">Create new practice</button>
-        </div>
-      </section>
-
-      <section id="reviewScreen" class="screen">
-        <div class="review-head">
-          <div><span class="eyebrow">Answer review</span><h2>Review your practice</h2></div>
-          <button id="backResults" class="secondary">← Scorecard</button>
-        </div>
-        <div id="reviewList"></div>
-      </section>
-    </div>
-  </main>
+<main>
+<section class="hero">
+<span class="eyebrow">International Exam Practice</span>
+<h1>One place for <span>international entrance practice.</span></h1>
+<p>Choose an exam pathway and enter its dedicated practice studio. Each studio keeps its own syllabus, topic structure, question flow and scorecard while staying within one PrepEnroll™ international practice space.</p>
+<div class="hero-actions"><a class="btn primary" href="./imat/">Open IMAT Physics</a><a class="btn secondary" href="#exams">Explore pathways</a></div>
+</section>
+<section class="section" id="exams">
+<div class="section-head"><div><span class="eyebrow">Practice pathways</span><h2>Choose your exam</h2></div><p>IMAT Physics is live now. More international entrance pathways can be added here without mixing their practice structures.</p></div>
+<div class="grid">
+<a class="card live" href="./imat/"><div><span class="tag">Live</span><h3>IMAT Physics</h3><p>Topic-wise five-option practice sets with difficulty filters, question navigation, scorecard, topic breakdown and full answer review.</p></div><div class="open">Enter IMAT Studio →</div></a>
+<div class="card planned"><div><span class="tag">Planned</span><h3>More pathways</h3><p>Additional international entrance practice will be added after its exam structure and syllabus are verified.</p></div><div class="open">In development</div></div>
+<div class="card planned"><div><span class="tag">Expandable</span><h3>Dedicated studios</h3><p>Every future exam gets its own topic system, practice controls and results flow instead of being mixed into IMAT.</p></div><div class="open">Built for expansion</div></div>
 </div>
-
-<button class="pe-calc-toggle" id="calcToggle">Calculator</button>
-<div class="pe-calc" id="calc">
-  <div class="pe-calc-head"><span>Mini calculator</span><button class="pe-calc-close" id="calcClose">×</button></div>
-  <input class="pe-calc-screen" id="calcScreen" value="" readonly>
-  <div class="pe-calc-grid" id="calcGrid"></div>
-</div>
-
-<footer class="pe-global-footer">
-  <div class="pe-footer-inner">
-    <div>
-      <div class="pe-footer-brand">Prep<span>Enroll</span>™</div>
-      <p>Focused international exam practice designed for deliberate, topic-wise preparation.</p>
-    </div>
-    <div class="pe-footer-links">
-      <a href="https://www.prepenroll.com" target="_blank" rel="noopener">PrepEnroll.com</a>
-      <a href="mailto:info@prepenroll.com">Contact</a>
-    </div>
-  </div>
-  <div class="pe-footer-legal">© 2026 PrepEnroll™. All Rights Reserved. Original practice content. Official exam names belong to their respective owners.</div>
-</footer>
-<script src="app.js"></script>
+<div class="note">IMAT is a dedicated practice studio. Clicking IMAT takes the student into the practice interface; this page remains the parent International Practice landing page.</div>
+</section>
+</main>
+<footer>© 2026 PrepEnroll™ · Prep. Learn. Go.</footer>
 </body>
 </html>
