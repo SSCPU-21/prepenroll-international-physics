@@ -35,14 +35,17 @@ filter:blur(7px)}
 .orb.o5{width:58px;height:58px;right:-12px;top:105px;animation:float1 9s ease-in-out infinite reverse}
 .orbit{position:absolute;border:1px solid rgba(91,129,160,.24);border-radius:50%;transform:rotate(-25deg);opacity:.55}.orbit.a{width:790px;height:270px;right:-40px;top:165px;animation:orbitPulse 12s ease-in-out infinite}
 .orbit.b{width:760px;height:235px;right:10px;bottom:40px;transform:rotate(28deg);animation:orbitPulse 15s ease-in-out infinite reverse}
-.float-icon{position:absolute;z-index:6;width:58px;height:58px;display:grid;place-items:center;border:1px solid rgba(74,118,145,.24);border-radius:17px;background:rgba(255,255,255,.62);backdrop-filter:blur(10px);box-shadow:0 14px 30px rgba(45,79,103,.09);color:rgba(35,83,105,.76);will-change:transform}
-.float-icon svg{width:29px;height:29px;fill:none;stroke:currentColor;stroke-width:1.45;stroke-linecap:round;stroke-linejoin:round}
-.fi-dna{right:110px;top:78px;animation:iconFloatA 10s ease-in-out infinite}
-.fi-pill{right:335px;top:155px;animation:iconFloatB 11s ease-in-out infinite}
-.fi-atom{right:65px;top:330px;animation:iconFloatC 12s ease-in-out infinite}
-.fi-magnet{right:390px;bottom:78px;animation:iconFloatA 13s ease-in-out infinite reverse}
-.fi-force{right:205px;bottom:150px;animation:iconFloatB 9s ease-in-out infinite}
-.fi-molecule{right:520px;top:290px;animation:iconFloatC 14s ease-in-out infinite reverse}
+.float-icon{position:absolute;z-index:10;width:68px;height:68px;display:grid;place-items:center;border:1px solid rgba(67,112,140,.30);border-radius:18px;background:rgba(255,255,255,.82);backdrop-filter:blur(12px);box-shadow:0 16px 34px rgba(42,77,104,.12);color:rgba(26,73,98,.88);will-change:transform}
+.float-icon svg{width:34px;height:34px;fill:none;stroke:currentColor;stroke-width:1.65;stroke-linecap:round;stroke-linejoin:round}
+.fi-dna{right:105px;top:70px;animation:iconFloatA 10s ease-in-out infinite}
+.fi-book{right:300px;top:88px;animation:iconFloatB 12s ease-in-out infinite}
+.fi-pill{right:470px;top:165px;animation:iconFloatC 11s ease-in-out infinite}
+.fi-pen{right:180px;top:210px;animation:iconFloatB 9s ease-in-out infinite reverse}
+.fi-atom{right:70px;top:345px;animation:iconFloatC 12s ease-in-out infinite}
+.fi-molecule{right:360px;top:330px;animation:iconFloatA 14s ease-in-out infinite reverse}
+.fi-magnet{right:520px;bottom:105px;animation:iconFloatA 13s ease-in-out infinite reverse}
+.fi-stethoscope{right:265px;bottom:80px;animation:iconFloatC 12s ease-in-out infinite}
+.fi-force{right:85px;bottom:125px;animation:iconFloatB 9s ease-in-out infinite}
 @keyframes iconFloatA{0%,100%{transform:translate3d(0,0,0) rotate(-2deg)}50%{transform:translate3d(-10px,-16px,0) rotate(4deg)}}
 @keyframes iconFloatB{0%,100%{transform:translate3d(0,0,0) rotate(2deg)}50%{transform:translate3d(13px,-11px,0) rotate(-5deg)}}
 @keyframes iconFloatC{0%,100%{transform:translate3d(0,0,0) scale(1)}50%{transform:translate3d(-8px,14px,0) scale(1.04)}}
@@ -52,7 +55,7 @@ filter:blur(7px)}
 .coming-grid,.how{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}.coming,.step{border-radius:20px;padding:22px;background:#fff;border:1px solid var(--line);box-shadow:0 10px 28px rgba(16,36,61,.04)}.coming{min-height:180px}.coming h3{color:var(--navy);font-size:21px;margin:18px 0 8px}.coming p,.step span{margin:0;color:var(--muted);font-size:12px;line-height:1.68}.step .n{font-size:10px;font-weight:800;color:#8591a0;margin-bottom:14px;letter-spacing:.12em}.step strong{display:block;color:var(--navy);font-size:16px;margin-bottom:7px}
 .pe-global-footer{margin-top:34px;background:#10243d;color:#fff;padding:34px 24px 20px}.pe-footer-inner{max-width:1180px;margin:0 auto;display:flex;justify-content:space-between;gap:30px;align-items:flex-start}.pe-footer-brand{font-size:1.12rem;font-weight:900;margin-bottom:8px}.pe-footer-brand span{color:#83d98b}.pe-footer-about p{font-size:.78rem;line-height:1.65;color:rgba(255,255,255,.68);margin:0}.pe-footer-links{display:flex;gap:10px;flex-wrap:wrap;justify-content:flex-end}.pe-footer-links a{color:#fff;font-size:.74rem;font-weight:800;border:1px solid rgba(255,255,255,.18);border-radius:999px;padding:7px 10px}.pe-footer-legal{max-width:1180px;margin:20px auto 0;padding-top:15px;border-top:1px solid rgba(255,255,255,.12);font-size:.68rem;line-height:1.5;color:rgba(255,255,255,.56)}.pe-footer-legal strong{color:#fff}
 @media(max-width:900px){.hero{grid-template-columns:1fr;padding-left:0}.hero-content{padding:64px 22px 48px}.motion-visual{min-height:400px;margin-right:0;padding-right:0}.grid{grid-template-columns:1fr 1fr}.card.c1{grid-column:1/3}}
-@media(max-width:640px){.hero{padding-top:38px}.motion-visual{min-height:330px}.grid,.coming-grid,.how{grid-template-columns:1fr}.card.c1{grid-column:auto}.section-head{align-items:flex-start;flex-direction:column}.headline-main{font-size:54px}.headline-sub{font-size:34px;margin-top:12px}.pe-footer-inner{flex-direction:column}.pe-footer-links{justify-content:flex-start}.icon-nav{gap:6px}.nav-icon{width:34px;height:34px;border-radius:9px}}
+@media(max-width:640px){.hero{padding-top:38px}.motion-visual{min-height:330px}.float-icon{width:54px;height:54px}.float-icon svg{width:27px;height:27px}.fi-molecule,.fi-force{display:none}.grid,.coming-grid,.how{grid-template-columns:1fr}.card.c1{grid-column:auto}.section-head{align-items:flex-start;flex-direction:column}.headline-main{font-size:54px}.headline-sub{font-size:34px;margin-top:12px}.pe-footer-inner{flex-direction:column}.pe-footer-links{justify-content:flex-start}.icon-nav{gap:6px}.nav-icon{width:34px;height:34px;border-radius:9px}}
 @media(prefers-reduced-motion:reduce){.ribbon,.orb,.orbit,.float-icon,.ticker,.rail{animation:none!important}}
 </style>
 </head>
@@ -72,6 +75,12 @@ filter:blur(7px)}
 <div class="float-icon fi-force" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M4 12h16"/><path d="M8 8l-4 4 4 4M16 8l4 4-4 4"/><circle cx="12" cy="12" r="2.4"/></svg></div>
 
 <div class="float-icon fi-molecule" aria-hidden="true"><svg viewBox="0 0 24 24"><circle cx="6" cy="8" r="2.3"/><circle cx="17.5" cy="6.5" r="2.3"/><circle cx="14" cy="17" r="2.6"/><path d="M8 8l7.2-1M7.4 9.8l5 5.3M16.4 8.4l-1.8 6.2"/></svg></div>
+
+<div class="float-icon fi-book" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M4 5.5c2.8-.8 5.4-.5 8 1.2v12c-2.6-1.7-5.2-2-8-1.2z"/><path d="M20 5.5c-2.8-.8-5.4-.5-8 1.2v12c2.6-1.7 5.2-2 8-1.2z"/></svg></div>
+
+<div class="float-icon fi-pen" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M5 19l3.6-.8L19 7.8 16.2 5 5.8 15.4z"/><path d="M14.8 6.4l2.8 2.8"/><path d="M5 19l.8-3.6"/></svg></div>
+
+<div class="float-icon fi-stethoscope" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M6 3v5a4 4 0 0 0 8 0V3"/><path d="M10 12v2a5 5 0 0 0 10 0v-1"/><circle cx="20" cy="11" r="2"/><path d="M4 3h2M14 3h2"/></svg></div>
 
 </div></section>
 <div class="ticker-wrap"><div class="ticker"><div class="ticker-item"><b>LIVE</b> IMAT Physics</div><div class="ticker-item"><b>UPCOMING</b> SAT</div><div class="ticker-item"><b>UPCOMING</b> UCAT</div><div class="ticker-item"><b>LIVE</b> IMAT Physics</div><div class="ticker-item"><b>UPCOMING</b> SAT</div><div class="ticker-item"><b>UPCOMING</b> UCAT</div></div></div>
