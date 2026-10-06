@@ -1,0 +1,2702 @@
+[
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-001",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle moves in a circle at 3.25 m/s with radius 1.62 m. Centripetal acceleration?",
+    "options": [
+      "6.52 m/s²",
+      "3.26 m/s²",
+      "13.04 m/s²",
+      "8.15 m/s²"
+    ],
+    "answer_index": 0,
+    "explanation": "a_c=v²/R."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-002",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 0.54 Hz. Find its period.",
+    "options": [
+      "0.926 s",
+      "3.7 s",
+      "2.31 s",
+      "1.85 s"
+    ],
+    "answer_index": 3,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-003",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 0.32 m and angular frequency 1.55 rad/s, find maximum speed.",
+    "options": [
+      "0.992 m/s",
+      "0.62 m/s",
+      "0.496 m/s",
+      "0.248 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "v_max=ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-004",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle moves in a circle at 3.5 m/s with radius 1.74 m. Centripetal acceleration?",
+    "options": [
+      "8.8 m/s²",
+      "7.04 m/s²",
+      "3.52 m/s²",
+      "14.08 m/s²"
+    ],
+    "answer_index": 1,
+    "explanation": "a_c=v²/R."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-005",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 0.58 Hz. Find its period.",
+    "options": [
+      "1.72 s",
+      "0.862 s",
+      "3.45 s",
+      "2.15 s"
+    ],
+    "answer_index": 0,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-006",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 0.34 m and angular frequency 1.6 rad/s, find maximum speed.",
+    "options": [
+      "0.272 m/s",
+      "1.09 m/s",
+      "0.68 m/s",
+      "0.544 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "v_max=ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-007",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle moves in a circle at 3.75 m/s with radius 1.86 m. Centripetal acceleration?",
+    "options": [
+      "15.12 m/s²",
+      "9.45 m/s²",
+      "7.56 m/s²",
+      "3.78 m/s²"
+    ],
+    "answer_index": 2,
+    "explanation": "a_c=v²/R."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-008",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 0.62 Hz. Find its period.",
+    "options": [
+      "2.02 s",
+      "1.61 s",
+      "0.8065 s",
+      "3.23 s"
+    ],
+    "answer_index": 1,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-009",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 0.36 m and angular frequency 1.65 rad/s, find maximum speed.",
+    "options": [
+      "0.594 m/s",
+      "0.297 m/s",
+      "1.19 m/s",
+      "0.7425 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "v_max=ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-010",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle moves in a circle at 4 m/s with radius 1.98 m. Centripetal acceleration?",
+    "options": [
+      "4.04 m/s²",
+      "16.16 m/s²",
+      "10.1 m/s²",
+      "8.08 m/s²"
+    ],
+    "answer_index": 3,
+    "explanation": "a_c=v²/R."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-011",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 0.66 Hz. Find its period.",
+    "options": [
+      "3.03 s",
+      "1.89 s",
+      "1.51 s",
+      "0.7575 s"
+    ],
+    "answer_index": 2,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-012",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 0.38 m and angular frequency 1.7 rad/s, find maximum speed.",
+    "options": [
+      "0.8075 m/s",
+      "0.646 m/s",
+      "0.323 m/s",
+      "1.29 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "v_max=ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-013",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle moves in a circle at 4.25 m/s with radius 2.1 m. Centripetal acceleration?",
+    "options": [
+      "8.6 m/s²",
+      "4.3 m/s²",
+      "17.2 m/s²",
+      "10.75 m/s²"
+    ],
+    "answer_index": 0,
+    "explanation": "a_c=v²/R."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-014",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 0.7 Hz. Find its period.",
+    "options": [
+      "0.7145 s",
+      "2.86 s",
+      "1.79 s",
+      "1.43 s"
+    ],
+    "answer_index": 3,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-015",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 0.4 m and angular frequency 1.75 rad/s, find maximum speed.",
+    "options": [
+      "1.4 m/s",
+      "0.875 m/s",
+      "0.7 m/s",
+      "0.35 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "v_max=ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-016",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle moves in a circle at 4.5 m/s with radius 2.22 m. Centripetal acceleration?",
+    "options": [
+      "11.4 m/s²",
+      "9.12 m/s²",
+      "4.56 m/s²",
+      "18.24 m/s²"
+    ],
+    "answer_index": 1,
+    "explanation": "a_c=v²/R."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-017",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 0.74 Hz. Find its period.",
+    "options": [
+      "1.35 s",
+      "0.6755 s",
+      "2.7 s",
+      "1.69 s"
+    ],
+    "answer_index": 0,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-018",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 0.42 m and angular frequency 1.8 rad/s, find maximum speed.",
+    "options": [
+      "0.378 m/s",
+      "1.51 m/s",
+      "0.945 m/s",
+      "0.756 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "v_max=ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-019",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle moves in a circle at 4.75 m/s with radius 2.34 m. Centripetal acceleration?",
+    "options": [
+      "19.28 m/s²",
+      "12.05 m/s²",
+      "9.64 m/s²",
+      "4.82 m/s²"
+    ],
+    "answer_index": 2,
+    "explanation": "a_c=v²/R."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-020",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 0.78 Hz. Find its period.",
+    "options": [
+      "1.6 s",
+      "1.28 s",
+      "0.641 s",
+      "2.56 s"
+    ],
+    "answer_index": 1,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-021",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 0.44 m and angular frequency 1.85 rad/s, find maximum speed.",
+    "options": [
+      "0.814 m/s",
+      "0.407 m/s",
+      "1.63 m/s",
+      "1.02 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "v_max=ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-022",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle moves in a circle at 5 m/s with radius 2.46 m. Centripetal acceleration?",
+    "options": [
+      "5.08 m/s²",
+      "20.32 m/s²",
+      "12.7 m/s²",
+      "10.16 m/s²"
+    ],
+    "answer_index": 3,
+    "explanation": "a_c=v²/R."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-023",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 0.82 Hz. Find its period.",
+    "options": [
+      "2.44 s",
+      "1.52 s",
+      "1.22 s",
+      "0.61 s"
+    ],
+    "answer_index": 2,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-024",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 0.46 m and angular frequency 1.9 rad/s, find maximum speed.",
+    "options": [
+      "1.09 m/s",
+      "0.874 m/s",
+      "0.437 m/s",
+      "1.75 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "v_max=ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-025",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle moves in a circle at 5.25 m/s with radius 2.58 m. Centripetal acceleration?",
+    "options": [
+      "10.68 m/s²",
+      "5.34 m/s²",
+      "21.36 m/s²",
+      "13.35 m/s²"
+    ],
+    "answer_index": 0,
+    "explanation": "a_c=v²/R."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-026",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 0.86 Hz. Find its period.",
+    "options": [
+      "0.5815 s",
+      "2.33 s",
+      "1.45 s",
+      "1.16 s"
+    ],
+    "answer_index": 3,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-027",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 0.48 m and angular frequency 1.95 rad/s, find maximum speed.",
+    "options": [
+      "1.87 m/s",
+      "1.17 m/s",
+      "0.936 m/s",
+      "0.468 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "v_max=ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-028",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle moves in a circle at 5.5 m/s with radius 2.7 m. Centripetal acceleration?",
+    "options": [
+      "14 m/s²",
+      "11.2 m/s²",
+      "5.6 m/s²",
+      "22.4 m/s²"
+    ],
+    "answer_index": 1,
+    "explanation": "a_c=v²/R."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-029",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 0.9 Hz. Find its period.",
+    "options": [
+      "1.11 s",
+      "0.5555 s",
+      "2.22 s",
+      "1.39 s"
+    ],
+    "answer_index": 0,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-030",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 0.5 m and angular frequency 2 rad/s, find maximum speed.",
+    "options": [
+      "0.5 m/s",
+      "2 m/s",
+      "1.25 m/s",
+      "1 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "v_max=ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-031",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle moves in a circle at 5.75 m/s with radius 2.82 m. Centripetal acceleration?",
+    "options": [
+      "23.44 m/s²",
+      "14.65 m/s²",
+      "11.72 m/s²",
+      "5.86 m/s²"
+    ],
+    "answer_index": 2,
+    "explanation": "a_c=v²/R."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-032",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 0.94 Hz. Find its period.",
+    "options": [
+      "1.33 s",
+      "1.06 s",
+      "0.532 s",
+      "2.13 s"
+    ],
+    "answer_index": 1,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-033",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 0.52 m and angular frequency 2.05 rad/s, find maximum speed.",
+    "options": [
+      "1.07 m/s",
+      "0.533 m/s",
+      "2.13 m/s",
+      "1.33 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "v_max=ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-034",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle moves in a circle at 6 m/s with radius 2.94 m. Centripetal acceleration?",
+    "options": [
+      "6.12 m/s²",
+      "24.48 m/s²",
+      "15.3 m/s²",
+      "12.24 m/s²"
+    ],
+    "answer_index": 3,
+    "explanation": "a_c=v²/R."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-035",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 0.98 Hz. Find its period.",
+    "options": [
+      "2.04 s",
+      "1.27 s",
+      "1.02 s",
+      "0.51 s"
+    ],
+    "answer_index": 2,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-036",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 0.54 m and angular frequency 2.1 rad/s, find maximum speed.",
+    "options": [
+      "1.42 m/s",
+      "1.13 m/s",
+      "0.567 m/s",
+      "2.27 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "v_max=ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-037",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle moves in a circle at 6.25 m/s with radius 3.06 m. Centripetal acceleration?",
+    "options": [
+      "12.77 m/s²",
+      "6.38 m/s²",
+      "25.54 m/s²",
+      "15.96 m/s²"
+    ],
+    "answer_index": 0,
+    "explanation": "a_c=v²/R."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-038",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 1.02 Hz. Find its period.",
+    "options": [
+      "0.49 s",
+      "1.96 s",
+      "1.23 s",
+      "0.98 s"
+    ],
+    "answer_index": 3,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-039",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 0.56 m and angular frequency 2.15 rad/s, find maximum speed.",
+    "options": [
+      "2.41 m/s",
+      "1.5 m/s",
+      "1.2 m/s",
+      "0.602 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "v_max=ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-040",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle moves in a circle at 6.5 m/s with radius 3.18 m. Centripetal acceleration?",
+    "options": [
+      "16.61 m/s²",
+      "13.29 m/s²",
+      "6.64 m/s²",
+      "26.58 m/s²"
+    ],
+    "answer_index": 1,
+    "explanation": "a_c=v²/R."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-041",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 1.06 Hz. Find its period.",
+    "options": [
+      "0.943 s",
+      "0.4715 s",
+      "1.89 s",
+      "1.18 s"
+    ],
+    "answer_index": 0,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-042",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 0.58 m and angular frequency 2.2 rad/s, find maximum speed.",
+    "options": [
+      "0.638 m/s",
+      "2.55 m/s",
+      "1.59 m/s",
+      "1.28 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "v_max=ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-043",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle moves in a circle at 6.75 m/s with radius 3.3 m. Centripetal acceleration?",
+    "options": [
+      "27.62 m/s²",
+      "17.26 m/s²",
+      "13.81 m/s²",
+      "6.91 m/s²"
+    ],
+    "answer_index": 2,
+    "explanation": "a_c=v²/R."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-044",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 1.1 Hz. Find its period.",
+    "options": [
+      "1.14 s",
+      "0.909 s",
+      "0.4545 s",
+      "1.82 s"
+    ],
+    "answer_index": 1,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-045",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 0.6 m and angular frequency 2.25 rad/s, find maximum speed.",
+    "options": [
+      "1.35 m/s",
+      "0.675 m/s",
+      "2.7 m/s",
+      "1.69 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "v_max=ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-046",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle moves in a circle at 7 m/s with radius 3.42 m. Centripetal acceleration?",
+    "options": [
+      "7.17 m/s²",
+      "28.66 m/s²",
+      "17.91 m/s²",
+      "14.33 m/s²"
+    ],
+    "answer_index": 3,
+    "explanation": "a_c=v²/R."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-047",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 1.14 Hz. Find its period.",
+    "options": [
+      "1.75 s",
+      "1.1 s",
+      "0.877 s",
+      "0.4385 s"
+    ],
+    "answer_index": 2,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-048",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 0.62 m and angular frequency 2.3 rad/s, find maximum speed.",
+    "options": [
+      "1.78 m/s",
+      "1.43 m/s",
+      "0.713 m/s",
+      "2.85 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "v_max=ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-049",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle moves in a circle at 7.25 m/s with radius 3.54 m. Centripetal acceleration?",
+    "options": [
+      "14.85 m/s²",
+      "7.42 m/s²",
+      "29.7 m/s²",
+      "18.56 m/s²"
+    ],
+    "answer_index": 0,
+    "explanation": "a_c=v²/R."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-050",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 1.18 Hz. Find its period.",
+    "options": [
+      "0.4235 s",
+      "1.69 s",
+      "1.06 s",
+      "0.847 s"
+    ],
+    "answer_index": 3,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-051",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 0.64 m and angular frequency 2.35 rad/s, find maximum speed.",
+    "options": [
+      "3.01 m/s",
+      "1.88 m/s",
+      "1.5 m/s",
+      "0.752 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "v_max=ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-052",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle moves in a circle at 7.5 m/s with radius 3.66 m. Centripetal acceleration?",
+    "options": [
+      "19.21 m/s²",
+      "15.37 m/s²",
+      "7.68 m/s²",
+      "30.74 m/s²"
+    ],
+    "answer_index": 1,
+    "explanation": "a_c=v²/R."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-053",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 1.22 Hz. Find its period.",
+    "options": [
+      "0.82 s",
+      "0.41 s",
+      "1.64 s",
+      "1.02 s"
+    ],
+    "answer_index": 0,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-054",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 0.66 m and angular frequency 2.4 rad/s, find maximum speed.",
+    "options": [
+      "0.792 m/s",
+      "3.17 m/s",
+      "1.98 m/s",
+      "1.58 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "v_max=ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-055",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle moves in a circle at 7.75 m/s with radius 3.78 m. Centripetal acceleration?",
+    "options": [
+      "31.78 m/s²",
+      "19.86 m/s²",
+      "15.89 m/s²",
+      "7.95 m/s²"
+    ],
+    "answer_index": 2,
+    "explanation": "a_c=v²/R."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-056",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 1.26 Hz. Find its period.",
+    "options": [
+      "0.9925 s",
+      "0.794 s",
+      "0.397 s",
+      "1.59 s"
+    ],
+    "answer_index": 1,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-057",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 0.68 m and angular frequency 2.45 rad/s, find maximum speed.",
+    "options": [
+      "1.67 m/s",
+      "0.833 m/s",
+      "3.33 m/s",
+      "2.08 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "v_max=ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-058",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle moves in a circle at 8 m/s with radius 3.9 m. Centripetal acceleration?",
+    "options": [
+      "8.21 m/s²",
+      "32.82 m/s²",
+      "20.51 m/s²",
+      "16.41 m/s²"
+    ],
+    "answer_index": 3,
+    "explanation": "a_c=v²/R."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-059",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 1.3 Hz. Find its period.",
+    "options": [
+      "1.54 s",
+      "0.9613 s",
+      "0.769 s",
+      "0.3845 s"
+    ],
+    "answer_index": 2,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-060",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 0.7 m and angular frequency 2.5 rad/s, find maximum speed.",
+    "options": [
+      "2.19 m/s",
+      "1.75 m/s",
+      "0.875 m/s",
+      "3.5 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "v_max=ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-061",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle moves in a circle at 8.25 m/s with radius 4.02 m. Centripetal acceleration?",
+    "options": [
+      "16.93 m/s²",
+      "8.46 m/s²",
+      "33.86 m/s²",
+      "21.16 m/s²"
+    ],
+    "answer_index": 0,
+    "explanation": "a_c=v²/R."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-062",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 1.34 Hz. Find its period.",
+    "options": [
+      "0.373 s",
+      "1.49 s",
+      "0.9325 s",
+      "0.746 s"
+    ],
+    "answer_index": 3,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-063",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 0.72 m and angular frequency 2.55 rad/s, find maximum speed.",
+    "options": [
+      "3.67 m/s",
+      "2.29 m/s",
+      "1.84 m/s",
+      "0.918 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "v_max=ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-064",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle moves in a circle at 8.5 m/s with radius 4.14 m. Centripetal acceleration?",
+    "options": [
+      "21.81 m/s²",
+      "17.45 m/s²",
+      "8.72 m/s²",
+      "34.9 m/s²"
+    ],
+    "answer_index": 1,
+    "explanation": "a_c=v²/R."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-065",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 1.38 Hz. Find its period.",
+    "options": [
+      "0.725 s",
+      "0.3625 s",
+      "1.45 s",
+      "0.9063 s"
+    ],
+    "answer_index": 0,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-066",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 0.74 m and angular frequency 2.6 rad/s, find maximum speed.",
+    "options": [
+      "0.962 m/s",
+      "3.85 m/s",
+      "2.4 m/s",
+      "1.92 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "v_max=ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-067",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle moves in a circle at 8.75 m/s with radius 4.26 m. Centripetal acceleration?",
+    "options": [
+      "35.94 m/s²",
+      "22.46 m/s²",
+      "17.97 m/s²",
+      "8.98 m/s²"
+    ],
+    "answer_index": 2,
+    "explanation": "a_c=v²/R."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-068",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 1.42 Hz. Find its period.",
+    "options": [
+      "0.88 s",
+      "0.704 s",
+      "0.352 s",
+      "1.41 s"
+    ],
+    "answer_index": 1,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-069",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 0.76 m and angular frequency 2.65 rad/s, find maximum speed.",
+    "options": [
+      "2.01 m/s",
+      "1.01 m/s",
+      "4.03 m/s",
+      "2.52 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "v_max=ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-070",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle moves in a circle at 9 m/s with radius 4.38 m. Centripetal acceleration?",
+    "options": [
+      "9.24 m/s²",
+      "36.98 m/s²",
+      "23.11 m/s²",
+      "18.49 m/s²"
+    ],
+    "answer_index": 3,
+    "explanation": "a_c=v²/R."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-071",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 1.46 Hz. Find its period.",
+    "options": [
+      "1.37 s",
+      "0.8563 s",
+      "0.685 s",
+      "0.3425 s"
+    ],
+    "answer_index": 2,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-072",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 0.78 m and angular frequency 2.7 rad/s, find maximum speed.",
+    "options": [
+      "2.63 m/s",
+      "2.11 m/s",
+      "1.05 m/s",
+      "4.21 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "v_max=ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-073",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle moves in a circle at 9.25 m/s with radius 4.5 m. Centripetal acceleration?",
+    "options": [
+      "19.01 m/s²",
+      "9.51 m/s²",
+      "38.02 m/s²",
+      "23.76 m/s²"
+    ],
+    "answer_index": 0,
+    "explanation": "a_c=v²/R."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-074",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 1.5 Hz. Find its period.",
+    "options": [
+      "0.3335 s",
+      "1.33 s",
+      "0.8337 s",
+      "0.667 s"
+    ],
+    "answer_index": 3,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-075",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 0.8 m and angular frequency 2.75 rad/s, find maximum speed.",
+    "options": [
+      "4.4 m/s",
+      "2.75 m/s",
+      "2.2 m/s",
+      "1.1 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "v_max=ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-076",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle moves in a circle at 9.5 m/s with radius 4.62 m. Centripetal acceleration?",
+    "options": [
+      "24.41 m/s²",
+      "19.53 m/s²",
+      "9.77 m/s²",
+      "39.06 m/s²"
+    ],
+    "answer_index": 1,
+    "explanation": "a_c=v²/R."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-077",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 1.54 Hz. Find its period.",
+    "options": [
+      "0.649 s",
+      "0.3245 s",
+      "1.3 s",
+      "0.8113 s"
+    ],
+    "answer_index": 0,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-078",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 0.82 m and angular frequency 2.8 rad/s, find maximum speed.",
+    "options": [
+      "1.15 m/s",
+      "4.59 m/s",
+      "2.87 m/s",
+      "2.3 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "v_max=ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-079",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle moves in a circle at 9.75 m/s with radius 4.74 m. Centripetal acceleration?",
+    "options": [
+      "40.12 m/s²",
+      "25.07 m/s²",
+      "20.06 m/s²",
+      "10.03 m/s²"
+    ],
+    "answer_index": 2,
+    "explanation": "a_c=v²/R."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-080",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 1.58 Hz. Find its period.",
+    "options": [
+      "0.7913 s",
+      "0.633 s",
+      "0.3165 s",
+      "1.27 s"
+    ],
+    "answer_index": 1,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-081",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 0.84 m and angular frequency 2.85 rad/s, find maximum speed.",
+    "options": [
+      "2.39 m/s",
+      "1.2 m/s",
+      "4.79 m/s",
+      "2.99 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "v_max=ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-082",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle moves in a circle at 10 m/s with radius 4.86 m. Centripetal acceleration?",
+    "options": [
+      "10.29 m/s²",
+      "41.16 m/s²",
+      "25.72 m/s²",
+      "20.58 m/s²"
+    ],
+    "answer_index": 3,
+    "explanation": "a_c=v²/R."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-083",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 1.62 Hz. Find its period.",
+    "options": [
+      "1.23 s",
+      "0.7712 s",
+      "0.617 s",
+      "0.3085 s"
+    ],
+    "answer_index": 2,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-084",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 0.86 m and angular frequency 2.9 rad/s, find maximum speed.",
+    "options": [
+      "3.12 m/s",
+      "2.49 m/s",
+      "1.25 m/s",
+      "4.99 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "v_max=ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-085",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle moves in a circle at 10.25 m/s with radius 4.98 m. Centripetal acceleration?",
+    "options": [
+      "21.1 m/s²",
+      "10.55 m/s²",
+      "42.2 m/s²",
+      "26.38 m/s²"
+    ],
+    "answer_index": 0,
+    "explanation": "a_c=v²/R."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-086",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 1.66 Hz. Find its period.",
+    "options": [
+      "0.301 s",
+      "1.2 s",
+      "0.7525 s",
+      "0.602 s"
+    ],
+    "answer_index": 3,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-087",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 0.88 m and angular frequency 2.95 rad/s, find maximum speed.",
+    "options": [
+      "5.19 m/s",
+      "3.25 m/s",
+      "2.6 m/s",
+      "1.3 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "v_max=ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-088",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle moves in a circle at 10.5 m/s with radius 5.1 m. Centripetal acceleration?",
+    "options": [
+      "27.03 m/s²",
+      "21.62 m/s²",
+      "10.81 m/s²",
+      "43.24 m/s²"
+    ],
+    "answer_index": 1,
+    "explanation": "a_c=v²/R."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-089",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 1.7 Hz. Find its period.",
+    "options": [
+      "0.588 s",
+      "0.294 s",
+      "1.18 s",
+      "0.735 s"
+    ],
+    "answer_index": 0,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-090",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 0.9 m and angular frequency 3 rad/s, find maximum speed.",
+    "options": [
+      "1.35 m/s",
+      "5.4 m/s",
+      "3.38 m/s",
+      "2.7 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "v_max=ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-091",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle moves in a circle at 10.75 m/s with radius 5.22 m. Centripetal acceleration?",
+    "options": [
+      "44.28 m/s²",
+      "27.68 m/s²",
+      "22.14 m/s²",
+      "11.07 m/s²"
+    ],
+    "answer_index": 2,
+    "explanation": "a_c=v²/R."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-092",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 1.74 Hz. Find its period.",
+    "options": [
+      "0.7188 s",
+      "0.575 s",
+      "0.2875 s",
+      "1.15 s"
+    ],
+    "answer_index": 1,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-093",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 0.92 m and angular frequency 3.05 rad/s, find maximum speed.",
+    "options": [
+      "2.81 m/s",
+      "1.4 m/s",
+      "5.61 m/s",
+      "3.51 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "v_max=ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-094",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle moves in a circle at 11 m/s with radius 5.34 m. Centripetal acceleration?",
+    "options": [
+      "11.33 m/s²",
+      "45.32 m/s²",
+      "28.32 m/s²",
+      "22.66 m/s²"
+    ],
+    "answer_index": 3,
+    "explanation": "a_c=v²/R."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-095",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 1.78 Hz. Find its period.",
+    "options": [
+      "1.12 s",
+      "0.7025 s",
+      "0.562 s",
+      "0.281 s"
+    ],
+    "answer_index": 2,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-096",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 0.94 m and angular frequency 3.1 rad/s, find maximum speed.",
+    "options": [
+      "3.64 m/s",
+      "2.91 m/s",
+      "1.46 m/s",
+      "5.83 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "v_max=ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-097",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle moves in a circle at 11.25 m/s with radius 5.46 m. Centripetal acceleration?",
+    "options": [
+      "23.18 m/s²",
+      "11.59 m/s²",
+      "46.36 m/s²",
+      "28.98 m/s²"
+    ],
+    "answer_index": 0,
+    "explanation": "a_c=v²/R."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-098",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 1.82 Hz. Find its period.",
+    "options": [
+      "0.2745 s",
+      "1.1 s",
+      "0.6863 s",
+      "0.549 s"
+    ],
+    "answer_index": 3,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-099",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 0.96 m and angular frequency 3.15 rad/s, find maximum speed.",
+    "options": [
+      "6.05 m/s",
+      "3.78 m/s",
+      "3.02 m/s",
+      "1.51 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "v_max=ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-100",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle moves in a circle at 11.5 m/s with radius 5.58 m. Centripetal acceleration?",
+    "options": [
+      "29.63 m/s²",
+      "23.7 m/s²",
+      "11.85 m/s²",
+      "47.4 m/s²"
+    ],
+    "answer_index": 1,
+    "explanation": "a_c=v²/R."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-101",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 1.86 Hz. Find its period.",
+    "options": [
+      "0.538 s",
+      "0.269 s",
+      "1.08 s",
+      "0.6725 s"
+    ],
+    "answer_index": 0,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-102",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 0.98 m and angular frequency 3.2 rad/s, find maximum speed.",
+    "options": [
+      "1.57 m/s",
+      "6.27 m/s",
+      "3.92 m/s",
+      "3.14 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "v_max=ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-103",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle moves in a circle at 11.75 m/s with radius 5.7 m. Centripetal acceleration?",
+    "options": [
+      "48.44 m/s²",
+      "30.27 m/s²",
+      "24.22 m/s²",
+      "12.11 m/s²"
+    ],
+    "answer_index": 2,
+    "explanation": "a_c=v²/R."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-104",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 1.9 Hz. Find its period.",
+    "options": [
+      "0.6575 s",
+      "0.526 s",
+      "0.263 s",
+      "1.05 s"
+    ],
+    "answer_index": 1,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-105",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 1 m and angular frequency 3.25 rad/s, find maximum speed.",
+    "options": [
+      "3.25 m/s",
+      "1.63 m/s",
+      "6.5 m/s",
+      "4.06 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "v_max=ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-106",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle moves in a circle at 12 m/s with radius 5.82 m. Centripetal acceleration?",
+    "options": [
+      "12.37 m/s²",
+      "49.48 m/s²",
+      "30.92 m/s²",
+      "24.74 m/s²"
+    ],
+    "answer_index": 3,
+    "explanation": "a_c=v²/R."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-107",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 1.94 Hz. Find its period.",
+    "options": [
+      "1.03 s",
+      "0.6438 s",
+      "0.515 s",
+      "0.2575 s"
+    ],
+    "answer_index": 2,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-108",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 1.02 m and angular frequency 3.3 rad/s, find maximum speed.",
+    "options": [
+      "4.21 m/s",
+      "3.37 m/s",
+      "1.68 m/s",
+      "6.73 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "v_max=ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-109",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle moves in a circle at 12.25 m/s with radius 5.94 m. Centripetal acceleration?",
+    "options": [
+      "25.26 m/s²",
+      "12.63 m/s²",
+      "50.52 m/s²",
+      "31.58 m/s²"
+    ],
+    "answer_index": 0,
+    "explanation": "a_c=v²/R."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-110",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 1.98 Hz. Find its period.",
+    "options": [
+      "0.2525 s",
+      "1.01 s",
+      "0.6312 s",
+      "0.505 s"
+    ],
+    "answer_index": 3,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-111",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 1.04 m and angular frequency 3.35 rad/s, find maximum speed.",
+    "options": [
+      "6.97 m/s",
+      "4.36 m/s",
+      "3.48 m/s",
+      "1.74 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "v_max=ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-112",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle moves in a circle at 12.5 m/s with radius 6.06 m. Centripetal acceleration?",
+    "options": [
+      "32.23 m/s²",
+      "25.78 m/s²",
+      "12.89 m/s²",
+      "51.56 m/s²"
+    ],
+    "answer_index": 1,
+    "explanation": "a_c=v²/R."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-113",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 2.02 Hz. Find its period.",
+    "options": [
+      "0.495 s",
+      "0.2475 s",
+      "0.99 s",
+      "0.6188 s"
+    ],
+    "answer_index": 0,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-114",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 1.06 m and angular frequency 3.4 rad/s, find maximum speed.",
+    "options": [
+      "1.8 m/s",
+      "7.21 m/s",
+      "4.5 m/s",
+      "3.6 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "v_max=ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-115",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle moves in a circle at 12.75 m/s with radius 6.18 m. Centripetal acceleration?",
+    "options": [
+      "52.6 m/s²",
+      "32.88 m/s²",
+      "26.3 m/s²",
+      "13.15 m/s²"
+    ],
+    "answer_index": 2,
+    "explanation": "a_c=v²/R."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-116",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 2.06 Hz. Find its period.",
+    "options": [
+      "0.6062 s",
+      "0.485 s",
+      "0.2425 s",
+      "0.97 s"
+    ],
+    "answer_index": 1,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-117",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 1.08 m and angular frequency 3.45 rad/s, find maximum speed.",
+    "options": [
+      "3.73 m/s",
+      "1.86 m/s",
+      "7.45 m/s",
+      "4.66 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "v_max=ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-118",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle moves in a circle at 13 m/s with radius 6.3 m. Centripetal acceleration?",
+    "options": [
+      "13.41 m/s²",
+      "53.66 m/s²",
+      "33.54 m/s²",
+      "26.83 m/s²"
+    ],
+    "answer_index": 3,
+    "explanation": "a_c=v²/R."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-119",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 2.1 Hz. Find its period.",
+    "options": [
+      "0.952 s",
+      "0.595 s",
+      "0.476 s",
+      "0.238 s"
+    ],
+    "answer_index": 2,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-120",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 1.1 m and angular frequency 3.5 rad/s, find maximum speed.",
+    "options": [
+      "4.81 m/s",
+      "3.85 m/s",
+      "1.93 m/s",
+      "7.7 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "v_max=ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-121",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle moves in a circle at 13.25 m/s with radius 6.42 m. Centripetal acceleration?",
+    "options": [
+      "27.35 m/s²",
+      "13.68 m/s²",
+      "54.7 m/s²",
+      "34.19 m/s²"
+    ],
+    "answer_index": 0,
+    "explanation": "a_c=v²/R."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-122",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 2.14 Hz. Find its period.",
+    "options": [
+      "0.2335 s",
+      "0.934 s",
+      "0.5837 s",
+      "0.467 s"
+    ],
+    "answer_index": 3,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-123",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 1.12 m and angular frequency 3.55 rad/s, find maximum speed.",
+    "options": [
+      "7.95 m/s",
+      "4.97 m/s",
+      "3.98 m/s",
+      "1.99 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "v_max=ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-124",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle moves in a circle at 13.5 m/s with radius 6.54 m. Centripetal acceleration?",
+    "options": [
+      "34.84 m/s²",
+      "27.87 m/s²",
+      "13.94 m/s²",
+      "55.74 m/s²"
+    ],
+    "answer_index": 1,
+    "explanation": "a_c=v²/R."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-125",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 2.18 Hz. Find its period.",
+    "options": [
+      "0.459 s",
+      "0.2295 s",
+      "0.918 s",
+      "0.5737 s"
+    ],
+    "answer_index": 0,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-126",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 1.14 m and angular frequency 3.6 rad/s, find maximum speed.",
+    "options": [
+      "2.05 m/s",
+      "8.21 m/s",
+      "5.13 m/s",
+      "4.1 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "v_max=ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-127",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle moves in a circle at 13.75 m/s with radius 6.66 m. Centripetal acceleration?",
+    "options": [
+      "56.78 m/s²",
+      "35.49 m/s²",
+      "28.39 m/s²",
+      "14.2 m/s²"
+    ],
+    "answer_index": 2,
+    "explanation": "a_c=v²/R."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-128",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 2.22 Hz. Find its period.",
+    "options": [
+      "0.5625 s",
+      "0.45 s",
+      "0.225 s",
+      "0.9 s"
+    ],
+    "answer_index": 1,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-129",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 1.16 m and angular frequency 3.65 rad/s, find maximum speed.",
+    "options": [
+      "4.23 m/s",
+      "2.12 m/s",
+      "8.47 m/s",
+      "5.29 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "v_max=ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-130",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle moves in a circle at 14 m/s with radius 6.78 m. Centripetal acceleration?",
+    "options": [
+      "14.46 m/s²",
+      "57.82 m/s²",
+      "36.14 m/s²",
+      "28.91 m/s²"
+    ],
+    "answer_index": 3,
+    "explanation": "a_c=v²/R."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-131",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 2.26 Hz. Find its period.",
+    "options": [
+      "0.884 s",
+      "0.5525 s",
+      "0.442 s",
+      "0.221 s"
+    ],
+    "answer_index": 2,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-132",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 1.18 m and angular frequency 3.7 rad/s, find maximum speed.",
+    "options": [
+      "5.46 m/s",
+      "4.37 m/s",
+      "2.18 m/s",
+      "8.73 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "v_max=ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-133",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle moves in a circle at 14.25 m/s with radius 6.9 m. Centripetal acceleration?",
+    "options": [
+      "29.43 m/s²",
+      "14.71 m/s²",
+      "58.86 m/s²",
+      "36.79 m/s²"
+    ],
+    "answer_index": 0,
+    "explanation": "a_c=v²/R."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-134",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 2.3 Hz. Find its period.",
+    "options": [
+      "0.2175 s",
+      "0.87 s",
+      "0.5437 s",
+      "0.435 s"
+    ],
+    "answer_index": 3,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-135",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 1.2 m and angular frequency 3.75 rad/s, find maximum speed.",
+    "options": [
+      "9 m/s",
+      "5.63 m/s",
+      "4.5 m/s",
+      "2.25 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "v_max=ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-136",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle moves in a circle at 14.5 m/s with radius 7.02 m. Centripetal acceleration?",
+    "options": [
+      "37.44 m/s²",
+      "29.95 m/s²",
+      "14.97 m/s²",
+      "59.9 m/s²"
+    ],
+    "answer_index": 1,
+    "explanation": "a_c=v²/R."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-137",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 2.34 Hz. Find its period.",
+    "options": [
+      "0.427 s",
+      "0.2135 s",
+      "0.854 s",
+      "0.5337 s"
+    ],
+    "answer_index": 0,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-138",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 1.22 m and angular frequency 3.8 rad/s, find maximum speed.",
+    "options": [
+      "2.32 m/s",
+      "9.27 m/s",
+      "5.79 m/s",
+      "4.64 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "v_max=ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-139",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle moves in a circle at 14.75 m/s with radius 7.14 m. Centripetal acceleration?",
+    "options": [
+      "60.94 m/s²",
+      "38.09 m/s²",
+      "30.47 m/s²",
+      "15.23 m/s²"
+    ],
+    "answer_index": 2,
+    "explanation": "a_c=v²/R."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-140",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 2.38 Hz. Find its period.",
+    "options": [
+      "0.525 s",
+      "0.42 s",
+      "0.21 s",
+      "0.84 s"
+    ],
+    "answer_index": 1,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-141",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 1.24 m and angular frequency 3.85 rad/s, find maximum speed.",
+    "options": [
+      "4.77 m/s",
+      "2.39 m/s",
+      "9.55 m/s",
+      "5.97 m/s"
+    ],
+    "answer_index": 0,
+    "explanation": "v_max=ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-142",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle moves in a circle at 15 m/s with radius 7.26 m. Centripetal acceleration?",
+    "options": [
+      "15.49 m/s²",
+      "61.98 m/s²",
+      "38.74 m/s²",
+      "30.99 m/s²"
+    ],
+    "answer_index": 3,
+    "explanation": "a_c=v²/R."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-143",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 2.42 Hz. Find its period.",
+    "options": [
+      "0.826 s",
+      "0.5162 s",
+      "0.413 s",
+      "0.2065 s"
+    ],
+    "answer_index": 2,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-144",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 1.26 m and angular frequency 3.9 rad/s, find maximum speed.",
+    "options": [
+      "6.14 m/s",
+      "4.91 m/s",
+      "2.46 m/s",
+      "9.83 m/s"
+    ],
+    "answer_index": 1,
+    "explanation": "v_max=ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-145",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle moves in a circle at 15.25 m/s with radius 7.38 m. Centripetal acceleration?",
+    "options": [
+      "31.51 m/s²",
+      "15.76 m/s²",
+      "63.02 m/s²",
+      "39.39 m/s²"
+    ],
+    "answer_index": 0,
+    "explanation": "a_c=v²/R."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-146",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 2.46 Hz. Find its period.",
+    "options": [
+      "0.2035 s",
+      "0.814 s",
+      "0.5087 s",
+      "0.407 s"
+    ],
+    "answer_index": 3,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-147",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 1.28 m and angular frequency 3.95 rad/s, find maximum speed.",
+    "options": [
+      "10.11 m/s",
+      "6.32 m/s",
+      "5.06 m/s",
+      "2.53 m/s"
+    ],
+    "answer_index": 2,
+    "explanation": "v_max=ωA."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-148",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Foundation",
+    "source_type": "Original IMAT-style",
+    "stem": "A particle moves in a circle at 15.5 m/s with radius 7.5 m. Centripetal acceleration?",
+    "options": [
+      "40.04 m/s²",
+      "32.03 m/s²",
+      "16.02 m/s²",
+      "64.06 m/s²"
+    ],
+    "answer_index": 1,
+    "explanation": "a_c=v²/R."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-149",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Standard",
+    "source_type": "Original IMAT-style",
+    "stem": "An oscillator has frequency 2.5 Hz. Find its period.",
+    "options": [
+      "0.4 s",
+      "0.2 s",
+      "0.8 s",
+      "0.5 s"
+    ],
+    "answer_index": 0,
+    "explanation": "T=1/f."
+  },
+  {
+    "id": "IMAT-PHY-CIRCULAR-HARMONIC-150",
+    "exam": "IMAT",
+    "subject": "Physics",
+    "unit": "Kinematics",
+    "subtopic": "Circular & Harmonic Motion",
+    "difficulty": "Challenge",
+    "source_type": "Original IMAT-style",
+    "stem": "For SHM with amplitude 1.3 m and angular frequency 4 rad/s, find maximum speed.",
+    "options": [
+      "2.6 m/s",
+      "10.4 m/s",
+      "6.5 m/s",
+      "5.2 m/s"
+    ],
+    "answer_index": 3,
+    "explanation": "v_max=ωA."
+  }
+]
